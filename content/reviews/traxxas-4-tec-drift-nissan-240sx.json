@@ -1,0 +1,560 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "4-Tec Drift Nissan 240SX",
+  "modelSlug": "4-tec-drift-nissan-240sx",
+  "headlineLines": [
+    "NISSAN 240SX",
+    "4-TEC DRIFT."
+  ],
+  "sku": "105247-4",
+  "title": "Traxxas 4-Tec Drift Nissan 240SX review: a proper first step sideways?",
+  "dek": "A complete RWD drift car with an S13 shell, adjustable driving assistance and two tire compounds. Here’s what you’re buying, what you still need, and where the compromises show up.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Drift car",
+  "use": "Drifting",
+  "terrain": [
+    "On-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "RWD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "First-time casual drifter",
+  "price": {
+    "amount": 299.95,
+    "currency": "USD",
+    "basis": "Traxxas US listed price · car only",
+    "checked": "2026-10-13",
+    "source": "https://traxxas.com/4-tec-drift-nissan-240sx-105247-4"
+  },
+  "image": "traxxas-nissan-240sx-front.jpg",
+  "imageAlt": "Official Traxxas photograph of the black 4-Tec Drift Nissan 240SX, model 105247-4",
+  "imageCaption": "Black Nissan 240SX, model 105247-4. Official product photograph: Traxxas.",
+  "imageCredit": {
+    "name": "Traxxas official product photography",
+    "url": "https://traxxas.com/4-tec-drift-nissan-240sx-105247-4",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "I look at the whole purchase: the car, the place you’ll drive it, and the equipment you need to get started. This review uses manufacturer documentation, Amazon API product verification and attributed independent coverage. It is not a personal drive test."
+  },
+  "overview": "My take: this is a sensible first casual RWD drifter if you want the electronics and body sorted before you start. The strongest parts of the package are its adjustable assistance, included wireless module and tire options. The catch is the all-in cost: battery and charger are extra, and a dedicated club driver should check track expectations before buying.",
+  "verdict": "A strong first casual drifter",
+  "verdictText": "Buy it for an approachable complete-car package and the licensed S13 look. Compare track-focused alternatives before buying it for regular tandem sessions. Plan for a battery and charger, and treat the optional steering kit as a setup job—not a factory-installed feature.",
+  "pros": [
+    "Complete car with licensed clipless Nissan 240SX body",
+    "TSM Drift assistance and included Bluetooth module",
+    "Hard and soft drift tire sets included",
+    "75° steering available with the supplied conversion kit"
+  ],
+  "cons": [
+    "Battery, charger and four transmitter AA cells are extra",
+    "Brushed motor and stock servo may limit the upgrade path you want",
+    "Maximum steering angle requires installing and setting up the kit",
+    "Tire and control setup still need to suit the driving surface"
+  ],
+  "bestFor": [
+    "Your first casual RWD drift car",
+    "Drivers who want assistance they can adjust",
+    "S13 fans who want a finished body without a painting project"
+  ],
+  "avoidIf": [
+    "You want one car for gravel, grass and jumps",
+    "You require a sensored brushless power system from day one",
+    "Your local drift track recommends a different platform or electronics package"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "RWD · 1/10"
+    ],
+    [
+      "Motor",
+      "Titan Drift 21T 550 · brushed"
+    ],
+    [
+      "Radio / assistance",
+      "TQi 3-channel · TSM Drift"
+    ],
+    [
+      "Steering",
+      "75° with included conversion kit"
+    ],
+    [
+      "Battery",
+      "NiMH or 2S LiPo · sold separately"
+    ],
+    [
+      "Format",
+      "Complete RTR car · SKU 105247-4"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First-time casual RWD drift buyer",
+    "disclosure": "Our score evaluates the documented package and buyer fit. It is not a measured handling, speed, durability or reliability result. Five equally weighted category scores produce the overall rating.",
+    "dimensions": [
+      {
+        "label": "Beginner package",
+        "score": 8.5,
+        "reason": "The assembled car, finished shell, fitted radio and adjustable assistance reduce the number of decisions before your first session."
+      },
+      {
+        "label": "Drift equipment",
+        "score": 8,
+        "reason": "RWD, a rear spool, two tire compounds and a supplied high-angle kit form a coherent casual drift package; maximum angle is not fitted out of the box."
+      },
+      {
+        "label": "Adjustment range",
+        "score": 8,
+        "reason": "The manual and product page document mechanical geometry adjustments and multiple assistance modes. These are useful tools, not proof of a competition advantage."
+      },
+      {
+        "label": "Service access",
+        "score": 8,
+        "reason": "Clipless body access, an open chassis layout, model-specific instructions and exploded drawings make the maintenance process easier to understand. Local parts stock was not measured."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 6.5,
+        "reason": "The car alone is $299.95 at this check; the manufacturer’s battery/charger bundle brings the example total to $429.90 before AA cells, tax and shipping."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0H88LPTT1",
+    "marketplace": "www.amazon.com",
+    "variant": "Black · complete car",
+    "sku": "105247-4",
+    "detailPageUrl": "https://www.amazon.com/dp/B0H88LPTT1?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T22:14:02.837Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "The first slide should be the beginning, not the shopping list.",
+      "paragraphs": [
+        "An S13 body gets your attention. The more useful question is what happens after the box arrives. Do you have a complete car to set up, or a pile of decisions about a radio, servo, gyro, motor and shell? The 4-Tec Drift Nissan 240SX leans hard toward the first option. For someone entering RC drifting, that is a meaningful part of its appeal.",
+        "This review covers model 105247-4, the rear-wheel-drive, brushed drift car. That model number matters. Amazon’s API also returned a brushless Nissan 240SX touring car and several replacement shells in the same search. They share a body style, but they are different purchases. The affiliate link in the product box is verified against the complete-car SKU, not chosen because the title happens to say Nissan.",
+        "My recommendation is aimed at casual RWD drifting: learning a consistent circle, joining two corners and finding out whether you enjoy the discipline. The Traxxas package makes sense for that buyer. A driver shopping for a specific club, control feel or electronics ecosystem should start with those requirements and work back to the car. That distinction matters more than the paint color."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "What’s in the box",
+      "heading": "RTR is useful. It still doesn’t mean every battery is included.",
+      "paragraphs": [
+        "The assembled vehicle comes with its Nissan body, steering servo, XL-5 speed controller, Titan Drift motor and TQi radio. The wireless module is included, too. That is important because a useful-looking app feature is much less compelling when another purchase sits between you and using it.",
+        "Traxxas lists soft-compound front and rear tires and the optional High-Angle Steering Kit in the box. The product’s features also specify both hard and soft drift compounds. The tire choice gives you a starting point for different surfaces; the steering kit gives you an additional setup step when you are ready. Neither item makes every setup correct automatically.",
+        "You still need a drive battery, a compatible charger and four AA alkaline cells for the transmitter. If you already own suitable equipment, this can be a relatively short route to a running car. If you do not, compare complete baskets rather than car-only prices. A cheap battery with the wrong dimensions or connector is not a saving."
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Choose a suitable NiMH or 2S LiPo pack and the correct charging equipment.",
+          "Check physical pack dimensions and connector compatibility.",
+          "Install four AA cells in the transmitter.",
+          "Follow the owner manual’s startup, battery-type and control checks.",
+          "Choose the supplied tire compound that suits your surface."
+        ]
+      },
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "RWD and brushed power",
+      "heading": "Rear-wheel drive changes the buying case.",
+      "paragraphs": [
+        "The driven wheels are at the rear, and the rear axle uses a spool. Mechanically, a spool makes the rear wheels turn together instead of allowing them to differentiate through a corner. The practical implication is a consistent rear-drive arrangement for breaking traction and managing it with steering and throttle. This is a different mechanical starting point from a shaft-driven 4WD touring car fitted with slippery tires.",
+        "The Titan Drift 21T 550 is a brushed motor paired with a brushed XL-5 controller. Do not confuse it with a VXL or another brushless 4-Tec. The reason to buy this package is its equipment and accessibility, rather than an expectation of premium sensored-brushless response. Whether its stock delivery suits you is a question a drive or demonstration can answer better than a motor label.",
+        "For a first purchase, I would budget for the required power equipment and spend time on tire and assistance setup before planning a power-system replacement. If a sensored brushless system is already a non-negotiable requirement, price a car sold with that specification. Paying for stock electronics and then immediately replacing them changes the value calculation.",
+        "The motor also deserves a sensible first session. The owner manual recommends a short break-in using the stock pinion, smooth acceleration and a flat paved surface for the first battery pack. I would follow that recommendation before a session of repeated hard launches. It is a more useful first step than buying taller gearing to chase a speed figure.",
+        "I would also resist using a headline speed as the deciding factor here. The useful buying question is how repeatably you can place the car, not whether it wins a straight-line drag race. We have not measured top speed, motor temperature or runtime, and this review does not assign numbers to those unknowns."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "TSM, gyro and handbrake",
+      "heading": "Assistance is a tool. Learn what it is helping you do.",
+      "paragraphs": [
+        "The default TSM Drift profile helps with both steering and throttle. Steering Reflex changes the share of steering assistance, while Throttle Reflex changes throttle intervention. The manual describes Spin-Out Assist as a quick throttle reduction combined with maximum steering correction when it detects an impending spin. For a beginner, the useful distinction is that assistance can affect rear-wheel speed as well as where the wheels point.",
+        "The buyer benefit is a way to change how much the electronics intervene as your confidence develops. My suggested approach is to establish a repeatable basic maneuver with the recommended starting configuration, then change one assistance setting at a time. If you alter tires, steering geometry and control behavior together, you will struggle to tell which change helped.",
+        "There are two different kinds of modes to keep straight. Drift/TSM/Gyro describe the assistance system. Sport/Race/Training describe the XL-5 drive profiles. Training limits forward and reverse power to 50 percent; that does not mean the car is in a different drift-assistance mode. Keeping the categories separate makes the instructions easier to follow.",
+        "Traxxas also lists an electronic handbrake, which is another way to initiate a slide. Treat it as a control to learn after you can repeat a basic turn, rather than a substitute for choosing a suitable surface and tires. RC Driver’s February 2026 coverage of this exact Nissan model includes parking-lot driving, steering options and the handbrake. That supports its place on a casual-buyer shortlist; it does not supply a long-term reliability record."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        7
+      ],
+      "table": {
+        "caption": "Three assistance profiles—and what each one actually changes",
+        "columns": [
+          "Assistance profile",
+          "What the manual says it controls",
+          "Why the distinction matters"
+        ],
+        "rows": [
+          [
+            "TSM Drift · default",
+            "Electronic steering and throttle assistance; adjustable reflex settings and spinout assistance",
+            "The system can intervene in both steering and rear-wheel speed"
+          ],
+          [
+            "TSM",
+            "Steering assistance without electronic throttle input",
+            "More throttle responsibility remains with the driver"
+          ],
+          [
+            "Gyro",
+            "Traditional drift-gyro behavior with adjustable gain",
+            "A different assistance approach, rather than another motor-power level"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "steering",
+      "nav": "The 75° steering kit",
+      "heading": "Read the small print behind the big steering number.",
+      "paragraphs": [
+        "The important phrase is with the included High-Angle Steering Kit. Traxxas specifies 75 degrees for that conversion. The kit is supplied as an optional installation, so the maximum-angle headline should not be read as the factory configuration of a freshly opened box.",
+        "There is also an electronic limit to understand. The owner manual says the factory steering-angle setting is 50 percent. The transmitter’s Multi-Function knob adjusts the driver’s steering input limit; it does not remove TSM’s access to the full mechanical range. That is a separate setting from fitting the steering conversion. If the car pushes straight ahead with the wheels turned, the manual recommends reducing the steering-angle setting before adding more.",
+        "More steering range can give a RWD drift car more room to countersteer at a large slide angle. It does not, by itself, guarantee an easier car. Tire contact, suspension settings, servo endpoints and electronic assistance still interact. A large number printed next to a wheel is not a shortcut around setup.",
+        "Use the model’s actual installation instructions when fitting the kit and repeat the prescribed steering setup afterward. Check movement through the full travel before driving; do not let the servo fight a mechanical stop. If changing geometry is not your idea of a relaxed first evening, start with the supplied configuration and treat the conversion as a separate workbench session.",
+        "The chassis also offers adjustments for droop, camber, toe, Ackermann, track and roll center. That is enough to turn a casual car into a useful learning project. My advice is to keep notes and return to a known baseline when a change makes it worse. Buying adjustability is easy; using it patiently is where the benefit appears."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and driving surface",
+      "heading": "Your floor is part of the setup.",
+      "paragraphs": [
+        "The Amazon API’s matching product record distinguishes hard drift tires for pavement or cement from soft tires for smooth, polished surfaces. That is a useful starting recommendation, not a promise that either set will suit every parking lot or indoor track. A dusty floor and a clean floor can be very different places to drive.",
+        "Choose a clean, smooth area where you are allowed to run the car. Remove loose debris and give yourself space away from curbs. The manufacturer lists only 12 mm of center ground clearance, which helps explain why this belongs on an on-road shortlist rather than one for grass, gravel or jumps.",
+        "At an organized drift venue, ask about the required tire before buying another set. A track can prescribe its own tire to keep grip and pace consistent. The fact that two compounds are included is an advantage for exploration, but it does not establish club eligibility.",
+        "Work from circles to linked turns and change one variable at a time. If a car suddenly feels inconsistent, check the surface and tires before reaching for the app. I would rather have one predictable practice area than a drawer of upgrades purchased to solve a problem I have not identified."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service access",
+      "heading": "The S13 is the hook. Access is the everyday benefit.",
+      "paragraphs": [
+        "The licensed Nissan shell includes molded exterior details and hidden clipless latches. It gives the car a finished presentation without asking you to trim and paint a clear body first. For a buyer who wants to drive rather than begin with a body project, that is equipment with a practical value.",
+        "Clipless access matters because getting to the battery and chassis is a routine part of ownership. The official chassis photo shows the layout you will be working around, and Traxxas provides model-specific documentation and exploded drawings. Those resources help you understand the vehicle; they do not establish that every replacement item is stocked at your nearest shop.",
+        "Treat the shell’s mirrors, splitter and spoiler as exposed details when choosing where to practice. We have no crash test or long-term wear log for this model, so I would not call it indestructible or put a durability score beside its looks. Inspect the body fit, wheel security, steering movement and debris buildup after a session.",
+        "Waterproof electronics are also not permission to ignore drying and inspection. Follow the manual’s water-use and maintenance instructions. For drifting practice, a predictable dry surface is the more useful starting point than testing how wet the hardware can get."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "The complete startup cost",
+      "heading": "The number that matters is the cost of your first usable session.",
+      "paragraphs": [
+        "At this check, the manufacturer lists the car at $299.95, and the Amazon Creators API returned the same amount for the verified black complete-car ASIN. The Amazon product box shows a timestamped offer only while the snapshot is less than 24 hours old. Once it expires, the button still leads to the exact product, but the page asks you to check the live price.",
+        "Traxxas also lists the 2992 2S LiPo battery-and-charger completer at $129.95. Using that particular bundle makes the arithmetic $299.95 + $129.95 = $429.90 before transmitter batteries, tax and shipping. This is an illustrative manufacturer-based basket, not a claim that this bundle is your only compatible option or the cheapest one.",
+        "If you already own a suitable battery and charger, do not buy them again just to follow an example. Check the pack’s chemistry, voltage, connector and dimensions. The listed battery compartment is 174 × 48 mm, with 23 or 26 mm height accommodation. Capacity alone will not tell you whether a pack fits.",
+        "Keep optional lighting and cosmetic purchases out of the initial comparison. First pay for a correctly equipped car and a place to use it. If you already know that you want different radio electronics, a new servo and brushless power, write that total down before choosing the Traxxas. The appealing price on the car’s box is not the final answer."
+      ],
+      "table": {
+        "caption": "Example US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Reference price",
+          "Included or extra?"
+        ],
+        "rows": [
+          [
+            "Complete 105247-4 car",
+            "$299.95",
+            "Car, body and fitted electronics"
+          ],
+          [
+            "Traxxas 2992 battery/charger completer",
+            "$129.95",
+            "Extra; one manufacturer-listed option"
+          ],
+          [
+            "Example subtotal",
+            "$429.90",
+            "Before four AA cells, tax and shipping"
+          ],
+          [
+            "Already-own-equipment route",
+            "Your compatible equipment",
+            "Verify voltage, connector and physical fit"
+          ]
+        ]
+      },
+      "sourceIndexes": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Which car should you buy?",
+      "heading": "Compare cars that solve the same problem.",
+      "paragraphs": [
+        "The useful alternative is not always the model with the lowest advertised chassis price. A complete RTR, a body-inclusive assembly kit and a bare chassis ask you to supply different things. Keep the scope of each purchase visible before comparing totals.",
+        "The MST RMX 2.5 RTR brushless is worth a place on a shortlist when you prefer a brushless RWD package. Its official page identifies the included servo and gyro. Check the precise body, electronics and local package contents; RMX variants should not be treated as interchangeable. We have not run a head-to-head test against the Nissan.",
+        "The Tamiya NISMO R34 GT-R Z-tune 58605 is a body-inclusive assembly kit on a 4WD TT-02D. It is a different proposition: choose it when the assembly and finishing work appeal to you. It is not an equivalent shortcut into an assembled RWD package, and its electronics completion requirements deserve their own budget.",
+        "For a track-focused purchase, ask what platforms people actually run at your intended venue and what tires they use. Local setup help can be more useful than another impressive feature list. My preference for the Traxxas here is about an accessible casual package, not a claimed win over every other drift car."
+      ],
+      "table": {
+        "caption": "Three buying routes, with no invented head-to-head results",
+        "columns": [
+          "Car",
+          "Purchase format",
+          "Why consider it?"
+        ],
+        "rows": [
+          [
+            "Traxxas 4-Tec Drift Nissan 240SX",
+            "Assembled RWD RTR; battery/charger extra",
+            "Finished S13 body and adjustable assistance"
+          ],
+          [
+            "MST RMX 2.5 RTR brushless",
+            "RWD RTR; verify exact variant",
+            "A brushless package with listed servo and gyro"
+          ],
+          [
+            "Tamiya NISMO R34 58605",
+            "4WD body-inclusive assembly kit",
+            "The build and body finishing are part of the appeal"
+          ]
+        ]
+      },
+      "sourceIndexes": [
+        0,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The final verdict",
+      "heading": "Buy the package that helps you get started—and keep driving.",
+      "paragraphs": [
+        "The 4-Tec Drift Nissan 240SX earns a 7.8/10 editorial buying assessment for a first-time casual RWD drift buyer. The score comes from five equally weighted categories: beginner package, drift equipment, adjustment range, service access and complete-purchase value. It is a judgment about the documented purchase, not the result of timed laps, a crash test or a reliability survey.",
+        "The strongest argument is how much of the project is already coordinated: a finished Nissan shell, an assembled RWD chassis, radio equipment, adjustable assistance, two tire compounds and a steering conversion to explore later. The biggest reservation is what happens to value when you add the required power equipment—or immediately replace the stock electronics.",
+        "I would shortlist it for casual practice and a first step into RWD drifting, especially if the S13 is the body you want. I would arrange a demo and compare exact alternatives before ordering it for regular club tandem driving. For rough-ground bashing, I would change the vehicle category entirely.",
+        "A good first drift car is one you can equip correctly, use in a suitable place and learn methodically. This Traxxas has a credible case on those terms. Buy it with a complete budget and realistic expectations, and leave the upgrade shopping until you know which problem you are trying to solve."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-nissan-240sx-chassis.jpg",
+      "alt": "Traxxas annotated overview of the Nissan 240SX RWD chassis, with the motor, battery tray, shocks and steering visible",
+      "caption": "Official Traxxas chassis overview. The markers belong to the manufacturer’s interactive guide; follow the source link for those details.",
+      "source": "https://traxxas.com/4-tec-drift-nissan-240sx-105247-4"
+    },
+    {
+      "image": "traxxas-nissan-240sx-dimensions.jpg",
+      "alt": "Official side-view dimensions graphic showing a 467 mm long Nissan 240SX with 257 mm wheelbase",
+      "caption": "Official dimension illustration: 467 mm overall length and 257 mm wheelbase.",
+      "source": "https://traxxas.com/4-tec-drift-nissan-240sx-105247-4"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "Traxxas 105247-4 · black complete car"
+    ],
+    [
+      "Amazon ASIN",
+      "B0H88LPTT1 · verified by Creators API"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/10 · rear-wheel drive"
+    ],
+    [
+      "Format",
+      "RTR · assembled car, fitted electronics and body"
+    ],
+    [
+      "Motor",
+      "Titan Drift 21T 550 · brushed"
+    ],
+    [
+      "Speed controller",
+      "XL-5 brushed · low-voltage detection"
+    ],
+    [
+      "Radio",
+      "TQi 2.4 GHz · 3-channel transmitter"
+    ],
+    [
+      "Wireless module",
+      "Included · Traxxas Link"
+    ],
+    [
+      "Steering servo",
+      "2075 digital high-torque servo"
+    ],
+    [
+      "Maximum quoted steering angle",
+      "75° with included High-Angle Steering Kit installed"
+    ],
+    [
+      "Rear differential arrangement",
+      "Spool · direct drive, no slipper clutch"
+    ],
+    [
+      "Suspension",
+      "Adjustable oil-filled Ultra Shocks"
+    ],
+    [
+      "Tires",
+      "Hard and soft drift compounds supplied"
+    ],
+    [
+      "Length / width / height",
+      "467 / 216 / 131 mm"
+    ],
+    [
+      "Wheelbase / front and rear track",
+      "257 mm / 200 mm"
+    ],
+    [
+      "Center ground clearance",
+      "12 mm"
+    ],
+    [
+      "Battery compartment",
+      "174 × 48 × 23 or 26 mm"
+    ],
+    [
+      "Drive battery",
+      "Suitable NiMH or 2S LiPo · sold separately"
+    ],
+    [
+      "Charger / transmitter batteries",
+      "Sold separately · four AA alkaline cells required"
+    ],
+    [
+      "Weight publication note",
+      "Manufacturer lists 1.30 kg alongside 2.28 lb; those units do not agree. Weight is not used in this rating."
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the same as the brushless Nissan 240SX 4-Tec touring car?",
+      "answer": "No. This review and affiliate link identify 105247-4, the brushed RWD drift car. A brushless touring variant can appear in the same search. Verify the model number and drivetrain before buying."
+    },
+    {
+      "question": "Does the maximum 75° steering angle come fitted?",
+      "answer": "The manufacturer associates 75° with the included optional High-Angle Steering Kit. Installation and setup are required for that configuration; do not assume the headline angle is the factory setting."
+    },
+    {
+      "question": "Does the RTR package include a battery and charger?",
+      "answer": "No. The manufacturer requires a suitable NiMH or 2S LiPo drive battery, charger and four AA transmitter cells. Confirm connector and physical pack fit before ordering."
+    },
+    {
+      "question": "Is it suitable for grass, gravel or jumps?",
+      "answer": "It is an on-road drift car with a listed 12 mm center ground clearance. Our buying recommendation is clean, smooth driving space. Choose another vehicle category for rough-ground bashing."
+    },
+    {
+      "question": "Can I use it at an indoor drift track?",
+      "answer": "Check the venue’s required tires and rules, and ask whether its staff can help with this platform. RWD and a drift label do not automatically guarantee that the stock setup matches your track."
+    },
+    {
+      "question": "Is 7.8/10 a hands-on test score or an Amazon star rating?",
+      "answer": "Neither. It is RC Car King’s editorial assessment of the documented package for a first-time casual drifter. We disclose the five category scores and their reasoning. We have not physically tested this model."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · exact 105247-4 product, specs, features and contents",
+      "url": "https://traxxas.com/4-tec-drift-nissan-240sx-105247-4",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Traxxas · 105247-4 English owner manual, revision R01",
+      "url": "https://traxxas.com/media/productattach/C-105247-4/2/105247-4-Nissan%20240SX%20Drift%20Car-OM-EN-R01%20.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Traxxas · High-Angle Steering Kit installation instructions",
+      "url": "https://traxxas.com/media/productattach/C-105247-4/8/KC25153-R01-10524%20Nissan-Drift-Steering-Kit-INST-WEB-EN.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer instructions"
+    },
+    {
+      "name": "Amazon Creators API · GetItems verified black car B0H88LPTT1",
+      "url": "https://www.amazon.com/dp/B0H88LPTT1?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "Traxxas · 2992 battery-and-charger completer",
+      "url": "https://traxxas.com/2992-2s-lipo-completer-w-ez-peak-charger",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer price reference"
+    },
+    {
+      "name": "MST · RMX 2.5 RTR brushless product specification",
+      "url": "https://www.rc-mst.com/product_car_info.php?class_sn=1&class_sn2=165&sn=3928",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    },
+    {
+      "name": "Tamiya · body-inclusive NISMO R34 58605 assembly kit",
+      "url": "https://www.tamiya.com/english/products/58605/index.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    },
+    {
+      "name": "RC Driver · Nissan 240SX overview and independent driving video",
+      "url": "https://www.rcdriver.com/traxxas-nissan-240sx-drift-car/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    }
+  ],
+  "evidenceNote": "Manufacturer documentation establishes the listed hardware and setup requirements. Amazon Creators API verifies the exact complete-car listing, variant and offer. RC Driver supplies independent coverage of the same Nissan model; its driving is not our driving. We do not carry earlier Mustang or 4WD touring-car test results across to this model. Weight figures conflict in the manufacturer table, so weight is flagged rather than silently corrected.",
+  "revisionNote": "13 October 2026: published the complete-car review, product box, editorial rating rubric, exact Amazon API match and attributed official product images."
+}

@@ -3,43 +3,156 @@
   "brandSlug": "tamiya",
   "model": "TT-02D Drift Spec",
   "modelSlug": "tt-02d",
-  "headlineLines": ["TT-02D", "DRIFT SPEC."],
+  "headlineLines": [
+    "TT-02D",
+    "DRIFT SPEC."
+  ],
   "sku": "58584",
   "title": "Tamiya TT-02D review: a drift project for the builder",
   "dek": "A classic 4WD chassis with drift hardware in the box. A satisfying starting point for a build — if you budget beyond the kit.",
   "published": "2026-10-12",
   "updated": "2026-10-12",
-  "status": "published",
+  "status": "draft",
   "reviewType": "Specification-based review",
   "handsOn": false,
   "type": "Drift car",
   "use": "Drifting",
-  "terrain": ["On-road"],
+  "terrain": [
+    "On-road"
+  ],
   "motor": "Brushed",
   "power": "Electric",
   "drive": "4WD",
   "scale": "1/10",
   "format": "Assembly kit",
   "skill": "Beginner builder",
-  "price": { "amount": 227, "currency": "USD", "basis": "US MSRP · chassis kit only", "checked": "2026-10-12", "source": "https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-tt02d-drift-spec-chassis/" },
+  "price": {
+    "amount": 227,
+    "currency": "USD",
+    "basis": "US MSRP · chassis kit only",
+    "checked": "2026-10-12",
+    "source": "https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-tt02d-drift-spec-chassis/"
+  },
   "image": "night-drift.png",
   "imageAlt": "Original illustration of an unbranded miniature drift coupe in a neon-lit Tokyo alley",
   "imageCaption": "Tokyo-night concept artwork. Not a product photograph.",
   "verdict": "For the builder",
   "verdictText": "Worth considering if the build is part of the fun. The kit price is only the start of a running car, and its 4WD layout deserves a different shopping shortlist from a dedicated RWD drift chassis.",
-  "pros": ["Drift tires, bearings and oil dampers supplied", "A project you can assemble and learn from", "A flexible chassis with adjustable dimensions"],
-  "cons": ["Electronics, body and battery add to the cost", "Assembly required before the first drive", "4WD may not match your local drift club's format"],
+  "pros": [
+    "Drift tires, bearings and oil dampers supplied",
+    "A project you can assemble and learn from",
+    "A flexible chassis with adjustable dimensions"
+  ],
+  "cons": [
+    "Electronics, body and battery add to the cost",
+    "Assembly required before the first drive",
+    "4WD may not match your local drift club's format"
+  ],
   "specs": [
-    ["Scale", "1/10"], ["Drive", "Shaft-driven 4WD"], ["Motor", "Type 540 Sport-Tuned · brushed"], ["Format", "Assembly kit · SKU 58584"], ["Terrain", "On-road"], ["Wheelbase", "257 / 251 mm"], ["Width", "182 / 190 mm"], ["Length", "376 mm"], ["Suspension", "Double wishbone · CVA oil dampers"], ["Bearings", "Full ball bearings"], ["Tires", "24 mm drift tires"], ["ESC", "Confirm local kit contents with seller"]
+    [
+      "Scale",
+      "1/10"
+    ],
+    [
+      "Drive",
+      "Shaft-driven 4WD"
+    ],
+    [
+      "Motor",
+      "Type 540 Sport-Tuned · brushed"
+    ],
+    [
+      "Format",
+      "Assembly kit · SKU 58584"
+    ],
+    [
+      "Terrain",
+      "On-road"
+    ],
+    [
+      "Wheelbase",
+      "257 / 251 mm"
+    ],
+    [
+      "Width",
+      "182 / 190 mm"
+    ],
+    [
+      "Length",
+      "376 mm"
+    ],
+    [
+      "Suspension",
+      "Double wishbone · CVA oil dampers"
+    ],
+    [
+      "Bearings",
+      "Full ball bearings"
+    ],
+    [
+      "Tires",
+      "24 mm drift tires"
+    ],
+    [
+      "ESC",
+      "Confirm local kit contents with seller"
+    ]
   ],
   "sections": [
-    {"id":"overview","heading":"A chassis with a little sideways ambition.","paragraphs":["There is something appealing about choosing your own shell, building a chassis and understanding what every screw does. That is the buying case for the TT-02D. This is a project to finish, rather than a ready-to-run car to unbox.","Tamiya's specification lists shaft-driven four-wheel drive, a Sport-Tuned 540 motor, full bearings, CVA oil dampers and drift tires. The two wheelbase and width settings give you some flexibility when planning the body. Those are useful ingredients; they are not a substitute for time behind the transmitter."],"sourceIndexes":[0]},
-    {"id":"driving","heading":"Match the car to your kind of drifting.","paragraphs":["Start with the place you intend to drive. The TT-02D is classified as an on-road drift chassis. Our recommendation is a clean, smooth, dry surface with permission to run, rather than rough paths or loose ground. That is a buying inference from its format, not a measured handling result.","If your goal is club tandem drifting, ask the organizer about drivetrain requirements and track tires before buying. A 4WD kit should not be assumed to qualify for a class built around rear-wheel-drive cars. Likewise, a drift label alone does not tell you how it will behave on your local surface.","We have not driven this kit. We cannot give you a verified top speed, runtime, drift angle or durability score. Setup, surface, battery choice and the finished electronics package all matter, and those measurements belong in a future hands-on update."]},
-    {"id":"cost","heading":"The box price is not the finish line.","paragraphs":["Tamiya USA lists a $227 MSRP for SKU 58584 at the time of this review. This is a US reference price for the chassis kit, not a local shop quote or the cost of a finished car. Stock, street prices, tax and shipping can differ.","Budget for radio equipment, a steering servo, a suitable ESC, a battery and charger, and a compatible body. Confirm the exact regional kit contents with the seller: the global product page specifically asks buyers to check ESC supply with their local agent.","Write a complete shopping list before deciding whether the project is good value. Add the finishing materials and tools you need, then compare that total with a ready-to-run option available to you. A lower kit price can lose its advantage when you still need everything around it."],"sourceIndexes":[0,1]},
-    {"id":"verdict","heading":"Buy it for the build. Plan the whole car.","paragraphs":["Our verdict is conditional: the TT-02D is an interesting candidate for someone who wants to assemble an on-road drift project and make the body choice their own. Bearings, dampers and drift tires already in the specification make the kit easier to scope.","Choose another starting point if your priority is an immediate first drive, rough terrain, or a confirmed fit for a rear-wheel-drive drift class. Before ordering, confirm the complete parts list and ask your local track what is allowed.","For this specification review, we use a qualitative verdict instead of a numerical score. It reflects the fit between the published product and the buyer's goal; it does not imply a tested performance ranking."]}
+    {
+      "id": "overview",
+      "heading": "A chassis with a little sideways ambition.",
+      "paragraphs": [
+        "There is something appealing about choosing your own shell, building a chassis and understanding what every screw does. That is the buying case for the TT-02D. This is a project to finish, rather than a ready-to-run car to unbox.",
+        "Tamiya's specification lists shaft-driven four-wheel drive, a Sport-Tuned 540 motor, full bearings, CVA oil dampers and drift tires. The two wheelbase and width settings give you some flexibility when planning the body. Those are useful ingredients; they are not a substitute for time behind the transmitter."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "driving",
+      "heading": "Match the car to your kind of drifting.",
+      "paragraphs": [
+        "Start with the place you intend to drive. The TT-02D is classified as an on-road drift chassis. Our recommendation is a clean, smooth, dry surface with permission to run, rather than rough paths or loose ground. That is a buying inference from its format, not a measured handling result.",
+        "If your goal is club tandem drifting, ask the organizer about drivetrain requirements and track tires before buying. A 4WD kit should not be assumed to qualify for a class built around rear-wheel-drive cars. Likewise, a drift label alone does not tell you how it will behave on your local surface.",
+        "We have not driven this kit. We cannot give you a verified top speed, runtime, drift angle or durability score. Setup, surface, battery choice and the finished electronics package all matter, and those measurements belong in a future hands-on update."
+      ]
+    },
+    {
+      "id": "cost",
+      "heading": "The box price is not the finish line.",
+      "paragraphs": [
+        "Tamiya USA lists a $227 MSRP for SKU 58584 at the time of this review. This is a US reference price for the chassis kit, not a local shop quote or the cost of a finished car. Stock, street prices, tax and shipping can differ.",
+        "Budget for radio equipment, a steering servo, a suitable ESC, a battery and charger, and a compatible body. Confirm the exact regional kit contents with the seller: the global product page specifically asks buyers to check ESC supply with their local agent.",
+        "Write a complete shopping list before deciding whether the project is good value. Add the finishing materials and tools you need, then compare that total with a ready-to-run option available to you. A lower kit price can lose its advantage when you still need everything around it."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "heading": "Buy it for the build. Plan the whole car.",
+      "paragraphs": [
+        "Our verdict is conditional: the TT-02D is an interesting candidate for someone who wants to assemble an on-road drift project and make the body choice their own. Bearings, dampers and drift tires already in the specification make the kit easier to scope.",
+        "Choose another starting point if your priority is an immediate first drive, rough terrain, or a confirmed fit for a rear-wheel-drive drift class. Before ordering, confirm the complete parts list and ask your local track what is allowed.",
+        "For this specification review, we use a qualitative verdict instead of a numerical score. It reflects the fit between the published product and the buyer's goal; it does not imply a tested performance ranking."
+      ]
+    }
   ],
   "sources": [
-    {"name":"Tamiya global · SKU 58584 specifications and required equipment","url":"https://www.tamiya.com/english/products/58584/index.html","checked":"2026-10-12"},
-    {"name":"Tamiya USA · US MSRP and completion requirements","url":"https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-tt02d-drift-spec-chassis/","checked":"2026-10-12"}
-  ]
+    {
+      "name": "Tamiya global · SKU 58584 specifications and required equipment",
+      "url": "https://www.tamiya.com/english/products/58584/index.html",
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tamiya USA · US MSRP and completion requirements",
+      "url": "https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-tt02d-drift-spec-chassis/",
+      "checked": "2026-10-12"
+    }
+  ],
+  "archiveNote": "Chassis-only launch pilot retained in source. The publication now focuses on complete RC vehicles; replacement parts and bare chassis are deferred."
 }

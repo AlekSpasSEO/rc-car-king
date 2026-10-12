@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "provider": "Amazon Creators API",
+  "marketplace": "www.amazon.com",
+  "checkedAt": "2026-10-12T22:25:19.278Z",
+  "maxAgeHours": 24,
+  "offers": {
+    "B0H88LPTT1": {
+      "asin": "B0H88LPTT1",
+      "sku": "105247-4",
+      "brand": "Traxxas",
+      "variant": "Black · complete car",
+      "checkedAt": "2026-10-12T22:25:19.278Z",
+      "price": 299.95,
+      "currency": "USD",
+      "priceDisplay": "$299.95",
+      "availability": "IN_STOCK",
+      "seller": "TRAXXAS",
+      "detailPageUrl": "https://www.amazon.com/dp/B0H88LPTT1?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1"
+    }
+  }
+}

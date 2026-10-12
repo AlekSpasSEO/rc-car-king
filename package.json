@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "build": "node scripts/build.mjs", "check": "node scripts/check.mjs", "dev": "node scripts/serve.mjs" },
+  "scripts": { "build": "node scripts/build.mjs", "check": "node scripts/check.mjs", "dev": "node scripts/serve.mjs", "refresh:amazon": "node scripts/refresh-amazon.mjs" },
   "engines": { "node": ">=22" }
 }

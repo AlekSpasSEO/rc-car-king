@@ -1,0 +1,11 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+import {createAmazonClient,normalizeItem} from './amazon-client.mjs';
+const flag=name=>{const i=process.argv.indexOf(name);return i<0?null:process.argv[i+1];};
+const partnerTag=process.env.AMAZON_ASSOCIATE_TAG||'coffeedant03-20';
+const client=await createAmazonClient({credentialsPath:flag('--credentials'),partnerTag});
+const asin=flag('--asin');const query=flag('--keywords')||'Traxxas Nissan 240SX 105247-4';
+const data=asin?await client.get([asin]):await client.search(query);
+const items=(data.itemsResult?.items??data.searchResult?.items??[]).map(normalizeItem);
+const result={provider:'Amazon Creators API',checkedAt:new Date().toISOString(),partnerTag,marketplace:'www.amazon.com',query:asin??query,items,errors:data.errors??[]};
+await mkdir('output',{recursive:true});await writeFile(flag('--output')||'output/amazon-search.json',JSON.stringify(result,null,2));
+console.log(JSON.stringify({provider:result.provider,checkedAt:result.checkedAt,items:items.map(({asin,title,model,brand,detailPageUrl})=>({asin,title,model,brand,detailPageUrl})),errors:result.errors},null,2));
