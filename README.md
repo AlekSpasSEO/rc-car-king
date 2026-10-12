@@ -4,8 +4,9 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 
 - [Homepage](https://alekspasseo.github.io/rc-car-king/)
 - [In-depth Traxxas Nissan 240SX review](https://alekspasseo.github.io/rc-car-king/traxxas/4-tec-drift-nissan-240sx/)
+- [Initial 50-review launch index](LAUNCH_ARCHIVE.md): eight real brands, complete vehicles and body-inclusive kits.
 - Full product box: actual product photo, overview, specs, pros, cons, rating, buy/skip guidance and exact Amazon affiliate link.
-- 2,200+ words of core vehicle analysis, five category scores, full specifications, startup-cost and alternative-car tables, six FAQs, attributed official media and dated sources.
+- 2,000+ words of core vehicle analysis in every review, five category scores, full specifications, startup-cost and alternative-car tables, six FAQs, attributed official media and dated sources.
 - The Garage Editor is an original house voice informed by RC Car Action, RC Driver and Big Squid RC. See EDITORIAL_VOICE.md.
 - Reviews cover complete cars and body-inclusive car kits. The earlier chassis-only pilot remains a source draft.
 - Shareable brand/price/use/search filters, RSS, sitemap, canonical metadata and Article/Review structured data.
@@ -35,6 +36,6 @@ GitHub Pages serves main /docs. Commit generated docs with source/content update
 
 ## Media
 
-MEDIA_SOURCES.md records the official Traxxas images used for the reviewed Nissan. They are credited manufacturer media, not our test photographs.
+MEDIA_SOURCES.md and the launch manifests record all official images and technical illustrations used across the 50 reviews. They are credited manufacturer media, not our test photographs.
 
 public/assets/night-drift.png remains original homepage atmosphere made with the built-in ImageGen tool. Prompt: a clearly miniature unbranded silver drift coupe in a wet Tokyo alley at midnight, 1990s racing-magazine film texture, cyan underglow, acid lime and pink neon, transmitter in the background, no logos or legible text. Fonts: Barlow Condensed, DM Sans and Space Mono, with system fallbacks.

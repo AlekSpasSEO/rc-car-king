@@ -1,0 +1,521 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Granite 223S DSC 4X4",
+  "modelSlug": "granite-223s",
+  "headlineLines": [
+    "GRANITE 223S DSC 4X4",
+    "THE BUYING CASE."
+  ],
+  "sku": "ARA4302V4T2",
+  "title": "ARRMA Granite 223S DSC 4X4 review: a deliberate entry into compact brushless bashing",
+  "dek": "A compact 4WD brushless monster with DSC and a current center differential. Its 2S/3S scope gives useful room to grow, while separate power equipment and conflicting tray lengths need attention.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushless",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "First brushless compact-monster buyer using a deliberate 2S-to-3S route",
+  "price": {
+    "amount": 339.99,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://www.horizonhobby.com/product/1-10-granite-223s-dsc-4x4-rtr-brushless-monster-truck-red/ARA4302V4T2.html"
+  },
+  "image": "arrma-granite-223s-product.jpg",
+  "imageAlt": "Official ARRMA photograph of the Granite 223S DSC 4X4, exact reviewed complete-car variant",
+  "imageCaption": "Granite 223S DSC 4X4, SKU ARA4302V4T2. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby official product photography",
+    "url": "https://www.horizonhobby.com/product/1-10-granite-223s-dsc-4x4-rtr-brushless-monster-truck-red/ARA4302V4T2.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The Granite 223S is for a first brushless monster-truck buyer who wants four-wheel drive, an assembled vehicle and room to increase the battery configuration later. I would put it on a shortlist for mixed recreational outdoor ground and a driver willing to learn its controls gradually. The main reservation is the startup basket: battery and charger are not supplied, and the ability to accept 3S should not turn the first order into an automatic maximum-power choice.",
+  "verdict": "A deliberate entry into compact brushless bashing",
+  "verdictText": "I would shortlist the red Granite ARA4302V4T2 for a new brushless buyer who wants compact monster proportions, four-wheel drive and a progressive 2S-to-3S route. The current center differential, finished clipless body, documented DSC equipment and service information give it a credible package. The reservations are the separate power purchases, terrain drag and a real battery-tray publication conflict that deserves clarification. The vehicle is complete, but the first usable session still depends on compatible equipment and ground.",
+  "pros": [
+    "Factory 2S/3S brushless system",
+    "DSC and transmitter throttle limits",
+    "Current center-differential module",
+    "Finished clipless monster body"
+  ],
+  "cons": [
+    "Drive LiPo and charger extra",
+    "Official tray lengths conflict",
+    "Dense lawn can add drag",
+    "Compact tall shape needs deliberate inputs"
+  ],
+  "bestFor": [
+    "First compact brushless monster use",
+    "Suitable outdoor ground with room to stop",
+    "A progressive battery setup"
+  ],
+  "avoidIf": [
+    "Slow technical crawling as the primary activity",
+    "A long low stadium format already preferred",
+    "Buying a near-limit battery before fit clarification"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Spektrum 3100Kv brushless · Brushless"
+    ],
+    [
+      "Controller / radio",
+      "SLT 80A 2-in-1 ESC / receiver with DSC · SLT3 · throttle limiting and DSC modes"
+    ],
+    [
+      "Drivetrain",
+      "Shaft-driven 4WD · all-metal center differential"
+    ],
+    [
+      "Drive power",
+      "2S or 3S hardcase LiPo · extra · IC5"
+    ],
+    [
+      "Package",
+      "Complete RTR · ARA4302V4T2"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First brushless compact-monster buyer using a deliberate 2S-to-3S route",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Starting preparation",
+        "score": 7.5,
+        "reason": "Factory assembly, finished body and transmitter AAs are useful, while LiPo and charger remain separate."
+      },
+      {
+        "label": "Monster equipment",
+        "score": 8,
+        "reason": "Compact monster proportions, shaft 4WD and the current center differential form a coherent recreational package."
+      },
+      {
+        "label": "Control access",
+        "score": 8.5,
+        "reason": "2S/3S support, SLT3 limiting and documented DSC modes give a new brushless owner several deliberate setup choices."
+      },
+      {
+        "label": "Service information",
+        "score": 8,
+        "reason": "Current manual and drawings support generation-aware service; conflicting tray figures require clarification."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "Value depends on resolving pack fit and budgeting the actual power route, rather than car-only pricing."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0DVMLVJ5X",
+    "marketplace": "www.amazon.com",
+    "variant": "Red · complete car",
+    "sku": "ARA4302V4T2",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DVMLVJ5X?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:05:04.794Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "A compact brushless monster with a useful lower-power starting route.",
+      "paragraphs": [
+        "The Granite 223S is for a first brushless monster-truck buyer who wants four-wheel drive, an assembled vehicle and room to increase the battery configuration later. I would put it on a shortlist for mixed recreational outdoor ground and a driver willing to learn its controls gradually. The main reservation is the startup basket: battery and charger are not supplied, and the ability to accept 3S should not turn the first order into an automatic maximum-power choice.",
+        "This review covers the red complete ARA4302V4T2, verified by Amazon's Creators API. Granite also names brushed, Boost, GROM and older 3S vehicles. Those are different packages. The current 223S documents a 3100Kv brushless motor, 80A combined ESC/receiver, DSC controls and a center differential. Do not silently inherit a previous generation's slipper layout, controller or tire observations. The exact SKU gives both the affiliate link and the service research an unambiguous vehicle to identify.",
+        "The compact monster format is the reason to choose this Granite over a lower stadium truck or a long short-course shell. Its tires and stance fit a recreational rough-ground brief, while the 284mm wheelbase keeps its overall footprint comparatively compact within the current ARRMA brushless family. That is a size-and-use observation, not a measured cornering result. If your ordinary sessions consist of sweeping firm-ground turns, compare the Vorteks and Big Rock before deciding the monster silhouette is the right starting point."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "Ready-to-run assembly still leaves a battery-selection job.",
+      "paragraphs": [
+        "The current manufacturer contents include the assembled truck, finished clipless body, 3100Kv motor, 80A two-in-one ESC/receiver, SLT3 transmitter, S662 metal-geared servo, AA transmitter cells and basic tools. The drive electronics are fitted, so you do not need to install a power system or paint a shell first. That makes this a complete vehicle purchase rather than a roller or chassis project. It still omits the rechargeable equipment that supplies its ordinary driving sessions.",
+        "ARRMA requires a suitable 2S or 3S hardcase LiPo and charger. Choose the exact connector and physical fit as well as the cell count; the current specification identifies IC5. A charger intended for a different chemistry does not complete the basket. If its input adapter or cable is separate, count that too. You already receive transmitter AAs in this particular package, so do not accidentally add a compulsory extra row for batteries supplied by the manufacturer.",
+        "For the initial bench check, inspect the restraint, lead routing, wheel security and body seating. Check steering direction and travel using the manual, then set a conservative control configuration before placing the truck on the ground. An RTR removes assembly decisions but leaves setup decisions. A first brushless buyer benefits from a known baseline: stock tires, factory gearing, a properly fitted pack and a simple route. Leave optional parts aside until you have seen the vehicle work normally."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Choose a documented compatible drive battery and charger, checking chemistry, connector and dimensions.",
+          "Install the four supplied AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with conservative controls and an open stopping area."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "The current center differential is a generation-specific feature.",
+      "paragraphs": [
+        "The 3100Kv brushless motor feeds a shaft-driven 4WD system with an all-metal-geared center differential in the documented current module. That center unit permits a relationship between front and rear drive speeds rather than behaving like the fixed coupling or slipper arrangement you may remember from another Granite. It is a substantive reason to read the exact V4 manual and drawings. A long family history should not become an assumption that every older tuning instruction applies unchanged.",
+        "The supplied power system supports 2S and 3S without requiring a motor-and-controller conversion. For this buyer, that is useful future scope: begin with a deliberate lower-cell setup, then assess whether more power solves an actual desire. The manufacturer advertises 35-plus mph on 2S and 50-plus on 3S under its stated conditions. We have not measured either figure. Their role is to describe the available operating envelope, not to decide how fast the first backyard session ought to be.",
+        "Keep stock gearing while you learn the ordinary surface. Monster tires, grass drag and repeated acceleration all influence load, while a motor fan is useful only when its airflow remains clear. Inspect the fan and drivetrain after initial runs. If the truck continually bogs in thick growth, move to a more appropriate patch before changing gearing. A brushless-ready high-power package still deserves correct operation; it is not a reason to treat mechanical binding or resistance as something the battery should overpower."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Cell count, throttle limit and DSC are separate choices.",
+      "paragraphs": [
+        "The SLT3 transmitter supplies steering, throttle and documented limiting options. DSC adds electronic stability-control modes through the installed system. Read the manual's descriptions carefully, because assistance mode and maximum motor output do different jobs. A lower throttle limit can make a first brushless session more manageable, while DSC changes the assistance behavior. Choosing both deliberately is more useful than leaving them unexamined and assuming the new truck will automatically make the correct corrections.",
+        "Start with a 2S route if it fits the intended use, a conservative limit and a broad practice circuit. Learn the trigger's neutral, braking and reverse sequence before adding speed. If you later change the assistance setting, keep the battery and route consistent so you can understand the change. A feature advertised for beginners should still be learned at the workbench. The available modes are setup tools, not an excuse to drive through the limited space of an unsuitable site.",
+        "Follow the correct LiPo operating and charging procedures, and secure the leads away from the rotating assemblies. This review assesses the control equipment for a buyer deliberately entering brushless monster driving. It does not measure correction effectiveness, radio range, response time or stopping distance. DSC also should not be confused with the AVC equipment found on some other ARRMA vehicles. The exact controller and receiver in this SKU determine which functions you are purchasing."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "A compact tall truck needs a clear setup baseline.",
+      "paragraphs": [
+        "The S662 metal-geared servo, independent suspension and oil-filled shocks are part of the current official package. Begin by inspecting that the steering moves freely, centers correctly and does not strain against a mechanical stop. A large monster tire can load a steering system when stationary or trapped beside a rock. Avoid holding steering into that obstruction. Before concluding that a servo replacement is necessary, identify whether the issue is a setting, mechanical damage or debris around the linkage.",
+        "The compact wheelbase and tall monster proportions create a reason to learn smooth inputs. They are not measured proof of unstable behavior, and we do not assign a rollover threshold. Use broad first turns on firm ground, then introduce tighter direction changes gradually. If the surface offers much more grip than the dirt route you started on, treat it as another setup context. Tire contact, speed and steering demand can change the vehicle's task without a single component being defective.",
+        "Make suspension changes against a repeated bump or turn and record the original positions. More spring preload does not automatically make a truck tougher, nor does a softer setup automatically improve every landing. Describe the behavior you are addressing before changing a part. The rating rewards documented adjustment and service access for the intended owner. It does not claim a shock-damping, steering-force or jump-control measurement from a drive test we have not conducted."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Monster proportions work best when rough ground remains driveable.",
+      "paragraphs": [
+        "ARRMA presents the current dBoots tire and suspension package for all-terrain recreational use. I would begin on firm dirt, modest loose ground and short grass with an open braking area. Inspect the route for sharp debris, deep wheel-catching ruts and hard edges near a landing. Center clearance alone cannot describe every suspension part's path. A truck that looks tall on a product page can still catch a wheel or arm on an obstacle approached carelessly.",
+        "Tall or wet grass deserves separate attention. It can drag and wrap around rotating components, so compare short initial runs and inspect the buildup. The answer to persistent resistance is often a better patch of ground, rather than immediately fitting a larger pinion or choosing 3S. A crawler route is also a different use case. If the activity you want is inching through rocks with deliberate axle placement, compare a crawler instead of relying on the word monster to imply crawling control.",
+        "The independent RC Cars Guide coverage distinguishes current Granite versions using researched sources. It is useful generation context, not a hands-on result. We do not borrow earlier brushed Granite damage records or older 3S speed measurements. Our terrain conclusion follows from the current documented package and the route a buyer can inspect. The next useful evidence comes from repeatable sessions on that actual ground, which should decide whether a tire change or another vehicle format is worthwhile."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Hidden latches help access, while dirt still finds the chassis.",
+      "paragraphs": [
+        "The current truck has a finished clipless body, raised side protection, bumpers, a wheelie bar and documented dirt-management features. Those are practical pieces of the package. Learn the latch location and removal motion before forcing the shell, then check seating after every battery change. A hidden mounting system improves everyday convenience, but does not make body inspection unnecessary. We have not established a crash survival rate or a long-term shell life for this exact red vehicle.",
+        "Remove the body after a run and inspect the cooling fan, gears, shafts, steering and shock seals. Dirt guards can reduce exposure without eliminating every path for debris. Check wheel nuts and tire bonding as well. The center-differential module and exact exploded drawings make generation-aware service important. A parts recipe titled simply Granite may refer to another drivetrain. Identify the exact assembly and part number rather than ordering the first visually similar replacement.",
+        "There is a source conflict worth preserving: the current web specification lists a 139mm battery-tray length, while the current manual prints 165mm for its maximum dimension. We do not quietly choose the larger value and promise a pack fits. Confirm the actual tray and restraint with the manufacturer or retailer before buying a battery near either limit. This publication issue is separate from our service assessment and should not be disguised as a physical measurement we performed ourselves."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Price the first power route before the future one.",
+      "paragraphs": [
+        "The static dated reference is the manufacturer's US vehicle-package price. Live Amazon offers are presented separately with their refresh time. The missing startup equipment is a compatible hardcase LiPo, charger and any required charger input supply. Transmitter cells are listed in the factory contents. No single universal all-in figure is given because owners may already have suitable equipment, and a battery choice near the disputed tray length needs verification before it becomes a concrete basket.",
+        "Begin with the battery setup you will ordinarily use. Buying both 2S and 3S on day one may be enjoyable for an experienced owner, but it is not required to explore the lower-power route. A second pack, better tools and spare tires can wait until use shows their purpose. The included tools and official manual support the first inspections. Place optional cosmetic pieces and electronics changes outside the completion list so the package's actual starting cost stays visible.",
+        "An existing battery deserves the same compatibility check as a new one. Correct cell count and plug are insufficient if the pack cannot be restrained, its leads are routed poorly or your charger does not support it properly. The Granite's value is stronger for an owner with a coherent power route than for someone who treats every compatible-looking bargain as a saving. Resolve the tray conflict, then compare the complete purchase with another monster truck you can actually equip."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$339.99 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "2S or 3S hardcase LiPo · extra · IC5",
+            "Required extra; select exact compatible pack"
+          ],
+          [
+            "Charger",
+            "Compatible LiPo charger extra",
+            "Required extra"
+          ],
+          [
+            "Charger input power",
+            "Check selected charger",
+            "Supply any required adapter or cable"
+          ],
+          [
+            "Transmitter batteries",
+            "Included",
+            "Four AA cells in current factory contents"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Decide whether you want compact monster proportions or a longer route.",
+      "paragraphs": [
+        "The ARRMA Big Rock 223S is a useful in-family comparison. Its documented 327mm wheelbase, wider footprint and crew-cab presentation create a different vehicle shape while retaining the broad 2S/3S brushless purchasing concept. Both need separate drive power. We have not tested which lands or corners better, so the comparison is one of dimensions, style and intended route. A buyer preferring longer sweeping runs may want to inspect both before choosing the compact Granite.",
+        "The Vorteks 223S 4X4 provides a lower stadium body and another tire-and-suspension brief. It is worth considering for firm-ground turns and a driver who prefers that format. Carefully distinguish the four-wheel-drive version from the separate two-wheel-drive Vorteks. Similar names do not establish equivalent traction, battery trays or service layouts. Compare the exact completed vehicle and the same quality of battery-and-charger basket so price differences remain useful.",
+        "For a larger monster project, the Traxxas Maxx 89086-4 documents 3S/4S LiPo capability and substantially different dimensions and mass. That is an alternative activity as much as another product. It can require more storage, carrying and battery equipment. Do not buy it solely because the Granite seems small in a photograph, or choose the Granite solely because it has a lower car-only reference. Your regular space and appetite for the ownership project should decide the scale."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "Granite 223S ARA4302V4T2",
+            "Compact 4WD monster RTR; power extra",
+            "A deliberate 2S/3S route"
+          ],
+          [
+            "Big Rock 223S",
+            "Longer and wider 4WD RTR; power extra",
+            "Crew-cab shape and different footprint"
+          ],
+          [
+            "Vorteks 223S4X4",
+            "Stadium RTR; power extra",
+            "Lower stadium body"
+          ],
+          [
+            "Traxxas Maxx 89086-4",
+            "Larger 3S/4S monster RTR; power extra",
+            "Different size and power project"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A strong first brushless monster when the setup plan stays deliberate.",
+      "paragraphs": [
+        "I would shortlist the red Granite ARA4302V4T2 for a new brushless buyer who wants compact monster proportions, four-wheel drive and a progressive 2S-to-3S route. The current center differential, finished clipless body, documented DSC equipment and service information give it a credible package. The reservations are the separate power purchases, terrain drag and a real battery-tray publication conflict that deserves clarification. The vehicle is complete, but the first usable session still depends on compatible equipment and ground.",
+        "The five equally weighted editorial scores evaluate starting preparation, monster hardware, control access, service information and complete-purchase value for that named buyer. They do not report measured speed, crash toughness, steering precision, runtime or reliability. Current manufacturer documentation establishes this SKU, Amazon verifies the exact complete-car identity, and an independent research guide helps identify generation differences. Those roles remain distinct; we do not invent a drive test or import an old model's test record.",
+        "Buy it if you can choose a suitable pack confidently and have an outdoor route that lets the monster format work. Begin with conservative controls, stock gearing and regular inspection. Skip it if you already want slow technical crawling or a long low stadium vehicle. The Granite makes a persuasive entry into brushless recreation when its growth capability is treated as available choice, rather than a requirement to order maximum power before learning the stock truck."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "arrma-granite-223s-gallery-1.jpg",
+      "alt": "ARRMA official Granite 223S DSC 4X4 recreational product photograph 1",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/1-10-granite-223s-dsc-4x4-rtr-brushless-monster-truck-red/ARA4302V4T2.html"
+    },
+    {
+      "image": "arrma-granite-223s-gallery-2.jpg",
+      "alt": "ARRMA official Granite 223S DSC 4X4 recreational product photograph 2",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/1-10-granite-223s-dsc-4x4-rtr-brushless-monster-truck-red/ARA4302V4T2.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "ARRMA ARA4302V4T2 · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0DVMLVJ5X"
+    ],
+    [
+      "Scale / drive",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Spektrum 3100Kv brushless"
+    ],
+    [
+      "ESC",
+      "SLT 80A 2-in-1 ESC / receiver with DSC"
+    ],
+    [
+      "Radio",
+      "SLT3 · throttle limiting and DSC modes"
+    ],
+    [
+      "Steering servo",
+      "S662 metal-geared 25T"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Shaft-driven 4WD · all-metal center differential"
+    ],
+    [
+      "Length × width × height",
+      "470 × 340 × 204mm"
+    ],
+    [
+      "Wheelbase",
+      "284mm"
+    ],
+    [
+      "Weight publication basis",
+      "3.47kg · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "Web:139 ×51 ×48mm; manual:165 ×51 ×48mm · verify actual fit"
+    ],
+    [
+      "Drive battery",
+      "2S or 3S hardcase LiPo · extra · IC5"
+    ],
+    [
+      "Charger",
+      "Compatible LiPo charger extra"
+    ],
+    [
+      "Tires",
+      "Current all-terrain dBoots monster tires"
+    ],
+    [
+      "Transmitter power",
+      "Four AA cells included in current factory contents"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which Granite is this?",
+      "answer": "The red complete ARA4302V4T2 current 223S DSC4WD truck. Boost, MEGA, GROM and older 3S variants are different packages."
+    },
+    {
+      "question": "Is rechargeable power included?",
+      "answer": "No. Choose a documented 2S or 3S hardcase LiPo with the proper connection and a compatible charger. The official package supplies transmitter AAs."
+    },
+    {
+      "question": "What is the battery-tray conflict?",
+      "answer": "The current web table says 139mm length; the manual says 165mm. We preserve both and recommend actual fit confirmation before buying a pack near either limit."
+    },
+    {
+      "question": "Does it still use the old center arrangement?",
+      "answer": "Current documentation identifies an all-metal geared center differential and its module. Do not apply an older slipper-based recipe without checking the exact assembly."
+    },
+    {
+      "question": "Does 3S need another motor or ESC?",
+      "answer": "The fitted 223S system supports 2S and 3S. Correct pack fit, operating procedures and control setup are still required."
+    },
+    {
+      "question": "Is 50-plus mph our test result?",
+      "answer": "No. It is a manufacturer claim for its specified 3S conditions. The editorial rating does not measure speed, crash resistance or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA · current exact ARA4302V4T2 product, contents and specifications",
+      "url": "https://www.horizonhobby.com/product/1-10-granite-223s-dsc-4x4-rtr-brushless-monster-truck-red/ARA4302V4T2.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "ARRMA · current model owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw01daa2aa/Manuals/ARA4302V4-MANUAL-ML.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Cars Guide · Granite current-generation research-led buyer guide",
+      "url": "https://rccarsguide.com/blog/arrma-granite-4x 4-review",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0DVMLVJ5X identity and dated price",
+      "url": "https://www.amazon.com/dp/B0DVMLVJ5X?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "arrma big rock 223s · current alternative complete-vehicle documentation",
+      "url": "https://www.horizonhobby.com/product/1-10-big-rock-223s-dsc-4x4-rtr-brushless-monster-truck-black/ARA4312V4T1.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "arrma vorteks 223s 4x4 · current alternative complete-vehicle documentation",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-4x4-rtr-brushless-stadium-truck-red/ARA4305V4T1.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "traxxas maxx · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/maxx-89086-4",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DVMLVJ5X, ARA4302V4T2 and ARRMA for the exact complete-car listing. Independent source is a researched buying guide, not a hands-on test. Current web tray length 139mm conflicts with current manual 165mm; verify real pack fit. Earlier brushed and 3S test results are not transferred. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

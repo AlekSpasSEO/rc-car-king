@@ -1,0 +1,466 @@
+{
+  "brand": "Kyosho",
+  "brandSlug": "kyosho",
+  "model": "KC10 Toyota Land Cruiser 60 Body Type1",
+  "modelSlug": "kc10-land-cruiser-60",
+  "headlineLines": [
+    "KC10 TOYOTA LAND CRUISER 60 BODY TYPE1",
+    "4WD · 1/10"
+  ],
+  "sku": "34801T1",
+  "title": "Kyosho KC10 Toyota Land Cruiser 60 Body Type1 review: the right complete-car project?",
+  "dek": "The early LC60 Readyset has a coherent scale-trail package and real straight axles; optional dig/two-speed features must stay separate from stock contents.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Crawler",
+  "use": "Trail driving",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "Scale trail driver drawn to the early Land Cruiser",
+  "price": {
+    "amount": 419.99,
+    "currency": "USD",
+    "basis": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+    "checked": "2026-10-13",
+    "source": "https://www.towerhobbies.com/product/kyosho-110-toyota-land-cruiser-60-kc10-4x4-electric-rock-crawler-rtr/KYO34801T1.html",
+    "note": "The dated USD reference is a directly verified exact-SKU Tower Hobbies listing with in-stock status at the check; it remains independent of the expiring Amazon offer."
+  },
+  "image": "kyosho-34801t1-official-1.jpg",
+  "imageAlt": "Kyosho official completed KC10 Toyota Land Cruiser 60 Body Type1 product photograph",
+  "imageCaption": "Official Kyosho photograph of the exact finished Readyset model.",
+  "imageCredit": {
+    "name": "Kyosho official product photography",
+    "url": "https://rc.kyosho.com/en/34801t1.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Research-led buying assessment using exact manufacturer documentation, verified Amazon identity and attributable independent coverage. We have not physically driven this model."
+  },
+  "overview": "The KC10 Land Cruiser 60 is for the scale trail driver who wants an early round-headlight Toyota already assembled on a genuine crawler platform.  Its straight axles, steel ladder frame, locked axle arrangements and finished body give it a coherent brief beyond a handsome shell.  My reservation is that advertised dig and two-speed possibilities can be mistaken for installed equipment.",
+  "verdict": "A considered purchase for scale trail driver drawn to the early land cruiser",
+  "verdictText": "I would buy 34801T1 when the round-headlight Toyota is the subject you want and the stock crawler functions suit your trail. Arrange the correct battery system, learn the baseline controls and leave optional gearbox functions until they solve an identified need. I would pass for high-speed road use or a conversion plan that immediately replaces the truck's main stock advantages. On the intended scale-trail terms, the KC10 gives a clear whole-car purchase with substantial documented mechanics and an honest distinction between what comes installed and what a later workshop project can add.",
+  "pros": [
+    "Completed scale body and installed controls simplify a first trail setup.",
+    "Early round-headlight subject, rack and molded detail provide a focused scale vehicle.",
+    "Clipless body and chassis documentation clarify service operations."
+  ],
+  "cons": [
+    "API bullet mislabels G32L as a15kg servo; manufacturer correctly assigns G32L to32T motor. DIG/two-speed kits are optional.",
+    "Battery, charger and fourAA cells are separate.",
+    "Optional gearbox functions add parts, setup and cost."
+  ],
+  "bestFor": [
+    "Scale trail driver drawn to the early Land Cruiser",
+    "Owners who want the exact included body and documented running hardware"
+  ],
+  "avoidIf": [
+    "You need stock dig/two-speed equipment immediately.",
+    "You want a high-speed pavement vehicle."
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/10 · 4WD"
+    ],
+    [
+      "Motor",
+      "G32L · 550-size 32T brushed · fitted"
+    ],
+    [
+      "Controller",
+      "Fitted crawler speed controller · current KC10 instructions govern power"
+    ],
+    [
+      "Battery",
+      "Drive battery/charger extra; manufacturer weight uses 2S LiPo"
+    ],
+    [
+      "Radio / servo",
+      "KT-231P+ plus newly developed 15 kg servo · fitted"
+    ],
+    [
+      "Format / SKU",
+      "Ready-to-run · 34801T1"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Scale trail driver drawn to the early Land Cruiser",
+    "disclosure": "Five equally weighted categories assess documented equipment and buyer fit. No measured speed, handling, durability, runtime or reliability scores are assigned.",
+    "dimensions": [
+      {
+        "label": "Build / buyer fit",
+        "score": 8.5,
+        "reason": "Completed scale body and installed controls simplify a first trail setup."
+      },
+      {
+        "label": "Documented equipment",
+        "score": 9,
+        "reason": "Early round-headlight subject, rack and molded detail provide a focused scale vehicle."
+      },
+      {
+        "label": "Setup / adjustment",
+        "score": 8.5,
+        "reason": "Steel frame, straight axles, spools, oil shocks and32T motor are documented crawler hardware."
+      },
+      {
+        "label": "Service understanding",
+        "score": 8,
+        "reason": "Clipless body and chassis documentation clarify service operations."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "Required battery gear and optional transmission functions need separate prices."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0GYC7QPS9",
+    "marketplace": "www.amazon.com",
+    "variant": "KC10 Toyota Land Cruiser 60 Body Type1 · complete RTR",
+    "sku": "34801T1",
+    "apiSku": "34801T1",
+    "identityNote": "API manufacturer part number exactly equals reviewed SKU.",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GYC7QPS9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.828Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "The buying case: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The KC10 Land Cruiser 60 is for the scale trail driver who wants an early round-headlight Toyota already assembled on a genuine crawler platform. Its straight axles, steel ladder frame, locked axle arrangements and finished body give it a coherent brief beyond a handsome shell. My reservation is that advertised dig and two-speed possibilities can be mistaken for installed equipment. Buy the standard Readyset for its documented stock role, and price transmission options as later projects if you actually need them.",
+        "This exact model is Body Type1 34801T1, verified by Amazon under the same part number. It is distinct from Type2 bodies and other colors, a spare Toyota shell, the much smaller Mini-Z Land Cruiser and a KC10 option kit. The supplied body, electronics, motor and transmitter make it a complete RTR trail vehicle. Battery, charger and transmitter cells are still extra.",
+        "I would shortlist it when the early LC60 subject appeals and the buyer has suitable trail ground plus an honest power-equipment budget. It is less useful when the priorities are fast road driving or an established competition class with a different preferred platform. We have not crawled it, measured climbing angles or conducted a long-term reliability test. The assessment weighs documented stock equipment and ownership fit, keeping manufacturer terrain claims separate from results that would require a physical test."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "The complete package",
+      "heading": "The complete package: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The Readyset contains the completed chassis, factory-finished Toyota body, fitted G32L brushed motor, steering servo, receiver/control installation and Syncro KT-231P+ transmitter. Tools and setting-change parts are listed. Kyosho identifies a newly developed 15 kg steering servo but does not call that servo G32L; G32L is the motor name. The Amazon feature text conflates those names, so the review follows the manufacturer rather than repeating the API bullet as engineering fact.",
+        "You need a drive battery, matching charger and four AA transmitter cells. The manufacturer’s quoted weight uses a two-cell LiPo installation, but the battery purchase should be governed by the actual current KC10 and controller instructions, connector and tray. Two battery compartments are documented choices for installation; they do not prove that two batteries must be bought or operated together. Determine the intended arrangement before ordering a pack.",
+        "Optional dig and two-speed transmission functions require additional kits. They are not completed first-session features merely because the base gearbox supports them. I would first inspect steering movement, wheel security and body release, prepare the correct power equipment and learn the stock driving controls. That preserves the Readyset’s advantage as a coordinated starting vehicle. A simultaneous transmission conversion, lighting project and first drive makes it much harder to tell whether a later problem came from stock setup or your new installation."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain and power",
+      "heading": "Drivetrain and power: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The KC10 has shaft-driven 4WD, straight front and rear axles and spools at both ends. A spool makes the wheels on an axle turn together rather than providing ordinary touring-car differential action. That is a meaningful crawler configuration for maintaining drive at low speed. It also gives a reason to use deliberate steering and throttle on high-grip surfaces instead of treating the truck like a quick road car.",
+        "The supplied G32L is a 550-size 32-turn brushed motor, with 49.1:1 stock reduction. Kyosho lists 21.1:1 as the high ratio when the optional CLW001 arrangement is fitted. Do not describe that optional number as a stock two-speed capability the radio can simply select. The distinction between supported and installed equipment is central to the whole-purchase budget.",
+        "The manufacturer describes metal axle gearing and a gearbox designed for later expansion. Those establish the mechanical brief without proving impact resistance or lifetime under every motor upgrade. Keep the stock power system for the first trail sessions and inspect for binding or contamination before considering a replacement. A tire trapped between rocks should be repositioned rather than forced by prolonged throttle. I would buy the KC10 because its ordinary stock crawler configuration suits the intended route. If a competition-specific transmission and electronics plan already defines the purchase, compare that full conversion basket with a complete alternative closer to the requirement."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Radio and setup: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The KT-231P+ transmitter is included and the steering system is installed. Establish neutral controls, check steering direction and follow the actual controller startup procedure before approaching a difficult obstacle. A completed scale body can make the truck appear ready for an ambitious trail, but the first powered checks should still confirm your own radio, pack and electrical settings.",
+        "Use restrained trigger movement and watch the tire’s contact with the ground. Crawling is better approached as wheel placement than as repeated bursts of power at a blocked axle. We have not measured low-speed smoothness or brake holding, so those qualities should not receive a test score in this article. The stock motor and controller are supplied as a coordinated system; learn their actual behavior with the chosen battery before identifying a specific upgrade requirement.",
+        "Tim Mohr’s Big Squid RC release coverage identifies 34801T1 and lists the manufacturer’s new crawler hardware. That is attributable independent publication context, not a controlled trail test or a reliability report. Other launch commentary explicitly discussed the novelty of the platform with limited early images, so its excitement should not be promoted into measured performance. We do not use manufacturer action footage as our driving. The review keeps the current product and manual as the equipment authority, the API as exact listing verification and the outlet as credited context about the model’s introduction."
+      ],
+      "sourceIndexes": [
+        0,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Steering and suspension: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The steel ladder frame carries a front three-link arrangement with a lateral rod and a rear four-link arrangement. Oil shocks include alternative piston-hole possibilities according to the manufacturer. Those are useful crawler mechanisms to understand during ownership. The optional parts are adjustment opportunities, not a guarantee that more changes will improve the route you choose.",
+        "Check steering travel with the body fitted and inspect tire clearance near inner fenders. A high-torque servo still should not continue pushing after a mechanical stop. Keep the standard endpoints until the actual instructions and hardware establish what travel is appropriate. If a wheel catches a body edge after an adjustment, investigate geometry and offset rather than simply increasing radio command.",
+        "The 317 mm wheelbase and 110 mm tires define the scale-trail footprint. Observe how the axles approach and leave a modest obstacle, and note where the body or chassis contacts it. We do not publish a tested maximum climbing or side-slope angle. A clean baseline route is the practical way to learn which contact limits matter to you. If changing shock settings later, make one change and use the same obstacle. The manufacturer’s adjustment provisions are valuable when they support a specific observation, rather than encouraging an immediate parts order before the standard suspension has been understood."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to drive",
+      "heading": "Where to drive: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The KC10 belongs on scale trails and manageable crawling obstacles. Its straight axles, locked driveline and large small-scale tires create a different ground brief from a low Fazer touring car. Start with a dry route that allows slow placement and easy recovery. Large gaps, drops and deep mud introduce different demands and should not be justified solely by a manufacturer's dramatic outdoor imagery.",
+        "Pick a simple obstacle and approach it deliberately, watching the front and rear tires rather than focusing only on the attractive Toyota body. Stop if the truck becomes wedged or the motor is repeatedly loaded without movement. Repositioning teaches the line more clearly than continuing to force it. Gradually extend the route after checking the stock vehicle and becoming familiar with its controls. There is no test record behind this review that supplies a universal safe drop height or incline.",
+        "After dusty or dirty running, inspect the shafts, axle areas, shocks, wheel attachment and body mounting. The receiver’s protected case does not make all joints and connectors immune to moisture. Follow the model’s maintenance and water instructions for the actual equipment fitted. A dry initial route makes the first observations easier to interpret and preserves the detailed body. I would use the stock truck for ordinary trail learning before adding dig or two-speed options; the terrain and intended maneuver should identify the need for those purchases."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Body and service: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "Body Type1 represents the early LC60 with round headlights. Its finished Toyota shell, separate molded details, rack and ladder form a specific scale subject rather than an anonymous crawler body. Kyosho’s clipless mounting and inner fenders are practical ownership features as well as part of the appearance. They give the trail buyer a reason to choose this RTR beyond a list of driveline hardware.",
+        "The quoted footprint is 552 mm long and 255 mm high, with body width stated as 236 mm excluding mirrors and overall width also listed at 251 mm. Keep those bases clear when planning a transport case. The manufacturer’s approximate 3,080 g weight includes a two-cell LiPo; it is not an empty chassis or bare kit weight. We retain the condition because the owner’s chosen pack can change the completed mass.",
+        "The gallery shows official side and front presentation of the Type1 whole car, rather than images from our driving. Some official images elsewhere on the page show another body treatment, so the review keeps the Type1 identity explicit rather than calling every illustrated Toyota the exact reviewed body. Use the release procedure, support the chassis when carrying it and protect the rack and mirrors from impacts during storage. Optional LEDs remain separate equipment. The body’s scale realism is a strong purchasing reason, but this research does not convert its detailed appearance into a durability measurement."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Startup basket: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The directly verified Tower Hobbies exact KYO34801T1 Readyset listing is $419.99 at this check and marked in stock. This dated retailer reference covers the complete vehicle, not the drive pack, charger, transmitter cells or optional gearbox projects. Indexed manufacturer US material agrees on the reference but direct retrieval returned a server error, so the current independent dealer check is the article’s basis. The API-verified Amazon offer remains separate and temporary. Compare complete stock baskets first, then price dig, two-speed and lighting equipment as the additional projects they actually are.",
+        "The essential basket adds compatible drive battery, matching charger and four AA transmitter cells. Current accessory USD prices were not all established together, so no precise startup subtotal is printed. Verify connector, voltage, chemistry settings and the chosen tray arrangement. A compatible existing pack can reduce new spending, but an unsuitable pack is not useful simply because it is labeled two-cell LiPo or was used in another crawler.",
+        "Optional dig, two-speed components, lights and cosmetic parts must each receive their own cost line. A buyer who needs those functions immediately should price the complete conversion and installation before comparing the KC10 with alternatives. I would keep the standard truck, correct power gear and routine tools as the first basket, then use actual trail practice to decide what comes next. That approach protects the Readyset’s convenience and keeps the purchase about a functional stock crawler rather than a nominal car price followed by an undefined transmission project."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5
+      ],
+      "table": {
+        "caption": "Actual completion basket · extras unpriced unless a checked price is available",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Price basis"
+        ],
+        "rows": [
+          [
+            "Reviewed vehicle",
+            "Kit/car only",
+            "$419.99 · stated dated reference"
+          ],
+          [
+            "Motor",
+            "G32L · 550-size 32T brushed · fitted",
+            "Included/extra as described"
+          ],
+          [
+            "ESC",
+            "Fitted crawler speed controller · current KC10 instructions govern power",
+            "Confirm regional box; price any missing controller separately"
+          ],
+          [
+            "Radio / servo",
+            "KT-231P+ plus newly developed 15 kg servo · fitted",
+            "Extra; quote exact components"
+          ],
+          [
+            "Drive power",
+            "Drive battery/charger extra; manufacturer weight uses 2S LiPo",
+            "Extra; quote exact pack and charger"
+          ],
+          [
+            "Tools / finishing / transmitter cells",
+            "As required by exact manuals",
+            "Price required items separately"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "Real alternatives: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The Traxxas TRX-4 Sport is a complete RTR trail-crawler route to compare when you want an established stock trail package with a different body and support ecosystem. Verify the exact current variant and battery requirements. The useful comparison is the whole first-session basket, local parts access and intended trail, not a bare chassis price or an untested claim that one axle arrangement automatically wins.",
+        "An Axial SCX10 III Jeep CJ-7 RTR is another complete-car alternative for the buyer who prefers the Jeep subject and the current Axial package. Check which transmission functions and electronics are actually installed on that specific model. Optional capabilities can be confused with stock equipment on more than one crawler. We have not performed a common-obstacle drive comparison and do not assign a tested ranking to the Toyota versus the Jeep.",
+        "The Mini-Z Land Cruiser 300 32533PW is a category change for an owner whose real space and terrain are indoors and miniature. It provides a complete little Toyota with a supplied transmitter and AAA-cell power route. It cannot replace the KC10 on outdoor ground that dwarfs its tires, but may fit a limited-space buyer better than a large trail truck. I would choose the KC10 for its early LC60 subject and ordinary outdoor crawling brief, a competing RTR for a preferred support/platform requirement, and the Mini-Z when compactness is the reason to buy."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Buying verdict",
+      "heading": "Buying verdict: KC10 Toyota Land Cruiser 60 Body Type1",
+      "paragraphs": [
+        "The Type1 LC60 has a coherent stock scale-trail case. Finished body, fitted controls, steel frame, straight axles, spools, oil shocks and a 32-turn 550 motor establish a real crawler package. Its reservations are extra power gear, optional transmission functions that need separate budgeting, and a new-platform evidence base that should not be mistaken for a long reliability history.",
+        "Our five categories assess complete-car preparation, scale presentation, documented crawler hardware, service understanding and full-purchase value for an early-Land-Cruiser trail buyer. We do not score climbing angles, low-speed control, impacts or reliability as measured outcomes. The independent release coverage is attributed, the motor/servo mistake in the API features is explicitly corrected using the manufacturer, and the dated indexed US price reference is labeled with its method.",
+        "I would buy 34801T1 when the round-headlight Toyota is the subject you want and the stock crawler functions suit your trail. Arrange the correct battery system, learn the baseline controls and leave optional gearbox functions until they solve an identified need. I would pass for high-speed road use or a conversion plan that immediately replaces the truck's main stock advantages. On the intended scale-trail terms, the KC10 gives a clear whole-car purchase with substantial documented mechanics and an honest distinction between what comes installed and what a later workshop project can add."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "kyosho-34801t1-gallery-1.jpg",
+      "alt": "Kyosho official KC10 whole-car/body presentation from the Type1 product page. See the source for other supported body examples.",
+      "caption": "Kyosho official KC10 whole-car/body presentation from the Type1 product page. See the source for other supported body examples.",
+      "source": "https://rc.kyosho.com/en/34801t1.html"
+    },
+    {
+      "image": "kyosho-34801t1-gallery-2.jpg",
+      "alt": "Kyosho official early Land Cruiser60 whole-car view; Type1 round-headlight subject.",
+      "caption": "Kyosho official early Land Cruiser60 whole-car view; Type1 round-headlight subject.",
+      "source": "https://rc.kyosho.com/en/34801t1.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / SKU",
+      "Kyosho 34801T1"
+    ],
+    [
+      "Amazon ASIN",
+      "B0GYC7QPS9 · API verified"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/10 · 4WD"
+    ],
+    [
+      "Purchase format",
+      "Ready-to-run"
+    ],
+    [
+      "Motor",
+      "G32L · 550-size 32T brushed · fitted"
+    ],
+    [
+      "Speed controller",
+      "Fitted crawler speed controller · current KC10 instructions govern power"
+    ],
+    [
+      "Radio / steering servo",
+      "KT-231P+ plus newly developed 15 kg servo · fitted"
+    ],
+    [
+      "Drive battery / charging",
+      "Drive battery/charger extra; manufacturer weight uses 2S LiPo"
+    ],
+    [
+      "Length / width / height",
+      "552 ×236 body-width/251 overall-width ×255 mm"
+    ],
+    [
+      "Wheelbase",
+      "317 mm · approx. 3,080 g with 2S LiPo"
+    ],
+    [
+      "Suspension",
+      "Steel ladder frame; front3-link/lateral rod; rear4-link; oil shocks"
+    ],
+    [
+      "Tires / wheels",
+      "110 ×37 mm /1.9in beadlock wheels"
+    ],
+    [
+      "Gear arrangement",
+      "49.1:1 stock; 21.1:1 optional high gear with CLW001"
+    ],
+    [
+      "Body",
+      "Body supplied · finishing per exact regional instructions"
+    ],
+    [
+      "Specification caveat",
+      "API bullet mislabels G32L as a15kg servo; manufacturer correctly assigns G32L to32T motor. DIG/two-speed kits are optional."
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does this exact model come ready to run?",
+      "answer": "Yes, as an assembled car with fitted controls; battery requirements are explained separately."
+    },
+    {
+      "question": "What motor and controller are included?",
+      "answer": "G32L · 550-size 32T brushed · fitted. Fitted crawler speed controller · current KC10 instructions govern power. Confirm the offered regional box before buying replacement electronics."
+    },
+    {
+      "question": "What do I need for the first session?",
+      "answer": "KT-231P+ plus newly developed 15 kg servo · fitted. Drive battery/charger extra; manufacturer weight uses 2S LiPo. Transmitter cells, appropriate finishing materials and assembly tools also need checking."
+    },
+    {
+      "question": "What ground should I plan to use?",
+      "answer": "The KC10 belongs on scale trails and manageable crawling obstacles. Its straight axles, locked driveline and large small-scale tires create a different ground brief from a low Fazer touring car. Start with a dry route that allows slow placement and easy recovery. Large gaps, drops and deep mud introduce different demands and should not be justified solely by a manufacturer's dramatic outdoor imagery."
+    },
+    {
+      "question": "Which specification differences should I check before ordering?",
+      "answer": "API bullet mislabels G32L as a15kg servo; manufacturer correctly assigns G32L to32T motor. DIG/two-speed kits are optional."
+    },
+    {
+      "question": "Is the editorial rating a driving test or Amazon star rating?",
+      "answer": "Neither. It evaluates the documented complete purchase for scale trail driver drawn to the early land cruiser. Manufacturer facts, API identity and independent context are credited separately. No speed, grip, crash or reliability measurements are invented."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyosho · exact model product/specification",
+      "url": "https://rc.kyosho.com/en/34801t1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Kyosho · assembly/body or regional specification documentation",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/kc10/pdf/KC10_im.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual / specification",
+      "accessNote": "Officially linked manual; direct PDF fetch timed out and web retrieval returned403. Hardware facts were verified on the accessible product/specification pages."
+    },
+    {
+      "name": "Amazon Creators API · exact ASIN B0GYC7QPS9",
+      "url": "https://www.amazon.com/dp/B0GYC7QPS9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "Big Squid RC · exact 34801T1 release coverage",
+      "url": "https://www.bigsquidrc.com/kyosho-1-10-kc10-toyota-land-cruiser-60-readyset/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+      "url": "https://www.towerhobbies.com/product/kyosho-110-toyota-land-cruiser-60-kc10-4x4-electric-rock-crawler-rtr/KYO34801T1.html",
+      "checked": "2026-10-13",
+      "kind": "Retailer price reference"
+    },
+    {
+      "name": "Kyosho Japan · exact regional product and specification page",
+      "url": "https://rc.kyosho.com/ja/34801t1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer regional specification"
+    }
+  ],
+  "evidenceNote": "Manufacturer documentation establishes the mechanism and requirements. Amazon Creators API verifies the exact listing/part number and dated offer. Big Squid RC · exact 34801T1 release coverage supplies attributed context; any modified build or sibling variant is explicitly distinguished in the article. API bullet mislabels G32L as a15kg servo; manufacturer correctly assigns G32L to32T motor. DIG/two-speed kits are optional. The dated USD reference is a directly verified exact-SKU Tower Hobbies listing with in-stock status at the check; it remains independent of the expiring Amazon offer. The cited manual remains an official product-page link; its PDF server was unavailable during this check. Equipment facts were cross-checked on accessible English and Japan product/specification pages.",
+  "revisionNote": "13 October 2026: original complete-car research review, exact API identity, current evidence ledger and credited manufacturer media."
+}

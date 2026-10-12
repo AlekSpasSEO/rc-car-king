@@ -1,0 +1,636 @@
+{
+  "brand": "Losi",
+  "brandSlug": "losi",
+  "model": "Mini LMT Grave Digger",
+  "modelSlug": "mini-lmt-grave-digger",
+  "headlineLines": [
+    "MINI LMT GRAVE DIGGER",
+    "THE BUYING CASE."
+  ],
+  "sku": "LOS01026T1",
+  "title": "Losi Mini LMT Grave Digger review: grave digger is the attraction, and solid axles are the reason to stay?",
+  "dek": "A compact Grave Digger monster truck with solid axles, four-wheel drive and supplied battery equipment. Buy it for that distinctive format; choose a suitable driving area before planning jumps or upgrades.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Indoor",
+    "On-road",
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/18",
+  "format": "Ready-to-run",
+  "skill": "Monster Jam fan wanting compact solid-axle freestyle",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "basis": "Losi US published reference · exact RTR package; excluded equipment itemized below",
+    "checked": "2026-10-13",
+    "source": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html"
+  },
+  "image": "losi-mini-lmt-grave-digger-front.jpg",
+  "imageAlt": "Official Losi photograph of the Green Grave Digger · complete truck Mini LMT Grave Digger",
+  "imageCaption": "Mini LMT Grave Digger, LOS01026T1; exact reviewed variant. Official Losi product photography.",
+  "imageCredit": {
+    "name": "Losi official product photography",
+    "url": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+  },
+  "overview": "The Mini LMT is a compact Monster Jam-style truck, not a small independent-suspension race buggy with a large shell. Its four-link solid axles and licensed BKT tires connect the appearance to the mechanical format. I would buy the green LOS01026T1 for a small freestyle course and the Grave Digger presentation.",
+  "verdict": "It is a good miniature monster purchase with realistic terrain expectations",
+  "verdictText": "For a Monster Jam fan who wants an assembled truck and a small course, the Mini LMT brings the most relevant details together. Its complete power package strengthens the value case, while the solid-axle format gives more mechanical identity than a cosmetic body swap.",
+  "pros": [
+    "1.5mm aluminum chassis plates; four-link solid axles",
+    "Licensed BKT chevron monster-truck tires",
+    "Spektrum SLT2; 25A ESC/receiver supplied",
+    "Spektrum Smart G2 810mAh 2S LiPo · included; exact model documentation available"
+  ],
+  "cons": [
+    "Compact service work and exact spare compatibility still need care",
+    "Mini LMT has its own 2S brushed system; larger brushless LMT and later alternate bodies are not treated as identical test vehicles.",
+    "Venue, surface and class requirements still need checking",
+    "Speed, runtime and long-term durability are not measured here"
+  ],
+  "bestFor": [
+    "Casual driving in a suitable space",
+    "Buyers who prefer the exact finished body",
+    "Owners who want a documented complete vehicle"
+  ],
+  "avoidIf": [
+    "Your primary driving space does not suit indoor or on-road or off-road",
+    "You want a different vehicle scale or drivetrain from 1/18 4WD",
+    "You plan an immediate rebuild without pricing the full project"
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/18 · 4WD"
+    ],
+    [
+      "Motor",
+      "25T 380 brushed motor"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT2; 25A ESC/receiver"
+    ],
+    [
+      "Drive battery",
+      "Spektrum Smart G2 810mAh 2S LiPo · included"
+    ],
+    [
+      "Wheelbase",
+      "173 mm"
+    ],
+    [
+      "Package",
+      "LOS01026T1 · Green Grave Digger · complete truck"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Monster Jam fan wanting compact solid-axle freestyle",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the buyer named here. Their arithmetic mean is the editorial rating. These are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 8.5,
+        "reason": "LOS01026T1 coordinates the finished vehicle and Spektrum SLT2; 25A ESC/receiver; required completion remains nothing required per manufacturer; inspect usb supply compatibility."
+      },
+      {
+        "label": "Purpose-fit equipment",
+        "score": 8,
+        "reason": "25T 380 brushed motor, 4WD drive and licensed bkt chevron monster-truck tires fit the named buyer's bashing purpose; results on a particular surface are not measured."
+      },
+      {
+        "label": "Adjustment and learning",
+        "score": 7.5,
+        "reason": "The 1.5mm aluminum chassis plates; four-link solid axles and exact instructions offer an identifiable setup baseline; class suitability must still be checked."
+      },
+      {
+        "label": "Service documentation",
+        "score": 8,
+        "reason": "Official LOS01026T1 instructions, parts identification and attributed photographs make maintenance planning concrete; local stock was not surveyed."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 8,
+        "reason": "The $249.99 reference is evaluated with Spektrum Smart G2 810mAh 2S LiPo · included and all required extras visible, without an invented accessory total."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0CQ8WB9P9",
+    "marketplace": "www.amazon.com",
+    "variant": "Green Grave Digger · complete truck",
+    "sku": "LOS01026T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CQ8WB9P9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:09.763Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buying case",
+      "heading": "Grave Digger is the attraction, and solid axles are the reason to stay.",
+      "paragraphs": [
+        "The Mini LMT is a compact Monster Jam-style truck, not a small independent-suspension race buggy with a large shell. Its four-link solid axles and licensed BKT tires connect the appearance to the mechanical format. I would buy the green LOS01026T1 for a small freestyle course and the Grave Digger presentation. The larger LMT brings a different brushless power system and footprint, so its test results should not be used as this mini’s performance record.",
+        "The exact purchase in this guide is Losi Mini LMT Grave Digger LOS01026T1, Green Grave Digger · complete truck. Its 1/18 scale, 4WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to monster jam fan wanting compact solid-axle freestyle before a promotional feature becomes the reason to order. Decide where the car will be driven most often, because a usable nearby space can be more valuable than a longer feature list. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package and setup",
+      "heading": "The box includes the small truck and its power system.",
+      "paragraphs": [
+        "Losi lists an 810mAh Smart G2 2S pack, USB-C charger, SLT2 radio and AA transmitter cells with the assembled truck. That is a substantial part of its appeal to a Monster Jam fan starting in hobby RC. You can concentrate on learning the vehicle instead of selecting a motor, receiver and battery independently. Confirm the charging input and original connector when unpacking, and use the supplied 2S arrangement as the reference before buying an extra battery.",
+        "For Mini LMT Grave Digger, the stated drive-power arrangement is Spektrum Smart G2 810mAh 2S LiPo · included, and the radio package is Spektrum SLT2; 25A ESC/receiver. Required completion is explicit: Nothing required per manufacturer; inspect USB supply compatibility. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact LOS01026T1 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor and drivetrain",
+      "heading": "The 380 brushed motor belongs to this exact mini.",
+      "paragraphs": [
+        "The 25T 380-size motor drives a four-wheel-drive solid-axle system through a 25A combined receiver/controller. Front and rear bevel differentials allow wheel-speed differences; they should not be described as locked crawler axles. The documented metal differential parts, yokes and links explain the serviceable mechanical package, but their materials do not prove resistance to every jump. Keep the factory gearing and power level while learning how to use throttle for small ramps and the two-position wheelie bar.",
+        "The documented 25T 380 brushed motor is the power equipment evaluated for Mini LMT Grave Digger. Four driven wheels distribute the task across both axles, but differential behavior and tire contact still matter. Four-wheel drive is a mechanism, not a guarantee of grip on every surface. Start from the original LOS01026T1 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and controls",
+      "heading": "Reduced throttle is a practical freestyle training tool.",
+      "paragraphs": [
+        "The SLT2 limiter can make the first sessions calmer while a new driver learns trigger control. That is particularly useful for a tall truck that invites sudden acceleration and theatrical maneuvers. Greg Vogel’s RC Driver video includes a drivetrain teardown and outside running on dirt and at a skatepark. It demonstrates his review work, not a set of RC Car King crash or handling results. I would use the teardown to understand the hardware while keeping our recommendation grounded in package fit.",
+        "The Mini LMT Grave Digger control system is listed as Spektrum SLT2; 25A ESC/receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For shared casual use, explain how to stop and shut down the vehicle before handing the controls to another driver. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "The links and sway bars explain why this is a monster truck.",
+      "paragraphs": [
+        "Four-link solid-axle suspension and sway bars are part of the Mini LMT’s documented layout. A wheel’s movement interacts with the axle and chassis in a different way from the Mini-T’s independent suspension. Threaded oil-filled shocks offer ride-height and damping work as the owner learns. Begin by checking that the links move freely and that steering travel does not force the servo against a stop. A heavier metal upgrade is not automatically the right answer to a setup problem.",
+        "The published construction for Mini LMT Grave Digger is 1.5mm aluminum chassis plates; four-link solid axles. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 173 mm, which makes exact replacement compatibility more useful than a generic Losi parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and terrain",
+      "heading": "Use small ramps with room to finish the maneuver.",
+      "paragraphs": [
+        "Losi suggests garage floors, low-pile carpet, smooth dirt and suitable paved outdoor spaces for the truck’s compact scale. Those recommendations should not be stretched into a promise of effortless running across a deep lawn. The BKT chevron tires provide the monster appearance, while their size still sets the scale of obstacles. I would build a low ramp with a shallow transition and a clear landing zone, then learn repeatable approaches before pursuing flips suggested by promotional footage.",
+        "The Mini LMT Grave Digger tire package is Licensed BKT chevron monster-truck tires. Its intended terrain listing is indoor and on-road and off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Allow adequate space for braking and a clear run-out, particularly when the factory power system can quickly consume the available straight. The published dimensions are 277 × 206 × 175 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The flip-top cage is an ownership feature, not just a decoration.",
+      "paragraphs": [
+        "The Mini LMT uses a twist-lock flip-top cage, a molded roll structure and a finished Grave Digger body. Easy access is useful because battery changes and drivetrain inspections are routine. The official photo shows the compact layout that an owner will work around. Keep the body details, light leads and cage fixings secure after a tumble. We do not call the shell indestructible or infer long-term crack resistance from its licensed appearance; replacement diagrams and careful inspection are the practical resources.",
+        "The reviewed Green Grave Digger · complete truck Mini LMT Grave Digger is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the LOS01026T1 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Compare the small complete package with the larger unfinished basket.",
+      "paragraphs": [
+        "The manufacturer reference is $249.99 for this green complete Mini LMT at the check date. Drive power and transmitter cells are supplied, unlike the standard Rival MT10 alternative considered below. That matters when comparing the amount needed to reach the first session. Tools, optional spares and an appropriate charging/storage setup still have value, but their costs have not been verified here and are not invented into a subtotal. I would keep brushless conversion shopping outside the initial budget.",
+        "The Mini LMT Grave Digger price reference is $249.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Nothing required per manufacturer; inspect USB supply compatibility. The drive battery basis is Spektrum Smart G2 810mAh 2S LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "Complete first-session basket · checked 13 October 2026 · unpriced extras remain visible",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Budget treatment"
+        ],
+        "rows": [
+          [
+            "Mini LMT Grave Digger · LOS01026T1",
+            "$249.99 manufacturer car/package reference",
+            "Tax and delivery extra"
+          ],
+          [
+            "Drive battery",
+            "Spektrum Smart G2 810mAh 2S LiPo · included",
+            "Check chemistry, connector and physical fit"
+          ],
+          [
+            "Charger",
+            "Included; follow charging instructions",
+            "Confirm mains/USB power source"
+          ],
+          [
+            "Transmitter power",
+            "Included AA cells per manufacturer",
+            "Replace exhausted cells as needed"
+          ],
+          [
+            "Power-source completion",
+            "Nothing required per manufacturer; inspect USB supply compatibility",
+            "Add actual equipment cost where required"
+          ],
+          [
+            "Practical workbench kit",
+            "Correct drivers, wheel tool, brush, safe charging/storage place",
+            "Helpful ownership equipment; obtain live local prices"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "The Rival MT10 solves a different outdoor problem.",
+      "paragraphs": [
+        "Team Associated’s red Rival MT10 V2 20518 is a 1/10 four-wheel-drive brushless monster truck with independent suspension. It is considerably wider and longer than the Mini LMT and requires its own drive battery and charger. Consider it when the available ground and desired outdoor pace justify a larger vehicle. Choose the Mini LMT when compact solid-axle freestyle and Monster Jam detail are the intended experience. Neither format is a measured winner here; these are distinct packages for distinct spaces.",
+        "Team Associated Rival MT10 V2 20518 is the complete alternative used in the comparison with Mini LMT Grave Digger. It is a 1/10 4WD brushless vehicle, with 6-cell NiMH or 2S–3S LiPo · extra. Its required completion is suitable drive battery/charger and four AA transmitter cells. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        4
+      ],
+      "table": {
+        "caption": "Documented alternative routes; no head-to-head performance claim",
+        "columns": [
+          "Vehicle",
+          "What you buy",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Losi Mini LMT Grave Digger",
+            "1/18 4WD brushed RTR",
+            "It is a good miniature monster purchase with realistic terrain expectations"
+          ],
+          [
+            "Team Associated Rival MT10 V2",
+            "1/10 4WD brushless RTR",
+            "Team Associated’s red Rival MT10 V2 20518 is a 1/10 four-wheel-drive brushless monster truck with independent suspension. It is considerably wider and longer than the Mini LMT and requires its own drive battery and charger."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Final verdict",
+      "heading": "It is a good miniature monster purchase with realistic terrain expectations.",
+      "paragraphs": [
+        "For a Monster Jam fan who wants an assembled truck and a small course, the Mini LMT brings the most relevant details together. Its complete power package strengthens the value case, while the solid-axle format gives more mechanical identity than a cosmetic body swap. I would begin with the stock electronics, conservative ramps and a maintenance routine. Skip it when the main plan is rough-ground driving better suited to a larger independent-suspension truck or when immediate conversion costs erase the compact RTR advantage.",
+        "Our assessment of Mini LMT Grave Digger is directed at monster jam fan wanting compact solid-axle freestyle. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. Mini LMT has its own 2S brushed system; larger brushless LMT and later alternate bodies are not treated as identical test vehicles. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact LOS01026T1 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "losi-mini-lmt-grave-digger-detail.jpg",
+      "alt": "Official Losi product image 2 of the exact Mini LMT Grave Digger LOS01026T1",
+      "caption": "Official Mini LMT Grave Digger action photograph; manufacturer staging, not a measured jumping result.",
+      "source": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+      "credit": "Losi official product photography"
+    },
+    {
+      "image": "losi-mini-lmt-grave-digger-angle.jpg",
+      "alt": "Official Losi product image 3 of the exact Mini LMT Grave Digger LOS01026T1",
+      "caption": "Official assembled Grave Digger product view, showing the BKT tire package.",
+      "source": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+      "credit": "Losi official product photography"
+    }
+  ],
+  "specs": [
+    [
+      "Exact vehicle",
+      "Losi LOS01026T1 · Green Grave Digger · complete truck"
+    ],
+    [
+      "Amazon ASIN",
+      "B0CQ8WB9P9"
+    ],
+    [
+      "Format",
+      "Complete assembled RTR with body and installed electronics"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/18 · 4WD"
+    ],
+    [
+      "Motor",
+      "25T 380 brushed motor"
+    ],
+    [
+      "Controls",
+      "Spektrum SLT2; 25A ESC/receiver"
+    ],
+    [
+      "Battery",
+      "Spektrum Smart G2 810mAh 2S LiPo · included"
+    ],
+    [
+      "Required completion",
+      "Nothing required per manufacturer; inspect USB supply compatibility"
+    ],
+    [
+      "Chassis and suspension",
+      "1.5mm aluminum chassis plates; four-link solid axles"
+    ],
+    [
+      "Tire package",
+      "Licensed BKT chevron monster-truck tires"
+    ],
+    [
+      "Dimensions",
+      "277 × 206 × 175 mm"
+    ],
+    [
+      "Wheelbase",
+      "173 mm"
+    ],
+    [
+      "Reference price",
+      "$249.99 USD · official package reference · 2026-10-13"
+    ],
+    [
+      "Specification discrepancies",
+      "Mini LMT has its own 2S brushed system; larger brushless LMT and later alternate bodies are not treated as identical test vehicles."
+    ],
+    [
+      "Manufacturer table · Approximate Assembly Time",
+      "Less Than 1 Hour"
+    ],
+    [
+      "Manufacturer table · Ball Bearings",
+      "Full Ball Bearings"
+    ],
+    [
+      "Manufacturer table · Battery",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Body",
+      "Grave Digger and Son-uva Digger, prepainted, decalled"
+    ],
+    [
+      "Manufacturer table · Brakes",
+      "Integral with ESC"
+    ],
+    [
+      "Manufacturer table · Charger",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Chassis",
+      "1.5mm Plate 6061-T6 Aluminum"
+    ],
+    [
+      "Manufacturer table · Completion Level",
+      "Ready-To-Run"
+    ],
+    [
+      "Manufacturer table · Connector Type",
+      "IC2"
+    ],
+    [
+      "Manufacturer table · Differential",
+      "Bevel Gear HD Grease"
+    ],
+    [
+      "Manufacturer table · Drive Type",
+      "Forward/Brake/Reverse"
+    ],
+    [
+      "Manufacturer table · Drivetrain",
+      "4WD"
+    ],
+    [
+      "Manufacturer table · Final Drive Ratio",
+      "16.2:1"
+    ],
+    [
+      "Manufacturer table · Gear Pitch",
+      "0.5MOD"
+    ],
+    [
+      "Manufacturer table · Ground Clearance",
+      "0.9 in (22.3mm)"
+    ],
+    [
+      "Manufacturer table · Internal Gear Ratio",
+      "7.02:1"
+    ],
+    [
+      "Manufacturer table · LiPo Compatibility",
+      "2S"
+    ],
+    [
+      "Manufacturer table · Make",
+      "Monster Jam"
+    ],
+    [
+      "Manufacturer table · Motor Size",
+      "25T 380 size"
+    ],
+    [
+      "Manufacturer table · Motor Type",
+      "Brushed"
+    ],
+    [
+      "Manufacturer table · Pinion",
+      "15T"
+    ],
+    [
+      "Manufacturer table · Power Type",
+      "Electric"
+    ],
+    [
+      "Manufacturer table · Product Height",
+      "6.9\" (175 mm)"
+    ],
+    [
+      "Manufacturer table · Product Length",
+      "10.9\" (277 mm)"
+    ],
+    [
+      "Manufacturer table · Product Weight",
+      "1.834 lb (0.84kg)"
+    ],
+    [
+      "Manufacturer table · Product Width",
+      "8.1\" (206 mm)"
+    ],
+    [
+      "Manufacturer table · Radio",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Receiver",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Scale",
+      "1/18"
+    ],
+    [
+      "Manufacturer table · Servos",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Shock Type",
+      "Oil Filled Coil Over"
+    ],
+    [
+      "Manufacturer table · Speed Control",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Spur Gear",
+      "32T Idle and 30T Bottom Gear"
+    ],
+    [
+      "Manufacturer table · Suspension",
+      "Solid Axle 4-link"
+    ],
+    [
+      "Manufacturer table · Tire Compound",
+      "Soft"
+    ],
+    [
+      "Manufacturer table · Tire Tread",
+      "Chevron"
+    ],
+    [
+      "Manufacturer table · Vehicle Size",
+      "Mini"
+    ],
+    [
+      "Manufacturer table · Vehicle Type",
+      "Monster Truck"
+    ],
+    [
+      "Manufacturer table · Wheel Width",
+      "1.97 in (50mm)"
+    ],
+    [
+      "Manufacturer table · Wheelbase",
+      "6.8\" (173 mm)"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which exact variant is linked?",
+      "answer": "LOS01026T1, Green Grave Digger · complete truck. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+    },
+    {
+      "question": "Is the drive battery included?",
+      "answer": "Spektrum Smart G2 810mAh 2S LiPo · included. Required completion: Nothing required per manufacturer; inspect USB supply compatibility."
+    },
+    {
+      "question": "Which power equipment should I buy?",
+      "answer": "Follow the exact LOS01026T1 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+    },
+    {
+      "question": "What is the main evidence limitation?",
+      "answer": "Mini LMT has its own 2S brushed system; larger brushless LMT and later alternate bodies are not treated as identical test vehicles."
+    },
+    {
+      "question": "How should I compare the alternative?",
+      "answer": "Team Associated Rival MT10 V2 is a complete 1/10 4WD brushless alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+    },
+    {
+      "question": "Does the editorial rating describe a drive test?",
+      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Losi · exact LOS01026T1 official product, package and specification",
+      "url": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Losi · model-specific instructions and parts documentation",
+      "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw73c2e2be/Manuals/LOS01026_MANUAL_EN.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · exact B0CQ8WB9P9 complete vehicle",
+      "url": "https://www.amazon.com/dp/B0CQ8WB9P9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "RC Driver · Greg Vogel, Mini LMT teardown and running video",
+      "url": "https://www.rcdriver.com/losi-mini-lmt-monster-truck/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Team Associated · alternative Rival MT10 V2 exact specification",
+      "url": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    }
+  ],
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Mini LMT has its own 2S brushed system; larger brushless LMT and later alternate bodies are not treated as identical test vehicles. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+}

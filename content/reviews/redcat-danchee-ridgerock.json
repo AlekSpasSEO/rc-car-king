@@ -1,0 +1,496 @@
+{
+  "brand": "Redcat Racing",
+  "brandSlug": "redcat",
+  "model": "Danchee Ridgerock",
+  "modelSlug": "danchee-ridgerock",
+  "headlineLines": [
+    "DANCHEE",
+    "RIDGEROCK."
+  ],
+  "sku": "DANCHEE-RIDGEROCK-BG",
+  "title": "Redcat Danchee Ridgerock review: a budget crawler with four-wheel steering",
+  "dek": "An assembled 1/10 crawler with dual brushed motors, selectable four-wheel steering and included battery equipment. Here is the first-buyer case, the setup work and the upgrade tradeoff.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Rock crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Rocks",
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "First-time recreational crawler",
+  "price": {
+    "amount": 149.95,
+    "currency": "USD",
+    "basis": "Redcat US complete package listed price",
+    "checked": "2026-10-13",
+    "source": "https://www.redcatracing.com/products/danchee-ridgerock"
+  },
+  "image": "redcat-ridgerock-official-1.jpg",
+  "imageAlt": "Official blue and gray Redcat Danchee Ridgerock complete rock crawler photograph",
+  "imageCaption": "Danchee Ridgerock blue/gray complete vehicle. Official Redcat Racing product image.",
+  "imageCredit": {
+    "name": "Redcat Racing official product photography",
+    "url": "https://www.redcatracing.com/products/danchee-ridgerock",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "I look at the whole purchase: the car, the place you’ll drive it, and the equipment you need to get started. This review uses manufacturer documentation, Amazon API product verification and attributed independent coverage. It is not a personal drive test."
+  },
+  "overview": "My take: a sensible way to try outdoor crawling if you want a complete battery-equipped vehicle and enjoy learning four steering modes. Buy it for the stock experience. Compare a different platform first if an expensive conversion or a particular competition class is already the plan.",
+  "verdict": "A useful first crawler with four steering choices",
+  "verdictText": "Buy it for recreational outdoor crawling and a short initial shopping list. Learn the stock setup before spending on conversions. Skip it for a predetermined competition or scale-detail project, and check local replacement support before committing.",
+  "pros": [
+    "Drive battery and USB charging cable included",
+    "Four steering modes with separate front/rear trim",
+    "Dual motor-on-axle 4WD layout",
+    "Manufacturer manual includes parts and assembly drawings"
+  ],
+  "cons": [
+    "Three AA cells and USB wall power source extra",
+    "Two steering assemblies add setup and service work",
+    "Splash-resistant electronics are not submersible",
+    "Long upgrade plans need a whole-basket comparison"
+  ],
+  "bestFor": [
+    "Trying outdoor recreational crawling",
+    "Buyers interested in selectable rear steering",
+    "A finished vehicle with included drive battery"
+  ],
+  "avoidIf": [
+    "Your course is a small desktop area",
+    "You need a verified competition-class entry",
+    "You already plan to replace much of the equipment"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor layout",
+      "Twin RC380 brushed · motors on axles"
+    ],
+    [
+      "Steering",
+      "Front, rear, four-wheel and crab"
+    ],
+    [
+      "Radio",
+      "3-channel 2.4GHz · three AA extra"
+    ],
+    [
+      "Drive pack",
+      "7.4V 1500mAh Li-ion included"
+    ],
+    [
+      "Charge equipment",
+      "USB cable included · USB power extra"
+    ]
+  ],
+  "rating": {
+    "label": "Editorial buying assessment",
+    "audience": "First-time recreational outdoor crawler buyer",
+    "disclosure": "Our score evaluates the documented package and buyer fit. It is not a measured handling, speed, durability or reliability result. Five equally weighted category scores produce the overall rating.",
+    "dimensions": [
+      {
+        "label": "Beginner package",
+        "score": 8.5,
+        "reason": "Assembled vehicle, radio, drive pack and charge cable shorten the shopping list; AA cells and USB power remain extra."
+      },
+      {
+        "label": "Crawling equipment",
+        "score": 8,
+        "reason": "Four-wheel drive, axle motors and selectable rear steering form an interesting recreational package; climbing ability has not been measured."
+      },
+      {
+        "label": "Adjustment range",
+        "score": 7.5,
+        "reason": "Both steering trims and documented suspension adjustment offer useful setup choices; there is more to learn than front steering alone."
+      },
+      {
+        "label": "Service information",
+        "score": 6.5,
+        "reason": "Manufacturer drawings identify replacement assemblies, but local stock and long-term reliability have not been established."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "The $149.95 reference includes battery equipment. Value becomes less clear when the purchase includes a substantial planned conversion."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B07JXVFBQF",
+    "marketplace": "www.amazon.com",
+    "variant": "Blue/gray · complete crawler",
+    "sku": "DANCHEE-RIDGEROCK-BG",
+    "detailPageUrl": "https://www.amazon.com/dp/B07JXVFBQF?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:06:17.945Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "Four-wheel steering makes the first crawler interesting.",
+      "paragraphs": [
+        "A good first crawler should make an ordinary pile of rocks feel worth exploring. The Danchee Ridgerock has an unusually direct answer: a large, assembled vehicle with steering at both ends and its own battery equipment. You are buying a way to try slow, deliberate obstacle driving without assembling a radio system or choosing several expensive electronics first. That is the buying case I would put ahead of the roll cage and the oversized tires.",
+        "My recommendation is for someone curious about recreational crawling who can provide a suitable outdoor space. The Ridgerock is less persuasive for a buyer already committed to a club rulebook, realistic truck detailing, or a particular upgrade ecosystem. Those are different priorities. A feature that adds entertainment to a garden session can complicate a competition purchase if the class expects a different configuration.",
+        "This review covers the blue/gray complete vehicle identified by DANCHEE-RIDGEROCK-BG and Amazon ASIN B07JXVFBQF. Danchee is the product line; Redcat Racing is the manufacturer brand returned by the API. Searches for another Redcat model actually surfaced this crawler, which is a useful reminder to check the part number rather than trusting the search phrase. It is a complete running package, not a spare axle or a body shell.",
+        "The central compromise is where your money goes after the first few sessions. I would buy it to enjoy the documented stock package, then learn which limitation actually matters on my terrain. I would hesitate to buy it with a long list of immediate conversions already planned. Once the plan is to replace much of the equipment, the comparison should include vehicles that start closer to the desired destination."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "What arrives",
+      "heading": "The drive battery is included. Three AA cells still are not.",
+      "paragraphs": [
+        "The manufacturer specifies an assembled crawler, a three-channel radio, a 7.4V 1500mAh Li-ion drive pack and USB charging cable. The transmitter needs three AA cells, and the USB wall power source is not supplied. This is a relatively short shopping list for a newcomer. It also makes the advertised vehicle price more meaningful than a car-only offer whose required power equipment can substantially increase the basket.",
+        "I would unpack the vehicle before ordering extra batteries. Check the supplied connector, pack size and charging instructions against the actual equipment in the box. A listing that says 7.4V does not establish that another pack has the right connector, polarity, dimensions or charging needs. Keeping the original battery system for the first sessions removes one avoidable variable while you learn the vehicle.",
+        "The absence of a construction project can matter more than it first appears. If the aim is a shared weekend activity, a finished vehicle lets you spend that time choosing obstacles and learning the radio. If your enjoyment comes from painting, building and selecting electronics, that convenience may actually be less attractive. Buy the format that fits the activity you want, rather than assuming that assembled is automatically better.",
+        "RTR still deserves a first inspection. Look for loose hardware, trapped wires and freely moving links, then use the owner instructions for startup. This is a pre-use check, not an allegation that every example leaves the factory incorrectly assembled. A small problem found on the bench is easier to understand than one discovered while the vehicle is wedged between rocks."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motors on the axles",
+      "heading": "Two motors are a layout choice, not a performance score.",
+      "paragraphs": [
+        "The Ridgerock uses a motor-on-axle arrangement: a brushed motor drives each axle rather than one central motor feeding both ends through long driveshafts. The 2022 manufacturer manual identifies two RC380 motors. This layout helps explain the compact central chassis and the visible equipment at the axles. It should not be confused with a conventional ladder-frame trail truck simply because both are sold as 1/10 crawlers.",
+        "For a buyer, the useful implication is that drivetrain repairs and power-system changes need to suit this particular layout. Advice written for a central transmission is not automatically a shopping list for the Ridgerock. I would first understand which parts belong to the front and rear assemblies, and use the manufacturer drawings when ordering. A similar looking axle from another crawler is not evidence of compatibility.",
+        "Two motors do not establish twice the climbing ability, and a brushed label does not tell us how smoothly this example will start on a difficult ledge. We have not measured throttle response, motor temperature, runtime or traction. Those remain practical demonstration questions. A slow crawl over your intended kind of obstacle would be more useful evidence than a sales claim about enormous torque.",
+        "I would resist chasing extra speed here. If you approach a rock as a jump, you are evaluating a different kind of vehicle. The purchase makes more sense when the challenge is placing tires and managing the climb. If rapid passes, repeated launches and fast rough-ground driving are the plan, compare a basher before spending money changing a crawler into one."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Center both ends before blaming the steering mode.",
+      "paragraphs": [
+        "The radio provides separate front and rear steering trim, which is especially relevant when two axles steer. A vehicle that travels diagonally with the wheel centered may need the rear neutral position checked as well as the front. The manual explains both adjustments. That is a useful setup distinction for a newcomer accustomed to a simple front-steering car.",
+        "Start on a flat, clear area where you can see what each axle is doing. Confirm direction, neutral position and throttle behavior using the instructions before choosing a narrow climbing line. I would learn the normal front-steering mode first. It gives you a familiar reference, making the effect of the other modes easier to recognize rather than treating every unexpected movement as a fault.",
+        "The control learning curve is part of the appeal. A button gives you more steering options, but your choice still matters. Before a tight turn, think about whether you want the rear to follow a conventional arc or move differently. Pressing through modes without checking the indicator can create confusion at exactly the moment you are trying to make a careful correction.",
+        "This is also where a quick bench demonstration by a helpful retailer can be valuable. Ask to see the two trims and all four modes, rather than only asking how fast it runs. For a gift, learning those controls yourself before handing over the transmitter makes the first session easier. We do not assign a handling score from these documented controls; they support the package assessment and the setup advice."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Four steering choices",
+      "heading": "Crab steering changes the line. It does not slide the car sideways.",
+      "paragraphs": [
+        "The manufacturer manual shows four choices: front steering, opposite-direction front and rear steering, same-direction crab steering, and rear-only steering. Opposite-direction steering is the option I would explore for a confined turn. Same-direction steering changes the angle at which the vehicle travels across the ground. It is not a sideways drift or a guarantee that the vehicle will move horizontally without going forward or backward.",
+        "My suggested exercise is simple: mark two points on clear ground and try the same approach in each mode. Watch the rear tires as closely as the front ones. That teaches the relationship between your input and the path more clearly than attempting a difficult obstacle immediately. Once you understand the behavior, you can choose a mode because the line needs it, rather than because four-wheel steering sounds impressive.",
+        "The rear steering hardware adds another ownership consideration. There is a second servo, a second set of steering links and another neutral setting to check. That is a reasonable trade for the feature if you want to use it. If you want the simplest possible steering system, a conventional front-steering crawler may be a better fit even if its feature list looks shorter.",
+        "I would check club requirements before buying for organized crawling. We have not verified eligibility for a particular class, and four-wheel steering may be treated differently by different events. The everyday buyer can simply enjoy the options. The competition buyer needs a rule-compatible purchase first, then a comparison of equipment and support."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to drive",
+      "heading": "Choose obstacles for the wheelbase you actually own.",
+      "paragraphs": [
+        "The documented dimensions put this in a different practical setting from a palm-sized crawler. Its 320mm wheelbase and large tires suggest a vehicle to plan around outdoor obstacles rather than a tiny desk course. My recommendation is to look at the space you can use regularly before ordering. A big model can make sense on a garden rock pile and still be inconvenient in a small apartment.",
+        "A crawler course is a relationship between the vehicle and the obstacle. A ledge that feels substantial to a micro crawler may be easy for a larger one, while a tight route can become the harder challenge. I would build a varied, modest course with clear entry and exit points. You do not need the largest possible rock to make positioning interesting, and difficulty is easier to adjust when you can change the route.",
+        "The published ground clearance is a specification, not a promise of an obstacle height the truck will clear. Tire contact, approach angle, axle position and the center of the obstacle all matter. We have not measured a maximum climbing angle or a minimum turning circle. Treat those omissions as questions for a demonstration, rather than filling them with numbers borrowed from another crawler.",
+        "The manual describes the electronics as splash-resistant and expressly excludes submersion. I would choose dry crawling terrain and avoid planning a creek route around a casual waterproof claim from a seller. After a dusty session, inspect and clean the moving assemblies. A low-speed hobby still creates wear and dirt; slow driving does not remove the need to check what the rocks have contacted."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The cage look is fun; the parts drawings are more useful.",
+      "paragraphs": [
+        "The body and molded roll cage give the Ridgerock a purpose-built crawler appearance rather than the replica-pickup identity of many trail trucks. If scale realism is the main attraction, compare photos closely before buying. The broad vehicle category can hide very different visual goals. Here the exposed mechanical layout is part of the look, and it may suit a functional obstacle course better than a detailed shelf display.",
+        "For ownership, I value an identifiable parts system more than the word upgradeable. The manufacturer manual provides assembly drawings and named replacement components. That gives you a starting point when something wears or breaks. It does not prove that every item is currently stocked in your country, so I would check a few likely wear components with the retailer before committing to a long ownership plan.",
+        "A 2023 owner discussion on Reddit includes positive beginner experiences, while a separate 2024 thread raises concerns about the limits of a long upgrade plan. Those are attributable individual opinions, not reliability statistics. They help frame the buying question: will you enjoy the stock vehicle, or are you hoping it becomes another platform after substantial spending? Neither thread proves what your particular example will do.",
+        "My preferred maintenance habit would be a short inspection after each session: steering links, wheel attachment, wiring at the moving axles and visible damage. Keep changes recorded so that an adjustment can be reversed if it creates a problem. That process is more useful than fitting heavier equipment simply because it is sold as an upgrade. Diagnose the problem first, then decide whether the part solves it."
+      ],
+      "sourceIndexes": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "The full purchase",
+      "heading": "Budget for a first session before budgeting for a conversion.",
+      "paragraphs": [
+        "Redcat lists the complete package at $149.95 at this check. That is the dated reference used by our archive filter; the live Amazon offer is a separate API-sourced commercial snapshot. The battery and USB charging cable are included, so the immediate extras are three transmitter AA cells and a suitable USB power source if you do not already have one. Taxes and shipping depend on the purchase.",
+        "The startup table keeps unverified accessory prices open rather than inventing a precise total. You can calculate your basket as $149.95 plus the actual cost of those missing items and delivery. If you already have suitable AA cells and USB power, the listed vehicle cost is close to the equipment subtotal. If not, include them before comparing the package with another crawler.",
+        "I would reserve a little budget for replacement needs without choosing upgrades before the first drive. A spare pack can be useful eventually, but first establish whether the included pack gives you a convenient session and confirm an appropriate replacement. The important decision is whether you want more time with this vehicle, rather than whether another accessory makes the initial order look more complete.",
+        "Affiliate status should not change that recommendation. The Amazon button points to the verified complete-car identity, and seller, availability and price can change. The rating is our editorial buying assessment for a beginner; it is not an Amazon star average or a claim of personal ownership. Read the actual offer contents at checkout if a seller's bundle differs from the manufacturer package described here."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ],
+      "table": {
+        "caption": "First-session basket · dated USD reference, not a live total",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Cost treatment"
+        ],
+        "rows": [
+          [
+            "Danchee Ridgerock BG complete package",
+            "Vehicle, radio, drive pack and USB cable",
+            "$149.95 Redcat US reference"
+          ],
+          [
+            "Three AA transmitter cells",
+            "Extra",
+            "Add your actual purchase cost"
+          ],
+          [
+            "Suitable USB power source",
+            "Extra if needed",
+            "Add your actual purchase cost"
+          ],
+          [
+            "Tax / shipping",
+            "Offer and location dependent",
+            "Add checkout charges"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "What to compare",
+      "heading": "A smaller crawler or a different long-term starting point.",
+      "paragraphs": [
+        "The Axial SCX24 Jeep JT Gladiator V2 belongs on the comparison list when storage, indoor obstacles and portability dominate the decision. The reason to cross-shop is scale and setting, not a claim that a small crawler beats a large one on every rock. Choose the exact SCX24 model and check its included equipment, because the family contains different bodies and revisions. A more convenient vehicle can be the one you actually use more often.",
+        "The Traxxas TRX-4M Ford Bronco is another compact comparison if you want a familiar scale-truck body and a smaller course. I would compare the whole package, local parts supply and the places you can drive it. Do not transfer the Ridgerock's steering feature list across to the alternative. If selectable rear steering is the particular feature that excites you, ask whether you would miss it on the other purchase.",
+        "If your goal is a detailed 1/10 trail truck or a substantial long-term build, compare a suitable larger Axial or Redcat platform before buying the Ridgerock plus a conversion list. You may spend more initially while avoiding equipment you already intended to replace. That is an individual basket calculation, not evidence that a more expensive vehicle is automatically a better first crawler.",
+        "My deciding questions would be practical: where will it run twice a week, how much space can you store it in, who can help when a part needs replacement, and which controls do you actually want? Put those answers beside the final delivered prices. They create a clearer shortlist than comparing a single advertised feature or treating every crawler as if it were built for the same course."
+      ],
+      "sourceIndexes": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The final call",
+      "heading": "Buy the stock experience, and leave room to learn.",
+      "paragraphs": [
+        "The Ridgerock earns a place on a first-crawler shortlist because the documented package removes much of the initial electronics shopping and offers an interesting steering system. Its appeal is strongest when your goal is accessible outdoor crawling with a complete vehicle. I would buy it with that purpose clearly in mind and let the first sessions show whether crawling becomes a lasting interest.",
+        "I would pass if the purchase has to satisfy a specific competition class, reproduce a particular real truck, or anchor a predetermined expensive electronics build. Check those requirements against a more suitable platform first. The most affordable starting point is not necessarily the least expensive route to a completely different finished vehicle.",
+        "Our 7.6/10 is a transparent editorial assessment of beginner buying fit, package contents, useful adjustment, documented service information and value. It contains no measured durability, climbing or runtime result. Before ordering, verify the exact blue/gray complete-car listing, the missing AA and USB-power items, and the terrain you can use regularly. Then spend the first session learning the rear wheels: that is the distinctive reason to put this crawler in your garage."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "redcat-ridgerock-official-2.jpg",
+      "alt": "Official Redcat photographs showing both sides of the blue and gray Ridgerock and its axle-mounted equipment",
+      "caption": "Two official views show the link suspension and equipment at the axles.",
+      "source": "https://www.redcatracing.com/products/danchee-ridgerock",
+      "creditName": "Redcat Racing"
+    },
+    {
+      "image": "redcat-ridgerock-official-3.jpg",
+      "alt": "Redcat official illustration of front, four-wheel, crab and rear steering arrangements",
+      "caption": "Four steering arrangements change the route the vehicle follows. Mode numbering is explained in the manufacturer manual.",
+      "source": "https://www.redcatracing.com/products/danchee-ridgerock",
+      "creditName": "Redcat Racing"
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / variant",
+      "DANCHEE-RIDGEROCK-BG · blue/gray"
+    ],
+    [
+      "Scale / format",
+      "1/10 · RTR complete crawler"
+    ],
+    [
+      "Drive / power",
+      "4WD · electric brushed"
+    ],
+    [
+      "Motor layout",
+      "Two RC380 motors on axles · 2022 manual"
+    ],
+    [
+      "Reduction",
+      "40:1 · 2022 manufacturer manual"
+    ],
+    [
+      "Chassis",
+      "Plastic twin vertical plate layout"
+    ],
+    [
+      "Axles / suspension",
+      "Solid axles · multi-link suspension"
+    ],
+    [
+      "Shocks",
+      "Aluminum-capped oil-filled"
+    ],
+    [
+      "Steering",
+      "Two servos · four selectable modes"
+    ],
+    [
+      "Control unit",
+      "2-in-1 brushed ESC / receiver"
+    ],
+    [
+      "Radio",
+      "3-channel 2.4GHz · three AA required"
+    ],
+    [
+      "Battery supplied",
+      "7.4V 1500mAh Li-ion"
+    ],
+    [
+      "Charging supplied",
+      "USB cable · wall power source excluded"
+    ],
+    [
+      "Length / width / height",
+      "440 / 230 / 275 mm"
+    ],
+    [
+      "Wheelbase / ground clearance",
+      "320 / 81 mm"
+    ],
+    [
+      "Listed wheel diameter / width",
+      "132 / 57 mm"
+    ],
+    [
+      "Water exposure",
+      "Manual: splash-resistant; no submersion"
+    ],
+    [
+      "Warranty source conflict",
+      "Product site advertises 1 year limited; Amazon API field says 90 day manufacturer defects. Confirm offer-specific terms."
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the Ridgerock a complete vehicle or a kit?",
+      "answer": "The verified blue/gray package is an assembled complete RTR crawler with radio, battery and USB charging cable. It is not a bare chassis or a spare part."
+    },
+    {
+      "question": "What else do I need before driving?",
+      "answer": "Three AA transmitter cells and a suitable USB power source. Follow the instructions for the supplied battery and charging cable before use."
+    },
+    {
+      "question": "Does crab mode move it directly sideways?",
+      "answer": "No. It angles both axles in the same direction, changing the travel direction as the vehicle moves forward or backward. It does not create a sideways drift."
+    },
+    {
+      "question": "Are the two motors brushless?",
+      "answer": "No. The manufacturer identifies brushed power; its 2022 manual lists two RC380 motors, one associated with each axle."
+    },
+    {
+      "question": "Can it run through a stream?",
+      "answer": "The manufacturer manual describes splash-resistant electronics and prohibits submersion. Our suggested setting is dry recreational crawling terrain."
+    },
+    {
+      "question": "What does the 7.6 editorial score mean?",
+      "answer": "It is the mean of five disclosed package and buyer-fit assessments for a first recreational crawler. It is neither an Amazon rating nor a hands-on performance result."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Redcat Racing · current Ridgerock package, specifications and price",
+      "url": "https://www.redcatracing.com/products/danchee-ridgerock",
+      "kind": "Manufacturer",
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Redcat Racing · MAN-RIDGEROCK-BG-2022-4-19 manual, hosted by Horizon",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwbf6e6bf1/Manuals/1-10%20Danchee%20Ridgerock%20Manual.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Amazon Creators API · exact B07JXVFBQF vehicle identity and offer",
+      "url": "https://www.amazon.com/dp/B07JXVFBQF?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "kind": "API product verification",
+      "affiliate": true,
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Reddit · 2023 individual first-crawler owner discussion",
+      "url": "https://www.reddit.com/r/rccrawler/comments/1139mqh/",
+      "kind": "Owner reports",
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Reddit · 2024 stock purchase versus upgrade discussion",
+      "url": "https://www.reddit.com/r/rccrawler/comments/1bt1ybr/",
+      "kind": "Owner reports",
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Big Squid RC · coverage of Redcat Ridgerock running video",
+      "url": "https://www.bigsquidrc.com/redcat-1-10-danchee-ridgerock-running-video/",
+      "kind": "Independent coverage of manufacturer video",
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Axial · SCX24 complete crawler range",
+      "url": "https://www.axialadventure.com/by-platform/scx24/",
+      "kind": "Alternative manufacturer",
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Traxxas · TRX-4M Ford Bronco complete crawler",
+      "url": "https://traxxas.com/products/models/electric/trx-4m-ford-bronco",
+      "kind": "Alternative manufacturer",
+      "checked": "2026-10-13"
+    }
+  ],
+  "evidenceNote": "Current manufacturer specifications and the 2022 owner manual establish the equipment and controls. The Amazon Creators API verifies the exact complete-car ASIN and part number. Owner reports are individual opinions, not aggregate reliability evidence. Big Squid RC describes a manufacturer running video, not its own instrumented test. The product-site and API warranty descriptions differ, so applicable terms require offer-specific confirmation. We have not physically driven this vehicle.",
+  "revisionNote": "13 October 2026: launch review with verified complete-car identity, official imagery, startup basket and disclosed editorial scoring.",
+  "purchaseNote": "Drive battery and USB charging cable included; three AA cells and USB power source extra."
+}

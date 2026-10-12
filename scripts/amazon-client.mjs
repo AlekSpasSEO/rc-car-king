@@ -26,5 +26,5 @@ export function normalizeItem(item){return {asin:item.asin,title:item.itemInfo?.
 export function matchesVehicle(item,review){
  const sku=item.itemInfo?.manufactureInfo?.itemPartNumber?.displayValue;
  const brand=item.itemInfo?.byLineInfo?.brand?.displayValue;
- return item.asin===review.amazon.asin && sku===review.sku && brand?.toLowerCase()===review.brand.toLowerCase();
+ return item.asin===review.amazon.asin && sku===(review.amazon.apiSku??review.sku) && brand?.toLowerCase()===review.brand.toLowerCase();
 }

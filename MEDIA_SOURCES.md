@@ -1,6 +1,6 @@
 # Product media ledger
 
-The publication uses actual manufacturer product images for the reviewed vehicle. All below identify Traxxas 105247-4, black Nissan 240SX. These are manufacturer photographs/illustrations, not photographs taken by RC Car King. Credit is visible in the product box and figure captions. No ownership or original photography is claimed.
+The publication uses actual manufacturer product images for the reviewed vehicle. The original review identifies Traxxas 105247-4, black Nissan 240SX. Launch additions have their own model-specific media records below. These are manufacturer photographs/illustrations, not photographs taken by RC Car King. Credit is visible in the product box and figure captions. No ownership or original photography is claimed.
 
 Checked 13 October 2026 on the [official product page](https://traxxas.com/4-tec-drift-nissan-240sx-105247-4).
 
@@ -11,3 +11,23 @@ Checked 13 October 2026 on the [official product page](https://traxxas.com/4-tec
 | `public/assets/traxxas-nissan-240sx-dimensions.jpg` | https://traxxas.com/media/wysiwyg/marketing-suites/C-105247-4/10163289/105247-4_blk-specs-side.jpg | Explain actual overall length and wheelbase |
 
 Do not use a Mustang image as if it depicts the Nissan. Do not use the generated Tokyo hero illustration as review product photography. Public community images are not automatically reusable; obtain appropriate permission before republishing them and preserve attribution.
+
+## Redcat Racing · Danchee Ridgerock BG
+
+Checked 13 October 2026 against the official product page. Official images, not RC Car King test photography.
+
+| Local file | Manufacturer source | Purpose |
+| --- | --- | --- |
+| `public/assets/redcat-ridgerock-official-1.jpg` | https://www.redcatracing.com/cdn/shop/products/media_c74edb50-86dd-4f76-a624-962937ada852.jpg?v=1686353273 | Actual blue/gray complete vehicle |
+| `public/assets/redcat-ridgerock-official-2.jpg` | https://cdn.shopify.com/s/files/1/0079/2428/5530/t/3/assets/c571789142c3--RIDGEROCK-PDP-06-f5d997.jpg?v=1686246284 | Two views of vehicle and axle equipment |
+| `public/assets/redcat-ridgerock-official-3.jpg` | https://cdn.shopify.com/s/files/1/0079/2428/5530/t/3/assets/c571789142c3--RIDGEROCK-PDP-07-e82a96.jpg?v=1686246296 | Official steering-arrangement illustration |
+
+## Launch batch manifests
+
+The following tracked manifests map every launch model to its actual official asset URLs, exact vehicle identity, sources and source discrepancies. Files named `public/assets/...` are copied into generated `docs/assets/...` for GitHub Pages. All image assets were inspected for the intended vehicle; assembly-kit photos may show completed examples, which the product boxes disclose. No Amazon image bytes or unlicensed community photographs were downloaded for this archive.
+
+- [Traxxas and ARRMA](content/launch-traxxas-arrma.json)
+- [Losi, Axial and Team Associated](content/launch-horizon.json)
+- [Tamiya and Kyosho](content/launch-tamiya-kyosho.json)
+
+The original Tokyo illustration remains homepage atmosphere. Review product photography is actual manufacturer media.

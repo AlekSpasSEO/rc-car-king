@@ -1,0 +1,459 @@
+{
+  "brand": "Tamiya",
+  "brandSlug": "tamiya",
+  "model": "Toyota Celica GT-Four ST165 TT-02",
+  "modelSlug": "toyota-celica-gt-four-st165",
+  "headlineLines": [
+    "TOYOTA CELICA GT-FOUR ST165 TT-02",
+    "4WD · 1/10"
+  ],
+  "sku": "58718",
+  "title": "Tamiya Toyota Celica GT-Four ST165 TT-02 review: the right complete-car project?",
+  "dek": "An appealing ST165 model for smooth-ground driving; confirm the regional body finish and ESC before treating the low kit offer as a finished basket.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Touring car",
+  "use": "Racing",
+  "terrain": [
+    "On-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Body-inclusive assembly kit",
+  "skill": "Rally-livery modeler driving on smooth pavement",
+  "price": {
+    "amount": 114.8,
+    "currency": "USD",
+    "basis": "Tower Hobbies listed USD reference · exact kit only · retailer, not MSRP",
+    "checked": "2026-10-13",
+    "source": "https://www.towerhobbies.com/product/tamiya-110-toyota-celica-gt-four-st165-tt-02-4x4-on-road-touring-kit/TAM58718.html",
+    "note": "The dated USD price reference is the directly verified exact-SKU Tower Hobbies Product/Offer, a retailer reference rather than manufacturer MSRP."
+  },
+  "image": "tamiya-58718-official-1.jpg",
+  "imageAlt": "Tamiya official completed Toyota Celica GT-Four ST165 TT-02 product photograph",
+  "imageCaption": "Official Tamiya completed kit example. Assembly/finishing required; any shown completion electronics are subject to the documented box contents.",
+  "imageCredit": {
+    "name": "Tamiya official product photography",
+    "url": "https://www.tamiya.com/english/products/58718/index.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Research-led buying assessment using exact manufacturer documentation, verified Amazon identity and attributable independent coverage. We have not physically driven this model."
+  },
+  "overview": "The Toyota Celica GT-Four ST165 is a good purchase for the modeler who wants to recreate an important rally subject and then drive it on relatively smooth ground.  The TT-02 is an accessible shaft-drive platform and the included body makes this a complete vehicle kit.  My reservation is that the standard tires and friction dampers are closer to an entry touring-car brief than the rugged rally behavior a sponsor-covered Celica might suggest.",
+  "verdict": "A considered purchase for rally-livery modeler driving on smooth pavement",
+  "verdictText": "I would buy this Celica when finishing the exact ST165 is an activity you want and a suitable driving area is available. Confirm the box contents, choose compatible basic electronics and establish a stock baseline before ordering suspension changes. I would pass for rough-ground bashing, immediate ready-running convenience or a track whose rules require a different package. The Celica earns its place through a focused modeling-and-driving role. It is a clearer purchase when its beautiful rally identity attracts you without being allowed to dictate unsupported expectations of the small chassis underneath.",
+  "pros": [
+    "The included ST165 shell and markings make a focused Toyota rally modeling project.",
+    "TT-02 assembly is documented but the regional body-finish notice needs confirmation.",
+    "Removable body and TT-02 documentation support routine inspection."
+  ],
+  "cons": [
+    "English clear/painting context conflicts with Japan pre-painted/cut/drilled notice. API includes ESC while global page lists it separately.",
+    "Standard racing radials and friction dampers suit smooth-ground use.",
+    "Radio, servo and power equipment remain extra."
+  ],
+  "bestFor": [
+    "Rally-livery modeler driving on smooth pavement",
+    "Owners who want the exact included body and documented running hardware"
+  ],
+  "avoidIf": [
+    "You expect stock rally-block tires and oil damping.",
+    "You need a confirmed no-paint RTR package."
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/10 · 4WD"
+    ],
+    [
+      "Motor",
+      "540 brushed · included"
+    ],
+    [
+      "Controller",
+      "API says included; global specification says separate · verify box"
+    ],
+    [
+      "Battery",
+      "Suitable pack and charger · extra"
+    ],
+    [
+      "Radio / servo",
+      "2-channel radio/receiver + servo · extra"
+    ],
+    [
+      "Format / SKU",
+      "Body-inclusive assembly kit · 58718"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Rally-livery modeler driving on smooth pavement",
+    "disclosure": "Five equally weighted categories assess documented equipment and buyer fit. No measured speed, handling, durability, runtime or reliability scores are assigned.",
+    "dimensions": [
+      {
+        "label": "Build / buyer fit",
+        "score": 8.5,
+        "reason": "The included ST165 shell and markings make a focused Toyota rally modeling project."
+      },
+      {
+        "label": "Documented equipment",
+        "score": 7,
+        "reason": "TT-02 assembly is documented but the regional body-finish notice needs confirmation."
+      },
+      {
+        "label": "Setup / adjustment",
+        "score": 6.5,
+        "reason": "Motor and body are supplied; radials/friction damping suit a modest touring brief."
+      },
+      {
+        "label": "Service understanding",
+        "score": 7.5,
+        "reason": "Removable body and TT-02 documentation support routine inspection."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "API vehicle price is attractive; conditional ESC and paint plus other extras need an exact quote."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0BY1Z7RKQ",
+    "marketplace": "www.amazon.com",
+    "variant": "Toyota Celica GT-Four ST165 TT-02 · complete body-inclusive kit",
+    "sku": "58718",
+    "apiSku": "58718",
+    "identityNote": "API manufacturer part number exactly equals reviewed SKU.",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BY1Z7RKQ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:18.453Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "The buying case: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The Toyota Celica GT-Four ST165 is a good purchase for the modeler who wants to recreate an important rally subject and then drive it on relatively smooth ground. The TT-02 is an accessible shaft-drive platform and the included body makes this a complete vehicle kit. My reservation is that the standard tires and friction dampers are closer to an entry touring-car brief than the rugged rally behavior a sponsor-covered Celica might suggest. Buy the livery and build knowingly, not a full-size competition promise.",
+        "This review identifies manufacturer item 58718 and an Amazon record with the exact part number 58718. The listing title also uses a regional TAM58718A code, but we do not overwrite the API’s actual part number with title shorthand. The complete-car kit includes its body and motor. It must be assembled and equipped; it is not a Readyset or a separate Celica replacement shell.",
+        "The body finish needs special care in the evidence. The English manufacturer page describes a painted-and-assembled example and painting work; the Japan page currently carries a pre-painted, cut and drilled body notice. Independent coverage distinguishes another pre-painted limited edition. The safe buying recommendation is to confirm the actual regional box’s body finish before ordering paint or treating the kit as a no-paint project. We retain that unresolved detail rather than silently merging different pages into a convenient package."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "The complete package",
+      "heading": "The complete package: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The TT-02 components, Celica body, wheels, racing radial tires, markings and 540-size motor form the kit’s supplied vehicle. The exact Amazon features state that an ESC and motor are included, whereas the global product specification lists the ESC separately. Verify the current offered export box and controller model with the seller. Radio transmitter and receiver, steering servo, drive pack, charger and transmitter cells remain separate in either case.",
+        "For this particular kit, prepare two completion plans until the body finish is resolved. If the box contains a clear shell, you need appropriate polycarbonate paint, trimming tools and time for masking. If the offered regional shell is already painted, cut and drilled, you still need to apply the required details and markings according to its supplement, but should not purchase paint on the assumption that the standard English description settles the box in front of you.",
+        "The chassis build is the other half of the project. Read the TT-02 steps and body instructions together, identify the chosen wheelbase and ride-height configuration and keep hardware sorted. Check free driveline rotation before fitting the motor cover. Get the radio working on the uncovered chassis and then trial-fit the shell, checking steering and tire clearance. That order avoids confusing a body rub with a steering problem and preserves the finished appearance whether the paint came from the factory or your own bench."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain and power",
+      "heading": "Drivetrain and power: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "A center shaft links the front and rear transmissions, and four-bevel differentials sit at both ends of the TT-02. It is full-time 4WD, not the rear-drive configuration of the Toyota 86 drift Readyset or a crawler’s locked driveline. Differential action helps the wheels accommodate different distances through a bend. The buyer benefit is an understandable conventional touring platform underneath the distinctive rally shell.",
+        "Tamiya specifies an 8.27:1 stock ratio for this Celica. That differs from the Subaru Impreza TT-02 package, which is a reminder not to transfer every setup detail between cars sharing a chassis name. Optional pinions provide other ratios, but the first build should use the documented arrangement. Inspect the shaft seating and turn the completed transmission by hand. Binding gears or incorrect spacers can create drag that an enthusiastic motor upgrade will only make harder to diagnose.",
+        "The motor is a brushed 540-size unit. Choose or verify a controller compatible with it and with the actual battery you intend to use. A product bullet naming an included ESC does not identify its voltage limits or connector by itself. Use the current box and electronics instructions for those details. I would keep the stock motor and gearing for the first runs and devote the budget to reliable compatibility and finishing. If the goal is already fast brushless driving, price a complete brushless car rather than assuming this kit’s low offer makes a conversion inexpensive."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Radio and setup: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "A two-channel radio and compatible receiver are extra. The steering servo is extra too, so this kit leaves you with a small but important integration task. Choose equipment that fits the TT-02’s mounts and space, check the receiver protocol, and verify that the selected ESC can calibrate correctly with the radio. An inexpensive unmatched collection of electronics does not become a complete system simply because all the plugs look familiar.",
+        "Set servo neutral before fitting its horn, assemble the saver as specified for that servo and adjust the linkage mechanically. Calibrate the controller on a supported chassis with the wheels clear. Confirm steering direction, forward drive and braking, then route the wires away from the center shaft and moving front linkage. Those are basic operations, but they determine whether the first drive begins with a calm control check or an avoidable collision.",
+        "RCGuided’s exact 58718 build video documents the assembly process, including an unpainted body. That is independent creator coverage of a particular kit, with disclosed affiliate links, not our own build and not evidence about every currently offered regional body. It usefully demonstrates that the chassis assembly and body fitting are real stages of the purchase. We do not infer speed or long-term reliability from the condensed build. Use it for visual context while the manufacturer instructions remain the authority for assembly order and equipment limits."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Steering and suspension: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The standard kit has four-wheel double-wishbone suspension with friction dampers and a three-piece steering arrangement. That is an accessible starting point, but it should be listed accurately rather than described as a premium oil-damped rally system. The TT-02 offers alternative clearance and track arrangements; the included body and instructions determine the sensible baseline. A catalog’s list of possible configurations is not permission to combine them arbitrarily.",
+        "Check every pivot for free motion, compare left and right suspension movement and confirm that the dogbones remain correctly located. Center the servo and adjust steering travel so the servo does not keep pushing after a wheel reaches a physical stop. Check again with the Celica body fitted. Tight wheel arches or a low shell can produce a steering restriction that more electronic endpoint travel cannot solve.",
+        "Oil dampers and adjustable geometry parts are possible later projects, but the initial question is whether the assembled stock mechanism moves properly. Make one change at a time and record the original settings. We have not driven the chassis with different dampers, so we do not assign a handling advantage to an imagined upgrade basket. A buyer whose non-negotiable requirement is stock oil damping should compare a vehicle supplied that way. It is easier to choose the right starting package than to justify replacing its suspension before learning what the standard kit actually does."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to drive",
+      "heading": "Where to drive: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The supplied white dish wheels wear racing radial tires, according to the current English manufacturer specification. That matters: a rally livery is not the same thing as an included rally-block tire package. I would choose clean pavement and relatively smooth practice areas as the initial brief. Flat dirt may be possible with appropriate setup and care, but deep gravel, long grass and large obstacles are not justified by the Celica name.",
+        "For the first session, practice broad circles and controlled stops with space away from raised curbs. Observe whether the shell clears the tires when turning and whether debris is accumulating in the chassis. Treat a smooth cornering route as the goal before trying to recreate a full-size rally stage. The model’s small wheels and entry suspension make ground selection a meaningful part of the purchase, rather than an incidental detail after the body is painted.",
+        "If you want to use the car at a rally venue, ask which tires and ride-height arrangements are expected. Club tire rules can be more important than the options you planned from the internet. Clean the car after dust exposure, inspect wheel rotation and shafts, and follow the actual electronics’ water restrictions. We have not measured traction or established a weatherproof completed installation. A consistent dry practice area lets you learn the car without confusing a surface change with a mechanical adjustment."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Body and service: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The ST165 shell recreates the car associated with Toyota’s 1990 rally success, with red livery areas and sponsor markings forming much of its character. The exact model’s appearance is a legitimate reason to buy it. You do not need to justify a preference for this Celica by pretending it is the fastest TT-02. The purchase becomes clearer when the finished model you want is distinguished from the terrain and performance you expect.",
+        "Resolve the regional body finish before planning the paint stage. The contradictory current notices are recorded in the evidence ledger. If painting is required, test fit and prepare the shell using the supplied instructions; if the offered shell is finished, protect that surface during assembly and apply only the remaining required details. Do not assume that photographs of a completed model show the contents as they arrive in the box.",
+        "The official gallery gives a rear whole-car view and a front-body detail. They are manufacturer images, not our driving or assembly photographs. The shell’s mirrors, rear spoiler and trim deserve care around obstacles, and the accessible removable body should remain easy to lift for battery and chassis service. At a listed 450 × 185 × 130 mm with 257 mm wheelbase, it has a compact touring-car footprint. Keep the body separate from loose hardware during maintenance so that servicing the chassis does not gradually ruin the part that made you want the model."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Startup basket: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "Tower Hobbies lists the exact TAM58718 kit at $114.80 in directly checked product data. That is a dated independent retailer kit-only reference rather than a manufacturer MSRP. The verified Amazon listing provides separate current commercial checking, with any live offer kept in the expiring product box. A low vehicle reference does not include radio and power equipment or settle the regional body and ESC discrepancies. Ask the seller which box is supplied and obtain a complete equipment quote before comparing this Celica project with an assembled rally car.",
+        "The complete startup basket includes kit, radio with receiver, steering servo, suitable battery, compatible charger, transmitter cells and assembly tools. Add an appropriate brushed ESC if the offered box lacks one. Add polycarbonate paint and body-preparation supplies only if the actual supplied shell requires them. Listing both conditional items is deliberate: the unresolved evidence should influence the shopping checklist rather than disappear from the review. We do not have verified current prices for every chosen extra and therefore print no fabricated complete total.",
+        "If you already own compatible equipment, check its connectors, dimensions and condition before treating it as free completion. If starting from nothing, obtain a real quote for this exact regional kit and the electronics you intend to fit. Bearings, oil shocks and optional rally tires are separate decisions. Price them transparently if they are essential to your planned use. The Celica is a good value proposition when its subject and build are the attraction; a large immediate conversion can make another complete car the more economical route to the driving outcome you want."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ],
+      "table": {
+        "caption": "Actual completion basket · extras unpriced unless a checked price is available",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Price basis"
+        ],
+        "rows": [
+          [
+            "Reviewed vehicle",
+            "Kit/car only",
+            "$114.80 · stated dated reference"
+          ],
+          [
+            "Motor",
+            "540 brushed · included",
+            "Included/extra as described"
+          ],
+          [
+            "ESC",
+            "API says included; global specification says separate · verify box",
+            "Confirm regional box; price any missing controller separately"
+          ],
+          [
+            "Radio / servo",
+            "2-channel radio/receiver + servo · extra",
+            "Extra; quote exact components"
+          ],
+          [
+            "Drive power",
+            "Suitable pack and charger · extra",
+            "Extra; quote exact pack and charger"
+          ],
+          [
+            "Tools / finishing / transmitter cells",
+            "As required by exact manuals",
+            "Price required items separately"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "Real alternatives: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The Subaru Impreza Monte-Carlo ’99 58631-A is a body-inclusive TT-02 alternative with a different livery, rally-block tires and high-clearance body guidance. It is a useful comparison if you want a mild-rally build and do not have a fixed preference for the Toyota subject. Its regional controller and stock status need their own checks. Shared chassis architecture should not erase the differences in tires, gearing and finishing requirements.",
+        "The Kyosho Datsun 240Z Rally 34482T1 is a fully assembled alternative with finished body, fitted radio, oil dampers and a chassis cover. It still needs a drive battery, charger and transmitter cells. Consider it if the driving project matters more than painting the Celica. We have not compared the two on a common surface, so this is a purchase-format and equipment comparison rather than a handling result.",
+        "The Kyosho Fazer Mk2 Celica GT 34429T1 represents a different Toyota generation and a road-car Readyset brief. It is worth investigating for the buyer who wants a finished vintage Celica immediately, but it is not an ST165 rally replica. I would keep 58718 for someone who can name why they want this livery, the Impreza for its Subaru subject and supplied blocks, the 240Z for an assembled mild-rally package and the older Celica Readyset for scale pavement driving. These are real complete-car routes with different work before the first session."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Buying verdict",
+      "heading": "Buying verdict: Toyota Celica GT-Four ST165 TT-02",
+      "paragraphs": [
+        "The ST165 makes a strong case as a rally-subject model on an accessible 4WD kit platform. It supplies its body, wheels, tires and motor, gives the builder understandable transmission and suspension work, and can become a satisfying finished Toyota. Its reservations are basic damping, road-oriented supplied tires, extra radio and power equipment, and unresolved regional body and ESC details. Those should be settled before purchasing rather than discovered after the box arrives.",
+        "Our five editorial categories assess subject appeal, assembly documentation, supplied hardware, service access and completion value for a rally-livery modeler using smooth ground. We do not score measured speed, off-road grip, crash resistance or reliability. The independent build video is credited to its creator and specific kit. Manufacturer documents establish the platform, while conflicting regional notices remain visible instead of being combined into an invented convenient specification.",
+        "I would buy this Celica when finishing the exact ST165 is an activity you want and a suitable driving area is available. Confirm the box contents, choose compatible basic electronics and establish a stock baseline before ordering suspension changes. I would pass for rough-ground bashing, immediate ready-running convenience or a track whose rules require a different package. The Celica earns its place through a focused modeling-and-driving role. It is a clearer purchase when its beautiful rally identity attracts you without being allowed to dictate unsupported expectations of the small chassis underneath."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "tamiya-58718-official-2.jpg",
+      "alt": "Tamiya official rear three-quarter Celica view: the ST165 livery, rear spoiler and white wheels.",
+      "caption": "Tamiya official rear three-quarter Celica view: the ST165 livery, rear spoiler and white wheels.",
+      "source": "https://www.tamiya.com/english/products/58718/index.html"
+    },
+    {
+      "image": "tamiya-58718-official-3.jpg",
+      "alt": "Tamiya official nose detail: front markings and light representation on a completed example. Confirm actual regional body finish.",
+      "caption": "Tamiya official nose detail: front markings and light representation on a completed example. Confirm actual regional body finish.",
+      "source": "https://www.tamiya.com/english/products/58718/index.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / SKU",
+      "Tamiya 58718"
+    ],
+    [
+      "Amazon ASIN",
+      "B0BY1Z7RKQ · API verified"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/10 · 4WD"
+    ],
+    [
+      "Purchase format",
+      "Body-inclusive assembly kit"
+    ],
+    [
+      "Motor",
+      "540 brushed · included"
+    ],
+    [
+      "Speed controller",
+      "API says included; global specification says separate · verify box"
+    ],
+    [
+      "Radio / steering servo",
+      "2-channel radio/receiver + servo · extra"
+    ],
+    [
+      "Drive battery / charging",
+      "Suitable pack and charger · extra"
+    ],
+    [
+      "Length / width / height",
+      "450 × 185 × 130 mm"
+    ],
+    [
+      "Wheelbase",
+      "257 mm"
+    ],
+    [
+      "Suspension",
+      "Independent double wishbones; friction dampers"
+    ],
+    [
+      "Tires / wheels",
+      "Racing radials · white dish wheels · 27/66 mm"
+    ],
+    [
+      "Gear arrangement",
+      "8.27:1 · stock"
+    ],
+    [
+      "Body",
+      "Body supplied · finishing per exact regional instructions"
+    ],
+    [
+      "Specification caveat",
+      "English clear/painting context conflicts with Japan pre-painted/cut/drilled notice. API includes ESC while global page lists it separately."
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does this exact model come ready to run?",
+      "answer": "No. It is a body-inclusive assembly kit. The body and chassis are supplied, but assembly, finishing and completion electronics remain part of the purchase."
+    },
+    {
+      "question": "What motor and controller are included?",
+      "answer": "540 brushed · included. API says included; global specification says separate · verify box. Confirm the offered regional box before buying replacement electronics."
+    },
+    {
+      "question": "What do I need for the first session?",
+      "answer": "2-channel radio/receiver + servo · extra. Suitable pack and charger · extra. Transmitter cells, appropriate finishing materials and assembly tools also need checking."
+    },
+    {
+      "question": "What ground should I plan to use?",
+      "answer": "The supplied white dish wheels wear racing radial tires, according to the current English manufacturer specification. That matters: a rally livery is not the same thing as an included rally-block tire package. I would choose clean pavement and relatively smooth practice areas as the initial brief. Flat dirt may be possible with appropriate setup and care, but deep gravel, long grass and large obstacles are not justified by the Celica name."
+    },
+    {
+      "question": "Which specification differences should I check before ordering?",
+      "answer": "English clear/painting context conflicts with Japan pre-painted/cut/drilled notice. API includes ESC while global page lists it separately."
+    },
+    {
+      "question": "Is the editorial rating a driving test or Amazon star rating?",
+      "answer": "Neither. It evaluates the documented complete purchase for rally-livery modeler driving on smooth pavement. Manufacturer facts, API identity and independent context are credited separately. No speed, grip, crash or reliability measurements are invented."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tamiya · exact model product/specification",
+      "url": "https://www.tamiya.com/english/products/58718/index.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Tamiya · assembly/body or regional specification documentation",
+      "url": "https://www.tamiya.com/japan/products/58718/index.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual / specification"
+    },
+    {
+      "name": "Amazon Creators API · exact ASIN B0BY1Z7RKQ",
+      "url": "https://www.amazon.com/dp/B0BY1Z7RKQ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "RCGuided · exact Celica 58718 TT-02 build video",
+      "url": "https://www.youtube.com/watch?v=QVB_jJyh_Lo",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Tower Hobbies listed USD reference · exact kit only · retailer, not MSRP",
+      "url": "https://www.towerhobbies.com/product/tamiya-110-toyota-celica-gt-four-st165-tt-02-4x4-on-road-touring-kit/TAM58718.html",
+      "checked": "2026-10-13",
+      "kind": "Retailer price reference"
+    }
+  ],
+  "evidenceNote": "Manufacturer documentation establishes the mechanism and requirements. Amazon Creators API verifies the exact listing/part number and dated offer. RCGuided · exact Celica 58718 TT-02 build video supplies attributed context; any modified build or sibling variant is explicitly distinguished in the article. English clear/painting context conflicts with Japan pre-painted/cut/drilled notice. API includes ESC while global page lists it separately. The dated USD price reference is the directly verified exact-SKU Tower Hobbies Product/Offer, a retailer reference rather than manufacturer MSRP.",
+  "revisionNote": "13 October 2026: original complete-car research review, exact API identity, current evidence ledger and credited manufacturer media."
+}

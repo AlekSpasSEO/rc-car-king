@@ -8,10 +8,14 @@ Read EDITORIAL_VOICE.md before writing. Use the original Garage Editor house voi
 
 ## Daily publication
 
+The owner authorized an initial 50-review launch archive on 13 October 2026. That one launch batch is an explicit exception to the one-per-day rule. The daily cadence resumes after launch; do not backdate launch articles or turn the launch exception into routine bulk publication. Preserve active batch work and avoid publishing from partially written records.
+
 1. Safely sync AlekSpasSEO/rc-car-king main. Preserve owner changes and concurrent work. Use Europe/Skopje for publication dates. If a complete published review already has today's date, do not add a duplicate; an offer refresh may still be useful.
 2. Select a real vehicle not already reviewed. Rotate brands, budgets and uses. Identify the exact SKU, generation, drivetrain, motor and variant. Research current manufacturer product pages and manuals, then add relevant attributable independent coverage. Never transfer test results from another variant.
 3. Follow content/reviews/traxxas-4-tec-drift-nissan-240sx.json and scripts/review-template.mjs. Aim for 2,000–3,000 useful words. Every published review needs the full top product box: actual product image, overview, six key specs, pros, cons, buy/skip guidance, author/date details, editorial rating and exact Amazon affiliate URL. Include deeper setup, controls, terrain, ownership access, complete startup cost, alternatives, verdict, a full spec table, FAQs and dated sources.
 4. Use Amazon Creators API for product identity and commercial information. scripts/amazon.mjs supports --keywords and --asin. Use existing environment credentials, or the owner's existing local credential CSV at C:/Users/ASUS/Downloads/Coffeedant-credentials.csv. Keep credentials in memory; never copy them into the repository, browser code, logs or output. The current public affiliate tag is coffeedant03-20. Verify ASIN, brand and manufacturer SKU before using a result; the same search can return complete cars, spare bodies and different power systems.
+
+   If the API uses a documented distributor prefix or regional part suffix for the same exact vehicle, retain the official SKU in `sku` and `amazon.sku`, set the exact returned value in `amazon.apiSku`, and explain the mapping in `amazon.identityNote` and the evidence record. The refresh still requires an exact API part match; do not strip prefixes or accept approximate strings. Verify regional package differences separately.
 5. Set vehicleScope to Complete RC car and status to published only once the record meets the requirements. Future-dated and draft records stay out of the public archive.
 6. Refresh commercial data with: npm run refresh:amazon -- --credentials "C:/Users/ASUS/Downloads/Coffeedant-credentials.csv" (or use environment credentials). The refresh validates exact ASIN, manufacturer SKU and brand for every published vehicle and saves only sanitized public offer data. If it fails, do not fabricate a price; retain the exact product link and let the browser's 24-hour freshness rule hide an expired snapshot.
 7. Run npm run build and npm run check. Inspect the product box, full article, photos, offer display, links, FAQ and mobile tables. Keep generated docs/ committed with source/content changes. Commit and push main; GitHub Pages serves main /docs.
@@ -24,6 +28,8 @@ Every review must have exact brand/model/SKU, kebab-case slugs, type, intended u
 Use Drifting, Bashing, Crawling, Racing or Trail driving for the use filter. Use manufacturer-supported terrain labels. Separate motor type (Brushed, Brushless, Nitro, Gas, Not included or Unknown) from power source. Keep drivetrain terminology precise: RWD, FWD, 2WD, 4WD or AWD as appropriate.
 
 Initial price filters use a dated USD manufacturer reference or verified vehicle price, not total ownership cost. Preserve cents. Explain missing equipment and the complete startup basket in the article.
+
+Use independently verified manufacturer USD prices/MSRP for static article and filter references. When unavailable, an exact-model first-party hobby-retailer reference is acceptable, clearly labeled as retailer pricing. Mark discontinued/archived and indexed manufacturer references explicitly; do not imply they are currently orderable. Keep Amazon API prices in the timestamped, expiring offer display rather than permanent article prose or filter references. The daily refresh validates all reviewed product identities and refreshes the commercial snapshot.
 
 ## Ratings and evidence
 

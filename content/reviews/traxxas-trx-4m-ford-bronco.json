@@ -1,0 +1,524 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "TRX-4M Ford Bronco",
+  "modelSlug": "trx-4m-ford-bronco",
+  "headlineLines": [
+    "TRX-4M FORD BRONCO",
+    "THE BUYING CASE."
+  ],
+  "sku": "97074-1",
+  "title": "Traxxas TRX-4M Ford Bronco review: a complete small bronco crawling project",
+  "dek": "A licensed small Bronco crawler with a dedicated LiPo and USB charger. Nearby obstacles suit its size; stock bushings, integrated electronics and upgrade spending deserve an honest look.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Rock",
+    "Trail"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/18",
+  "format": "Ready-to-run",
+  "skill": "First small crawler buyer who values a licensed body and supplied power",
+  "price": {
+    "amount": 179.95,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://traxxas.com/trx-4m-ford-bronco-97074-1"
+  },
+  "image": "traxxas-trx-4m-ford-bronco-product.jpg",
+  "imageAlt": "Official Traxxas photograph of the TRX-4M Ford Bronco, exact reviewed complete-car variant",
+  "imageCaption": "TRX-4M Ford Bronco, SKU 97074-1-BLUE. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "Traxxas official product photography",
+    "url": "https://traxxas.com/trx-4m-ford-bronco-97074-1",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The TRX-4M Ford Bronco is a sensible first small crawler for someone who wants scale appearance, an assembled vehicle and a battery-and-charger package in one box. I would consider it for indoor obstacle courses, a garden rock patch and short carry-along outings. The reservation is the upgrade temptation: buying a modest crawler and immediately replacing most of its hardware can erase the simplicity and value that make the stock package appealing. Choose it because the Bronco and its size fit your intended activity.",
+  "verdict": "A complete small Bronco crawling project",
+  "verdictText": "I would shortlist the blue TRX-4M Bronco for a first small crawler buyer who values the licensed body, supplied power equipment and a course close to home. Its locked four-wheel-drive layout, oil-filled shocks and crawler control profiles form a credible documented package. The chief caution is to keep the initial project proportionate: understand the stock setup before buying a drawer of accessories. Small scale makes course building convenient, but does not promise that every outdoor trail is the correct terrain.",
+  "pros": [
+    "Dedicated LiPo and USB charger supplied",
+    "Detailed licensed clipless ABS Bronco body",
+    "Oil-filled shocks and locked 4WD",
+    "Documented trail and crawl control profiles"
+  ],
+  "cons": [
+    "Four AAs and suitable USB-A input power extra",
+    "Stock drivetrain uses bushings",
+    "Combined electronics affect modification choices",
+    "Small wheels need proportionate terrain"
+  ],
+  "bestFor": [
+    "Indoor and nearby small obstacle courses",
+    "A first crawler with supplied power equipment",
+    "Bronco fans who want the stock finished model"
+  ],
+  "avoidIf": [
+    "Long rough trails needing a larger vehicle",
+    "Replacing most electronics immediately",
+    "Expecting factory portal axles"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/18"
+    ],
+    [
+      "Motor",
+      "Titan 180 · 87-turn · Brushed"
+    ],
+    [
+      "Controller / radio",
+      "ECM-2.5 integrated ESC / receiver / lights · TQ 2.4 GHz · two channels"
+    ],
+    [
+      "Drivetrain",
+      "Single speed · shaft 4WD · locked spools · straight axles"
+    ],
+    [
+      "Drive power",
+      "750mAh 7.4V 2S LiPo included"
+    ],
+    [
+      "Package",
+      "Complete RTR · 97074-1-BLUE"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First small crawler buyer who values a licensed body and supplied power",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Starting package",
+        "score": 9,
+        "reason": "The dedicated LiPo and USB charger coordinate the first purchase, with AAs and input power remaining necessary."
+      },
+      {
+        "label": "Controls for the buyer",
+        "score": 8,
+        "reason": "ECM-2.5 offers documented Trail and Crawl behavior for deliberate low-speed sessions."
+      },
+      {
+        "label": "Hardware and intended use",
+        "score": 8,
+        "reason": "Locked 4WD, oil-filled GTM shocks and compact dimensions give nearby obstacles a practical purpose."
+      },
+      {
+        "label": "Service information",
+        "score": 7.5,
+        "reason": "Exact small-parts drawings and clipless access help inspection; bushings and combined electronics deserve attention when modifying."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 8,
+        "reason": "The supplied power route is persuasive for a stock small crawler; wholesale upgrades change that value calculation."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0BQWS3MQ9",
+    "marketplace": "www.amazon.com",
+    "variant": "Blue · complete car",
+    "sku": "97074-1",
+    "apiSku": "97074-1-BLUE",
+    "identityNote": "Amazon exact part 97074-1-BLUE is the blue complete-car color notation for manufacturer base 97074-1. The current Traxxas product page documents the blue Bronco variant and matching hardware; no different chassis or generation is substituted.",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BQWS3MQ9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:29.161Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "A small Bronco that makes nearby obstacles a worthwhile destination.",
+      "paragraphs": [
+        "The TRX-4M Ford Bronco is a sensible first small crawler for someone who wants scale appearance, an assembled vehicle and a battery-and-charger package in one box. I would consider it for indoor obstacle courses, a garden rock patch and short carry-along outings. The reservation is the upgrade temptation: buying a modest crawler and immediately replacing most of its hardware can erase the simplicity and value that make the stock package appealing. Choose it because the Bronco and its size fit your intended activity.",
+        "This review identifies the blue complete 97074-1 variant verified by Amazon's Creators API. The factory TRX-4M is a 1/18 brushed shaft-driven 4WD crawler with locked axle spools. It should not inherit the full-size TRX-4's portal-axle specification simply because the names are related. Current manufacturer drawings establish the smaller truck's actual hardware. Neither a replacement Bronco body nor a heavily modified internet build represents the stock complete-car purchase linked here.",
+        "Small crawling changes what counts as a course. A few blocks, books or modest rocks can provide a sequence of approaches, turns and recoveries without requiring a large outdoor driving site. That convenience is part of the buying case. It is also a limitation: a small tire meets real grass and stones at a different scale from a full-size crawler. The model is most compelling when your terrain is proportionate to its wheels and the enjoyment comes from choosing lines slowly."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "A matching LiPo and charger make the starting decision unusually clear.",
+      "paragraphs": [
+        "Traxxas includes the assembled vehicle, licensed ABS Bronco body, TQ transmitter, Titan 180 motor, ECM-2.5 electronics, 750mAh two-cell 7.4V LiPo battery, two-amp USB charger and basic maintenance tools. That is a coordinated package for a household without RC battery equipment. There is no painting project or separate motor selection before driving. The current manufacturer page identifies a USB-A power source as the remaining charging input, rather than the USB-C arrangements used by several larger Traxxas starter trucks.",
+        "Supply four AA alkaline transmitter cells and a suitable USB source; Traxxas recommends at least two amps at five volts. Read the included charging instructions, use the intended connectors and inspect the small battery before connecting it. Do not substitute an apparently similar pack without checking the actual electrical and mechanical requirements. The battery's dedicated size and connection are part of the stock system, and an aftermarket charger recommendation should account for the correct balance connection as well as the main plug.",
+        "Start with the factory battery and its supplied charging route. Check that the strap secures the pack, wires clear the driveshafts and the body latches fully. Perform steering and throttle checks with the wheels unobstructed before placing the truck on a tabletop course. An assembled small crawler still needs careful setup. The scale makes loose hardware and trapped wires harder to see, so bright bench lighting and a clear tray are practical starting equipment even if you do not buy special tools immediately."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Use the supplied battery and its intended charging route for the first baseline.",
+          "Supply four AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with a modest obstacle and easy recovery."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "Locked spools and a single ratio suit low-speed line choice.",
+      "paragraphs": [
+        "The forward-mounted Titan 180 is an 87-turn brushed motor. It drives a single-speed transmission and shaft-driven four-wheel-drive system with locked spools front and rear. A spool couples the wheels on an axle, supporting progress when one tire has little grip but also creating some resistance to tight turning on grippy ground. That layout belongs to the stock crawling brief. It is not a selectable remote-locker system, and the buyer should not expect a switch that changes the axle behavior.",
+        "The factory drivetrain uses self-lubricating bushings rather than a full ball-bearing kit. That is an ownership fact worth acknowledging without turning it into a universal defect. Mike Febbo's independent hands-on coverage in The Drive calls attention to the stock bushings, plastic components and combined electronics as price-related compromises. Those are his observations, while the official parts documentation establishes what is fitted. We have not measured the efficiency or wear benefit of changing the bushings, so the service choice should follow your use and actual condition.",
+        "Traxxas offers optional gearing routes, but the stock ratio should be the first reference. Low-range gearing is a separate setup choice, not a hidden factory feature. If the truck's job is slow technical crawling, establish its normal behavior on a modest obstacle before ordering a faster ratio. Increasing travel speed does not necessarily improve tire placement. A brushless conversion can also turn the purchase into an electronics project, so decide whether that project is part of the enjoyment or an unnecessary obstacle to using the car."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Trail and Crawl modes change the response when you release the trigger.",
+      "paragraphs": [
+        "The ECM-2.5 combines the speed controller, radio receiver and lighting control. It offers Sport, Trail and Crawl profiles, with the manual describing different neutral-brake and reverse behavior. Trail is the factory profile in the current manual. Read the exact description before approaching a slope: how the truck behaves when the trigger returns to neutral matters more in slow terrain than an advertised top speed. It is useful to test that response on a gentle incline where a rollback is easy to manage.",
+        "The full-size TQ transmitter gives steering and throttle their usual proportional controls, without making the owner operate a separate gear or differential channel. That can be a pleasant beginner arrangement. Practice a slow approach, stop, reverse and second attempt on the same small obstacle. Once you know the profile, keep it consistent during a session so you can compare lines without changing the control behavior at the same time. Patience with tire placement is a more relevant initial skill than maximizing trigger travel.",
+        "The integrated module also affects future electronics choices. Replacing a motor or pursuing another radio may require understanding what functions currently reside together in one unit. Do not assume a generic ESC swap leaves the rest of the stock system unchanged. Our controls score rewards the documented crawler profiles and coordinated beginner equipment, with integration treated as an upgrade consideration. We have no personal measurements of low-speed smoothness, latency, brake holding or radio range for this truck."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Use the turning angle to choose another approach.",
+      "paragraphs": [
+        "The manufacturer lists a 45-degree steering angle, a 2065T servo and direct steering without a servo saver. Direct steering is a meaningful maintenance consideration when a front tire is trapped against an obstacle. Avoid holding a steering command while the wheel has no room to move. Check mechanical travel and tire clearance on the bench, then steer before wedging the vehicle between objects on the course. A published angle is useful range, not proof that every tight gap is negotiable.",
+        "Triangulated four-link suspension and oil-filled GTM shocks provide a proper articulated crawler layout at this size. The shocks' preload spacers are an adjustment tool, and the official service documentation covers rebuilding them. Begin with the truck as supplied. Watch which tires lose contact and where the body or axle meets an obstacle. More articulation is not automatically the best answer if another part of the route becomes less controlled or the tire begins contacting the hard body.",
+        "Keep the first course small and repeatable. Moving one block or rock can show you whether the approach angle, tire contact or steering position was the main issue. That is more instructive than adding several brass parts at once and discovering that you can no longer identify which change mattered. Weight changes can affect servo demand and balance as well as traction. This is an editorial setup recommendation, not a claim that the factory steering or suspension has been compared against a particular upgrade in our own test."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Make a crawler course that matches 57mm tires.",
+      "paragraphs": [
+        "The stock Bronco's licensed BFGoodrich Mud Terrain T/A KM3 tires and documented 29mm center clearance help describe its intended scale. Small rocks, roots and indoor obstacles can offer useful crawling problems. A furniture obstacle should be stable enough that a tire cannot pull it down unexpectedly, and a tabletop route should have an easy recovery area. Choose a line where you can see the front tires, not simply a climb tall enough to make the truck look dramatic in a photograph.",
+        "Outdoor grass can be very different from a scaled trail. Tall growth is an obstacle in its own right for this truck, and loose material can collect around shafts or steering. The manufacturer presents outdoor capability, but our recommendation stays proportionate to the vehicle. Short patches and clear rocks make a better first outing than a dense field. If the course continually demands a running start or drags the belly through vegetation, consider a larger crawler instead of adding speed to a small one.",
+        "No maximum slope, runtime or water-depth promise is established by our review. Waterproof electronics still require the current manual's operating and drying instructions. Febbo's independent account is a hands-on perspective on the Bronco, but its conclusions do not become our measurements. We judge whether the documented size, tire package and completion equipment fit nearby recreational crawling. Once you own it, your repeatable course becomes the most relevant evidence for deciding which limitation is actually worth addressing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The hard Bronco shell is a purchase feature with a maintenance consequence.",
+      "paragraphs": [
+        "The licensed ABS body has molded-in color, realistic details and clipless latches. It is a major part of the vehicle's appeal for a Bronco enthusiast. A hard detailed shell is also different from a simple lightweight polycarbonate pickup body, so take it into account when planning side slopes and rollovers. We have not measured its effect on center of gravity or crash survival. The practical recommendation is simply to respect protruding details and choose modest first obstacles rather than treating scale appearance as free of tradeoffs.",
+        "Learn both latch positions and release them correctly before removing the body. Its compact shell can hide the battery strap, wires and drivetrain on the bench. Remove it after sessions to inspect those items, then look over axle movement, wheel screws and shock condition. Work over a parts tray because the small hardware is easy to lose. The current 97074-1 exploded drawings and parts list are more useful for identifying exact replacements than assuming every TRX-4M custom build uses compatible components.",
+        "The factory bushings and integrated electronics deserve to remain visible in the ownership assessment. Neither prevents enjoyable stock crawling, but both influence future service and modification choices. Check whether local support can supply the relevant small parts. A large selection of online accessories is not the same as immediate availability of the one damaged component you need. Start with inspection and normal maintenance; let actual wear or a clearly stated project decide the next purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup budget",
+      "heading": "Count the supplied LiPo equipment before filling a basket with upgrades.",
+      "paragraphs": [
+        "The dated reference price is for the complete blue vehicle package, including its dedicated LiPo and USB charger. AAs and suitable USB-A input power remain required. There is no invented total for the missing supply or optional extras. A household with a correct source already available has a different startup purchase from one starting without it. The table keeps that distinction clear, which is more useful than assigning every buyer a universal accessory bundle.",
+        "A second small pack can be convenient for separate sessions, but it is optional. The model's dedicated connection and restraint matter when selecting replacements. Be equally careful with a different charger: a product name suggesting LiPo compatibility does not establish the right connection for this battery. Use the current manual and product documentation, and keep the factory route as the baseline while learning. The supplied equipment is part of the value, particularly when the vehicle is bought as a first crawler or gift.",
+        "Set a separate limit for customization. Wheels, tires, weights, servos, gearing and brushless electronics can collectively cost a substantial fraction of another complete vehicle, even though each individual item looks manageable. Write down the whole desired project before beginning. If you want a technical small crawler with a specific electronics layout from the outset, compare that exact platform. The stock Bronco's strongest budget argument is an appealing complete activity you can start, not an obligation to improve every piece immediately."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$179.95 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "750mAh 7.4V 2S LiPo included",
+            "Included in this package"
+          ],
+          [
+            "Charger",
+            "2A USB included · USB-A input supply extra",
+            "Included charger; input power is separate"
+          ],
+          [
+            "USB-A input power",
+            "Price separately",
+            "Required if not already owned; at least 2A / 5V per current manufacturer guidance"
+          ],
+          [
+            "Transmitter batteries",
+            "Price separately",
+            "Four AA cells required; extra"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Size and body preference can matter more than another axle feature.",
+      "paragraphs": [
+        "The Traxxas TRX-4M Land Rover Defender offers the same broad small-scale complete-crawler route with a different licensed body. It is the first comparison for someone who likes the package but prefers another scale vehicle. Check the exact variant and current contents. We do not transfer Bronco body dimensions or driving observations to the Defender. Choosing the body you actually enjoy is reasonable when both purchases are intended for the same nearby crawling activity.",
+        "The Axial SCX24 Bronco is another complete small crawler to compare for indoor and portable terrain. Its manufacturer documents the specific body and equipment for the selected version; do not substitute a generic SCX24 name for an exact comparison. Different size, chassis and electronics choices change both the obstacles and future work. Our review does not claim a head-to-head grip, steering or stability result. Compare the first power basket, service resources and the form of customization you might enjoy.",
+        "For regular full-size trail outings, the TRX-4 Sport 82224-4 is a real alternative rather than simply the more expensive item. Its larger size, portal axles and separate battery-and-charger purchase define a different project. A person who wants to walk a long rocky route may prefer that scale, while an owner who wants a course beside the sofa may find it excessive. The right comparison begins with where the vehicle will spend its ordinary sessions."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "TRX-4M Ford Bronco 97074-1",
+            "Small RTR with supplied LiPo and USB charger",
+            "Licensed Bronco and nearby obstacle courses"
+          ],
+          [
+            "TRX-4M Land Rover Defender",
+            "Small complete RTR; check exact variant",
+            "Different licensed body"
+          ],
+          [
+            "Axial SCX24 Bronco",
+            "Small complete RTR; check exact generation",
+            "Another chassis and electronics route"
+          ],
+          [
+            "TRX-4 Sport 82224-4",
+            "Full-size RTR; power extra",
+            "A larger trail-driving project"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "The stock Bronco is strongest when small crawling is the destination.",
+      "paragraphs": [
+        "I would shortlist the blue TRX-4M Bronco for a first small crawler buyer who values the licensed body, supplied power equipment and a course close to home. Its locked four-wheel-drive layout, oil-filled shocks and crawler control profiles form a credible documented package. The chief caution is to keep the initial project proportionate: understand the stock setup before buying a drawer of accessories. Small scale makes course building convenient, but does not promise that every outdoor trail is the correct terrain.",
+        "Our five equally weighted category scores evaluate completion equipment, crawler controls, small-course hardware, service information and value for this buyer. The stock bushings and combined electronics are visible reservations, supported by documentation and attributable independent coverage. We have not measured speed, climbing, steering precision, runtime or durability. Mike Febbo's driving belongs to his review, and the manufacturer's claims remain manufacturer claims. The editorial conclusion is ours and is about the purchase as documented.",
+        "Buy it if the blue Bronco and modest nearby obstacles are enough to make you want to drive regularly. Skip it if you already require a larger trail vehicle or intend to replace most of the equipment immediately. Use the supplied battery, learn the profile and build a repeatable route. With those expectations, this little truck has an appealing case: scale interest, real crawler mechanisms and relatively few missing items between the box and a first deliberate line."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-trx-4m-ford-bronco-gallery-1.jpg",
+      "alt": "Official Traxxas TRX-4M Ford Bronco chassis inspection",
+      "caption": "Chassis and installed layout. Photograph: Traxxas.",
+      "source": "https://traxxas.com/trx-4m-ford-bronco-97074-1"
+    },
+    {
+      "image": "traxxas-trx-4m-ford-bronco-gallery-2.jpg",
+      "alt": "Official Traxxas TRX-4M Ford Bronco second vehicle view",
+      "caption": "Another official view of the reviewed vehicle. Photograph: Traxxas.",
+      "source": "https://traxxas.com/trx-4m-ford-bronco-97074-1"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "Traxxas 97074-1-BLUE · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0BQWS3MQ9"
+    ],
+    [
+      "Scale / drive",
+      "4WD · 1/18"
+    ],
+    [
+      "Motor",
+      "Titan 180 · 87-turn"
+    ],
+    [
+      "ESC",
+      "ECM-2.5 integrated ESC / receiver / lights"
+    ],
+    [
+      "Radio",
+      "TQ 2.4 GHz · two channels"
+    ],
+    [
+      "Steering servo",
+      "2065T · direct steering, no servo saver"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Single speed · shaft 4WD · locked spools · straight axles"
+    ],
+    [
+      "Length × width × height",
+      "262 × 124 × 117 mm"
+    ],
+    [
+      "Wheelbase",
+      "155 mm"
+    ],
+    [
+      "Weight publication basis",
+      "468 g · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "51 × 31 mm · dedicated restraint"
+    ],
+    [
+      "Drive battery",
+      "750mAh 7.4V 2S LiPo included"
+    ],
+    [
+      "Charger",
+      "2A USB included · USB-A input supply extra"
+    ],
+    [
+      "Tires",
+      "BFGoodrich Mud Terrain T/A KM3 · 57mm diameter"
+    ],
+    [
+      "Transmitter power",
+      "Four AA alkaline cells · extra"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does the factory TRX-4M have portal axles?",
+      "answer": "No. Current manufacturer drawings show the small truck's straight-axle arrangement. Do not transfer the full-size TRX-4's portal specification to it."
+    },
+    {
+      "question": "Is a battery and charger included?",
+      "answer": "Yes: a dedicated 750mAh 2S LiPo and two-amp USB charger. Supply four AA transmitter cells and suitable USB-A input power."
+    },
+    {
+      "question": "Are its bushings actually bearings?",
+      "answer": "The factory specification identifies self-lubricating bushings. A full bearing kit is a separate modification, and we have not measured its benefit."
+    },
+    {
+      "question": "What is combined in ECM-2.5?",
+      "answer": "The controller, receiver and lighting control are integrated. Consider that arrangement before planning a generic ESC or radio replacement."
+    },
+    {
+      "question": "What does Crawl Mode change?",
+      "answer": "The current manual describes neutral hill holding and immediate reverse behavior. Learn the exact profile on a modest slope before relying on it during a difficult climb."
+    },
+    {
+      "question": "Does the 45-degree steering specification make every gap passable?",
+      "answer": "No. It describes available steering range. Trapped tires and mechanical interference still need careful line choice, especially with direct steering and no servo saver."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · current exact 97074-1-BLUE product, contents and specifications",
+      "url": "https://traxxas.com/trx-4m-ford-bronco-97074-1",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Traxxas · current model owner manual",
+      "url": "https://traxxas.com/media/productattach/C-97074-1/2/97074-1-OM-EN-R02.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "The Drive · Mike Febbo's independent TRX-4M Bronco hands-on review",
+      "url": "https://www.thedrive.com/guides-and-gear/traxxas-trx-4m-rc-rock-crawler-hands-on-review",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0BQWS3MQ9 identity and dated price",
+      "url": "https://www.amazon.com/dp/B0BQWS3MQ9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "traxxas trx 4 sport · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/trx-4-sport-82224-4",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "Traxxas · 97054-1 Land Rover Defender complete package",
+      "url": "https://traxxas.com/products/models/electric/trx-4m-land-rover-defender",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "Axial · current SCX24 Bronco V2 complete package",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-ford-bronco-4wd-truck-rtr/AXI00006V2.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0BQWS3MQ9, 97074-1-BLUE and Traxxas for the exact complete-car listing. Mike Febbo's observations about bushings and combined electronics are attributed; his driving remains his test. The factory truck uses straight axles, not the full-size TRX-4's portal arrangement. API color suffix is documented by the current official blue Bronco variant and base 97074-1. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

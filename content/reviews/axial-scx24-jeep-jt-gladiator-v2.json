@@ -1,0 +1,611 @@
+{
+  "brand": "Axial",
+  "brandSlug": "axial",
+  "model": "SCX24 Jeep JT Gladiator V2",
+  "modelSlug": "scx24-jeep-jt-gladiator-v2",
+  "headlineLines": [
+    "SCX24 JEEP JT GLADIATOR V2",
+    "THE BUYING CASE."
+  ],
+  "sku": "AXI00005V2T3",
+  "title": "Axial SCX24 Jeep JT Gladiator V2 review: the long pickup is the buying case?",
+  "dek": "A battery-equipped miniature Jeep with the Gladiator’s longer wheelbase and updated V2 package. Course size, body clearance and exact-generation equipment matter more than the scale badge alone.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Rock crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Indoor",
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/24",
+  "format": "Ready-to-run",
+  "skill": "First-time long-wheelbase micro scale crawler buyer",
+  "price": {
+    "amount": 139.99,
+    "currency": "USD",
+    "basis": "Axial US published reference · exact RTR package; excluded equipment itemized below",
+    "checked": "2026-10-13",
+    "source": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html"
+  },
+  "image": "axial-scx24-jeep-jt-gladiator-v2-angle.jpg",
+  "imageAlt": "Official Axial photograph of the Green · Spektrum V2 complete crawler SCX24 Jeep JT Gladiator V2",
+  "imageCaption": "SCX24 Jeep JT Gladiator V2, AXI00005V2T3; exact reviewed variant. Official Axial product photography.",
+  "imageCredit": {
+    "name": "Axial official product photography",
+    "url": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+  },
+  "overview": "The green V2 Gladiator is an appealing first micro crawler when scale pickup detail and a longer chassis are the point of the purchase. Its current published wheelbase is 155mm, compared with the 4Runner's 132mm. That difference is large enough to matter when planning the obstacle course and ordering links or driveshafts.",
+  "verdict": "Buy the V2 because you want this long scale truck",
+  "verdictText": "The documented package is well matched to a first micro scale-crawling buyer who prefers a Jeep pickup. The longer wheelbase and finished presentation are the strongest reasons to choose it; the included power and current oil shocks support that choice.",
+  "pros": [
+    "Steel C-channel rails; oil-filled shocks; solid axles",
+    "Nitto Trail Grappler M/T on KMC Machete wheels",
+    "Spektrum SLT2; 2-in-1 ESC/receiver supplied",
+    "Spektrum 350mAh 2S LiPo · included; exact model documentation available"
+  ],
+  "cons": [
+    "Compact service work and exact spare compatibility still need care",
+    "Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context",
+    "Crawling equipment is a poor fit for a speed-focused purchase",
+    "Speed, runtime and long-term durability are not measured here"
+  ],
+  "bestFor": [
+    "Small technical courses and deliberate line choice",
+    "Drivers who value the exact body and tire package",
+    "Owners willing to follow the model-specific service instructions"
+  ],
+  "avoidIf": [
+    "Your primary driving space does not suit indoor or off-road",
+    "You want a different vehicle scale or drivetrain from 1/24 4WD",
+    "You plan an immediate rebuild without pricing the full project"
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/24 · 4WD"
+    ],
+    [
+      "Motor",
+      "030-size brushed motor"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT2; 2-in-1 ESC/receiver"
+    ],
+    [
+      "Drive battery",
+      "Spektrum 350mAh 2S LiPo · included"
+    ],
+    [
+      "Wheelbase",
+      "155 mm in current product table"
+    ],
+    [
+      "Package",
+      "AXI00005V2T3 · Green · Spektrum V2 complete crawler"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First-time long-wheelbase micro scale crawler buyer",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the buyer named here. Their arithmetic mean is the editorial rating. These are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 8.5,
+        "reason": "AXI00005V2T3 coordinates the finished vehicle and Spektrum SLT2; 2-in-1 ESC/receiver; required completion remains nothing required per official package."
+      },
+      {
+        "label": "Purpose-fit equipment",
+        "score": 8,
+        "reason": "030-size brushed motor, 4WD drive and nitto trail grappler m/t on kmc machete wheels fit the named buyer's crawling purpose; results on a particular surface are not measured."
+      },
+      {
+        "label": "Adjustment and learning",
+        "score": 7.5,
+        "reason": "The steel c-channel rails; oil-filled shocks; solid axles and exact instructions offer an identifiable setup baseline; class suitability must still be checked."
+      },
+      {
+        "label": "Service documentation",
+        "score": 8,
+        "reason": "Official AXI00005V2T3 instructions, parts identification and attributed photographs make maintenance planning concrete; local stock was not surveyed."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 8,
+        "reason": "The $139.99 reference is evaluated with Spektrum 350mAh 2S LiPo · included and all required extras visible, without an invented accessory total."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0CX15KC4Q",
+    "marketplace": "www.amazon.com",
+    "variant": "Green · Spektrum V2 complete crawler",
+    "sku": "AXI00005V2T3",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CX15KC4Q?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:06:35.890Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buying case",
+      "heading": "The long pickup is the buying case.",
+      "paragraphs": [
+        "The green V2 Gladiator is an appealing first micro crawler when scale pickup detail and a longer chassis are the point of the purchase. Its current published wheelbase is 155mm, compared with the 4Runner's 132mm. That difference is large enough to matter when planning the obstacle course and ordering links or driveshafts. It is not evidence that one is universally more stable. I would choose the Jeep for the overlanding pickup presentation and a course that lets its longer proportions make sense.",
+        "The exact purchase in this guide is Axial SCX24 Jeep JT Gladiator V2 AXI00005V2T3, Green · Spektrum V2 complete crawler. Its 1/24 scale, 4WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to first-time long-wheelbase micro scale crawler buyer before a promotional feature becomes the reason to order. Decide where the car will be driven most often, because a usable nearby space can be more valuable than a longer feature list. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package and setup",
+      "heading": "V2 means Spektrum equipment and oil-filled shocks.",
+      "paragraphs": [
+        "This exact AXI00005V2T3 includes a Spektrum SLT2 radio, 350mAh 2S LiPo, USB-C charger and four AA cells. The revised oil-filled shocks are also part of the current official description. Earlier Gladiator packages used a different control arrangement, so an old four-channel radio description is not the current inventory. Inspect the box against the V2 list and keep the manual revision with the truck. An attractive used Gladiator can be a different electronics generation even if the body is familiar.",
+        "For SCX24 Jeep JT Gladiator V2, the stated drive-power arrangement is Spektrum 350mAh 2S LiPo · included, and the radio package is Spektrum SLT2; 2-in-1 ESC/receiver. Required completion is explicit: Nothing required per official package. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact AXI00005V2T3 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor and drivetrain",
+      "heading": "Worm axles support a slow-crawling purchase.",
+      "paragraphs": [
+        "The 030 brushed motor drives front and rear worm-gear axles through the compact SCX24 transmission. Worm reduction contributes to low gearing and descent behavior, but it does not make the vehicle immune to getting stuck or slipping sideways. When the tires are wedged against an obstacle, release the load and choose another line rather than holding the trigger indefinitely. The factory drive arrangement makes sense for technical micro crawling, while it gives little reason to buy this Jeep for covering a long trail at walking speed.",
+        "The documented 030-size brushed motor is the power equipment evaluated for SCX24 Jeep JT Gladiator V2. For a crawling vehicle, reduction, tire support and controllable application of power matter more to the buying case than a maximum-speed headline. A trapped tire also loads the drivetrain, so choose another approach rather than applying prolonged power against a stall. Start from the original AXI00005V2T3 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and controls",
+      "heading": "The current radio should be judged on its own terms.",
+      "paragraphs": [
+        "SLT2 proportional controls and reduced throttle settings form the current beginner control package. The historical Small-Scale RC review praised the original Gladiator's radio and low-speed response, but those observations belong to the earlier equipment and are not transferred to this V2. Use the official manual for binding and controller setup. Test the steering direction and neutral throttle with the truck in a clear area, then practice placing one front tire on an obstacle edge without applying a large trigger movement.",
+        "The SCX24 Jeep JT Gladiator V2 control system is listed as Spektrum SLT2; 2-in-1 ESC/receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For shared casual use, explain how to stop and shut down the vehicle before handing the controls to another driver. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Long wheelbase requires matching parts, not a generic SCX24 order.",
+      "paragraphs": [
+        "A three-link front and four-link rear suspension support the Jeep's solid axles, with oil damping in the current version. The long chassis changes the relevant link and driveshaft combinations. Parts labeled SCX24 can be intended for a different wheelbase, which is why the Gladiator drawing matters. The current product table uses a rounded 155mm wheelbase while parts descriptions use 153.7mm. We preserve that difference and do not present it as a home measurement or a reason to force a mismatched part into position.",
+        "The published construction for SCX24 Jeep JT Gladiator V2 is steel c-channel rails; oil-filled shocks; solid axles. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 155 mm in current product table, which makes exact replacement compatibility more useful than a generic Axial parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and terrain",
+      "heading": "Give the middle of the truck room to clear the crest.",
+      "paragraphs": [
+        "The Nitto Trail Grappler M/T tires and KMC Machete wheels give the stock Jeep its scale identity. The longer axle spacing can be helpful for some obstacle shapes and awkward when the center bridges a sharp crest. That is a geometry consideration, not a tested climbing score. Build gradual approach and exit sections at home and leave a way to reverse out. Axial's current table says the vehicle is not water resistant, so choose dry practice conditions rather than treating a trail photograph as waterproof permission.",
+        "The SCX24 Jeep JT Gladiator V2 tire package is Nitto Trail Grappler M/T on KMC Machete wheels. Its intended terrain listing is indoor and off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Small stones, edges and loose fibers occupy a significant part of a micro vehicle’s obstacle scale. Remove debris and secure any homemade ramps or climbing pieces before the session. The published dimensions are 250 × 122 × 107 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Scale accessories add interest and inspection points.",
+      "paragraphs": [
+        "The Gladiator uses a detailed polycarbonate body with overland accessories, an interior treatment and bumper LEDs. Tim Gluth's original-version Small-Scale RC review discusses the body, accessory rack and longer format; we use that coverage only for historical scale context. The current V2 is the reviewed purchase. Check body attachment, light wiring and accessory screws after a tumble. Their visual appeal can justify choosing the pickup, but decorative items are not evidence of carrying capacity or a measured durability advantage.",
+        "The reviewed Green · Spektrum V2 complete crawler SCX24 Jeep JT Gladiator V2 is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the AXI00005V2T3 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "The $149.99 reference buys a coordinated micro package.",
+      "paragraphs": [
+        "The official reference includes the drive pack, charger and transmitter cells, which keeps the first-session basket much shorter than a standard 1/10 RTR. Confirm the charging input and battery handling procedure rather than adding a generic new charger automatically. A correct small driver and a clean work area remain sensible ownership equipment. I would not order brass weights, new axles and a servo before learning the stock truck. Those changes should solve a recorded obstacle or steering problem, not simply recreate somebody else's modified build.",
+        "The SCX24 Jeep JT Gladiator V2 price reference is $139.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Nothing required per official package. The drive battery basis is Spektrum 350mAh 2S LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "Complete first-session basket · checked 13 October 2026 · unpriced extras remain visible",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Budget treatment"
+        ],
+        "rows": [
+          [
+            "SCX24 Jeep JT Gladiator V2 · AXI00005V2T3",
+            "$139.99 manufacturer car/package reference",
+            "Tax and delivery extra"
+          ],
+          [
+            "Drive battery",
+            "Spektrum 350mAh 2S LiPo · included",
+            "Check chemistry, connector and physical fit"
+          ],
+          [
+            "Charger",
+            "Included; follow charging instructions",
+            "Confirm mains/USB power source"
+          ],
+          [
+            "Transmitter power",
+            "Included AA cells per manufacturer",
+            "Replace exhausted cells as needed"
+          ],
+          [
+            "Power-source completion",
+            "Nothing required per official package",
+            "Add actual equipment cost where required"
+          ],
+          [
+            "Practical workbench kit",
+            "Correct drivers, wheel tool, brush, safe charging/storage place",
+            "Helpful ownership equipment; obtain live local prices"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "The Toyota 4Runner is a shorter and different body proposition.",
+      "paragraphs": [
+        "Axial's gray AXI-2035T2 SCX24 Toyota 4Runner is a complete current crawler with a 132mm wheelbase and an ABS hard body. It is a real alternative for the same small driving area, while the body material, tire package and proportions differ. Choose the Jeep for the long pickup and its overland accessories. Inspect the Toyota when a compact SUV body and shorter obstacle geometry appeal more. We have not compared their side-slope limits or climbing capability and do not derive a handling winner from the bodies.",
+        "Axial SCX24 Toyota 4Runner AXI-2035T2 is the complete alternative used in the comparison with SCX24 Jeep JT Gladiator V2. It is a 1/24 4WD brushed vehicle, with Spektrum 350mAh 2S LiPo · included. Its required completion is nothing required per official package. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        4
+      ],
+      "table": {
+        "caption": "Documented alternative routes; no head-to-head performance claim",
+        "columns": [
+          "Vehicle",
+          "What you buy",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Axial SCX24 Jeep JT Gladiator V2",
+            "1/24 4WD brushed RTR",
+            "Buy the V2 because you want this long scale truck"
+          ],
+          [
+            "Axial SCX24 Toyota 4Runner",
+            "1/24 4WD brushed RTR",
+            "Axial's gray AXI-2035T2 SCX24 Toyota 4Runner is a complete current crawler with a 132mm wheelbase and an ABS hard body. It is a real alternative for the same small driving area, while the body material, tire package and proportions differ."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Final verdict",
+      "heading": "Buy the V2 because you want this long scale truck.",
+      "paragraphs": [
+        "The documented package is well matched to a first micro scale-crawling buyer who prefers a Jeep pickup. The longer wheelbase and finished presentation are the strongest reasons to choose it; the included power and current oil shocks support that choice. The reservations are exact-generation identification, small-part compatibility and the dry-use requirement. I would keep the factory hardware initially, map the course to the wheelbase and consult V2 instructions before any upgrade. Historical praise for another radio package does not replace that work.",
+        "Our assessment of SCX24 Jeep JT Gladiator V2 is directed at first-time long-wheelbase micro scale crawler buyer. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context. Current official table rounds wheelbase to 155mm; parts naming uses 153.7mm. No original-version handling result is carried across. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact AXI00005V2T3 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "axial-scx24-jeep-jt-gladiator-v2-detail.jpg",
+      "alt": "Official Axial product image 2 of the exact SCX24 Jeep JT Gladiator V2 AXI00005V2T3",
+      "caption": "Official rear three-quarter photograph of the green Gladiator and overland accessories.",
+      "source": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+      "credit": "Axial official product photography"
+    },
+    {
+      "image": "axial-scx24-jeep-jt-gladiator-v2-front.jpg",
+      "alt": "Official Axial product image 3 of the exact SCX24 Jeep JT Gladiator V2 AXI00005V2T3",
+      "caption": "Official body-off Gladiator chassis view.",
+      "source": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+      "credit": "Axial official product photography"
+    }
+  ],
+  "specs": [
+    [
+      "Exact vehicle",
+      "Axial AXI00005V2T3 · Green · Spektrum V2 complete crawler"
+    ],
+    [
+      "Amazon ASIN",
+      "B0CX15KC4Q"
+    ],
+    [
+      "Format",
+      "Complete assembled RTR with body and installed electronics"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/24 · 4WD"
+    ],
+    [
+      "Motor",
+      "030-size brushed motor"
+    ],
+    [
+      "Controls",
+      "Spektrum SLT2; 2-in-1 ESC/receiver"
+    ],
+    [
+      "Battery",
+      "Spektrum 350mAh 2S LiPo · included"
+    ],
+    [
+      "Required completion",
+      "Nothing required per official package"
+    ],
+    [
+      "Chassis and suspension",
+      "Steel C-channel rails; oil-filled shocks; solid axles"
+    ],
+    [
+      "Tire package",
+      "Nitto Trail Grappler M/T on KMC Machete wheels"
+    ],
+    [
+      "Dimensions",
+      "250 × 122 × 107 mm"
+    ],
+    [
+      "Wheelbase",
+      "155 mm in current product table"
+    ],
+    [
+      "Reference price",
+      "$139.99 USD · official package reference · 2026-10-13"
+    ],
+    [
+      "Specification discrepancies",
+      "Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context. Current official table rounds wheelbase to 155mm; parts naming uses 153.7mm. No original-version handling result is carried across."
+    ],
+    [
+      "Manufacturer table · Battery",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Body",
+      "Painted"
+    ],
+    [
+      "Manufacturer table · Charger",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Chassis",
+      "Stamped Steel Chassis Rails"
+    ],
+    [
+      "Manufacturer table · Completion Level",
+      "Ready-To-Run"
+    ],
+    [
+      "Manufacturer table · Differential",
+      "Worm Gear 16T/4T"
+    ],
+    [
+      "Manufacturer table · Drive Type",
+      "Forward/Brake/Reverse"
+    ],
+    [
+      "Manufacturer table · Drivetrain",
+      "4WD"
+    ],
+    [
+      "Manufacturer table · Inner Tire / Outer Wheel Diameter",
+      "1.0 in"
+    ],
+    [
+      "Manufacturer table · LiPo Compatibility",
+      "2S"
+    ],
+    [
+      "Manufacturer table · Make",
+      "Jeep"
+    ],
+    [
+      "Manufacturer table · Motor Size",
+      "030"
+    ],
+    [
+      "Manufacturer table · Motor Type",
+      "Brushed"
+    ],
+    [
+      "Manufacturer table · Pinion",
+      "10T"
+    ],
+    [
+      "Manufacturer table · Power Type",
+      "Electric"
+    ],
+    [
+      "Manufacturer table · Product Height",
+      "4.2\" (107 mm)"
+    ],
+    [
+      "Manufacturer table · Product Length",
+      "9.86\" (250 mm)"
+    ],
+    [
+      "Manufacturer table · Product Weight",
+      "9.5 oz (269.6g)"
+    ],
+    [
+      "Manufacturer table · Product Width",
+      "4.82\" (122 mm)"
+    ],
+    [
+      "Manufacturer table · Radio",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Receiver",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Scale",
+      "1/24"
+    ],
+    [
+      "Manufacturer table · Servos",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Shock Type",
+      "Coil-over, Oil-filled"
+    ],
+    [
+      "Manufacturer table · Speed Control",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Spur Gear",
+      "55T"
+    ],
+    [
+      "Manufacturer table · Steering Type",
+      "2WS"
+    ],
+    [
+      "Manufacturer table · Suspension",
+      "Solid Axle, Front and Rear"
+    ],
+    [
+      "Manufacturer table · Tire Tread",
+      "Nitto Trail Grappler M/T"
+    ],
+    [
+      "Manufacturer table · Vehicle Size",
+      "Mini"
+    ],
+    [
+      "Manufacturer table · Vehicle Type",
+      "Rock Crawler"
+    ],
+    [
+      "Manufacturer table · Water-Resistant",
+      "No"
+    ],
+    [
+      "Manufacturer table · Wheel Width",
+      ".48 in (12.4mm)"
+    ],
+    [
+      "Manufacturer table · Wheelbase",
+      "6.1\" (155 mm)"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which exact variant is linked?",
+      "answer": "AXI00005V2T3, Green · Spektrum V2 complete crawler. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+    },
+    {
+      "question": "Is the drive battery included?",
+      "answer": "Spektrum 350mAh 2S LiPo · included. Required completion: Nothing required per official package."
+    },
+    {
+      "question": "Which power equipment should I buy?",
+      "answer": "Follow the exact AXI00005V2T3 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+    },
+    {
+      "question": "What is the main evidence limitation?",
+      "answer": "Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context. Current official table rounds wheelbase to 155mm; parts naming uses 153.7mm. No original-version handling result is carried across."
+    },
+    {
+      "question": "How should I compare the alternative?",
+      "answer": "Axial SCX24 Toyota 4Runner is a complete 1/24 4WD brushed alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+    },
+    {
+      "question": "Does the editorial rating describe a drive test?",
+      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Axial · exact AXI00005V2T3 official product, package and specification",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Axial · model-specific instructions and parts documentation",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwf25e1a7b/Manuals/AXI00005V2T3_T4_SCX24_Jeep_Gladiator_Manual_EN.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · exact B0CX15KC4Q complete vehicle",
+      "url": "https://www.amazon.com/dp/B0CX15KC4Q?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "Small-Scale RC · Tim Gluth, original Gladiator review (historical context only)",
+      "url": "https://smallscalerc.com/review-axial-scx24-jeep-jt-gladiator/",
+      "checked": "2026-10-13",
+      "kind": "Independent historical context"
+    },
+    {
+      "name": "Axial · alternative SCX24 Toyota 4Runner exact specification",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    }
+  ],
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context. Current official table rounds wheelbase to 155mm; parts naming uses 153.7mm. No original-version handling result is carried across. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+}

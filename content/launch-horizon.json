@@ -1,0 +1,1141 @@
+{
+  "batch": "horizon",
+  "checked": "2026-10-13",
+  "rejected": [
+    {
+      "checked": "2026-10-13",
+      "brand": "FMS",
+      "reason": "The API Brand field is FCXㅤ rather than exact FMS, and several returned PartNumbers are generic descriptions rather than manufacturer SKUs. These identities were rejected instead of weakening the exact model check.",
+      "candidates": [
+        {
+          "asin": "B0D97P322T",
+          "title": "FCXㅤ FMS 1/10 RC Crawler FJ40 S Toyota Land Cruiser, Model Car Hobby 4x4 Offroad RC Rock Crawler with Remote Control Lighting, 550 Motor for Adults, RS (Yellow)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "FJ40"
+        },
+        {
+          "asin": "B0FYNT3VSF",
+          "title": "FMS 1/24 FCX24MS Toyota Tacoma S RC Crawler, Officially Licensed RC Truck 2 Speeds Switch with LED Lights, Off-Road RC Model for Adults (Grey)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "12441"
+        },
+        {
+          "asin": "B0D9GCXHFP",
+          "title": "FCXㅤ FMS 1/10 Atlas RC Crawler, RC Rock Crawler 4x4 Hobby Grade (Orange)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "1/10 atlas"
+        },
+        {
+          "asin": "B0HB4ZC1WH",
+          "title": "FMS 1/18 FCX18 II Ford F100 RC Rock Crawler, Offroad Trucks 4X4 for Adults",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "Rc-crawler-001"
+        },
+        {
+          "asin": "B0FQ5JFSZG",
+          "title": "FMS 1/10 FCX10S Land Rover Camel Trophy Edition RC Crawler, Hobby RC Rock Crawler with Lighting System, 4-Link Suspension for Adults, RS (Discovery)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "11043"
+        },
+        {
+          "asin": "B0D9N63TF5",
+          "title": "FCX18S FMS 1/18 Chevrolet K10 S RC Truck, Officially Licensed 4WD RC Crawler 2 Speeds Switch with LED Lights, Off-Road RC Model for Adults (Yellow)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "1/18 K10"
+        },
+        {
+          "asin": "B0FYNSQ4DN",
+          "title": "FMS 1/24 FCX24MS Toyota Tacoma S RC Crawler, Officially Licensed RC Truck 2 Speeds Switch with LED Lights, Off-Road RC Model for Adults (Red)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "12441"
+        },
+        {
+          "asin": "B0DZ1XGW5H",
+          "title": "FCXㅤ FMS 1/10 Ford F-100 RC Monster Truck, RC Crawler RTR 2WD Off-Road Truck with Wheelie Bar, High-Torque Motor, Hobby Grade Remote Control Car for Adults, First Blood",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "11023"
+        },
+        {
+          "asin": "B0G4VJYPNQ",
+          "title": "FCX24S FMS 1/24 K5 S Chevy Blazer RC Crawler Officially Licensed, Mini RC Car Pick Up Truck & SUV 2 in 1, 4WD 8km/h 2 Speeds Switch, Off-Road RC Model with LED Lights for Adults (Orange)",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "12403"
+        },
+        {
+          "asin": "B0HB4WGJFW",
+          "title": "FMS 1/18 FCX18 II Ford F100 RC Rock Crawler, Offroad Trucks 4X4 for Adults",
+          "apiBrand": "FCXㅤ",
+          "apiPartNumber": "Rc-crawler-001"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "slug": "micro-b",
+      "path": "/losi/micro-b/",
+      "file": "content/reviews/losi-micro-b.json",
+      "sku": "LOS00007T1",
+      "apiSku": "LOS00007T1",
+      "asin": "B0DJ3M2Q56",
+      "words": 2074,
+      "sources": [
+        {
+          "name": "Losi · exact LOS00007T1 official product, package and specification",
+          "url": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Losi · model-specific instructions and parts documentation",
+          "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw356c9258/Manuals/LOS00007_MANUAL_EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0DJ3M2Q56 complete vehicle",
+          "url": "https://www.amazon.com/dp/B0DJ3M2Q56?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Bash The Stampede · Micro-B review",
+          "url": "https://www.bashthestampede.com/the-losi-micro-b-review/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Losi · alternative Micro-T exact specification",
+          "url": "https://www.losi.com/product/losi-1-28-micro-t-2s-2wd-rtr-stadium-truck-battery-and-charger-included-silver/LOS-1392T2.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "losi-micro-b-front.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwb7b9973f/Images/LOS/LOS00007T1_A00_RIZOZ9LP.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-micro-b-detail.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwb86ef0f7/Images/LOS/LOS00007T1_A10_RIZOZ9LP.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-micro-b-angle.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw35be41ed/Images/LOS/LOS00007T1_A19_RIZOZ9LP.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+          "credit": "Losi official product photography"
+        }
+      ],
+      "conflicts": "Bash The Stampede describes AAA transmitter cells; Losi lists four AA. Follow the official manual and actual battery holder. Manufacturer speed/runtime figures are claims, not our measurements.",
+      "specRows": 40
+    },
+    {
+      "slug": "micro-t",
+      "path": "/losi/micro-t/",
+      "file": "content/reviews/losi-micro-t.json",
+      "sku": "LOS-1392T2",
+      "apiSku": "LOS-1392T2",
+      "asin": "B0F6RTD6XW",
+      "words": 2013,
+      "sources": [
+        {
+          "name": "Losi · exact LOS-1392T2 official product, package and specification",
+          "url": "https://www.losi.com/product/losi-1-28-micro-t-2s-2wd-rtr-stadium-truck-battery-and-charger-included-silver/LOS-1392T2.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Losi · model-specific instructions and parts documentation",
+          "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw869a3d7b/Manuals/LOS-1392_MANUAL_ML.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0F6RTD6XW complete vehicle",
+          "url": "https://www.amazon.com/dp/B0F6RTD6XW?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "1I-RC · Micro-T product release and running impressions",
+          "url": "https://1i-rc.com/new-product-release-losi-1-28-micro-t-2wd-stadium-truck-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Losi · alternative Micro-B exact specification",
+          "url": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "losi-micro-t-front.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw5c851413/Images/LOS/LOS-1392T2_A0_SB45A9YQ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-28-micro-t-2s-2wd-rtr-stadium-truck-battery-and-charger-included-silver/LOS-1392T2.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-micro-t-detail.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw243bc955/Images/LOS/LOS-1392T2_A5_SB45A9YQ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-28-micro-t-2s-2wd-rtr-stadium-truck-battery-and-charger-included-silver/LOS-1392T2.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-micro-t-angle.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw3f1c64f6/Images/LOS/LOS-1392T2_A8_SB45A9YQ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-28-micro-t-2s-2wd-rtr-stadium-truck-battery-and-charger-included-silver/LOS-1392T2.html",
+          "credit": "Losi official product photography"
+        }
+      ],
+      "conflicts": "Independent article discusses a 20-plus-minute battery claim, while current official/API wording says 25-plus. Neither is a measured RC Car King runtime.",
+      "specRows": 43
+    },
+    {
+      "slug": "mini-b-brushless",
+      "path": "/losi/mini-b-brushless/",
+      "file": "content/reviews/losi-mini-b-brushless.json",
+      "sku": "LOS01024T1",
+      "apiSku": "LOS01024T1",
+      "asin": "B0CMBZ7CY4",
+      "words": 2004,
+      "sources": [
+        {
+          "name": "Losi · exact LOS01024T1 official product, package and specification",
+          "url": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Losi · model-specific instructions and parts documentation",
+          "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw0fbd97f3/Manuals/LOS01024_MANUAL_EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0CMBZ7CY4 complete vehicle",
+          "url": "https://www.amazon.com/dp/B0CMBZ7CY4?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, Mini-B Brushless RTR",
+          "url": "https://www.rcdriver.com/losi-mini-b-brushless-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Losi · alternative Mini-T 2.0 Brushless exact specification",
+          "url": "https://www.losi.com/product/losi-1-18-mini-t-2.0-2s-2wd-rtr-brushless-stadium-truck-battery-and-charger-included-red/LOS-1056T1.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "losi-mini-b-brushless-angle.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwae05fe7a/Images/LOS/LOS01024T1_A12_QWNU8YUQ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-mini-b-brushless-detail.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwf130ed85/Images/LOS/LOS01024T1_A10_QWNU8YUQ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-mini-b-brushless-front.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw9c266205/Images/LOS/LOS01024T1_A0_QWNU8YUQ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+          "credit": "Losi official product photography"
+        }
+      ],
+      "conflicts": "RC Driver's article labels the buggy 1:18; official specification and SKU identify 1/16. Official spec table says EC 2; installed Smart G2 pack uses IC 2 equipment. Check physical connector before buying another pack.",
+      "specRows": 45
+    },
+    {
+      "slug": "mini-t-2-0-brushless",
+      "path": "/losi/mini-t-2-0-brushless/",
+      "file": "content/reviews/losi-mini-t-2-0-brushless.json",
+      "sku": "LOS-1056T1",
+      "apiSku": "LOS-1056T1",
+      "asin": "B0D4CF635Y",
+      "words": 2021,
+      "sources": [
+        {
+          "name": "Losi · exact LOS-1056T1 official product, package and specification",
+          "url": "https://www.losi.com/product/losi-1-18-mini-t-2.0-2s-2wd-rtr-brushless-stadium-truck-battery-and-charger-included-red/LOS-1056T1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Losi · model-specific instructions and parts documentation",
+          "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw5f16588d/Manuals/LOS-1056%20Mini-T%202.0%20BL%20Manual_EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0D4CF635Y complete vehicle",
+          "url": "https://www.amazon.com/dp/B0D4CF635Y?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Team · exact LOS-1056 retailer overview and named customer reports",
+          "url": "https://www.rcteam.com/en/products/losi-mini-t-2-0-v2-brushless-stadium-truck-2wd-rtr-los-1056",
+          "checked": "2026-10-13",
+          "kind": "Independent retailer coverage"
+        },
+        {
+          "name": "Losi · alternative Mini-B Brushless exact specification",
+          "url": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "losi-mini-t-2-0-brushless-angle.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw38b0b090/Images/LOS/LOS-1056T1_A14_D62UA3AK.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-18-mini-t-2.0-2s-2wd-rtr-brushless-stadium-truck-battery-and-charger-included-red/LOS-1056T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-mini-t-2-0-brushless-detail.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw8b0c8997/Images/LOS/LOS-1056T1_A10_D62UA3AK.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-18-mini-t-2.0-2s-2wd-rtr-brushless-stadium-truck-battery-and-charger-included-red/LOS-1056T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-mini-t-2-0-brushless-front.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw2af95bf9/Images/LOS/LOS-1056T1_A1_D62UA3AK.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-18-mini-t-2.0-2s-2wd-rtr-brushless-stadium-truck-battery-and-charger-included-red/LOS-1056T1.html",
+          "credit": "Losi official product photography"
+        }
+      ],
+      "conflicts": "RC Team lists AAA cells and BK Bar tires; current manufacturer lists AA cells and directional-rib/step-pin tread. Those retailer differences are not adopted as the official specification. Older LOS 01019 Dynamite-equipped reviews are not used as tests of LOS-1056.",
+      "specRows": 54
+    },
+    {
+      "slug": "mini-lmt-grave-digger",
+      "path": "/losi/mini-lmt-grave-digger/",
+      "file": "content/reviews/losi-mini-lmt-grave-digger.json",
+      "sku": "LOS01026T1",
+      "apiSku": "LOS01026T1",
+      "asin": "B0CQ8WB9P9",
+      "words": 2024,
+      "sources": [
+        {
+          "name": "Losi · exact LOS01026T1 official product, package and specification",
+          "url": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Losi · model-specific instructions and parts documentation",
+          "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw73c2e2be/Manuals/LOS01026_MANUAL_EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0CQ8WB9P9 complete vehicle",
+          "url": "https://www.amazon.com/dp/B0CQ8WB9P9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, Mini LMT teardown and running video",
+          "url": "https://www.rcdriver.com/losi-mini-lmt-monster-truck/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Team Associated · alternative Rival MT10 V2 exact specification",
+          "url": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "losi-mini-lmt-grave-digger-front.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwa8fb1306/Images/LOS/LOS01026T1_A1_IB35GCCB.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-mini-lmt-grave-digger-detail.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dweaf6792b/Images/LOS/LOS01026T1_A5_IB35GCCB.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+          "credit": "Losi official product photography"
+        },
+        {
+          "filename": "losi-mini-lmt-grave-digger-angle.jpg",
+          "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw87a4288c/Images/LOS/LOS01026T1_A13_IB35GCCB.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+          "credit": "Losi official product photography"
+        }
+      ],
+      "conflicts": "Mini LMT has its own 2S brushed system; larger brushless LMT and later alternate bodies are not treated as identical test vehicles.",
+      "specRows": 54
+    },
+    {
+      "slug": "scx24-jeep-jt-gladiator-v2",
+      "path": "/axial/scx24-jeep-jt-gladiator-v2/",
+      "file": "content/reviews/axial-scx24-jeep-jt-gladiator-v2.json",
+      "sku": "AXI00005V2T3",
+      "apiSku": "AXI00005V2T3",
+      "asin": "B0CX15KC4Q",
+      "words": 2096,
+      "sources": [
+        {
+          "name": "Axial · exact AXI00005V2T3 official product, package and specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Axial · model-specific instructions and parts documentation",
+          "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwf25e1a7b/Manuals/AXI00005V2T3_T4_SCX24_Jeep_Gladiator_Manual_EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0CX15KC4Q complete vehicle",
+          "url": "https://www.amazon.com/dp/B0CX15KC4Q?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Small-Scale RC · Tim Gluth, original Gladiator review (historical context only)",
+          "url": "https://smallscalerc.com/review-axial-scx24-jeep-jt-gladiator/",
+          "checked": "2026-10-13",
+          "kind": "Independent historical context"
+        },
+        {
+          "name": "Axial · alternative SCX24 Toyota 4Runner exact specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "axial-scx24-jeep-jt-gladiator-v2-angle.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwe6675d8c/Images/AXI/AXI00005V2T3_A14_RFU3XPCR.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx24-jeep-jt-gladiator-v2-detail.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbfa257ea/Images/AXI/AXI00005V2T3_A10_RFU3XPCR.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx24-jeep-jt-gladiator-v2-front.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwf8490ad5/Images/AXI/AXI00005V2T3_A1_RFU3XPCR.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+          "credit": "Axial official product photography"
+        }
+      ],
+      "conflicts": "Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context. Current official table rounds wheelbase to 155mm; parts naming uses 153.7mm. No original-version handling result is carried across.",
+      "specRows": 48
+    },
+    {
+      "slug": "scx24-toyota-4runner",
+      "path": "/axial/scx24-toyota-4runner/",
+      "file": "content/reviews/axial-scx24-toyota-4runner.json",
+      "sku": "AXI-2035T2",
+      "apiSku": "AXI-2035T2",
+      "asin": "B0FJ2LKR8J",
+      "words": 2085,
+      "sources": [
+        {
+          "name": "Axial · exact AXI-2035T2 official product, package and specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Axial · model-specific instructions and parts documentation",
+          "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw740babfc/Manuals/AXI-2035-MANUAL-ML.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0FJ2LKR8J complete vehicle",
+          "url": "https://www.amazon.com/dp/B0FJ2LKR8J?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, SCX24 Toyota 4Runner",
+          "url": "https://www.rcdriver.com/axial-scx24-toyota-4runner-trail-ready-scale-realism-in-a-micro-package/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Axial · alternative SCX24 Jeep JT Gladiator V2 exact specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "axial-scx24-toyota-4runner-front.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw98643c7e/Images/AXI/AXI-2035T2_A0_JJO5S7Y1.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx24-toyota-4runner-detail.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0524960a/Images/AXI/AXI-2035T2_A5_JJO5S7Y1.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx24-toyota-4runner-angle.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwffd332c2/Images/AXI/AXI-2035T2_A12_JJO5S7Y1.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "credit": "Axial official product photography"
+        }
+      ],
+      "conflicts": "RC Driver calls the motor 050-size; manufacturer product specification says 030. The official table's USB connector entry does not identify the vehicle battery plug; verify manual and actual pack before buying spares.",
+      "specRows": 46
+    },
+    {
+      "slug": "scx24-chevrolet-c10-1967-1972",
+      "path": "/axial/scx24-chevrolet-c10-1967-1972/",
+      "file": "content/reviews/axial-scx24-chevrolet-c10-1967-1972.json",
+      "sku": "AXI-3408T1",
+      "apiSku": "AXI-3408T1",
+      "asin": "B0H2H6DSML",
+      "words": 2086,
+      "sources": [
+        {
+          "name": "Axial · exact AXI-3408T1 official product, package and specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-1967-1972-chevrolet-c10-4wd-truck-rtr-black/AXI-3408T1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Axial · model-specific instructions and parts documentation",
+          "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw405d89c5/Manuals/AXI-3408-MANUAL-EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0H2H6DSML complete vehicle",
+          "url": "https://www.amazon.com/dp/B0H2H6DSML?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Team · exact AXI-3408 retailer overview",
+          "url": "https://www.rcteam.com/en/products/axial-scx24-chevrolet-c10-4x4-rtr-axi-3408",
+          "checked": "2026-10-13",
+          "kind": "Independent retailer coverage"
+        },
+        {
+          "name": "Axial · alternative SCX24 Toyota 4Runner exact specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "axial-scx24-chevrolet-c10-1967-1972-front.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw2de5b911/Images/AXI/AXI-3408T1_A1_UK1E91JJ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-1967-1972-chevrolet-c10-4wd-truck-rtr-black/AXI-3408T1.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx24-chevrolet-c10-1967-1972-detail.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwaba9cccd/Images/AXI/AXI-3408T1_A4_UK1E91JJ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-1967-1972-chevrolet-c10-4wd-truck-rtr-black/AXI-3408T1.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx24-chevrolet-c10-1967-1972-angle.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw3931fdea/Images/AXI/AXI-3408T1_A8_UK1E91JJ.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-24-scx24-1967-1972-chevrolet-c10-4wd-truck-rtr-black/AXI-3408T1.html",
+          "credit": "Axial official product photography"
+        }
+      ],
+      "conflicts": "Official product table lists an 88T 030 motor and coil-over sizing; retailer calls motor 080 while the product narrative specifies oil shocks. Preserve discrepancy and check exact manual/installed label. Older AXI00001 C10 reviews are not applied to AXI-3408.",
+      "specRows": 48
+    },
+    {
+      "slug": "scx10-iii-coyote",
+      "path": "/axial/scx10-iii-coyote/",
+      "file": "content/reviews/axial-scx10-iii-coyote.json",
+      "sku": "AXI-2036T2",
+      "apiSku": "AXI-2036T2",
+      "asin": "B0FTP47XLD",
+      "words": 2086,
+      "sources": [
+        {
+          "name": "Axial · exact AXI-2036T2 official product, package and specification",
+          "url": "https://www.axialadventure.com/product/axial-1-10-scx10-iii-coyote-4x4-rtr-brushed-rock-crawler-blue/AXI-2036T2.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Axial · model-specific instructions and parts documentation",
+          "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwed1069a4/Manuals/AXI-2036-AXI-3071-MANUAL-ML.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0FTP47XLD complete vehicle",
+          "url": "https://www.amazon.com/dp/B0FTP47XLD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, Coyote breakdown and crawling video",
+          "url": "https://www.rcdriver.com/axial-scx10iii-coyote/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Axial · alternative SCX24 Toyota 4Runner exact specification",
+          "url": "https://www.axialadventure.com/product/axial-1-24-scx24-toyota-4runner-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2035T2.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "axial-scx10-iii-coyote-front.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw64d3a64c/Images/AXI/AXI-2036T2_A0_N1HE5LQD.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-10-scx10-iii-coyote-4x4-rtr-brushed-rock-crawler-blue/AXI-2036T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx10-iii-coyote-detail.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbc687aca/Images/AXI/AXI-2036T2_A10_N1HE5LQD.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-10-scx10-iii-coyote-4x4-rtr-brushed-rock-crawler-blue/AXI-2036T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx10-iii-coyote-angle.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw8c2bb166/Images/AXI/AXI-2036T2_A19_N1HE5LQD.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-10-scx10-iii-coyote-4x4-rtr-brushed-rock-crawler-blue/AXI-2036T2.html",
+          "credit": "Axial official product photography"
+        }
+      ],
+      "conflicts": "RC Driver covers both $349.99 standard RTR and $399.99 RTR Plus; this ASIN is AXI-2036T 2 with drive battery/charger extra, not AXI-3071 Plus. Weight table includes a 1300mAh pack even though that pack is excluded.",
+      "specRows": 43
+    },
+    {
+      "slug": "scx30-ford-bronco",
+      "path": "/axial/scx30-ford-bronco/",
+      "file": "content/reviews/axial-scx30-ford-bronco.json",
+      "sku": "AXI-2048T2",
+      "apiSku": "AXI-2048T2",
+      "asin": "B0G3YHYZCS",
+      "words": 2084,
+      "sources": [
+        {
+          "name": "Axial · exact AXI-2048T2 official product, package and specification",
+          "url": "https://www.axialadventure.com/product/axial-1-30-scx30-ford-bronco-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2048T2.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Axial · model-specific instructions and parts documentation",
+          "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw54e57831/Manuals/AXI-2048-MANUAL-EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0G3YHYZCS complete vehicle",
+          "url": "https://www.amazon.com/dp/B0G3YHYZCS?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, SCX30 Jeep and Bronco",
+          "url": "https://www.rcdriver.com/axial-scx30-jeep-bronco/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Axial · alternative SCX30 Jeep Wrangler JLU exact specification",
+          "url": "https://www.axialadventure.com/product/axial-1-30-scx30-jeep-wrangler-jlu-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-white/AXI-2261T2.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "axial-scx30-ford-bronco-front.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwa5bce0c4/Images/AXI/AXI-2048T2_A0_LW8P92WH.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-30-scx30-ford-bronco-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2048T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx30-ford-bronco-detail.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw3620dac0/Images/AXI/AXI-2048T2_A10_LW8P92WH.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-30-scx30-ford-bronco-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2048T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx30-ford-bronco-angle.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw418d642d/Images/AXI/AXI-2048T2_A13_LW8P92WH.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-30-scx30-ford-bronco-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2048T2.html",
+          "credit": "Axial official product photography"
+        }
+      ],
+      "conflicts": "SCX30 damped shocks are not represented as conventional oil-filled SCX24 shocks. The official product listing supplies manual and servo-saver supplements; consult all current sheets.",
+      "specRows": 45
+    },
+    {
+      "slug": "scx30-jeep-wrangler-jlu",
+      "path": "/axial/scx30-jeep-wrangler-jlu/",
+      "file": "content/reviews/axial-scx30-jeep-wrangler-jlu.json",
+      "sku": "AXI-2261T2",
+      "apiSku": "AXI-2261T2",
+      "asin": "B0G5QVX3QK",
+      "words": 2118,
+      "sources": [
+        {
+          "name": "Axial · exact AXI-2261T2 official product, package and specification",
+          "url": "https://www.axialadventure.com/product/axial-1-30-scx30-jeep-wrangler-jlu-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-white/AXI-2261T2.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Axial · model-specific instructions and parts documentation",
+          "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw91c903bc/Manuals/AXI-2261-MANUAL-EN.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0G5QVX3QK complete vehicle",
+          "url": "https://www.amazon.com/dp/B0G5QVX3QK?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, SCX30 Jeep and Bronco",
+          "url": "https://www.rcdriver.com/axial-scx30-jeep-bronco/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Axial · alternative SCX30 Ford Bronco exact specification",
+          "url": "https://www.axialadventure.com/product/axial-1-30-scx30-ford-bronco-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-gray/AXI-2048T2.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        }
+      ],
+      "media": [
+        {
+          "filename": "axial-scx30-jeep-wrangler-jlu-detail.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwa7f8aac9/Images/AXI/AXI-2261T2_A5_LJTZSM3S.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-30-scx30-jeep-wrangler-jlu-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-white/AXI-2261T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx30-jeep-wrangler-jlu-front.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw920db836/Images/AXI/AXI-2261T2_A1_LJTZSM3S.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-30-scx30-jeep-wrangler-jlu-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-white/AXI-2261T2.html",
+          "credit": "Axial official product photography"
+        },
+        {
+          "filename": "axial-scx30-jeep-wrangler-jlu-angle.jpg",
+          "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwb1d12e84/Images/AXI/AXI-2261T2_A12_LJTZSM3S.jpg?sw=800&sh=800&sm=fit",
+          "page": "https://www.axialadventure.com/product/axial-1-30-scx30-jeep-wrangler-jlu-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-white/AXI-2261T2.html",
+          "credit": "Axial official product photography"
+        }
+      ],
+      "conflicts": "Current Jeep product table labels a 3.88 figure as wheel width without a unit. We do not reinterpret that entry as a measured wheelbase. Specifications from Bronco are not silently copied to Jeep.",
+      "specRows": 39
+    },
+    {
+      "slug": "dc10-drift-rtr",
+      "path": "/team-associated/dc10-drift-rtr/",
+      "file": "content/reviews/team-associated-dc10-drift-rtr.json",
+      "sku": "30133",
+      "apiSku": "ASC30133",
+      "asin": "B0DQ6BHVSF",
+      "words": 2096,
+      "sources": [
+        {
+          "name": "Team Associated · exact 30133 official product, package and specification",
+          "url": "https://60years.associatedelectrics.com/dc10-drift-car-ready-to-run/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Team Associated · model-specific instructions and parts documentation",
+          "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/DC10_Drift_Car/RTR/DC10_Drift_RTR_Manual_11-14-2024.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0DQ6BHVSF complete vehicle",
+          "url": "https://www.amazon.com/dp/B0DQ6BHVSF?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · Tim Mohr, exact DC10 RTR announcement",
+          "url": "https://www.bigsquidrc.com/team-associated-1-10-dc10-ready-to-run-rwd-drift-car/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Team Associated · alternative Reflex 14R Hoonicorn exact specification",
+          "url": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        },
+        {
+          "name": "MK Racing · explicit ASC30133 / manufacturer30133 mapping",
+          "url": "https://www.mkracing.eu/team-associated-dc10-drift-car-rtr-en-190854.html?language=en",
+          "checked": "2026-10-13",
+          "kind": "Exact prefixed listing identity documentation"
+        }
+      ],
+      "media": [
+        {
+          "filename": "team-associated-dc10-drift-rtr-front.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/3741/10314/30133_DC10_RTR_3QFT_IMG_4337_lg__78635.1749574585.jpg",
+          "page": "https://60years.associatedelectrics.com/dc10-drift-car-ready-to-run/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-dc10-drift-rtr-detail.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/3741/10321/30133_DC10_RTR_NB_TopDwn_IMG_4471_lg__07834.1749574585.jpg",
+          "page": "https://60years.associatedelectrics.com/dc10-drift-car-ready-to-run/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-dc10-drift-rtr-angle.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/3741/10324/30133_DC10_RTR_WheelThrow_IMG_4470_lg__75928.1749574585.jpg",
+          "page": "https://60years.associatedelectrics.com/dc10-drift-car-ready-to-run/",
+          "credit": "Team Associated official product photography"
+        }
+      ],
+      "conflicts": "API PartNumber ASC30133 and Model 30133 refer to official 30133. Official product/manual confirm blue assembled brushless RWD car;30133C Combo and 30134 kit are separate purchases.",
+      "identityDocumentation": "API PartNumber ASC30133 and Model 30133 refer to official 30133. Official product/manual confirm blue assembled brushless RWD car;30133C Combo and 30134 kit are separate purchases.",
+      "specRows": 24
+    },
+    {
+      "slug": "reflex-14r-hoonicorn",
+      "path": "/team-associated/reflex-14r-hoonicorn/",
+      "file": "content/reviews/team-associated-reflex-14r-hoonicorn.json",
+      "sku": "20178",
+      "apiSku": "ASC20178",
+      "asin": "B0BSH7DGRX",
+      "words": 2086,
+      "sources": [
+        {
+          "name": "Team Associated · exact 20178 official product, package and specification",
+          "url": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Team Associated · model-specific instructions and parts documentation",
+          "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14R/RTR/20178-Reflex-14R-Hoonicorn-Manual-2023b.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0BSH7DGRX complete vehicle",
+          "url": "https://www.amazon.com/dp/B0BSH7DGRX?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · Tim Mohr, Reflex 14R Hoonicorn announcement",
+          "url": "https://www.bigsquidrc.com/team-associated-reflex-14r-hoonicorn-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Team Associated · alternative DC10 Drift RTR exact specification",
+          "url": "https://60years.associatedelectrics.com/dc10-drift-car-ready-to-run/",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        },
+        {
+          "name": "Horizon Hobby · ASC20178 exact standard Reflex Hoonicorn",
+          "url": "https://www.horizonhobby.com/product/1-14-reflex-14r-hoonicorn-rtr/ASC20178.html",
+          "checked": "2026-10-13",
+          "kind": "Exact prefixed listing identity documentation"
+        }
+      ],
+      "media": [
+        {
+          "filename": "team-associated-reflex-14r-hoonicorn-detail.png",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/126/600/4__64518.1714326701.png",
+          "page": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-reflex-14r-hoonicorn-front.png",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/126/611/1__33875.1714326701.png",
+          "page": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-reflex-14r-hoonicorn-angle.png",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/126/617/15__28185.1714326702.png",
+          "page": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+          "credit": "Team Associated official product photography"
+        }
+      ],
+      "conflicts": "API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model.",
+      "identityDocumentation": "API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model.",
+      "specRows": 24
+    },
+    {
+      "slug": "rival-mt10-v2",
+      "path": "/team-associated/rival-mt10-v2/",
+      "file": "content/reviews/team-associated-rival-mt10-v2.json",
+      "sku": "20518",
+      "apiSku": "AS20518",
+      "asin": "B0BQCDQJDD",
+      "words": 2079,
+      "sources": [
+        {
+          "name": "Team Associated · exact 20518 official product, package and specification",
+          "url": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Team Associated · model-specific instructions and parts documentation",
+          "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RIVAL_MT10/Brushless_RTR/20518-Rival-MT10-v2-Manual-1-2023.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0BQCDQJDD complete vehicle",
+          "url": "https://www.amazon.com/dp/B0BQCDQJDD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · Tim Mohr, exact MT10 brushless RTR V2 announcement",
+          "url": "https://www.bigsquidrc.com/team-associated-1-10-rival-mt10-brushless-rtr-v2/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Losi · alternative Mini LMT Grave Digger exact specification",
+          "url": "https://www.losi.com/product/losi-1-18-mini-lmt-grave-digger-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included--green/LOS01026T1.html",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        },
+        {
+          "name": "CML Distribution · AS20518 exact standard MT10 V2",
+          "url": "https://www.cmldistribution.co.uk/product/AS20518/team-associated-rival-mt10-v2-rtr-truck-brushless-for-2-3s-battery",
+          "checked": "2026-10-13",
+          "kind": "Exact prefixed listing identity documentation"
+        }
+      ],
+      "media": [
+        {
+          "filename": "team-associated-rival-mt10-v2-front.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/212/2138/20518_MT10_3Q_Low_IMG_1590_lg__83075.1725441857.jpg",
+          "page": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-rival-mt10-v2-detail.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/212/2144/20518_MT10_NB_Top_IMG_6464_lg__52683.1725441859.jpg",
+          "page": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-rival-mt10-v2-angle.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/212/2145/20518_MT10_NB_WheelieBar_IMG_6475_lg__74801.1725441859.jpg",
+          "page": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+          "credit": "Team Associated official product photography"
+        }
+      ],
+      "conflicts": "API AS20518 is official 20518; title identifies ASC20518, brand Team Associated, red V2 brushless standard package. Official model page and 20518 manual distinguish 20517C brushed,20518C Combo and 20524 Factory Team kit.",
+      "identityDocumentation": "API AS20518 is official 20518; title identifies ASC20518, brand Team Associated, red V2 brushless standard package. Official model page and 20518 manual distinguish 20517C brushed,20518C Combo and 20524 Factory Team kit.",
+      "specRows": 25
+    },
+    {
+      "slug": "pro2-sc10-method-race-wheels",
+      "path": "/team-associated/pro2-sc10-method-race-wheels/",
+      "file": "content/reviews/team-associated-pro2-sc10-method-race-wheels.json",
+      "sku": "70021",
+      "apiSku": "ASC70021",
+      "asin": "B09TQ58XWL",
+      "words": 2111,
+      "sources": [
+        {
+          "name": "Team Associated · exact 70021 official product, package and specification",
+          "url": "https://60years.associatedelectrics.com/pro2-sc10-method-race-wheels-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Team Associated · model-specific instructions and parts documentation",
+          "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2SC10/Method_Race_Wheels_RTR/5-Series-RTR-Manual-10-11-2021.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B09TQ58XWL complete vehicle",
+          "url": "https://www.amazon.com/dp/B09TQ58XWL?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · Tim Mohr, exact Method 70021 announcement",
+          "url": "https://www.bigsquidrc.com/team-associated-pro2-sc10-method-race-wheels-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Team Associated · alternative Rival MT10 V2 exact specification",
+          "url": "https://60years.associatedelectrics.com/rival-mt10-brushless-rtr-v2-red/",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        },
+        {
+          "name": "AMain Hobbies · ASC70021 exact Method standard RTR",
+          "url": "https://www.amainhobbies.com/team-associated-pro2-sc10-1-10-rtr-2wd-short-course-truck-method-asc70021/p1366146",
+          "checked": "2026-10-13",
+          "kind": "Exact prefixed listing identity documentation"
+        }
+      ],
+      "media": [
+        {
+          "filename": "team-associated-pro2-sc10-method-race-wheels-front.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/225/2420/Pro2MWR_3Q_Pass_IMG_9438_lg__72250.1725441944.jpg",
+          "page": "https://60years.associatedelectrics.com/pro2-sc10-method-race-wheels-rtr/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-pro2-sc10-method-race-wheels-detail.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/225/2427/PRO2_TopDown_NoBody-gallery_lg__26685.1725441946.jpg",
+          "page": "https://60years.associatedelectrics.com/pro2-sc10-method-race-wheels-rtr/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-pro2-sc10-method-race-wheels-angle.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/225/2426/Pro2MWR_BodyOff_3_4_High_lg__95779.1725441945.jpg",
+          "page": "https://60years.associatedelectrics.com/pro2-sc10-method-race-wheels-rtr/",
+          "credit": "Team Associated official product photography"
+        }
+      ],
+      "conflicts": "API ASC70021 corresponds to official 70021 standard RTR. Official document link label mistakenly says 72021 while filename/model contents identify 70021. Newer 70041 SC10SW is a different listing.",
+      "identityDocumentation": "API ASC70021 corresponds to official 70021 standard RTR. Official document link label mistakenly says 72021 while filename/model contents identify 70021. Newer 70041 SC10SW is a different listing.",
+      "specRows": 25
+    },
+    {
+      "slug": "sr10m-dirt-oval-lipo-combo",
+      "path": "/team-associated/sr10m-dirt-oval-lipo-combo/",
+      "file": "content/reviews/team-associated-sr10m-dirt-oval-lipo-combo.json",
+      "sku": "70033C",
+      "apiSku": "ASC70033C",
+      "asin": "B0DJDKK5XR",
+      "words": 2130,
+      "sources": [
+        {
+          "name": "Team Associated · exact 70033C official product, package and specification",
+          "url": "https://60years.associatedelectrics.com/sr10m-dirt-oval-rtr-blue/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Team Associated · model-specific instructions and parts documentation",
+          "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/SR10M_Dirt_Oval/RTR/SR10M_Kit_and_RTR_Manual_12_6_2024.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual"
+        },
+        {
+          "name": "Amazon Creators API · exact B0DJDKK5XR complete vehicle",
+          "url": "https://www.amazon.com/dp/B0DJDKK5XR?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel, SR10M RTR track coverage",
+          "url": "https://www.rcdriver.com/team-associated-sr10m-rtr-dirt-oval-car/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Team Associated · alternative Pro2 SC10 Method Race Wheels exact specification",
+          "url": "https://60years.associatedelectrics.com/pro2-sc10-method-race-wheels-rtr/",
+          "checked": "2026-10-13",
+          "kind": "Alternative manufacturer"
+        },
+        {
+          "name": "Tower Hobbies · ASC70033C exact blue LiPo Combo mapping",
+          "url": "https://www.towerhobbies.com/product/110-sr10m-2wd-dirt-oval-rtr-lipo-combo-blue/ASC70033C.html",
+          "checked": "2026-10-13",
+          "kind": "Exact prefixed listing identity documentation"
+        }
+      ],
+      "media": [
+        {
+          "filename": "team-associated-sr10m-dirt-oval-lipo-combo-front.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/268/3287/700333_SR10M_Dirt_Oval_RTR_body_3Qfront_lg__20948.1749763714.jpg",
+          "page": "https://60years.associatedelectrics.com/sr10m-dirt-oval-rtr-blue/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-sr10m-dirt-oval-lipo-combo-detail.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/268/3294/70033_SR10M_Dirt_Oval_RTR_top_view_lg__08529.1725442221.jpg",
+          "page": "https://60years.associatedelectrics.com/sr10m-dirt-oval-rtr-blue/",
+          "credit": "Team Associated official product photography"
+        },
+        {
+          "filename": "team-associated-sr10m-dirt-oval-lipo-combo-angle.jpg",
+          "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/268/3296/70033C_SR10M_Dirt_Oval_RTR_electronics_lg__53608.1725442222.jpg",
+          "page": "https://60years.associatedelectrics.com/sr10m-dirt-oval-rtr-blue/",
+          "credit": "Team Associated official product photography"
+        }
+      ],
+      "conflicts": "Independent coverage features 70033 standard RTR, so its completion list excludes power equipment. This review's 70033C adds manufacturer-listed Reedy LiPo and compact balance charger; no performance improvement is inferred from the bundle.",
+      "identityDocumentation": "Independent coverage features 70033 standard RTR, so its completion list excludes power equipment. This review's 70033C adds manufacturer-listed Reedy LiPo and compact balance charger; no performance improvement is inferred from the bundle.",
+      "specRows": 25
+    }
+  ],
+  "distribution": {
+    "Losi": 5,
+    "Axial": 6,
+    "Team Associated": 5,
+    "FMS": 0
+  },
+  "mediaPolicy": "Only manufacturer-hosted official photos downloaded locally; no Amazon media bytes downloaded."
+}

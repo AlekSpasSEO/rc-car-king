@@ -1,0 +1,459 @@
+{
+  "brand": "Tamiya",
+  "brandSlug": "tamiya",
+  "model": "The Grasshopper II (2017)",
+  "modelSlug": "grasshopper-ii-2017",
+  "headlineLines": [
+    "THE GRASSHOPPER II (2017)",
+    "RWD · 1/10"
+  ],
+  "sku": "58643",
+  "title": "Tamiya The Grasshopper II (2017) review: the right complete-car project?",
+  "dek": "A simple molded-body classic for a first kit build; choose it for the stock 380-powered project before budgeting extensive conversions.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Buggy",
+  "use": "Bashing",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "RWD",
+  "scale": "1/10",
+  "format": "Body-inclusive assembly kit",
+  "skill": "First-time classic-buggy kit builder",
+  "price": {
+    "amount": 163,
+    "currency": "USD",
+    "basis": "Tamiya US manufacturer MSRP reference · kit only",
+    "checked": "2026-10-13",
+    "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+    "note": "Manufacturer US published MSRP is a dated vehicle-only reference; the live Amazon offer remains separate."
+  },
+  "image": "tamiya-58643-official-1.jpg",
+  "imageAlt": "Tamiya official completed The Grasshopper II (2017) product photograph",
+  "imageCaption": "Official Tamiya completed kit example. Assembly/finishing required; any shown completion electronics are subject to the documented box contents.",
+  "imageCredit": {
+    "name": "Tamiya official product photography",
+    "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Research-led buying assessment using exact manufacturer documentation, verified Amazon identity and attributable independent coverage. We have not physically driven this model."
+  },
+  "overview": "The Grasshopper II is a good fit for someone who wants a first mechanical RC build with a recognizable late-eighties buggy shape and a modest standard motor.  Its appeal is the understandable layout: a tub, a rear gearbox, a simple suspension and a molded white body.  The reservation is that this simplicity also defines its limits.",
+  "verdict": "A considered purchase for first-time classic-buggy kit builder",
+  "verdictText": "I would recommend the Grasshopper II when you want to assemble its gearbox, paint its driver and drive the standard buggy before deciding what to change. I would pass when you want a running car this weekend without an electronics order, or when a current club requires a different platform. This purchase works best when simplicity is a deliberate preference. Equip the exact regional kit correctly and let a few calm sessions tell you whether a later modification is worth doing.",
+  "pros": [
+    "Straightforward rear gearbox and molded white body suit a patient first builder.",
+    "The included 380 motor forms a modest baseline; friction damping is basic.",
+    "The simple layout and illustrated instructions help a beginner inspect the running gear."
+  ],
+  "cons": [
+    "US/global dimensions differ. Current US description names TBLE-02S; global description requires separate ESC.",
+    "Stock friction dampers and rolling rear axle are basic equipment.",
+    "Radio, servo and power gear remain separate purchases."
+  ],
+  "bestFor": [
+    "First-time classic-buggy kit builder",
+    "Owners who want the exact included body and documented running hardware"
+  ],
+  "avoidIf": [
+    "You need independent rear suspension and stock oil dampers.",
+    "You plan a540 conversion before trying the supplied 380 motor."
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/10 · RWD"
+    ],
+    [
+      "Motor",
+      "380-size brushed · included"
+    ],
+    [
+      "Controller",
+      "US lists TBLE-02S; global page says separate; confirm A box"
+    ],
+    [
+      "Battery",
+      "7.2 V pack and charger · extra"
+    ],
+    [
+      "Radio / servo",
+      "2-channel radio/receiver and servo · extra"
+    ],
+    [
+      "Format / SKU",
+      "Body-inclusive assembly kit · 58643"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First-time classic-buggy kit builder",
+    "disclosure": "Five equally weighted categories assess documented equipment and buyer fit. No measured speed, handling, durability, runtime or reliability scores are assigned.",
+    "dimensions": [
+      {
+        "label": "Build / buyer fit",
+        "score": 8.5,
+        "reason": "Straightforward rear gearbox and molded white body suit a patient first builder."
+      },
+      {
+        "label": "Documented equipment",
+        "score": 6.5,
+        "reason": "The included 380 motor forms a modest baseline; friction damping is basic."
+      },
+      {
+        "label": "Setup / adjustment",
+        "score": 7,
+        "reason": "Regional ESC and dimensions disagree, making actual box confirmation useful."
+      },
+      {
+        "label": "Service understanding",
+        "score": 7.5,
+        "reason": "The simple layout and illustrated instructions help a beginner inspect the running gear."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "Good value for its standard form; immediate motor and shock conversions change the comparison."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B09P7TCKFD",
+    "marketplace": "www.amazon.com",
+    "variant": "The Grasshopper II (2017) · complete body-inclusive kit",
+    "sku": "58643",
+    "apiSku": "TAM58643A",
+    "identityNote": "Verified API mapping TAM58643A → 58643. TAM is the distributor prefix. No regional A suffix is asserted for this mapping.",
+    "detailPageUrl": "https://www.amazon.com/dp/B09P7TCKFD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:18.453Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "The buying case: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The Grasshopper II is a good fit for someone who wants a first mechanical RC build with a recognizable late-eighties buggy shape and a modest standard motor. Its appeal is the understandable layout: a tub, a rear gearbox, a simple suspension and a molded white body. The reservation is that this simplicity also defines its limits. A buyer expecting contemporary race suspension and extensive stock adjustment should look at a different kit before ordering upgrades to turn this one into something it was never sold as.",
+        "We cover the 2017 re-release, manufacturer item 58643, matched by Amazon to TAM58643A. The A designation is a regional kit identity, not permission to combine equipment claims from every old Grasshopper listing. The body is supplied with the chassis, so this is a complete vehicle assembly project. It is not the original Grasshopper 58346, the old 1988 boxed release or a body-only purchase. That distinction matters when ordering a manual or replacement trim.",
+        "I would buy it for a new builder who finds assembling the gearbox and finishing the driver appealing, particularly with an experienced person nearby to help choose electronics. For a returning owner it is an uncomplicated way to revisit a familiar style. Our buying assessment concerns that project and the documented contents. It is not a physical drive test, and we do not assign a top speed, runtime or impact-survival result."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "The complete package",
+      "heading": "The complete package: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The kit includes a 380-size brushed motor, chassis and suspension parts, molded white body, driver figure, wheels, tires and markings. You supply a transmitter and compatible receiver, steering servo, drive battery, charger and transmitter batteries. The current Tamiya USA page names a bundled TBLE-02S, while the global page lists an ESC separately. Because the verified Amazon regional title alone does not name the fitted controller, confirm the current box and connector before completing the electronics order.",
+        "A white molded body does not have the same finishing requirements as a clear polycarbonate touring shell. The manufacturer recommends its TS paint for the body, rather than automatically applying the PS paint intended for a flexible clear shell. Painting the driver is another small project. A first-time buyer benefits from knowing this before purchasing a generic can of RC paint that may be intended for a different plastic or painting side.",
+        "Read the instructions through, identify the rear gearbox pieces and keep the wheels’ small hardware organized. The straightforward construction is valuable because you can see why each stage exists. Turn the transmission by hand before closing it and move the suspension before connecting the servo. Do not rush the last radio-installation steps merely because the chassis looks finished. Mechanical assembly and control setup are separate jobs, and both have to be right for the first drive to be relaxing."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain and power",
+      "heading": "Drivetrain and power: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The 380 motor is a deliberate part of the stock kit. It drives the rear axle through the enclosed gearbox at a listed 14.7:1 ratio. The smaller motor is not a missing 540 or a shipping mistake. It gives this first-build purchase a distinct standard configuration; changing to a larger motor should be considered an optional conversion with its own requirements, rather than correcting the product before you have used it.",
+        "The gearbox incorporates a three-bevel differential, allowing the rear wheels to turn at different speeds in a bend. With rear-wheel drive, traction and throttle timing still matter on loose dirt. Begin by learning how much throttle the rear tires can accept, then add cornering. There is no gyro-controlled drifting package hiding behind the buggy’s RWD label. Choosing this kit for dirt driving is a different decision from choosing a dedicated rear-drive drift car.",
+        "Tamiya lists 540-motor and oil-damper possibilities among the compatible options. The US documentation specifically associates a 540 conversion with the appropriate bearing set. If that upgrade already dominates your budget, compare a 540-powered kit first. You may prefer the Hornet’s supplied larger motor or the Fighter NXGEN’s more modern suspension package. My preference for the Grasshopper II is strongest when its stock, simple form is the goal. Extra power has little purchasing value if it merely exposes that you wanted a different car."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Radio and setup: The Grasshopper II (2017)",
+      "paragraphs": [
+        "There is no supplied transmitter in this kit, so controller compatibility and radio selection require an actual decision. Buy a receiver that works with the chosen transmitter and a servo appropriate to the mounts and linkage. If a controller is present, read that particular controller’s instructions rather than assuming every Tamiya ESC uses the same battery settings. If it is absent, select a brushed-capable unit that supports the chosen pack and connector.",
+        "Set the steering servo to neutral before fastening the servo horn. Keep steering and throttle trims near a sensible baseline while following the electronics setup procedure. Support the buggy with its rear wheels clear of the work surface for the initial power-on and calibration. An incorrectly connected motor or reversed throttle channel should be discovered on the bench, where it cannot launch the car into a table leg.",
+        "For a new driver, an adjustable throttle limit on a chosen radio can be helpful, but it is not a included Grasshopper II feature. The stock motor alone should not be described as an electronic training mode. Practice smooth acceleration, a controlled stop and a broad turn in each direction. If the car wanders, check servo centering and the steering linkage before increasing electronic correction. Buying a simple kit is useful when it encourages you to understand those basics. It loses that value if the chosen radio’s settings become a substitute for checking the assembled mechanism."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Steering and suspension: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The front suspension is a swing-axle arrangement and the rear is a rolling rigid assembly. Coil-spring friction dampers support the standard layout. The rear wheels do not each receive the independent movement associated with a modern double-wishbone buggy. This is useful knowledge when interpreting how the car responds to uneven ground and when deciding whether it fits a planned club or backyard course.",
+        "At the front, compare the movement and resting position of both sides before attaching the steering linkage. Ensure the steering pivots move freely without creating unnecessary slack, then set the linkage as instructed. Tightening a pivot until it stops moving is not a route to accuracy. Sweep the servo through its range and use the radio’s steering adjustment, where available, to stop it forcing the mechanism against a limit.",
+        "The rear gearbox and axle need freedom to move within their prescribed mounting arrangement. Verify springs, spacers and fasteners against the manual rather than improvising to remove every visible movement. Some motion is the design, not a loose part. The appropriate initial suspension target is consistent left-right action and the correct stock assembly. We have not measured rebound or cornering precision. The reason to prefer the documented layout is its accessibility to a first builder; a buyer wanting more tunable damping can compare a different complete-car kit without turning that preference into an unsupported handling claim."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to drive",
+      "heading": "Where to drive: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The front ribbed tires and rear spiked tires support an off-road buggy brief. I would begin on relatively even compact dirt with enough open space to learn a turn, then use pavement cautiously when it is clear and unobstructed. Deep lawn, large stones and sharp edges can overwhelm the available tire diameter and simple suspension. The off-road label is a category, not proof that the car will cope with every patch behind the house.",
+        "The 380-powered standard setup encourages learning without immediately shopping for speed. Start with gentle throttle on a straight line, then circles and figure-eights. Notice which turns produce rear-wheel spin and which surface patches make the steering inconsistent. That observation is more useful than copying a random owner’s motor conversion without knowing the ground they use. If the buggy repeatedly catches an obstacle, move to a better area instead of trying to power through it.",
+        "The sealed gearbox does not eliminate cleaning. Check wheel rotation, axle ends, front pivots and any exposed wiring after dusty runs. Small stones or grass can create drag before you notice a problem in the motor sound. Remove the body for inspection and keep dirt from falling onto the radio installation. We have no warranty-level water resistance claim for the completed electronics you select, so follow their own limitations. A clean, dry practice area makes the initial mechanical checks and driving exercises easier to interpret."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Body and service: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The Grasshopper II’s molded white body and driver distinguish its finishing experience from that of the Hornet’s clear polycarbonate shell. The provided markings give it its familiar identity, but you can choose a personal scheme with paint suited to the material. The manufacturer’s finished photographs should be understood as examples of an assembled model. They are not proof that the individual driver, detailed parts and stickers arrive ready for display.",
+        "Check the body fit before final decoration, then plan where the paint and markings go. Keeping the body out of the active screw-sorting area avoids scratches and lost small details. The front bumper and body mounting also deserve a final inspection after the radio is installed: a body that forces a lead against a moving linkage creates an avoidable ownership problem. For a first model, a simple neat finish and accessible battery connection are more useful than an elaborate decoration that delays completing the car.",
+        "The sources disagree on overall dimensions. The global page lists 400 × 223 × 136 mm; the US description lists 400 × 221 × 139 mm. We retain the disagreement rather than choosing a false level of precision, and both identify a broadly similar 1/10 buggy footprint. It matters little to a first practice route but matters if you order an exact fitted display case. Measure your completed model when buying tightly fitted storage instead of treating the dimensional conflict as settled."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Startup basket: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The dated Tamiya USA manufacturer MSRP reference for the 2017 kit is $163. That is a kit-only comparison, with a separately verified exact regional Amazon link for current commercial checking. A temporary live offer does not become a lasting article price. Count radio, receiver, servo, battery, charger and finishing materials before deciding the project is inexpensive. The box’s present ESC contents also need confirmation, because regional equipment can alter the completion quote even while the model identity remains the same Grasshopper II.",
+        "Write the essential basket as kit, radio and receiver, steering servo, drive pack, compatible charger, transmitter cells, assembly tools, and the body/driver finishing materials you intend to use. Add a brushed ESC if the offered regional box does not include one. Because the sources do not price all those precise choices together, this review leaves the extras unpriced and does not offer an invented all-in subtotal. A real hobby-shop quote is the correct next step for somebody starting without equipment.",
+        "Existing battery and radio gear can make the kit economical, provided their chemistry, voltage, protocol, dimensions and connectors are appropriate. A 540 motor, bearing conversion and oil dampers belong in an optional budget. If your quote contains all three before the first drive, compare the complete Hornet or Fighter NXGEN basket at the same time. The Grasshopper II has good value when you want its simple standard construction. Paying to remove that simplicity changes the buying case, even if the upgrades are enjoyable later."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ],
+      "table": {
+        "caption": "Actual completion basket · extras unpriced unless a checked price is available",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Price basis"
+        ],
+        "rows": [
+          [
+            "Reviewed vehicle",
+            "Kit/car only",
+            "$163.00 · stated dated reference"
+          ],
+          [
+            "Motor",
+            "380-size brushed · included",
+            "Included/extra as described"
+          ],
+          [
+            "ESC",
+            "US lists TBLE-02S; global page says separate; confirm A box",
+            "Confirm regional box; price any missing controller separately"
+          ],
+          [
+            "Radio / servo",
+            "2-channel radio/receiver and servo · extra",
+            "Extra; quote exact components"
+          ],
+          [
+            "Drive power",
+            "7.2 V pack and charger · extra",
+            "Extra; quote exact pack and charger"
+          ],
+          [
+            "Tools / finishing / transmitter cells",
+            "As required by exact manuals",
+            "Price required items separately"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "Real alternatives: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The original Grasshopper 58346 is a separate body-inclusive kit for someone who prefers its earlier shape and decoration. Both are simple rear-drive projects, but the exact body, wheels, manual and kit identity must remain visible. A low-cost search result for one should not be used to price the other. Your preference for the 1988-style body is a valid reason to choose the Grasshopper II without making an unsupported performance comparison.",
+        "The Hornet re-release supplies a 540 motor and oil-filled rear dampers in a recognizable classic kit. It deserves consideration if your first plan for the Grasshopper II is a larger motor and different rear dampers. The Hornet still uses an old-style rolling rear axle, so selecting it does not create modern independent rear suspension. Compare the actual build and completion equipment rather than treating the bigger motor as a complete definition of the vehicle.",
+        "The Fighter NXGEN DT-04 is the better alternative to investigate for a buyer whose main objective is learning with independent suspension and oil dampers, possibly at a beginner racing venue. It is another complete-car kit, not an RTR shortcut. Check the club’s rules and the price of its radio and battery basket. I would choose the Grasshopper II for someone who wants an uncomplicated nostalgic build, the Hornet for its own familiar identity and stock 540 package, and the Fighter when the contemporary beginner-buggy brief is more important than an old body style."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Buying verdict",
+      "heading": "Buying verdict: The Grasshopper II (2017)",
+      "paragraphs": [
+        "The 2017 Grasshopper II is persuasive as a first classic kit because the standard mechanism is accessible, the molded body is distinctive and the supplied 380 motor makes a coherent starting configuration. Its weaknesses are equally connected to that role: basic friction damping, limited stock adjustment and an electronics completion list that can cost more than a casual buyer expects. None of those should be hidden behind nostalgia.",
+        "Our assessment weighs build accessibility, documented stock equipment, beginner setup clarity, maintenance understanding and complete-purchase value for a first classic-buggy builder. The independent specialist coverage helps establish its place as a build project; we do not inherit its subjective handling, runtime or durability assertions as our test results. The regional dimensions and ESC statements remain disclosed conflicts. The score represents a reasoned purchase recommendation, not an Amazon star rating or a lap-time ranking.",
+        "I would recommend the Grasshopper II when you want to assemble its gearbox, paint its driver and drive the standard buggy before deciding what to change. I would pass when you want a running car this weekend without an electronics order, or when a current club requires a different platform. This purchase works best when simplicity is a deliberate preference. Equip the exact regional kit correctly and let a few calm sessions tell you whether a later modification is worth doing."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "tamiya-58643-official-2.jpg",
+      "alt": "Tamiya official front-suspension detail: swing-axle hardware and friction damping in the standard Grasshopper II.",
+      "caption": "Tamiya official front-suspension detail: swing-axle hardware and friction damping in the standard Grasshopper II.",
+      "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/"
+    },
+    {
+      "image": "tamiya-58643-official-3.jpg",
+      "alt": "Tamiya official rear-gearbox view: the supplied 380 motor and rolling rear assembly, with electronics illustrating a completed build.",
+      "caption": "Tamiya official rear-gearbox view: the supplied 380 motor and rolling rear assembly, with electronics illustrating a completed build.",
+      "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/"
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / SKU",
+      "Tamiya 58643"
+    ],
+    [
+      "Amazon ASIN",
+      "B09P7TCKFD · API verified"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/10 · RWD"
+    ],
+    [
+      "Purchase format",
+      "Body-inclusive assembly kit"
+    ],
+    [
+      "Motor",
+      "380-size brushed · included"
+    ],
+    [
+      "Speed controller",
+      "US lists TBLE-02S; global page says separate; confirm A box"
+    ],
+    [
+      "Radio / steering servo",
+      "2-channel radio/receiver and servo · extra"
+    ],
+    [
+      "Drive battery / charging",
+      "7.2 V pack and charger · extra"
+    ],
+    [
+      "Length / width / height",
+      "Global 400 × 223 × 136 mm; US 400 × 221 × 139 mm"
+    ],
+    [
+      "Wheelbase",
+      "253 mm · global manufacturer"
+    ],
+    [
+      "Suspension",
+      "Front swing axle; rear rolling rigid; friction dampers"
+    ],
+    [
+      "Tires / wheels",
+      "Front grooved 19/74 mm; rear spiked 36/82 mm"
+    ],
+    [
+      "Gear arrangement",
+      "14.7:1 · stock"
+    ],
+    [
+      "Body",
+      "Molded white body and driver; supplied"
+    ],
+    [
+      "Specification caveat",
+      "US/global dimensions differ. Current US description names TBLE-02S; global description requires separate ESC."
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does this exact model come ready to run?",
+      "answer": "No. It is a body-inclusive assembly kit. The body and chassis are supplied, but assembly, finishing and completion electronics remain part of the purchase."
+    },
+    {
+      "question": "What motor and controller are included?",
+      "answer": "380-size brushed · included. US lists TBLE-02S; global page says separate; confirm A box. Confirm the offered regional box before buying replacement electronics."
+    },
+    {
+      "question": "What do I need for the first session?",
+      "answer": "2-channel radio/receiver and servo · extra. 7.2 V pack and charger · extra. Transmitter cells, appropriate finishing materials and assembly tools also need checking."
+    },
+    {
+      "question": "What ground should I plan to use?",
+      "answer": "The front ribbed tires and rear spiked tires support an off-road buggy brief. I would begin on relatively even compact dirt with enough open space to learn a turn, then use pavement cautiously when it is clear and unobstructed. Deep lawn, large stones and sharp edges can overwhelm the available tire diameter and simple suspension. The off-road label is a category, not proof that the car will cope with every patch behind the house."
+    },
+    {
+      "question": "Which specification differences should I check before ordering?",
+      "answer": "US/global dimensions differ. Current US description names TBLE-02S; global description requires separate ESC."
+    },
+    {
+      "question": "Is the editorial rating a driving test or Amazon star rating?",
+      "answer": "Neither. It evaluates the documented complete purchase for first-time classic-buggy kit builder. Manufacturer facts, API identity and independent context are credited separately. No speed, grip, crash or reliability measurements are invented."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tamiya · exact model product/specification",
+      "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Tamiya · assembly/body or regional specification documentation",
+      "url": "https://tamiya.com/cms/english/rc/rcmanual/58643.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual / specification"
+    },
+    {
+      "name": "Amazon Creators API · exact ASIN B09P7TCKFD",
+      "url": "https://www.amazon.com/dp/B09P7TCKFD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "Mad Toys and Hobbies · Grasshopper II review",
+      "url": "https://madtoysandhobbies.com.au/review-rc-tamiya-grasshopper-ii-58643/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Tamiya US manufacturer MSRP reference · kit only",
+      "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer price reference"
+    }
+  ],
+  "evidenceNote": "Manufacturer documentation establishes the mechanism and requirements. Amazon Creators API verifies the exact listing/part number and dated offer. Mad Toys and Hobbies · Grasshopper II review supplies attributed context; any modified build or sibling variant is explicitly distinguished in the article. US/global dimensions differ. Current US description names TBLE-02S; global description requires separate ESC. Manufacturer US published MSRP is a dated vehicle-only reference; the live Amazon offer remains separate.",
+  "revisionNote": "13 October 2026: original complete-car research review, exact API identity, current evidence ledger and credited manufacturer media."
+}

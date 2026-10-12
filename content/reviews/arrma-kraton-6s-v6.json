@@ -1,0 +1,519 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Kraton 6S BLX V6",
+  "modelSlug": "kraton-6s-v6",
+  "headlineLines": [
+    "KRATON 6S BLX V6",
+    "THE BUYING CASE."
+  ],
+  "sku": "ARA8608V6T1",
+  "title": "ARRMA Kraton 6S BLX V6 review: a deliberate large-truck project for an experienced owner",
+  "dek": "A substantial 4S/6S RTR with current EXB-derived hardware, clipless body and separate receiver. It suits an experienced outdoor basher, provided space, compatible power equipment and the exact V6 specification are settled.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushless",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/8",
+  "format": "Ready-to-run",
+  "skill": "Experienced recreational basher choosing a substantial 4S/6S truck",
+  "price": {
+    "amount": 699.99,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://www.horizonhobby.com/product/1-8-kraton-6s-blx-4x4-rtr-brushless-speed-truck-blue-orange/ARA8608V6T1.html"
+  },
+  "image": "arrma-kraton-6s-v6-product.jpg",
+  "imageAlt": "Official ARRMA photograph of the Kraton 6S BLX V6, exact reviewed complete-car variant",
+  "imageCaption": "Kraton 6S BLX V6, SKU ARA8608V6T1. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby official product photography",
+    "url": "https://www.horizonhobby.com/product/1-8-kraton-6s-blx-4x4-rtr-brushless-speed-truck-blue-orange/ARA8608V6T1.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The Kraton 6S V6 is for an experienced recreational basher who wants a broad, substantial four-wheel-drive truck and has the space, battery equipment and service appetite to use it. I would shortlist it as a deliberate large-vehicle purchase, including a lower 4S operating route where appropriate. The main reservation is practical scale. The manufacturer lists a 466mm width and 5.61kg weight, so carrying, storing and recovering it are part of the activity rather than details hidden behind a scale label.",
+  "verdict": "A deliberate large-truck project for an experienced owner",
+  "verdictText": "I would consider the blue/orange ARA8608V6T1 for an experienced recreational basher with open space, a correct 4S/6S charging plan and interest in the current standard V6 package. The substantial chassis, differential equipment, clipless protection and service documents make a coherent purchase. The reservations are physical scale, separate power costs and the need to distinguish exact trim and revision. The servo-rating and web-label conflicts deserve visible qualification rather than hidden corrections.",
+  "pros": [
+    "Current substantial EXB-derived factory hardware",
+    "Clipless body and exact service documents",
+    "Separate ESC and SR315 receiver",
+    "Documented 4S/6S operation"
+  ],
+  "cons": [
+    "LiPo and charger extra",
+    "Large 466mm width and 5.61kg listed weight",
+    "No stock AVC claim",
+    "Generation and standard/EXB distinctions require care"
+  ],
+  "bestFor": [
+    "An experienced owner with open outdoor room",
+    "A planned 4S/6S charging and transport setup",
+    "Using the current standard V6 as supplied"
+  ],
+  "avoidIf": [
+    "A cramped first-RC driving space",
+    "Assuming standard and EXB trims are identical",
+    "Expecting stock AVC assistance"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/8"
+    ],
+    [
+      "Motor",
+      "Firma 4074 · 2050Kv brushless · Brushless"
+    ],
+    [
+      "Controller / radio",
+      "Firma 150A Smart V2 · B5.12 firmware · SLT3 and SR315 · no AVC in this stock package"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD · current 29mm differentials · 7075-T6 chassis per current page"
+    ],
+    [
+      "Drive power",
+      "Documented 4S/6S hardcase LiPo arrangement extra · IC5 · manufacturer minimum 5000mAh 50C"
+    ],
+    [
+      "Package",
+      "Complete RTR · ARA8608V6T1"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Experienced recreational basher choosing a substantial 4S/6S truck",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Preparation for the buyer",
+        "score": 7,
+        "reason": "The assembled truck and supplied radio cells help preparation, but high-cell LiPo and charger remain a substantial separate basket."
+      },
+      {
+        "label": "Current monster hardware",
+        "score": 8.5,
+        "reason": "Current official V6 page lists 7075-T6 chassis, 29mm differential hardware and clipless protection features."
+      },
+      {
+        "label": "Control configuration",
+        "score": 7.5,
+        "reason": "SLT3 limiting, separate SR315 receiver and documented ESC setup suit an experienced owner; stock AVC is not claimed."
+      },
+      {
+        "label": "Service information",
+        "score": 8.5,
+        "reason": "Current manuals, tech packs and modular access make the exact large-vehicle assemblies identifiable."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "Value requires the space, power and service budget to use this substantial truck, rather than buying its largest speed claim."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0DQB2F58S",
+    "marketplace": "www.amazon.com",
+    "variant": "Blue / Orange · complete car",
+    "sku": "ARA8608V6T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DQB2F58S?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:05:01.328Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "A substantial 6S-capable truck for an owner who has planned the whole project.",
+      "paragraphs": [
+        "The Kraton 6S V6 is for an experienced recreational basher who wants a broad, substantial four-wheel-drive truck and has the space, battery equipment and service appetite to use it. I would shortlist it as a deliberate large-vehicle purchase, including a lower 4S operating route where appropriate. The main reservation is practical scale. The manufacturer lists a 466mm width and 5.61kg weight, so carrying, storing and recovering it are part of the activity rather than details hidden behind a scale label.",
+        "This review identifies the blue/orange complete ARA8608V6T1, verified through Amazon's Creators API. It is the standard V6, not the separately identified ARA8708V6 EXB trim or an older V5. Those distinctions matter because current standard-V6 documentation already lists several EXB-derived components. A headline saying strengthened does not establish every part found on another trim. Use the exact page, manual and parts pack to identify the complete vehicle you intend to buy.",
+        "I would choose it for a buyer who wants this large recreational truck as supplied, with a clear regular route. If the actual driving area is a cramped yard, a smaller 223S truck may provide more enjoyable sessions. If your wish list specifically describes the separate EXB trim, compare that factory equipment directly rather than assuming the standard model needs an immediate pile of replacements. The right purchase is the configuration you can equip and use, not the largest speed number you can add to a basket."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "A finished vehicle still leaves a substantial rechargeable-equipment decision.",
+      "paragraphs": [
+        "The current contents include the assembled truck, painted clipless body, Firma 4074 2050Kv motor, 150A Smart V2 ESC, SLT3 transmitter, SR315 receiver, S665 servo, aluminum servo horn, AA cells and tools. These are coordinated installed electronics rather than parts awaiting a build. The separate receiver is a meaningful ownership distinction from ARRMA's combined 223S units. It does not mean the stock package provides AVC assistance or every optional telemetry accessory.",
+        "Drive LiPo and charger are separate, with the manufacturer documenting 4S and 6S routes. Follow the exact battery arrangement and loop-wire instructions in the manual rather than improvising a connector combination. Verify the 158 × 48 × 70mm maximum tray and actual restraint. The required-equipment page also identifies a LiPo charging bag. Include it and any separate charger input power in the startup basket. You already receive radio AAs in this particular package.",
+        "Inspect the truck before its first powered session: wheels, steering, body latches, wire routing and battery retention. Set the radio and ESC according to the manual and use a conservative initial route. Even an experienced driver may need time to recalibrate expectations from a smaller vehicle. Start with normal steering, acceleration and braking checks, not an ambitious jump. A correctly established stock baseline is more useful than making several changes before the vehicle's ordinary behavior is familiar."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Choose a documented compatible drive battery and charger, checking chemistry, connector and dimensions.",
+          "Install the four supplied AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with conservative controls and an open stopping area."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "Current exact documentation matters more than remembered V5 hardware.",
+      "paragraphs": [
+        "The Firma 4074 motor is specified at 2050Kv, with the current 150A Smart V2 controller and documented firmware. The shaft-driven four-wheel-drive layout uses the current differential and driveline assemblies identified in the V6 documents. The manufacturer presently lists 29mm EXB-derived differential hardware and a black-anodized 7075-T6 chassis for this standard vehicle. That is a current source fact, not a reason to assume every older standard Kraton page described the same material or that the separate EXB trim is identical.",
+        "A 4S route and a 6S route are available within the documented system. For a buyer stepping into this size, lower cell count can be a sensible initial configuration, but it still needs appropriate control settings and space. The advertised 65-plus mph is a manufacturer claim with its battery and gearing conditions. We have not measured it. Ordinary dirt recreation does not require fitting a speed-run setup just to feel that you received the vehicle's full value.",
+        "Keep the gearing, differential and wheel combination as a known reference until use gives you a reason to change it. A larger replacement tire can affect effective load and clearance, while heavy impacts require inspection regardless of chassis alloy. Check cooling airflow after runs and keep debris away from moving parts. Material and component names are useful equipment information; they do not establish a crash-survival guarantee, measured efficiency or a particular failure rate without actual testing evidence."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "This stock radio is a specific package with limits worth learning.",
+      "paragraphs": [
+        "The SLT3 transmitter and SR315 receiver provide the documented steering and throttle arrangement, including output-limiting options. The stock specification is not presented here as AVC. A receiver family name, a trademark in a manual or another ARRMA model's feature list is insufficient to add that assistance to this purchase. Follow the actual transmitter and ESC instructions, and understand which adjustment controls available motor output and which changes neutral or steering setup.",
+        "On the first route, leave a generous braking area and practice smooth trigger changes. Use one battery configuration and one control baseline long enough to understand them before changing both. A truck of this width and mass needs a site appropriate to the task; limiting power cannot make an obstructed route an open one. Keep steering travel free and confirm that neutral and direction are correct before increasing the available output.",
+        "The separate ESC and receiver can make some future radio changes more direct than replacing a combined unit, but that is a configuration consequence rather than an invitation to shop immediately. The stock system is coordinated and should be assessed first. Our control score concerns documented operating choices for an experienced recreational buyer. It does not measure radio range, throttle response, correction performance, braking distance or telemetry accuracy. We also do not credit a stabilization feature that the exact factory package does not establish."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Significant hardware still needs mechanically correct adjustment.",
+      "paragraphs": [
+        "The S665 metal-geared servo, aluminum horn and adjustable 16mm oil-filled shocks are part of the current package. There is a publication detail to preserve: the product contents call the servo 20kg, while the current manual's contents call the same S665 18kg. We identify the part and both published figures rather than inventing a measured torque value or silently choosing one. If that rating determines your purchase, ask the manufacturer about voltage and specification basis.",
+        "Check steering endpoints and free movement with the truck supported. Large tires can demand substantial steering effort when stationary or trapped against terrain. A stronger-looking horn does not make a mechanical stop harmless. Inspect the bellcranks, links and contact points before concluding a different servo is needed. The current drawings show the fitted assemblies, and exact revision-aware service is more useful than a generic list of modifications claimed necessary for every 6S Kraton.",
+        "For suspension changes, use a repeatable corner and modest uneven feature. Record factory settings, then change one item related to a repeated behavior. A setup aimed at large jumps can make another part of an ordinary mixed route less pleasant. More preload, different fluid and replacement springs do different jobs. Our equipment assessment values documented adjustment and a substantial factory specification without turning it into a damping, steering-force or landing-control result from an unperformed test."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "The large-truck brief starts with a genuinely open route.",
+      "paragraphs": [
+        "The dBoots Copperhead tire package and broad monster-truck proportions suit recreational dirt and rough-ground driving. Walk the intended area for deep holes, sharp debris and hard edges near turns or landings. Leave room beyond the acceleration section. A vehicle of this mass should not be bought first and assigned a tiny route later merely because its transmitter offers limiting. Physical space, visibility and recovery access are direct buyer-fit requirements here.",
+        "Grass still has to be assessed for drag and debris. A substantial brushless system does not make thick vegetation a free surface, and continuous resistance should prompt inspection. Begin with stock gearing and shorter checks while learning the site. For jumps, start modestly and inspect after imperfect landings. No maximum height or crash sequence is established by this article. A stronger published chassis material changes the documented equipment, not the evidence available for a survival promise.",
+        "Independent Kraton generation coverage distinguishes V5, standard V6 and EXB routes, but it is research-led and should not override the current exact manufacturer's page. That is particularly important where a third-party table omitted chassis material or summarized old components. We use it for generation context rather than personal driving impressions. No lap, traction, temperature-wide reliability or runtime outcome is borrowed. The terrain recommendation follows the current truck's physical scale and the experienced buyer's regular driving site."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and upkeep",
+      "heading": "Clipless access helps service a vehicle that has more hardware to inspect.",
+      "paragraphs": [
+        "The current clipless body, taller side guards, protective front arrangement and wing structure are documented V6 features. Learn the release and check retention after a pack change or tumble. Roof, shell and wing can still be damaged, so no cosmetic life promise follows from the word EXB in a component description. The finished body avoids painting work, while its mounting and nearby protection pieces belong in the inspection routine.",
+        "After sessions, check tire bonding, wheel hardware, drive components, shock shafts and cooling fans. Remove accumulated debris and inspect the battery restraint and lead path. The current exploded views and tech pack identify the exact standard-V6 assemblies. A supplier's part titled Kraton 6S should still be checked for revision and trim fit. Parts fit matters as much as the appeal of an upgrade when a vehicle family spans several generations with related names.",
+        "Another labeling detail is preserved in the specifications: the current web table prints 377mm under Wheel Width, while the manual identifies 377mm as wheelbase. We use the manual's wheelbase description and flag the web label rather than pretending we measured it. Follow the manual after wet operation and check local service availability directly. Documentation and access earn a buying benefit, but we have no long-term wear study or stock survey to promise effortless maintenance everywhere."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "High-cell power, charging and transport make one ownership plan.",
+      "paragraphs": [
+        "The static dated reference uses the current manufacturer US vehicle price. Amazon offers are a separate refreshed display. Required extras include a documented compatible LiPo arrangement, charger, LiPo charging bag and any separate charging input supply. Transmitter AAs are supplied. We show those concrete needs without inventing a universal total, because an established owner with correct equipment and a newcomer to high-cell power have different purchases left to make.",
+        "Verify existing batteries as carefully as new ones. Cell count, connector, dimensions, restraint and the permitted wiring arrangement all need to agree. A bargain pair does not become good value if it creates a poor fit or an unsupported connection. Consider storage and carrying alongside the rechargeable equipment. The large published footprint and mass affect the bench, bag and driving outing even when those items do not add a new cash price.",
+        "Keep optional braces, bodies, tires and radio changes separate from completion. The current standard V6 already includes equipment absent from some old upgrade lists, so check before buying duplicates. If you know you want the separate EXB trim, compare the complete factory specification and actual price difference instead of assuming a standard truck plus a pile of parts is always cheaper. Value comes from the configuration you will use, with the supporting power and service plan ready."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$699.99 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "Documented 4S/6S hardcase LiPo arrangement extra · IC5 · manufacturer minimum 5000mAh 50C",
+            "Required extra; select exact compatible pack"
+          ],
+          [
+            "Charger",
+            "Compatible LiPo charger extra",
+            "Required extra"
+          ],
+          [
+            "LiPo charging bag",
+            "Price separately",
+            "Required equipment in the current model manual"
+          ],
+          [
+            "Charger input power",
+            "Check selected charger",
+            "Supply any required adapter or cable"
+          ],
+          [
+            "Transmitter batteries",
+            "Included",
+            "Four AA cells in current factory contents"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Compare exact trim and power class before the promotional action image.",
+      "paragraphs": [
+        "The Kraton 6S EXB ARA8708V6 is the direct trim comparison. It has its own official equipment list, and some of the distinction has changed as standard V6 hardware evolved. Check the current exact parts rather than treating EXB as a universal list carried forward unchanged. We have not tested a standard and EXB pair together. The useful question is which factory equipment matches your planned use and whether you would otherwise purchase the same items separately.",
+        "The Traxxas Maxx 89086-4 is a different substantial monster route with 3S/4S support and a smaller documented width and mass. It deserves comparison when the intended site or carrying plan favors its configuration. Both need separate rechargeable equipment. Choose between complete ownership projects, not a nominal scale label or an unsupported toughness ranking. We have no controlled collision, handling or landing test that establishes one as categorically superior.",
+        "The ARRMA Big Rock 223S provides a smaller 2S/3S crew-cab activity with a different cost and power basket. If your ordinary route never needs the larger truck's envelope, that can be a more useful purchase. A smaller vehicle is not automatically a compromise when it fits the available ground. The Kraton's case is strongest for an experienced owner who actively wants this size and has the supporting equipment, rather than someone persuaded that every progression must end at 6S."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "Kraton 6S V6 ARA8608V6T1",
+            "Substantial 4S/6S RTR; power extra",
+            "Current standard V6 package"
+          ],
+          [
+            "Kraton 6S EXB ARA8708V6",
+            "Separate factory trim; verify exact equipment",
+            "A specific higher equipment choice"
+          ],
+          [
+            "Traxxas Maxx 89086-4",
+            "3S/4S monster RTR; power extra",
+            "Different size and power brief"
+          ],
+          [
+            "Big Rock 223S",
+            "2S/3S truck RTR; power extra",
+            "Smaller charging and ownership project"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A strong large-truck shortlist item for a prepared experienced owner.",
+      "paragraphs": [
+        "I would consider the blue/orange ARA8608V6T1 for an experienced recreational basher with open space, a correct 4S/6S charging plan and interest in the current standard V6 package. The substantial chassis, differential equipment, clipless protection and service documents make a coherent purchase. The reservations are physical scale, separate power costs and the need to distinguish exact trim and revision. The servo-rating and web-label conflicts deserve visible qualification rather than hidden corrections.",
+        "The five equally weighted scores assess preparation, current monster hardware, control configuration, service information and complete-purchase value for that buyer. They do not report measured top speed, jump behavior, crash resistance, runtime or reliability. Manufacturer sources establish the current standard vehicle; Amazon verifies the exact blue/orange listing; independent researched coverage explains generation context. Our editorial conclusions do not create a personal drive test, and another trim's results do not become this vehicle's evidence.",
+        "Buy it when the stock current Kraton and its ownership scale are the desired project. Establish a conservative baseline, inspect routinely and make changes only to answer actual use. Skip it for cramped space, an incomplete power budget or a mistaken expectation of stock AVC. The largest supported cell count can remain an available option rather than the first-session requirement. A well-equipped truck used on a suitable route is a more persuasive purchase than a powerful one with nowhere sensible to run."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "arrma-kraton-6s-v6-gallery-1.jpg",
+      "alt": "ARRMA official Kraton 6S BLX V6 recreational product photograph 1",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/1-8-kraton-6s-blx-4x4-rtr-brushless-speed-truck-blue-orange/ARA8608V6T1.html"
+    },
+    {
+      "image": "arrma-kraton-6s-v6-gallery-2.jpg",
+      "alt": "ARRMA official Kraton 6S BLX V6 recreational product photograph 2",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/1-8-kraton-6s-blx-4x4-rtr-brushless-speed-truck-blue-orange/ARA8608V6T1.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "ARRMA ARA8608V6T1 · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0DQB2F58S"
+    ],
+    [
+      "Scale / drive",
+      "4WD · 1/8"
+    ],
+    [
+      "Motor",
+      "Firma 4074 · 2050Kv brushless"
+    ],
+    [
+      "ESC",
+      "Firma 150A Smart V2 · B5.12 firmware"
+    ],
+    [
+      "Radio",
+      "SLT3 and SR315 · no AVC in this stock package"
+    ],
+    [
+      "Steering servo",
+      "S665 metal-geared; webpage 20kg / manual 18kg · specification basis unresolved"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Shaft 4WD · current 29mm differentials · 7075-T6 chassis per current page"
+    ],
+    [
+      "Length × width × height",
+      "596 × 466 × 216mm"
+    ],
+    [
+      "Wheelbase",
+      "377mm in manual; web labels this figure under Wheel Width"
+    ],
+    [
+      "Weight publication basis",
+      "5.61kg · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "158 × 48 × 70mm"
+    ],
+    [
+      "Drive battery",
+      "Documented 4S/6S hardcase LiPo arrangement extra · IC5 · manufacturer minimum 5000mAh 50C"
+    ],
+    [
+      "Charger",
+      "Compatible LiPo charger extra"
+    ],
+    [
+      "Tires",
+      "dBoots Copperhead monster tires"
+    ],
+    [
+      "Transmitter power",
+      "Four AA cells included in current factory contents"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the Kraton EXB?",
+      "answer": "The reviewed complete SKU is ARA8608V6T1 standard V6. ARA8708V6 is a separate EXB trim; do not treat their equipment lists as interchangeable."
+    },
+    {
+      "question": "What chassis material is documented now?",
+      "answer": "The current official standard-V6 page explicitly lists a black-anodized 7075-T6 chassis. Earlier coverage omitting a material specification is not substituted for current evidence."
+    },
+    {
+      "question": "Does it include AVC?",
+      "answer": "The documented stock SLT3 / SR315 combination is not presented as an AVC package. Follow the actual radio and ESC instructions."
+    },
+    {
+      "question": "What rechargeable equipment is missing?",
+      "answer": "A documented compatible 4S or 6S LiPo arrangement, suitable charger and its input power. The factory contents include transmitter AAs."
+    },
+    {
+      "question": "Why is the wheelbase note unusual?",
+      "answer": "The web table labels 377mm as Wheel Width; the current manual identifies the wheelbase. We flag the label difference rather than invent a measurement."
+    },
+    {
+      "question": "Is 65-plus mph a result from this review?",
+      "answer": "No. It is a manufacturer claim under stated battery and gearing conditions. Our score concerns the purchase for an experienced recreational basher."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA · current exact ARA8608V6T1 product, contents and specifications",
+      "url": "https://www.horizonhobby.com/product/1-8-kraton-6s-blx-4x4-rtr-brushless-speed-truck-blue-orange/ARA8608V6T1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "ARRMA · current model owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5b529585/Manuals/ARA8608V6-MANUAL-ML.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Cars Guide · Kraton V6 / V5 / EXB generation guide, research-led",
+      "url": "https://rccarsguide.com/blog/arrma-kraton-6s-review",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0DQB2F58S identity and dated price",
+      "url": "https://www.amazon.com/dp/B0DQB2F58S?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "traxxas maxx · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/maxx-89086-4",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "arrma big rock 223s · current alternative complete-vehicle documentation",
+      "url": "https://www.horizonhobby.com/product/1-10-big-rock-223s-dsc-4x4-rtr-brushless-monster-truck-black/ARA4312V4T1.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DQB2F58S, ARA8608V6T1 and ARRMA for the exact complete-car listing. Independent guide is research-led, not a personal drive test. The current official standard-V6 page explicitly lists a 7075-T6 chassis, unlike omissions in some earlier coverage. We use current exact documentation and distinguish standard ARA8608V6 from separate EXB ARA8708V6. Web Wheel Width 377mm matches manual wheelbase, so the label conflict is disclosed. Speed is a manufacturer configured-condition claim. SameS665 part is described as 20kg on current webpage and 18kg in current manual; no measured torque is claimed. The manual required-equipment page lists a LiPo charging bag. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

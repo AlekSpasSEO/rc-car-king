@@ -1,0 +1,600 @@
+{
+  "brand": "Losi",
+  "brandSlug": "losi",
+  "model": "Mini-B Brushless",
+  "modelSlug": "mini-b-brushless",
+  "headlineLines": [
+    "MINI-B BRUSHLESS",
+    "THE BUYING CASE."
+  ],
+  "sku": "LOS01024T1",
+  "title": "Losi Mini-B Brushless review: a miniature race buggy still needs a real place to run?",
+  "dek": "A brushless rear-drive buggy with its drive pack and charger included. Budget for the required USB input adapter, then check whether your local small-car circuit suits the tires and class.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Buggy",
+  "use": "Racing",
+  "terrain": [
+    "Indoor",
+    "On-road",
+    "Off-road"
+  ],
+  "motor": "Brushless",
+  "power": "Electric",
+  "drive": "2WD",
+  "scale": "1/16",
+  "format": "Ready-to-run",
+  "skill": "Aspiring mini buggy racer",
+  "price": {
+    "amount": 229.99,
+    "currency": "USD",
+    "basis": "Losi US published reference · exact RTR package; excluded equipment itemized below",
+    "checked": "2026-10-13",
+    "source": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html"
+  },
+  "image": "losi-mini-b-brushless-angle.jpg",
+  "imageAlt": "Official Losi photograph of the Red · complete brushless buggy Mini-B Brushless",
+  "imageCaption": "Mini-B Brushless, LOS01024T1; exact reviewed variant. Official Losi product photography.",
+  "imageCredit": {
+    "name": "Losi official product photography",
+    "url": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+  },
+  "overview": "The red LOS01024T1 Mini-B Brushless makes sense for an aspiring mini racer who has a suitable circuit or an organized class nearby. At 272mm long it is substantially larger than a Micro-B, and the brushless system changes how much usable space matters. Greg Vogel’s RC Driver coverage takes this version to RC Madness and discusses revisions beyond the motor change.",
+  "verdict": "Buy the brushless Mini-B for a class and a course you can use",
+  "verdictText": "The documented package makes a strong case for a new mini buggy racer: an assembled car, known power equipment and a chassis with useful tuning resources. Its limitation is the amount of space and class planning that racing still requires.",
+  "pros": [
+    "1.5mm 6061-T 6 aluminum; 7mm oil shocks",
+    "Wide Body Rib front; Big Shot rear",
+    "Spektrum SLT2 transmitter; SR315 receiver supplied",
+    "Spektrum Smart G2 810mAh 2S LiPo · included; exact model documentation available"
+  ],
+  "cons": [
+    "QC 2.0/3.0 USB power adapter rated 18W or more",
+    "RC Driver's article labels the buggy 1:18; official specification and SKU identify 1/16",
+    "Venue, surface and class requirements still need checking",
+    "Speed, runtime and long-term durability are not measured here"
+  ],
+  "bestFor": [
+    "A matching local class or suitable home circuit",
+    "Drivers who want an assembled platform to learn",
+    "Owners who want documented mechanical adjustments"
+  ],
+  "avoidIf": [
+    "Your primary driving space does not suit indoor or on-road or off-road",
+    "You want a different vehicle scale or drivetrain from 1/16 2WD",
+    "You plan an immediate rebuild without pricing the full project"
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/16 · 2WD"
+    ],
+    [
+      "Motor",
+      "Spektrum Firma 6000 Kv 2-in-1 brushless motor/ESC"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT2 transmitter; SR315 receiver"
+    ],
+    [
+      "Drive battery",
+      "Spektrum Smart G2 810mAh 2S LiPo · included"
+    ],
+    [
+      "Wheelbase",
+      "191 mm"
+    ],
+    [
+      "Package",
+      "LOS01024T1 · Red · complete brushless buggy"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Aspiring mini buggy racer",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the buyer named here. Their arithmetic mean is the editorial rating. These are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 7,
+        "reason": "LOS01024T1 coordinates the finished vehicle and Spektrum SLT2 transmitter; SR315 receiver; required completion remains qc 2.0/3.0 usb power adapter rated 18w or more."
+      },
+      {
+        "label": "Purpose-fit equipment",
+        "score": 8,
+        "reason": "Spektrum Firma 6000 Kv 2-in-1 brushless motor/ESC, 2WD drive and wide body rib front; big shot rear fit the named buyer's racing purpose; results on a particular surface are not measured."
+      },
+      {
+        "label": "Adjustment and learning",
+        "score": 8,
+        "reason": "The 1.5mm 6061-t 6 aluminum; 7mm oil shocks and exact instructions offer an identifiable setup baseline; class suitability must still be checked."
+      },
+      {
+        "label": "Service documentation",
+        "score": 8,
+        "reason": "Official LOS01024T1 instructions, parts identification and attributed photographs make maintenance planning concrete; local stock was not surveyed."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "The $229.99 reference is evaluated with Spektrum Smart G2 810mAh 2S LiPo · included and all required extras visible, without an invented accessory total."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0CMBZ7CY4",
+    "marketplace": "www.amazon.com",
+    "variant": "Red · complete brushless buggy",
+    "sku": "LOS01024T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CMBZ7CY4?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:09.763Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buying case",
+      "heading": "A miniature race buggy still needs a real place to run.",
+      "paragraphs": [
+        "The red LOS01024T1 Mini-B Brushless makes sense for an aspiring mini racer who has a suitable circuit or an organized class nearby. At 272mm long it is substantially larger than a Micro-B, and the brushless system changes how much usable space matters. Greg Vogel’s RC Driver coverage takes this version to RC Madness and discusses revisions beyond the motor change. That outside track visit is useful context, but our buying recommendation does not claim its lap times or driving feel as our own.",
+        "The exact purchase in this guide is Losi Mini-B Brushless LOS01024T1, Red · complete brushless buggy. Its 1/16 scale, 2WD drivetrain and brushless power system identify a complete assembled vehicle. That combination should be matched to aspiring mini buggy racer before a promotional feature becomes the reason to order. Check the venue and permitted class early; a race or drift label does not establish eligibility. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package and setup",
+      "heading": "The battery is included; the USB power adapter is still a check.",
+      "paragraphs": [
+        "The factory package includes an 810mAh Smart G2 2S battery and Smart USB-C charger. Losi lists a QC 2.0/3.0 USB adapter rated at least 18W in its completion requirements. This is why the word RTR cannot replace a startup basket. A buyer with a suitable adapter may need no new purchase there; someone relying on an unspecified older USB supply should check it before the buggy arrives. Four AA transmitter cells are also listed in the box.",
+        "For Mini-B Brushless, the stated drive-power arrangement is Spektrum Smart G2 810mAh 2S LiPo · included, and the radio package is Spektrum SLT2 transmitter; SR315 receiver. Required completion is explicit: QC 2.0/3.0 USB power adapter rated 18W or more. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact LOS01024T1 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor and drivetrain",
+      "heading": "The 6000Kv system is a complete motor-and-controller decision.",
+      "paragraphs": [
+        "Spektrum Firma combines the brushless motor and ESC in one unit, paired with a separate SR315 receiver. That layout differs from the brushed Micro-B’s combined radio/controller arrangement. It gives the current Mini-B a clearly identified factory electronic package and avoids treating an owner-installed conversion as the reviewed car. The transmission uses metal gears and a bevel differential. Start with the prescribed 2S equipment and gearing before deciding the factory system needs replacement.",
+        "The documented Spektrum Firma 6000 Kv 2-in-1 brushless motor/ESC is the power equipment evaluated for Mini-B Brushless. With rear-wheel drive, available grip and trigger input need to work together. A harder trigger pull can ask more from the rear tires without improving the front wheels’ ability to turn. Start from the original LOS01024T1 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and controls",
+      "heading": "A simple radio can still support useful training.",
+      "paragraphs": [
+        "The SLT2 includes reduced throttle settings so a new mini racer can learn the circuit with less available output. The SR315 receiver also creates a different radio-upgrade path from an integrated ESC/receiver, but compatibility needs checking against the exact transmitter and receiver protocols. RC Driver’s article incorrectly labels the scale 1:18; the official product and manual identify 1/16. That discrepancy does not change the car you should order or justify copying an older brushed Mini-B control description.",
+        "The Mini-B Brushless control system is listed as Spektrum SLT2 transmitter; SR315 receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For organized use, ask whether assistance is allowed and whether battery or tire rules apply; the factory radio cannot answer the venue’s rules for you. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "The revisions are reasons to buy the exact generation.",
+      "paragraphs": [
+        "Losi describes a thicker front bulkhead, revised servo saver, shock cartridge spacers and a transmission case that accepts sway bars. Those details show why the current brushless RTR should be identified by its SKU rather than described as any Mini-B with a faster motor. Its mid-motor layout and threaded oil shocks offer a meaningful setup project. Accepting an optional sway bar is not the same as supplying one, so a buyer should keep factory contents and future tuning purchases separate.",
+        "The published construction for Mini-B Brushless is 1.5mm 6061-t 6 aluminum; 7mm oil shocks. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 191 mm, which makes exact replacement compatibility more useful than a generic Losi parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and terrain",
+      "heading": "The stock treads are a starting point for a chosen surface.",
+      "paragraphs": [
+        "Wide Body Rib front tires and Big Shot rears are the published factory combination. They are part of the mini-buggy format, not a guarantee of equal grip on dirt and carpet. If a local club has a control tire or a motor restriction, those requirements should guide the purchase before optional parts. At home, choose a repeatable smooth circuit and sensible jump transitions. The mini size makes a driveway track practical, but uneven grass remains a very different environment.",
+        "The Mini-B Brushless tire package is Wide Body Rib front; Big Shot rear. Its intended terrain listing is indoor and on-road and off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Allow adequate space for braking and a clear run-out, particularly when the factory power system can quickly consume the available straight. The published dimensions are 272 × 178 × 102 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The aluminum chassis does not replace regular inspection.",
+      "paragraphs": [
+        "The foundation is a 1.5mm 6061-T6 aluminum plate with a screened polycarbonate body. The chassis construction is a fact; surviving a particular impact is not established by the material name. Use the exploded view to understand steering, suspension and transmission access. The stock SX108 metal-gear servo should be checked for free movement and sensible travel before concluding a stronger unit is required. Correcting a mechanical bind should come before adding torque.",
+        "The reviewed Red · complete brushless buggy Mini-B Brushless is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the LOS01024T1 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "The complete purchase is close to complete, with one power-source caveat.",
+      "paragraphs": [
+        "Losi lists $229.99 for the red Mini-B Brushless at this check. The included Smart G2 drive equipment makes that reference easier to compare with another assembled mini than a roller price. The USB adapter requirement still belongs in the basket, and tax and delivery remain separate. The current official connector table says EC2 while the supplied battery system is described with Smart G2 IC2 equipment. Inspect the actual plug and manual before ordering another pack or charging adapter.",
+        "The Mini-B Brushless price reference is $229.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: QC 2.0/3.0 USB power adapter rated 18W or more. The drive battery basis is Spektrum Smart G2 810mAh 2S LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "Complete first-session basket · checked 13 October 2026 · unpriced extras remain visible",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Budget treatment"
+        ],
+        "rows": [
+          [
+            "Mini-B Brushless · LOS01024T1",
+            "$229.99 manufacturer car/package reference",
+            "Tax and delivery extra"
+          ],
+          [
+            "Drive battery",
+            "Spektrum Smart G2 810mAh 2S LiPo · included",
+            "Check chemistry, connector and physical fit"
+          ],
+          [
+            "Charger",
+            "Included; follow charging instructions",
+            "Confirm mains/USB power source"
+          ],
+          [
+            "Transmitter power",
+            "Included AA cells per manufacturer",
+            "Replace exhausted cells as needed"
+          ],
+          [
+            "Power-source completion",
+            "QC 2.0/3.0 USB power adapter rated 18W or more",
+            "Add actual equipment cost where required"
+          ],
+          [
+            "Practical workbench kit",
+            "Correct drivers, wheel tool, brush, safe charging/storage place",
+            "Helpful ownership equipment; obtain live local prices"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "The Mini-T trades the buggy format for a shorter truck.",
+      "paragraphs": [
+        "The red LOS-1056T1 Mini-T 2.0 Brushless is the closest complete Losi alternative here. It also supplies an 810mAh Smart G2 2S package and a Spektrum 6000Kv system, but its 160mm wheelbase differs from the Mini-B’s 191mm. Choose according to the class people actually run and the body and wheel format you want. Similar electronics do not prove identical driving behavior. A micro buggy becomes the better alternative only if your available circuit is much smaller.",
+        "Losi Mini-T 2.0 Brushless LOS-1056T1 is the complete alternative used in the comparison with Mini-B Brushless. It is a 1/18 2WD brushless vehicle, with Spektrum Smart G2 810mAh 2S LiPo · included. Its required completion is qc 2.0/3.0 usb power adapter rated 18w or more. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        4
+      ],
+      "table": {
+        "caption": "Documented alternative routes; no head-to-head performance claim",
+        "columns": [
+          "Vehicle",
+          "What you buy",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Losi Mini-B Brushless",
+            "1/16 2WD brushless RTR",
+            "Buy the brushless Mini-B for a class and a course you can use"
+          ],
+          [
+            "Losi Mini-T 2.0 Brushless",
+            "1/18 2WD brushless RTR",
+            "The red LOS-1056T1 Mini-T 2.0 Brushless is the closest complete Losi alternative here. It also supplies an 810mAh Smart G2 2S package and a Spektrum 6000Kv system, but its 160mm wheelbase differs from the Mini-B’s 191mm."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Final verdict",
+      "heading": "Buy the brushless Mini-B for a class and a course you can use.",
+      "paragraphs": [
+        "The documented package makes a strong case for a new mini buggy racer: an assembled car, known power equipment and a chassis with useful tuning resources. Its limitation is the amount of space and class planning that racing still requires. I would verify venue rules and charger power before ordering, then learn the factory setup. The rating rewards coordination and documented ownership rather than promising winning performance, unbreakable suspension or a manufacturer speed claim reproduced as a test.",
+        "Our assessment of Mini-B Brushless is directed at aspiring mini buggy racer. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. RC Driver's article labels the buggy 1:18; official specification and SKU identify 1/16. Official spec table says EC 2; installed Smart G2 pack uses IC 2 equipment. Check physical connector before buying another pack. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact LOS01024T1 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "losi-mini-b-brushless-detail.jpg",
+      "alt": "Official Losi product image 2 of the exact Mini-B Brushless LOS01024T1",
+      "caption": "Official outdoor photograph of the red Mini-B Brushless; this is manufacturer staging, not our testing.",
+      "source": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+      "credit": "Losi official product photography"
+    },
+    {
+      "image": "losi-mini-b-brushless-front.jpg",
+      "alt": "Official Losi product image 3 of the exact Mini-B Brushless LOS01024T1",
+      "caption": "Official body-off Mini-B view showing the chassis, electronics and suspension.",
+      "source": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+      "credit": "Losi official product photography"
+    }
+  ],
+  "specs": [
+    [
+      "Exact vehicle",
+      "Losi LOS01024T1 · Red · complete brushless buggy"
+    ],
+    [
+      "Amazon ASIN",
+      "B0CMBZ7CY4"
+    ],
+    [
+      "Format",
+      "Complete assembled RTR with body and installed electronics"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/16 · 2WD"
+    ],
+    [
+      "Motor",
+      "Spektrum Firma 6000 Kv 2-in-1 brushless motor/ESC"
+    ],
+    [
+      "Controls",
+      "Spektrum SLT2 transmitter; SR315 receiver"
+    ],
+    [
+      "Battery",
+      "Spektrum Smart G2 810mAh 2S LiPo · included"
+    ],
+    [
+      "Required completion",
+      "QC 2.0/3.0 USB power adapter rated 18W or more"
+    ],
+    [
+      "Chassis and suspension",
+      "1.5mm 6061-T 6 aluminum; 7mm oil shocks"
+    ],
+    [
+      "Tire package",
+      "Wide Body Rib front; Big Shot rear"
+    ],
+    [
+      "Dimensions",
+      "272 × 178 × 102 mm"
+    ],
+    [
+      "Wheelbase",
+      "191 mm"
+    ],
+    [
+      "Reference price",
+      "$229.99 USD · official package reference · 2026-10-13"
+    ],
+    [
+      "Specification discrepancies",
+      "RC Driver's article labels the buggy 1:18; official specification and SKU identify 1/16. Official spec table says EC 2; installed Smart G2 pack uses IC 2 equipment. Check physical connector before buying another pack."
+    ],
+    [
+      "Manufacturer table · Ball Bearings",
+      "Complete (Less Steering)"
+    ],
+    [
+      "Manufacturer table · Battery",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Body",
+      "Mini-B, Polycarbonate, Screened"
+    ],
+    [
+      "Manufacturer table · Brakes",
+      "Integral with ESC"
+    ],
+    [
+      "Manufacturer table · Charger",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Chassis",
+      "1.5mm Plate, 6061-T6 Aluminum"
+    ],
+    [
+      "Manufacturer table · Completion Level",
+      "Ready-To-Run"
+    ],
+    [
+      "Manufacturer table · Connector Type",
+      "EC2"
+    ],
+    [
+      "Manufacturer table · Differential",
+      "Bevel Gear"
+    ],
+    [
+      "Manufacturer table · Drive Type",
+      "Forward/Brake/Reverse"
+    ],
+    [
+      "Manufacturer table · Drivetrain",
+      "2WD"
+    ],
+    [
+      "Manufacturer table · Gear Pitch",
+      "0.5MOD"
+    ],
+    [
+      "Manufacturer table · Internal Gear Ratio",
+      "2.714"
+    ],
+    [
+      "Manufacturer table · LiPo Compatibility",
+      "2S"
+    ],
+    [
+      "Manufacturer table · Motor Type",
+      "Brushless"
+    ],
+    [
+      "Manufacturer table · Pinion",
+      "18T"
+    ],
+    [
+      "Manufacturer table · Power Type",
+      "Electric"
+    ],
+    [
+      "Manufacturer table · Product Height",
+      "4\" (102 mm)"
+    ],
+    [
+      "Manufacturer table · Product Length",
+      "10.7\" (272 mm)"
+    ],
+    [
+      "Manufacturer table · Product Width",
+      "7\" (178 mm)"
+    ],
+    [
+      "Manufacturer table · Radio",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Receiver",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Scale",
+      "1/16"
+    ],
+    [
+      "Manufacturer table · Servos",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Shock Type",
+      "7mm Bore, Oil Filled"
+    ],
+    [
+      "Manufacturer table · Speed Control",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Spur Gear",
+      "60T"
+    ],
+    [
+      "Manufacturer table · Suspension",
+      "Independent"
+    ],
+    [
+      "Manufacturer table · Vehicle Size",
+      "Mini"
+    ],
+    [
+      "Manufacturer table · Vehicle Type",
+      "Buggy"
+    ],
+    [
+      "Manufacturer table · Wheelbase",
+      "7.5\" (191 mm)"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which exact variant is linked?",
+      "answer": "LOS01024T1, Red · complete brushless buggy. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+    },
+    {
+      "question": "Is the drive battery included?",
+      "answer": "Spektrum Smart G2 810mAh 2S LiPo · included. Required completion: QC 2.0/3.0 USB power adapter rated 18W or more."
+    },
+    {
+      "question": "Which power equipment should I buy?",
+      "answer": "Follow the exact LOS01024T1 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+    },
+    {
+      "question": "What is the main evidence limitation?",
+      "answer": "RC Driver's article labels the buggy 1:18; official specification and SKU identify 1/16. Official spec table says EC 2; installed Smart G2 pack uses IC 2 equipment. Check physical connector before buying another pack."
+    },
+    {
+      "question": "How should I compare the alternative?",
+      "answer": "Losi Mini-T 2.0 Brushless is a complete 1/18 2WD brushless alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+    },
+    {
+      "question": "Does the editorial rating describe a drive test?",
+      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Losi · exact LOS01024T1 official product, package and specification",
+      "url": "https://www.losi.com/product/losi-1-16-mini-b-2s-2wd-rtr-brushless-buggy-battery-and-charger-included-red/LOS01024T1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Losi · model-specific instructions and parts documentation",
+      "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw0fbd97f3/Manuals/LOS01024_MANUAL_EN.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · exact B0CMBZ7CY4 complete vehicle",
+      "url": "https://www.amazon.com/dp/B0CMBZ7CY4?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "RC Driver · Greg Vogel, Mini-B Brushless RTR",
+      "url": "https://www.rcdriver.com/losi-mini-b-brushless-rtr/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Losi · alternative Mini-T 2.0 Brushless exact specification",
+      "url": "https://www.losi.com/product/losi-1-18-mini-t-2.0-2s-2wd-rtr-brushless-stadium-truck-battery-and-charger-included-red/LOS-1056T1.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    }
+  ],
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. RC Driver's article labels the buggy 1:18; official specification and SKU identify 1/16. Official spec table says EC 2; installed Smart G2 pack uses IC 2 equipment. Check physical connector before buying another pack. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+}

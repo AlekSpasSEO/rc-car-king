@@ -1,0 +1,507 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Typhon 223S DSC 4X4",
+  "modelSlug": "typhon-223s",
+  "headlineLines": [
+    "TYPHON 223S DSC 4X4",
+    "THE BUYING CASE."
+  ],
+  "sku": "ARA4306V4T1",
+  "title": "ARRMA Typhon 223S DSC 4X4 review: a recreational buggy with a deliberate power plan",
+  "dek": "A complete 4WD brushless buggy with DSC and 2S/3S capability. It offers a clear recreational route, provided battery fit is verified and the 223S is distinguished from GROM, 6S and competition-oriented variants.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Buggy",
+  "use": "Bashing",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushless",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/8",
+  "format": "Ready-to-run",
+  "skill": "First or returning recreational 4WD brushless buggy buyer on firm ground",
+  "price": {
+    "amount": 339.99,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://www.horizonhobby.com/product/arrma-1-8-typhon-223s-dsc-4x4-rtr-brushless-buggy/ARA4306V4.html"
+  },
+  "image": "arrma-typhon-223s-product.jpg",
+  "imageAlt": "Official ARRMA photograph of the Typhon 223S DSC 4X4, exact reviewed complete-car variant",
+  "imageCaption": "Typhon 223S DSC 4X4, SKU ARA4306V4T1. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby official product photography",
+    "url": "https://www.horizonhobby.com/product/arrma-1-8-typhon-223s-dsc-4x4-rtr-brushless-buggy/ARA4306V4.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The Typhon 223S is for a first or returning brushless buggy buyer who wants a complete 4WD vehicle and will use a firm outdoor route. I would shortlist it for visible open-wheel practice, linked dirt corners and modest jumps, with a lower-power configuration used deliberately at first. The principal reservation is the battery-and-charger basket, plus the need to distinguish this composite-chassis 223S from a much larger 6S ownership project simply because both use the Typhon name.",
+  "verdict": "A recreational buggy with a deliberate power plan",
+  "verdictText": "I would shortlist the green ARA4306V4T1 for a newcomer or returning driver who wants 4WD brushless buggy practice on firm ground and can verify a suitable power basket. The current center differential, DSC equipment, radio limiting and assembled body create a coherent package. The main qualifications are the separate rechargeable equipment, unresolved tray-length publication and the distinction between recreational use and club eligibility. Those deserve resolving before a particular battery or race project is assumed complete.",
+  "pros": [
+    "Factory 2S/3S brushless 4WD",
+    "DSC and output limiting",
+    "Current center-differential module",
+    "Finished buggy and wing with radio cells supplied"
+  ],
+  "cons": [
+    "LiPo and charger extra",
+    "Web/manual tray lengths conflict",
+    "Club eligibility requires checking",
+    "Dense grass may demand another format"
+  ],
+  "bestFor": [
+    "Firm-ground recreational buggy circuits",
+    "A deliberate first brushless setup",
+    "Using the factory composite 223S package"
+  ],
+  "avoidIf": [
+    "Predetermined race rules requiring another platform",
+    "Grass as the entire course",
+    "A near-limit battery purchase without fit clarification"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/8"
+    ],
+    [
+      "Motor",
+      "Spektrum 3100Kv brushless · Brushless"
+    ],
+    [
+      "Controller / radio",
+      "SLT 80A 2-in-1 ESC / receiver with DSC · SLT3 · limiter and DSC modes"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD · current center differential · composite chassis"
+    ],
+    [
+      "Drive power",
+      "2S or 3S hardcase LiPo · extra · IC5"
+    ],
+    [
+      "Package",
+      "Complete RTR · ARA4306V4T1"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First or returning recreational 4WD brushless buggy buyer on firm ground",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Starting preparation",
+        "score": 7.5,
+        "reason": "The finished buggy and installed electronics shorten preparation, while drive battery and charger remain separate."
+      },
+      {
+        "label": "Buggy equipment",
+        "score": 8,
+        "reason": "Composite chassis, shaft 4WD and the current center differential fit a recreational 2S/3S buggy brief."
+      },
+      {
+        "label": "Control scope",
+        "score": 8.5,
+        "reason": "SLT3 limiting and documented DSC modes offer deliberate learning configurations."
+      },
+      {
+        "label": "Service information",
+        "score": 7.5,
+        "reason": "Exact manuals and drawings clarify generation differences, but 147mm versus 165mm tray-length publication requires confirmation."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "Value depends on using the stock recreational package rather than converting it for another race class or power system."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0DN43RSYD",
+    "marketplace": "www.amazon.com",
+    "variant": "Green · complete car",
+    "sku": "ARA4306V4T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DN43RSYD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:57.672Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "A recreational buggy with useful 2S/3S scope, not a preselected race class.",
+      "paragraphs": [
+        "The Typhon 223S is for a first or returning brushless buggy buyer who wants a complete 4WD vehicle and will use a firm outdoor route. I would shortlist it for visible open-wheel practice, linked dirt corners and modest jumps, with a lower-power configuration used deliberately at first. The principal reservation is the battery-and-charger basket, plus the need to distinguish this composite-chassis 223S from a much larger 6S ownership project simply because both use the Typhon name.",
+        "This review covers the green complete ARA4306V4T1, verified by Amazon's Creators API. The manufacturer documents a 3100Kv motor, 80A combined ESC/receiver, DSC controls and current center differential. It is not a Typhon GROM, 6S model, TLR-tuned version or bare chassis. Those vehicles can share a broad buggy silhouette without sharing motor, radio, chassis or completion requirements. The exact part number should remain attached to the name in every shopping and service decision.",
+        "The race-buggy presentation is appealing, but your local club determines competition eligibility. An RTR labeled a race buggy does not automatically satisfy a particular class's equipment rules. For casual driving, its proportions and visible wheels create a clear learning project without a formal venue. For organized racing, start with the rules and support available at that track. That is a better route than buying this vehicle and discovering that an extensive conversion is needed before it can enter your chosen class."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "The car is finished; the rechargeable power route still needs selection.",
+      "paragraphs": [
+        "The current manufacturer contents include the assembled buggy with finished body and wing, 3100Kv brushless motor, 80A two-in-one ESC/receiver, S662 metal-geared servo, SLT3 transmitter, AA cells and tools. The fitted radio and electronics remove a substantial assembly project. The RTR therefore gives you a complete vehicle to set up, not a roller awaiting electronics. Its power equipment still needs buying separately, which should stay visible beside the manufacturer's dated car-only reference.",
+        "A suitable 2S or 3S hardcase LiPo and charger are required, with IC5 documented as the connection. Physical pack selection deserves particular care here because current web and manual tray-length figures do not agree. We preserve that conflict later in the review rather than silently promising the longest possible pack fits. Check restraint, lead routing and actual dimensions with the manufacturer or retailer. A battery that fits loosely or places its wires beside a rotating assembly is not a completed setup.",
+        "At first assembly inspection, check the wing mounts, wheel security, steering movement and battery hold-down. Follow the startup sequence and establish a conservative transmitter configuration. Keep the factory tires and gearing for the baseline. The narrow body and exposed front wheels make it easy to see much of the mechanism, but also place some components near the ground's debris. The first outdoor session should confirm normal steering and braking on a straightforward route before an ambitious jump becomes the test."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Choose a documented compatible drive battery and charger, checking chemistry, connector and dimensions.",
+          "Install the four supplied AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with conservative controls and an open stopping area."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "This Typhon belongs to the current 223S mechanical package.",
+      "paragraphs": [
+        "The motor drives a shaft-powered 4WD arrangement with a current center-differential module and documented metal center gearing. This should not be replaced in prose with a remembered description of another Typhon generation. The composite chassis and 2S/3S equipment define this version's purchasing brief. An aluminum-chassis 6S Typhon is a different vehicle, not an automatic benchmark that the 223S must become to justify its existence.",
+        "Two supported cell counts provide a useful progression without an immediate power-system conversion. ARRMA's 35-plus mph on 2S and 50-plus on 3S are manufacturer claims under the stated conditions. We have not run a speed measurement. A first buggy owner can learn a circuit on modest power and decide later whether the larger route is useful. It is entirely reasonable to prefer a consistent ordinary setup rather than use every capability available in the controller.",
+        "Stock gearing is the first reference for mixed recreational use. A different tire diameter or surface drag changes the effective task, even if the motor and pinion remain unchanged. Keep the cooling fan clear and inspect shafts and gearbox areas after early runs. If vegetation repeatedly slows the vehicle, find better ground before increasing gearing. The power package offers performance scope, but it cannot correct binding wheels, an unsuitable route or a battery secured incorrectly in the chassis."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Use the available assistance as a known setting, not an unexplained correction.",
+      "paragraphs": [
+        "The SLT3 transmitter provides throttle limiting, and DSC supplies documented stability-control modes through the installed electronics. Those functions should be understood individually. Maximum output affects the power available; the assistance mode affects the system's intervention. Follow the current instructions for the exact controller and radio, instead of borrowing AVC setup from another ARRMA vehicle. The fact that both systems concern stability does not make their hardware or procedures identical.",
+        "A first circuit should include broad turns, a clear braking zone and room to recover a missed line. Begin with conservative output and a battery configuration you can repeat. Practice steering when the buggy approaches you, then separate that exercise from learning jumps. If you change battery voltage and assistance together, the comparison teaches less about either. A documented lower-power route is useful precisely because you can spend attention on line and braking rather than constantly chasing the car's maximum pace.",
+        "The combined ESC/receiver is also a future ownership fact. A plan to install another radio should account for the coordinated stock unit instead of assuming only one small component changes. We do not rate measured radio range, latency, correction effectiveness or brake force. Our controls assessment is about usable documented options for a first recreational 4WD buggy owner. Independent driving coverage remains attributable to its publisher rather than becoming an invented RC Car King test history."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "The exposed wheels make setup observation unusually direct.",
+      "paragraphs": [
+        "The current S662 metal-geared servo, independent suspension and oil-filled shocks are documented in the package. Check neutral and full steering movement on the bench with the body correctly fitted. Watch for tire contact and binding before altering trim or endpoints. The buggy's visible front wheels make it easier to observe what a steering input requests, but a trapped wheel still needs space rather than a larger command held against a rock or kerb.",
+        "Choose a repeated turn and a low bump for suspension comparisons. Record the factory arrangement, then change only the item related to a repeated behavior. More spring preload does not mean more damping, and a visibly high stance does not establish a better setup. The right configuration depends on the firm-ground route you can actually use. A change that helps smooth cornering may alter how a tire follows uneven ground elsewhere in the session.",
+        "The rear wing is part of the current buggy presentation. It also adds an assembly to inspect after a tumble, particularly at the mounts. We have not measured downforce, steering precision or jump attitude. Those unavailable results should not stop you appreciating the format, but they should prevent a claims-based handling score. The documented hardware offers a practical setup starting point, with the owner's repeatable route providing evidence for later adjustments."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "A buggy course needs proportionate ground rather than a large expanse of grass.",
+      "paragraphs": [
+        "Firm dirt, compacted loose surfaces and modest rough sections fit the first recreational brief I would investigate. ARRMA documents all-terrain dBoots tires, but no tire label establishes equal suitability for every outdoor surface. Walk the route at wheel scale. A rut, root or pile of stones may be much larger to the buggy than it appears from a standing position. Give yourself a stopping area and avoid placing the fastest part of the circuit directly toward an obstacle.",
+        "Grass can quickly change the project. Short patches may be an occasional crossing, while dense or wet growth can add continuous load and catch rotating components. If this is the entire available site, compare a monster truck. A larger tire may change clearance, but also affects gearing and body fit; it is a real modification decision. Choosing another vehicle format can be more straightforward than repeatedly adapting a buggy to ground that was never proportionate to its layout.",
+        "The independent RC Cars Guide Typhon parts guide distinguishes the 223S from the 6S family using researched documentation. We use that coverage for context without claiming to have repeated the publisher's driving. No maximum jump height, crash count, runtime or measured pace is assigned here. This recommendation stays focused on the documented current package and a regular firm-ground route that a buyer can inspect and learn."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The slim body reveals much of the mechanism but still deserves removal.",
+      "paragraphs": [
+        "The finished buggy body and wing avoid painting work before the first outing. The current manufacturer's retention and protection features should be learned from its own instructions, rather than assumed from a larger short-course shell. Check that the body sits without trapping leads and that the wing mounts remain secure. A body shape that lets you see the wheels can make inspection easier, while leaving wheel and suspension assemblies exposed to ground debris.",
+        "After sessions, clean around steering, shafts, gearing and motor cooling, then inspect wheel nuts, tire bonding and shocks. The current 223S diagrams identify the correct center-differential and electronics arrangement. Another Typhon's parts list is not automatically equivalent. This matters especially when a search returns a 6S-specific component whose name appears suitable but whose dimensions or mounting differ. Use exact drawings before treating a broad family label as fit confirmation.",
+        "The web page gives a 147mm maximum battery length, while the current manual prints 165mm. That conflict is documented rather than replaced with a guessed correction. Verify the physical tray and restraint before choosing a pack near those limits. We have not measured it ourselves. Water-resistant component claims also need the manual's operating and drying conditions; they do not make it sensible to store a dirty or wet mechanism without normal inspection."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Make the battery fit a resolved fact before it becomes a basket item.",
+      "paragraphs": [
+        "The dated static reference uses the manufacturer US vehicle price, with live Amazon offers handled separately. Required extras are the selected hardcase LiPo, compatible charger and any separate charger input supply. Transmitter AAs are listed as included. Because of the tray-length conflict, selecting an actual pack deserves confirmation before you calculate its price into a finished total. A clear checklist is more honest than a universal package number that assumes unknown equipment fits.",
+        "Start with the power configuration you will use regularly. Buying both supported cell counts is optional, as is a second pack for shorter waits between sessions. Tools and cleaning supplies support ownership; another wing, body color or cosmetic component can wait until there is a reason to buy it. The included tools can begin the checks in the manual. The first spending priority is a correctly secured and charged battery, not making the vehicle look like a heavily modified example before learning it.",
+        "If a sensored race power system or a different radio is already required, price that whole route before choosing this RTR. The combined stock electronics have value when you use them and less value when they become immediate spare parts. Likewise, compare the correct race kit if club eligibility is central. The Typhon 223S is persuasive as a complete recreational brushless buggy; it does not have to be the cheapest donor for every other buggy project."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$339.99 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "2S or 3S hardcase LiPo · extra · IC5",
+            "Required extra; select exact compatible pack"
+          ],
+          [
+            "Charger",
+            "Compatible LiPo charger extra",
+            "Required extra"
+          ],
+          [
+            "Charger input power",
+            "Check selected charger",
+            "Supply any required adapter or cable"
+          ],
+          [
+            "Transmitter batteries",
+            "Included",
+            "Four AA cells in current factory contents"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Power class and use can matter more than the shared Typhon name.",
+      "paragraphs": [
+        "The Typhon 6S RTR is the clear family comparison when the intended project requires its larger-power configuration and different chassis. Verify the exact generation and full power basket, because a 6S name spans revisions too. We have not tested the two together and do not infer handling or durability from chassis material alone. A larger operating envelope may be worthwhile for an experienced owner, while a first recreational circuit may not use it.",
+        "The Typhon GROM is the scale change for compact sessions and easy carrying. It comes in different brushed and brushless packages, so choose an exact complete vehicle before comparing equipment. Smaller size changes which ordinary stones, grass and jumps are proportionate. It is an alternative activity rather than automatically the same buggy experience for less money. If your available course is a small patch near home, physical scale may be the more useful decision than another advertised speed figure.",
+        "The Traxxas Bandit 24254-8 is a complete brushed rear-drive buggy with supplied NiMH charging equipment. It belongs on a first casual buggy shortlist when simple stock operation and included power matter more than this Typhon's 4WD brushless scope. It has a different traction brief and dimensions. Compare what each asks you to buy and learn, without claiming a controlled head-to-head result. The correct purchase is the one matching your regular route and interest."
+      ],
+      "sourceIndexes": [
+        0,
+        4
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "Typhon 223S ARA4306V4T1",
+            "Composite 4WD buggy RTR; power extra",
+            "This recreational 2S/3S route"
+          ],
+          [
+            "Typhon 6S RTR",
+            "Different chassis/power project; verify generation",
+            "Larger operating envelope"
+          ],
+          [
+            "Typhon GROM complete RTR",
+            "Smaller buggy; verify exact package",
+            "Compact carrying and course scale"
+          ],
+          [
+            "Bandit 24254-8",
+            "Brushed 2WD with NiMH/USB-C charger",
+            "Simpler first rear-drive buggy"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Choose it as a complete recreational buggy with a deliberate power plan.",
+      "paragraphs": [
+        "I would shortlist the green ARA4306V4T1 for a newcomer or returning driver who wants 4WD brushless buggy practice on firm ground and can verify a suitable power basket. The current center differential, DSC equipment, radio limiting and assembled body create a coherent package. The main qualifications are the separate rechargeable equipment, unresolved tray-length publication and the distinction between recreational use and club eligibility. Those deserve resolving before a particular battery or race project is assumed complete.",
+        "Five equally weighted editorial categories assess starting preparation, buggy equipment, control scope, service information and value for that named buyer. They do not report measured speed, handling, jump behavior, crash resistance or reliability. Current manufacturer documents establish the configuration, Amazon's API verifies the exact complete-car listing, and independent coverage supplies labeled generation context. Our original conclusions are about the documented purchase, without claiming personal driving or transferring a 6S vehicle's test record.",
+        "Buy it if the stock 223S buggy and suitable circuit are the desired destination. Establish conservative settings, inspect regularly and make one change when actual use identifies the need. Skip it for dense lawn without another route, or for a predetermined race class that calls for different equipment. The available 3S scope can remain a later option. The first worthwhile achievement is a consistent sequence of corners and stops with a car you have equipped correctly."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "arrma-typhon-223s-gallery-1.jpg",
+      "alt": "ARRMA official Typhon 223S DSC 4X4 recreational product photograph 1",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/arrma-1-8-typhon-223s-dsc-4x4-rtr-brushless-buggy/ARA4306V4.html"
+    },
+    {
+      "image": "arrma-typhon-223s-gallery-2.jpg",
+      "alt": "ARRMA official Typhon 223S DSC 4X4 recreational product photograph 2",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/arrma-1-8-typhon-223s-dsc-4x4-rtr-brushless-buggy/ARA4306V4.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "ARRMA ARA4306V4T1 · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0DN43RSYD"
+    ],
+    [
+      "Scale / drive",
+      "4WD · 1/8"
+    ],
+    [
+      "Motor",
+      "Spektrum 3100Kv brushless"
+    ],
+    [
+      "ESC",
+      "SLT 80A 2-in-1 ESC / receiver with DSC"
+    ],
+    [
+      "Radio",
+      "SLT3 · limiter and DSC modes"
+    ],
+    [
+      "Steering servo",
+      "S662 metal-geared 25T"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Shaft 4WD · current center differential · composite chassis"
+    ],
+    [
+      "Length × width × height",
+      "511 ×306 ×195mm"
+    ],
+    [
+      "Wheelbase",
+      "328mm"
+    ],
+    [
+      "Weight publication basis",
+      "3.01kg · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "Web 147 ×51 ×48mm; manual 165 ×51 ×48mm · verify actual fit"
+    ],
+    [
+      "Drive battery",
+      "2S or 3S hardcase LiPo · extra · IC5"
+    ],
+    [
+      "Charger",
+      "Compatible LiPo charger extra"
+    ],
+    [
+      "Tires",
+      "Current all-terrain dBoots buggy package"
+    ],
+    [
+      "Transmitter power",
+      "Four AA cells included in current factory contents"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this a Typhon 6S or GROM?",
+      "answer": "No. ARA4306V4T1 is the green complete 1/8 current 223S with composite chassis and documented 2S/3S hardware."
+    },
+    {
+      "question": "Does the race-buggy name guarantee class eligibility?",
+      "answer": "No. Ask the organizer about exact chassis and equipment rules before buying for organized competition."
+    },
+    {
+      "question": "What power equipment is extra?",
+      "answer": "A documented compatible hardcase 2S or 3S LiPo, charger and any required charger input supply. The package includes transmitter AAs."
+    },
+    {
+      "question": "Which tray length is correct?",
+      "answer": "The web specification lists 147mm; the manual prints 165mm. We flag both rather than claim a measurement. Confirm actual restraint and pack fit with manufacturer or retailer."
+    },
+    {
+      "question": "Is the stock controller separate from the receiver?",
+      "answer": "The current specification combines ESC and receiver in a coordinated unit. Account for that if planning another radio system."
+    },
+    {
+      "question": "Can I apply 6S tuning results to it?",
+      "answer": "Do not transfer them without checking exact hardware and generation. This review evaluates the stock 223S purchase and does not report a measured 6S comparison."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA · current exact ARA4306V4T1 product, contents and specifications",
+      "url": "https://www.horizonhobby.com/product/arrma-1-8-typhon-223s-dsc-4x4-rtr-brushless-buggy/ARA4306V4.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "ARRMA · current model owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw6fa67703/Manuals/ARA4306V4_MANUAL_ML.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Cars Guide · current Typhon 223S/6S parts and generation guide, research-led",
+      "url": "https://rccarsguide.com/blog/arrma-typhon-upgrades",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0DN43RSYD identity and dated price",
+      "url": "https://www.amazon.com/dp/B0DN43RSYD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "traxxas bandit 2wd xl 5 · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/bandit-xl-5-with-battery-24254-8",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DN43RSYD, ARA4306V4T1 and ARRMA for the exact complete-car listing. Independent source is a research-led parts guide, not our drive test. Current product-page battery length 147mm conflicts with current manual 165mm. The exact green factorySKU differs from GROM, 6S and TLR packages; their performance results are not transferred. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

@@ -1,0 +1,521 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Vorteks 223S DSC 4X4",
+  "modelSlug": "vorteks-223s-4x4",
+  "headlineLines": [
+    "VORTEKS 223S DSC 4X4",
+    "THE BUYING CASE."
+  ],
+  "sku": "ARA4305V4T1",
+  "title": "ARRMA Vorteks 223S DSC 4X4 review: a coordinated brushless stadium learning route",
+  "dek": "A finished brushless 4WD stadium truck with 2S/3S capability, DSC and a center differential. It offers a practical learning route, provided you budget power equipment and distinguish the separate 2WD version.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Stadium truck",
+  "use": "Bashing",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushless",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "First or returning brushless stadium-truck buyer with firm outdoor ground",
+  "price": {
+    "amount": 339.99,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-4x4-rtr-brushless-stadium-truck-red/ARA4305V4T1.html"
+  },
+  "image": "arrma-vorteks-223s-4x4-product.jpg",
+  "imageAlt": "Official ARRMA photograph of the Vorteks 223S DSC 4X4, exact reviewed complete-car variant",
+  "imageCaption": "Vorteks 223S DSC 4X4, SKU ARA4305V4T1. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby official product photography",
+    "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-4x4-rtr-brushless-stadium-truck-red/ARA4305V4T1.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The Vorteks 223S 4X4 is for a first or returning brushless buyer who prefers a stadium-truck shape and wants to progress from a modest power setup without replacing the motor and controller. I would consider it for firm-ground circuits, dirt recreation and small jumps approached gradually. Its main reservation is the separate battery-and-charger purchase, followed closely by the need to choose this exact four-wheel-drive version. The Vorteks name also appears on a distinct two-wheel-drive family.",
+  "verdict": "A coordinated brushless stadium learning route",
+  "verdictText": "I would shortlist the red ARA4305V4T1 for a first or returning brushless stadium owner with firm outdoor ground, a compatible power basket and an interest in learning the limiter and DSC. The assembled 4WD chassis, current center differential and finished body make a coherent package. The reservations are dense-lawn fit, separately bought power and the possibility of ordering the distinct 2WD version accidentally. Keep the exact SKU visible all the way through the purchase.",
+  "pros": [
+    "Factory brushless 4WD and center differential",
+    "Throttle limits and DSC modes",
+    "Finished clipless stadium shell",
+    "2S/3S support without a power-system conversion"
+  ],
+  "cons": [
+    "LiPo and charger extra",
+    "Low stadium format needs suitable terrain",
+    "Distinct 2WD Vorteks can confuse shopping",
+    "Combined ESC/receiver affects future radio changes"
+  ],
+  "bestFor": [
+    "Firm-ground stadium circuits",
+    "A new or returning brushless owner",
+    "Using the installed control system methodically"
+  ],
+  "avoidIf": [
+    "Dense lawn as the only route",
+    "A predetermined different electronics ecosystem",
+    "Expecting all Vorteks packages to be 4WD"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Spektrum 3100Kv brushless · Brushless"
+    ],
+    [
+      "Controller / radio",
+      "SLT 80A 2-in-1 ESC / receiver with DSC · SLT3 · limiter and DSC modes"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD · center differential"
+    ],
+    [
+      "Drive power",
+      "2S or 3S hardcase LiPo · extra · IC5"
+    ],
+    [
+      "Package",
+      "Complete RTR · ARA4305V4T1"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First or returning brushless stadium-truck buyer with firm outdoor ground",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Starting preparation",
+        "score": 7.5,
+        "reason": "Installed electronics, finished shell and supplied transmitter cells reduce startup work; drive power remains separate."
+      },
+      {
+        "label": "Stadium equipment",
+        "score": 8,
+        "reason": "The low body, current center differential and adjustable suspension fit a firm-ground stadium brief."
+      },
+      {
+        "label": "Control options",
+        "score": 8.5,
+        "reason": "Documented DSC modes and output limiting support a deliberate first brushless setup."
+      },
+      {
+        "label": "Service information",
+        "score": 8,
+        "reason": "Exact current manuals and clipless access help service without assuming old 3S diagrams match."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "The factory route is valuable when used; immediate electronics replacement changes the purchase calculation."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0DN3DN2M7",
+    "marketplace": "www.amazon.com",
+    "variant": "Red · complete car",
+    "sku": "ARA4305V4T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DN3DN2M7?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:54.107Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "A stadium route into brushless 4WD, with setup room to grow.",
+      "paragraphs": [
+        "The Vorteks 223S 4X4 is for a first or returning brushless buyer who prefers a stadium-truck shape and wants to progress from a modest power setup without replacing the motor and controller. I would consider it for firm-ground circuits, dirt recreation and small jumps approached gradually. Its main reservation is the separate battery-and-charger purchase, followed closely by the need to choose this exact four-wheel-drive version. The Vorteks name also appears on a distinct two-wheel-drive family.",
+        "The reviewed red complete ARA4305V4T1 was verified by Amazon's Creators API. The current manufacturer identifies a 3100Kv brushless motor, 80A two-in-one ESC/receiver, DSC assistance, SLT3 radio and center differential. These are current 223S facts, not an inherited description of the old 3S BLX. A replacement red body is also not an equivalent result simply because it says Vorteks in a listing title. The SKU anchors this article's equipment, imagery and affiliate link.",
+        "I would choose the stadium format because the intended sessions involve visible open-wheel lines and a lower body, not because another vehicle's tall stance must be undesirable. The documented 169mm height and 284mm wheelbase tell you about the shape of the project. They do not establish a measured handling advantage. For a dense grassy yard, compare a monster truck; for a broad short-course body and truck realism, compare the Senton. The useful choice starts with the ordinary session."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "An assembled vehicle is only one part of a first driving basket.",
+      "paragraphs": [
+        "ARRMA supplies the fitted brushless motor and controller/receiver, S662 metal-geared servo, SLT3 transmitter, finished clipless body, AA transmitter cells and basic tools. The radio and power electronics are coordinated, so assembly and painting do not stand between delivery and setup. That is the practical RTR benefit. It is a complete vehicle with a defined electronics package, not a roller awaiting the owner's selections. Its required rechargeable power remains a separate purchasing decision.",
+        "The manufacturer calls for a suitable 2S or 3S hardcase LiPo and charger. The documented connector is IC5, and the maximum tray dimensions are 165 × 51 × 48mm in the current Vorteks specification and manual. Check restraint and lead positioning as well as dimensions. A charger must suit the actual chemistry and connection, with any separate input adapter counted in the basket. Transmitter AAs are already listed in this package, so completion does not automatically require buying them again.",
+        "At the first bench session, inspect the wing, body seating, wheels, shock action and steering clearance. Secure the selected pack and check radio direction using the manual. Start with the fitted tires and gearing. The point is to establish normal operation before adding variables. An experienced owner may enjoy configuring every adjustment immediately, but a first brushless buyer gains more from a known factory baseline and a simple first circuit with a generous stopping area."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Choose a documented compatible drive battery and charger, checking chemistry, connector and dimensions.",
+          "Install the four supplied AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with conservative controls and an open stopping area."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "Read the center differential as an actual mechanism, not a trim slogan.",
+      "paragraphs": [
+        "The 3100Kv motor drives a shaft-powered 4WD arrangement with the current center-differential module and all-metal center gearing. That mechanism permits front and rear drive-speed behavior to differ, rather than simply reproducing every older Vorteks drivetrain description. Use the current exploded views when servicing it. Model generations can keep a similar body shape while changing the power system or central transmission arrangement, so an old part or setup recipe needs checking before it enters the workbench plan.",
+        "The 223S concept supports both 2S and 3S with the installed electronics. It gives the owner a practical option to begin lower and later increase the cell count without a major power-system conversion. The advertised 35-plus and 50-plus mph figures are manufacturer claims for their respective configurations, not results from our test. You do not need to pursue the larger figure to make a stadium truck enjoyable. Corners, braking and tire placement can make modest power a useful ordinary setup.",
+        "Keep the motor fan clear and inspect the drivetrain after early runs. High grip, thick grass or binding wheels each change load. If the route makes the truck drag repeatedly, investigate the ground and clearance before buying a taller pinion. Tires of a different diameter also change effective gearing, even with the same gear teeth installed. The stock package should be assessed as a coordinated combination first, with later modifications responding to a named problem rather than a generic desire to improve everything."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Learn the limiter and DSC independently so each adjustment tells you something.",
+      "paragraphs": [
+        "The SLT3 radio provides throttle limiting, while the installed DSC system offers documented assistance modes. Maximum output and stability assistance are separate decisions. A reduced limit can make a first 2S session more approachable, while a DSC setting alters the assistance behavior. Read the current instructions to understand the available modes and their use. Do not confuse DSC with the AVC radio equipment featured in some other ARRMA vehicles or assume their setup procedures are interchangeable.",
+        "Set a modest route, keep the battery consistent and practice smooth acceleration into a braking area. Then compare assistance settings deliberately rather than moving several controls while the truck is already underway. The stadium shape is suitable for watching its front-wheel placement as you learn the response. If a mechanical problem develops, inspect it before trying to compensate electronically. An assistance system cannot repair a bent link, loose wheel or tire rubbing the shell.",
+        "The manufacturer's safety and low-voltage instructions belong to the chosen LiPo and controller, and its startup sequence should become routine. Our controls assessment rewards available documented tools for the named first or returning stadium buyer. We have not measured the assistance's effectiveness, transmitter range, delay or stopping distance. That limitation does not stop a useful buying judgment; it simply keeps an equipment assessment distinct from the driving evidence supplied by another reviewer."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Stadium proportions make a repeatable circuit a useful tuning tool.",
+      "paragraphs": [
+        "The S662 metal-geared steering servo, independent suspension and adjustable oil-filled shocks are the documented package. Check both front wheels through their travel and inspect that they return without strain. The truck's body is lower than the tall monster options, but this does not establish unlimited clearance around tires or steering. Debris can still wedge in the linkage. Use the prescribed setup to establish endpoints, and diagnose contact before asking the servo to move past it.",
+        "Begin suspension comparisons on one repeated turn and one modest bump. Record the supplied settings, then change a single item related to the behavior you can describe. Preload, spring choice and damping affect different aspects of suspension operation, so buying a stiffer-looking shock is not a universal improvement. Consider whether a change helps firm turns but costs ground-following ability elsewhere. A mixed recreational route often involves compromise rather than one setting that wins everywhere.",
+        "The wing and body shape contribute to the documented stadium presentation, but we have not measured downforce or lap performance. Keep cosmetic attraction separate from claims of handling superiority. The buyer who likes learning a visible open-wheel line can see a real benefit in this format without a track result. The suspension category rewards usable current hardware and adjustment scope, while actual behavior remains something the owner can evaluate on a repeated route after purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Use the lower body where it fits, and let grass remain a separate question.",
+      "paragraphs": [
+        "Firm dirt, modest gravel and paved practice with room to stop are the first places I would assess. The all-terrain tire label covers a broad recreation brief rather than proving equal results on every surface. Inspect the route for ruts, stones and edges that can catch a suspension corner. With four-wheel drive, both ends can supply propulsion; neither end gains magical clearance. A clear circuit can make the stadium format useful even when a different part of the yard is unsuitable.",
+        "Dense lawn may ask more of the motor and clearance than the ordinary route you had in mind. If it becomes the main session rather than an occasional crossing, compare the Granite or Big Rock. Adding a larger tire changes gearing and can interfere with the body, so it is a setup decision rather than a free terrain expansion. Start with short inspections while learning how debris accumulates around the chassis and cooling areas.",
+        "Greg Vogel's RC Driver coverage features the matching ARA4305V4T1 and describes his skate-park driving and another converted truck. That is useful attributable coverage, but the converted vehicle is not this factory SKU and its results do not become our test. We do not copy a speed or toughness measurement. Our recommendation is to learn the red stock package on appropriate ground before interpreting a dramatic independent outing as a prescription for the first session."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Clipless access makes inspection easier, not optional.",
+      "paragraphs": [
+        "The low finished stadium body uses hidden retention, roof rails and a rear wing. It is a coordinated factory presentation that avoids trimming and painting a clear shell. Learn the latch motion and inspect seating after a battery change. A wing or roof rail is an exposed piece to check after a tumble, not a guarantee that every rollover leaves the shell pristine. We have no long-term cosmetic record for this exact truck.",
+        "Remove the shell and inspect motor cooling, center and axle drive components, shocks and steering after runs. The manufacturer's side guards and stone-management features are practical, but debris can still enter through wheels and ventilation. Brush the chassis clean before the next pack, then check tire bonding and fasteners. Generation-specific drawings matter when identifying a differential, receiver or other replacement. A generic old Vorteks diagram should not replace the current 223S service reference.",
+        "Follow the manual for wet operation, cleaning and drying. The documented water-resistant equipment does not turn every bearing, gear and connector into an item that can be left dirty indefinitely. We do not have a measured reliability survey or a current local-shop inventory. Check exact parts support where you expect to buy service items. Clear access and documentation are buying benefits, while availability and actual wear remain questions the owner must verify in their own environment."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Cost",
+      "heading": "Compare the stadium truck after choosing its ordinary battery route.",
+      "paragraphs": [
+        "The static dated reference is the manufacturer US price for this complete vehicle. The live Amazon box carries separate time-limited offer information. Add a compatible hardcase LiPo, appropriate charger and any required input supply to complete the first purchase. The factory AAs belong in the included column. We give the equipment checklist without assigning prices to unspecified extras, because the owner with existing correct equipment and the owner starting from nothing have different remaining baskets.",
+        "A second battery and a higher-cell option are not mandatory first purchases. Start with the route that suits the intended sessions and make the restraint, connector and charging plan correct. Better drivers and a cleaning brush may be helpful supporting equipment, while another body and cosmetic parts remain optional. Keep the initial budget focused on regular use. A pile of compatible-looking accessories is less useful than one fully equipped truck with a repeatable place to run.",
+        "If your project requires a different receiver, competition radio or sensored power system immediately, price that finished project before choosing this RTR. Replacing coordinated stock electronics affects the value you receive from the box. The Vorteks is strongest when its installed 2S/3S and DSC route is an advantage, not when every supplied part is a placeholder. A deliberate comparison of complete baskets can reveal whether another format or platform better matches the actual requirements."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$339.99 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "2S or 3S hardcase LiPo · extra · IC5",
+            "Required extra; select exact compatible pack"
+          ],
+          [
+            "Charger",
+            "Compatible LiPo charger extra",
+            "Required extra"
+          ],
+          [
+            "Charger input power",
+            "Check selected charger",
+            "Supply any required adapter or cable"
+          ],
+          [
+            "Transmitter batteries",
+            "Included",
+            "Four AA cells in current factory contents"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Compare exact drivetrains before comparing paint schemes.",
+      "paragraphs": [
+        "The separate Vorteks 223S 2WD family is a relevant alternative for someone who specifically enjoys rear-drive stadium behavior. It should not be described as the same truck with a front shaft removed without checking its actual chassis and electronics. Compare the exact package, tray and service documentation. The four-wheel-drive reviewed model earns its place when propulsion at both ends and this stock equipment package are part of the desired activity.",
+        "The Traxxas Rustler 4X4 Ultimate offers an equipped stadium route with GTR shocks, sway bars, TSM and installed wireless features. It has separate battery and charger requirements too. Decide which adjustment and radio equipment you would really use rather than assuming the most elaborate package is automatically the best value. We have not compared their handling or durability on a shared course, so the shortlist remains an equipment-and-buyer-fit exercise.",
+        "The ARRMA Granite 223S is the format change for a buyer whose terrain makes a tall monster more useful. Its current compact wheelbase and tire package give it a different purpose despite sharing the broad brushless growth concept. The Senton is another route when an enclosed short-course body matters. Choosing between those shapes should follow the driving ground and visual preference, not a claim that all 223S vehicles can be ranked by one advertised speed figure."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "Vorteks 223S4X4 ARA4305V4T1",
+            "Brushless 4WD stadium RTR; power extra",
+            "This coordinated DSC route"
+          ],
+          [
+            "Vorteks 223S2WD",
+            "Separate rear-drive platform; verify package",
+            "A different traction brief"
+          ],
+          [
+            "Rustler 4X4 Ultimate 67097-4",
+            "Equipped stadium RTR; power extra",
+            "Installed shocks, bars and connected radio"
+          ],
+          [
+            "Granite 223S",
+            "Monster RTR; power extra",
+            "Tall monster format for different ground"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A convincing stadium purchase when the factory control route is what you want.",
+      "paragraphs": [
+        "I would shortlist the red ARA4305V4T1 for a first or returning brushless stadium owner with firm outdoor ground, a compatible power basket and an interest in learning the limiter and DSC. The assembled 4WD chassis, current center differential and finished body make a coherent package. The reservations are dense-lawn fit, separately bought power and the possibility of ordering the distinct 2WD version accidentally. Keep the exact SKU visible all the way through the purchase.",
+        "The five equally weighted scores evaluate preparation, stadium hardware, control options, service information and whole-purchase value for that buyer. They do not measure speed, handling, jump control, crash resistance or reliability. Current manufacturer documentation establishes the mechanical configuration, Amazon verifies the commercial identity, and RC Driver supplies attributable coverage of the matching variant. Vogel's driving remains his driving. The editorial conclusion concerns the documented purchase and your likely ordinary sessions.",
+        "Buy it if the stadium format and installed 223S system are the destination, then begin with a conservative battery and settings baseline. Inspect routinely and change one variable when use shows the need. Skip it if the entire activity is technical crawling or thick grass, or if you already require a different electronics ecosystem. The available higher-cell route is a useful option for later, while the first task remains learning to place and stop the vehicle consistently on the ground you actually have."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "arrma-vorteks-223s-4x4-gallery-1.jpg",
+      "alt": "ARRMA official Vorteks 223S DSC 4X4 recreational product photograph 1",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-4x4-rtr-brushless-stadium-truck-red/ARA4305V4T1.html"
+    },
+    {
+      "image": "arrma-vorteks-223s-4x4-gallery-2.jpg",
+      "alt": "ARRMA official Vorteks 223S DSC 4X4 recreational product photograph 2",
+      "caption": "Official ARRMA / Horizon Hobby photograph of this model in recreational use. Manufacturer promotional photography; no performance measurement is inferred.",
+      "source": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-4x4-rtr-brushless-stadium-truck-red/ARA4305V4T1.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "ARRMA ARA4305V4T1 · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0DN3DN2M7"
+    ],
+    [
+      "Scale / drive",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Spektrum 3100Kv brushless"
+    ],
+    [
+      "ESC",
+      "SLT 80A 2-in-1 ESC / receiver with DSC"
+    ],
+    [
+      "Radio",
+      "SLT3 · limiter and DSC modes"
+    ],
+    [
+      "Steering servo",
+      "S662 metal-geared 25T"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Shaft 4WD · center differential"
+    ],
+    [
+      "Length × width × height",
+      "470 ×334 ×169mm"
+    ],
+    [
+      "Wheelbase",
+      "284mm"
+    ],
+    [
+      "Weight publication basis",
+      "3.43kg · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "165 ×51 ×48mm"
+    ],
+    [
+      "Drive battery",
+      "2S or 3S hardcase LiPo · extra · IC5"
+    ],
+    [
+      "Charger",
+      "Compatible LiPo charger extra"
+    ],
+    [
+      "Tires",
+      "Current all-terrain dBoots stadium tires"
+    ],
+    [
+      "Transmitter power",
+      "Four AA cells included in current factory contents"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the 2WD Vorteks?",
+      "answer": "No. ARA4305V4T1 is the complete red 4WD223S. The separate 2WD family uses different exact SKUs and needs its own package comparison."
+    },
+    {
+      "question": "What power equipment must I buy?",
+      "answer": "A documented compatible 2S or 3S hardcase LiPo and charger, plus any charger input power. Transmitter AA cells are supplied."
+    },
+    {
+      "question": "What are the tray dimensions?",
+      "answer": "The current official Vorteks specification and manual state 165 ×51 ×48mm maximum. Check restraint and wire routing too."
+    },
+    {
+      "question": "Is DSC the same as AVC?",
+      "answer": "Do not treat them as interchangeable hardware or setup procedures. This exact package documents DSC with anSLT3 radio and its installed combined unit."
+    },
+    {
+      "question": "Can I immediately change tire diameter?",
+      "answer": "Check effective gearing, steering and body clearance before doing so. Establish a factory baseline on the intended terrain first."
+    },
+    {
+      "question": "Did RC Car King drive the skate-park test?",
+      "answer": "No. Greg Vogel's matching-variant coverage is independently attributed. Our rating assesses equipment and buyer fit without measured handling or toughness results."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA · current exact ARA4305V4T1 product, contents and specifications",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-4x4-rtr-brushless-stadium-truck-red/ARA4305V4T1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "ARRMA · current model owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwe168bdbb/Manuals/ARA4305V4_MANUAL_ML.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Driver · Greg Vogel covers matching ARA4305V4T1 and skate-park driving",
+      "url": "https://www.rcdriver.com/arrma-vorteks-4x 4-223s-blx/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0DN3DN2M7 identity and dated price",
+      "url": "https://www.amazon.com/dp/B0DN3DN2M7?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "traxxas rustler 4x4 ultimate · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/rustler-4x4-vxl-ultimate-67097-4",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "arrma granite 223s · current alternative complete-vehicle documentation",
+      "url": "https://www.horizonhobby.com/product/1-10-granite-223s-dsc-4x4-rtr-brushless-monster-truck-red/ARA4302V4T2.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "arrma senton 223s · current alternative complete-vehicle documentation",
+      "url": "https://www.horizonhobby.com/product/1-10-senton-223s-dsc-4x4-rtr-brushless-short-course-truck-yellow/ARA4303V4T1.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DN3DN2M7, ARA4305V4T1 and ARRMA for the exact complete-car listing. RC Driver identifies the matching redSKU and separately discusses a converted vehicle; its driving is not our testing and the converted truck is not this factory configuration. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

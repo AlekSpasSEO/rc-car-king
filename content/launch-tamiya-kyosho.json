@@ -1,0 +1,1082 @@
+{
+  "date": "2026-10-13",
+  "status": "ready",
+  "target": 16,
+  "records": [
+    {
+      "slug": "tamiya/frog-2005",
+      "sku": "58354",
+      "asin": "B000CBNRA2",
+      "apiSku": "TAM58354",
+      "bodyWords": 2337,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-frog/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://www.tamiya.com/cms/english/rc/rcmanual/58354the_frog.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B000CBNRA2",
+          "url": "https://www.amazon.com/dp/B000CBNRA2?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Tamiyaclub · NulnOilTycoon Frog build with modified equipment",
+          "url": "https://www.tamiyaclub.com/forum/index.php?/topic/94874-my-frog-builds-regularish-and-ampro/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tamiya US manufacturer MSRP reference · kit only",
+          "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-frog/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58354-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58354/58354_1.jpg"
+        },
+        {
+          "file": "tamiya-58354-official-2.jpg",
+          "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-frog/",
+          "caption": "Tamiya official body-off Frog view: the space frame, inboard front springs and horizontal rear dampers are visible. Electronics illustrate a completed installation, not all supplied kit equipment."
+        },
+        {
+          "file": "tamiya-58354-official-3.jpg",
+          "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-frog/",
+          "caption": "Tamiya official front-mechanism detail: the steering, radius arms and spring arrangement explain this unusual classic chassis."
+        }
+      ],
+      "price": {
+        "amount": 313,
+        "currency": "USD",
+        "basis": "Tamiya US manufacturer MSRP reference · kit only",
+        "checked": "2026-10-13",
+        "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-frog/",
+        "note": "Manufacturer US published MSRP is a dated vehicle-only reference; the live Amazon offer remains separate."
+      },
+      "conflicts": "Frog English page prints 1,020 mm wheelbase. No correction is invented. Amazon requires ESC; historical regional kits vary."
+    },
+    {
+      "slug": "tamiya/midnight-pumpkin-metallic",
+      "sku": "58365",
+      "asin": "B000FBMR0A",
+      "apiSku": "TAM58365",
+      "bodyWords": 2309,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiyausa.com/shop/110-trucks/rc-midnight-pumpkin-metallic/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://www.tamiya.com/japan/products/58365/index.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B000FBMR0A",
+          "url": "https://www.amazon.com/dp/B000FBMR0A?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Chris’s House · attributable customer build observations",
+          "url": "https://www.chrishouse.ca/products/1-12-rc-midnight-pumpkin-metallic-kit-58365",
+          "checked": "2026-10-13",
+          "kind": "Independent owner coverage"
+        },
+        {
+          "name": "Tamiya US manufacturer MSRP reference · kit only",
+          "url": "https://www.tamiyausa.com/shop/110-trucks/rc-midnight-pumpkin-metallic/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58365-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58365/58365_1.jpg"
+        },
+        {
+          "file": "tamiya-58365-official-2.jpg",
+          "source": "https://www.tamiyausa.com/shop/110-trucks/rc-midnight-pumpkin-metallic/",
+          "caption": "Tamiya official body-off CW-01 view: gearbox, radio installation and wheelie-bar arrangement beneath the pickup shell."
+        },
+        {
+          "file": "tamiya-58365-official-3.jpg",
+          "source": "https://www.tamiyausa.com/shop/110-trucks/rc-midnight-pumpkin-metallic/",
+          "caption": "Tamiya official rear mechanism detail: the rolling axle and coil-spring arrangement, with plated damper cylinders."
+        }
+      ],
+      "price": {
+        "amount": 232,
+        "currency": "USD",
+        "basis": "Tamiya US manufacturer MSRP reference · kit only",
+        "checked": "2026-10-13",
+        "source": "https://www.tamiyausa.com/shop/110-trucks/rc-midnight-pumpkin-metallic/",
+        "note": "Manufacturer US published MSRP is a dated vehicle-only reference; the live Amazon offer remains separate."
+      },
+      "conflicts": "US table says 1/10 despite 1/12 model identity and mixes ABS/PS body language. Controller revisions vary by region."
+    },
+    {
+      "slug": "tamiya/grasshopper-ii-2017",
+      "sku": "58643",
+      "asin": "B09P7TCKFD",
+      "apiSku": "TAM58643A",
+      "bodyWords": 2323,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://tamiya.com/cms/english/rc/rcmanual/58643.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B09P7TCKFD",
+          "url": "https://www.amazon.com/dp/B09P7TCKFD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Mad Toys and Hobbies · Grasshopper II review",
+          "url": "https://madtoysandhobbies.com.au/review-rc-tamiya-grasshopper-ii-58643/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tamiya US manufacturer MSRP reference · kit only",
+          "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58643-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58643/58643_1.jpg"
+        },
+        {
+          "file": "tamiya-58643-official-2.jpg",
+          "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+          "caption": "Tamiya official front-suspension detail: swing-axle hardware and friction damping in the standard Grasshopper II."
+        },
+        {
+          "file": "tamiya-58643-official-3.jpg",
+          "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+          "caption": "Tamiya official rear-gearbox view: the supplied 380 motor and rolling rear assembly, with electronics illustrating a completed build."
+        }
+      ],
+      "price": {
+        "amount": 163,
+        "currency": "USD",
+        "basis": "Tamiya US manufacturer MSRP reference · kit only",
+        "checked": "2026-10-13",
+        "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-the-grasshopper-ii-2017/",
+        "note": "Manufacturer US published MSRP is a dated vehicle-only reference; the live Amazon offer remains separate."
+      },
+      "conflicts": "US/global dimensions differ. Current US description names TBLE-02S; global description requires separate ESC."
+    },
+    {
+      "slug": "tamiya/bbx-bb-01",
+      "sku": "58719",
+      "asin": "B0C2P5FWPH",
+      "apiSku": "58719",
+      "bodyWords": 2301,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiya.com/english/products/58719/index.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/58719.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0C2P5FWPH",
+          "url": "https://www.amazon.com/dp/B0C2P5FWPH?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Peter Vieira BBX build preview",
+          "url": "https://www.rcdriver.com/im-ready-to-jump-into-a-tamiya-bbx-build-heres-what-im-stoked-on/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies listed USD reference · exact kit only · retailer, not MSRP",
+          "url": "https://www.towerhobbies.com/product/tamiya-110-bbx-bb-01-2wd-buggy-kit/TAM58719.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58719-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58719/58719_1.jpg"
+        },
+        {
+          "file": "tamiya-58719-official-2.jpg",
+          "source": "https://www.tamiya.com/english/products/58719/index.html",
+          "caption": "Tamiya official alternate assembled BBX view: six-piece panels, driver, cage and netting form the finished model."
+        },
+        {
+          "file": "tamiya-58719-official-3.jpg",
+          "source": "https://www.tamiya.com/english/products/58719/index.html",
+          "caption": "Tamiya official body-off BB-01 view: cage, suspension and electronics space. Motor, servo and ESC are completion equipment, not supplied electronics."
+        }
+      ],
+      "price": {
+        "amount": 263.2,
+        "currency": "USD",
+        "basis": "Tower Hobbies listed USD reference · exact kit only · retailer, not MSRP",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/tamiya-110-bbx-bb-01-2wd-buggy-kit/TAM58719.html",
+        "note": "The dated USD price reference is the directly verified exact-SKU Tower Hobbies Product/Offer, a retailer reference rather than manufacturer MSRP."
+      },
+      "conflicts": "API bullet incorrectly calls the differential oil-filled gear type; manufacturer specifies ball differential. Motor/ESC not included."
+    },
+    {
+      "slug": "tamiya/fighter-nxgen-dt-04",
+      "sku": "58741",
+      "asin": "B0DWDQZW5D",
+      "apiSku": "58741",
+      "bodyWords": 2271,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-fighter-nxgen/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/58741.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0DWDQZW5D",
+          "url": "https://www.amazon.com/dp/B0DWDQZW5D?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RC Driver · Greg Vogel exact Fighter NXGEN build video",
+          "url": "https://www.rcdriver.com/tamiya-fighter-nxgen-dt-04-buggy-kit-build/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tamiya US manufacturer MSRP reference · kit only",
+          "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-fighter-nxgen/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58741-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58741/58741_1.jpg"
+        },
+        {
+          "file": "tamiya-58741-official-2.jpg",
+          "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-fighter-nxgen/",
+          "caption": "Tamiya official alternate Fighter NXGEN whole-car view: molded panels and driver on the DT-04."
+        },
+        {
+          "file": "tamiya-58741-official-3.jpg",
+          "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-fighter-nxgen/",
+          "caption": "Tamiya official front-end detail: long arms, turnbuckle steering link and CVA oil damper."
+        }
+      ],
+      "price": {
+        "amount": 227,
+        "currency": "USD",
+        "basis": "Tamiya US manufacturer MSRP reference · kit only",
+        "checked": "2026-10-13",
+        "source": "https://www.tamiyausa.com/shop/-road-buggies/rc-fighter-nxgen/",
+        "note": "Manufacturer US published MSRP is a dated vehicle-only reference; the live Amazon offer remains separate."
+      },
+      "conflicts": "US/global dimensions conflict. Export ESC included while generic requirements retain ESC wording. Follow page-26 correction."
+    },
+    {
+      "slug": "tamiya/subaru-impreza-monte-carlo-99",
+      "sku": "58631-A",
+      "asin": "B09MMSK281",
+      "apiSku": "TAM58631A",
+      "bodyWords": 2261,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-subaru-impreza-2/",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58631.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B09MMSK281",
+          "url": "https://www.amazon.com/dp/B09MMSK281?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RCScrapyard · exact 58631 archive and setup discussion",
+          "url": "https://www.rcscrapyard.net/tamiya-subaru-impreza-monte-carlo-99-tt-02-58631.htm",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies archived/discontinued USD reference · exact regional kit only",
+          "url": "https://www.towerhobbies.com/product/tamiya-110-1999-subaru-impreza-monte-carlo-tt-02-4x4-rally-kit/TAM58631A.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58631-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58631/58631_1.jpg"
+        },
+        {
+          "file": "tamiya-58631-manual-1.png",
+          "source": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58631.pdf",
+          "caption": "Tamiya official technical illustration: body trimming and finishing from manual page 1. This is a manufacturer illustration, not our test photograph."
+        },
+        {
+          "file": "tamiya-58631-manual-2.png",
+          "source": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58631.pdf",
+          "caption": "Tamiya official technical illustration: body trimming and finishing from manual page 2. This is a manufacturer illustration, not our test photograph."
+        }
+      ],
+      "price": {
+        "amount": 130.9,
+        "currency": "USD",
+        "basis": "Tower Hobbies archived/discontinued USD reference · exact regional kit only",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/tamiya-110-1999-subaru-impreza-monte-carlo-tt-02-4x4-rally-kit/TAM58631A.html",
+        "note": "The independent USD reference is an archived/discontinued Tower Hobbies exact-SKU Product/Offer. It is not a current purchasable Tower offer. API matching can identify another seller’s remaining stock."
+      },
+      "conflicts": "US 58631-A is marked discontinued. Regional ESC inclusion differs from global 58631; old coverage cannot establish current stock."
+    },
+    {
+      "slug": "tamiya/toyota-celica-gt-four-st165",
+      "sku": "58718",
+      "asin": "B0BY1Z7RKQ",
+      "apiSku": "58718",
+      "bodyWords": 2323,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiya.com/english/products/58718/index.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://www.tamiya.com/japan/products/58718/index.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0BY1Z7RKQ",
+          "url": "https://www.amazon.com/dp/B0BY1Z7RKQ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "RCGuided · exact Celica 58718 TT-02 build video",
+          "url": "https://www.youtube.com/watch?v=QVB_jJyh_Lo",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies listed USD reference · exact kit only · retailer, not MSRP",
+          "url": "https://www.towerhobbies.com/product/tamiya-110-toyota-celica-gt-four-st165-tt-02-4x4-on-road-touring-kit/TAM58718.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58718-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58718/58718_1_e.jpg"
+        },
+        {
+          "file": "tamiya-58718-official-2.jpg",
+          "source": "https://www.tamiya.com/english/products/58718/index.html",
+          "caption": "Tamiya official rear three-quarter Celica view: the ST165 livery, rear spoiler and white wheels."
+        },
+        {
+          "file": "tamiya-58718-official-3.jpg",
+          "source": "https://www.tamiya.com/english/products/58718/index.html",
+          "caption": "Tamiya official nose detail: front markings and light representation on a completed example. Confirm actual regional body finish."
+        }
+      ],
+      "price": {
+        "amount": 114.8,
+        "currency": "USD",
+        "basis": "Tower Hobbies listed USD reference · exact kit only · retailer, not MSRP",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/tamiya-110-toyota-celica-gt-four-st165-tt-02-4x4-on-road-touring-kit/TAM58718.html",
+        "note": "The dated USD price reference is the directly verified exact-SKU Tower Hobbies Product/Offer, a retailer reference rather than manufacturer MSRP."
+      },
+      "conflicts": "English clear/painting context conflicts with Japan pre-painted/cut/drilled notice. API includes ESC while global page lists it separately."
+    },
+    {
+      "slug": "tamiya/hornet",
+      "sku": "58336-A",
+      "asin": "B09PF8TC7Z",
+      "apiSku": "TAM58336A",
+      "bodyWords": 2331,
+      "sources": [
+        {
+          "name": "Tamiya · exact model product/specification",
+          "url": "https://www.tamiya.com/english/products/58336/index.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Tamiya · assembly/body or regional specification documentation",
+          "url": "https://www.tamiya.com/cms/english/rc/rcmanual/hornet.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B09PF8TC7Z",
+          "url": "https://www.amazon.com/dp/B09PF8TC7Z?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "SupermotoXL · owner’s 2004 re-release Hornet review",
+          "url": "https://www.supermotoxl.com/projects-articles/news-reviews/nostalgia-review-tamiya-the-hornet-1980-s-buggy.html",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies archived/discontinued USD reference · exact regional kit only",
+          "url": "https://www.towerhobbies.com/product/tamiya-110-the-hornet-2wd-off-road-buggy-kit/TAM58336A.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "tamiya-58336-official-1.jpg",
+          "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58336/58336_1.jpg"
+        },
+        {
+          "file": "tamiya-58336-manual-1.png",
+          "source": "https://www.tamiya.com/cms/english/rc/rcmanual/hornet.pdf",
+          "caption": "Tamiya official technical illustration: whole-car/assembly reference from manual page 1. This is a manufacturer illustration, not our test photograph."
+        },
+        {
+          "file": "tamiya-58336-manual-2.png",
+          "source": "https://www.tamiya.com/cms/english/rc/rcmanual/hornet.pdf",
+          "caption": "Tamiya official technical illustration: whole-car/assembly reference from manual page 2. This is a manufacturer illustration, not our test photograph."
+        }
+      ],
+      "price": {
+        "amount": 156.1,
+        "currency": "USD",
+        "basis": "Tower Hobbies archived/discontinued USD reference · exact regional kit only",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/tamiya-110-the-hornet-2wd-off-road-buggy-kit/TAM58336A.html",
+        "note": "The independent USD reference is an archived/discontinued Tower Hobbies exact-SKU Product/Offer. It is not a current purchasable Tower offer. API matching can identify another seller’s remaining stock."
+      },
+      "conflicts": "Global page names historic TEU-101BK. Regional TAM58336A part number documents an A box but does not establish the present controller model."
+    },
+    {
+      "slug": "kyosho/fazer-d2-toyota-86-gt",
+      "sku": "34502T1",
+      "asin": "B0F78CRM78",
+      "apiSku": "34502T1",
+      "bodyWords": 2268,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34502t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/FZD2-T03_FAZER_D2_FZD2_im.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification",
+          "accessNote": "Officially linked manual; direct PDF fetch timed out and web retrieval returned403. Hardware facts were verified on the accessible product/specification pages."
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0F78CRM78",
+          "url": "https://www.amazon.com/dp/B0F78CRM78?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · exact Toyota86 D2 announcement, regional B suffix",
+          "url": "https://www.bigsquidrc.com/kyosho-1-10-toyota-86-gt-tuned-ver-fazer-d2-drift-readyset/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+          "url": "https://www.towerhobbies.com/product/kyosho-110-fazer-d2-toyota-gt86-2wd-drift-rtr-lightning-red/KYO34502T1.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        },
+        {
+          "name": "Kyosho Japan · exact regional product and specification page",
+          "url": "https://rc.kyosho.com/ja/34502t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer regional specification"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34502t1-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/4/34502t1_900_0_2.jpg"
+        },
+        {
+          "file": "kyosho-34502t1-official-2.jpg",
+          "source": "https://rc.kyosho.com/en/34502t1.html",
+          "caption": "Kyosho official D2 body-off view: rear-drive layout, raised motor, battery holder and fitted control system."
+        },
+        {
+          "file": "kyosho-34502t1-official-3.jpg",
+          "source": "https://rc.kyosho.com/en/34502t1.html",
+          "caption": "Kyosho official alternate whole-car Toyota86 view in Lightning Red; lighting hardware, if illustrated, is optional."
+        }
+      ],
+      "price": {
+        "amount": 284.99,
+        "currency": "USD",
+        "basis": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/kyosho-110-fazer-d2-toyota-gt86-2wd-drift-rtr-lightning-red/KYO34502T1.html",
+        "note": "The dated USD reference is a directly verified exact-SKU Tower Hobbies listing with in-stock status at the check; it remains independent of the expiring Amazon offer."
+      },
+      "conflicts": "Independent announcement uses regional 34502T1B; reviewed API identity is 34502T1. No AE86 driving results are transferred."
+    },
+    {
+      "slug": "kyosho/fazer-mk2-dodge-charger-ve",
+      "sku": "34492T1C",
+      "asin": "B0D32JN6K7",
+      "apiSku": "34492T1C",
+      "bodyWords": 2249,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34492t1c.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/34492T1_FAZER_Dodge_Charger_op.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification",
+          "accessNote": "Officially linked manual; direct PDF fetch timed out and web retrieval returned403. Hardware facts were verified on the accessible product/specification pages."
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0D32JN6K7",
+          "url": "https://www.amazon.com/dp/B0D32JN6K7?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · Charger VE manufacturer-video coverage",
+          "url": "https://www.bigsquidrc.com/video-kyosho-1970-dodge-charger-supercharged-ve-gray/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies archived/discontinued USD reference · exact complete car only",
+          "url": "https://www.towerhobbies.com/product/kyosho-110-fazer-mk2-fz02l-ve-1970-dodge-charger-supercharged-4x4-brushless-electric-touring-rtr-gray/KYO34492T1C.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        },
+        {
+          "name": "Kyosho Japan · exact regional product and specification page",
+          "url": "https://rc.kyosho.com/ja/34492t1c.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer regional specification"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34492t1c-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/_/y/_y5_4770_1.jpg"
+        },
+        {
+          "file": "kyosho-34492t1c-gallery-1.jpg",
+          "source": "https://rc.kyosho.com/en/34492t1c.html",
+          "caption": "Kyosho official ChargerVE body-off view: the brushless installation and long FZ02L platform."
+        },
+        {
+          "file": "kyosho-34492t1c-gallery-2.jpg",
+          "source": "https://rc.kyosho.com/en/34492t1c.html",
+          "caption": "Kyosho official VE power-system detail: TORX10E motor, controller installation and gearing area."
+        }
+      ],
+      "price": {
+        "amount": 329.99,
+        "currency": "USD",
+        "basis": "Tower Hobbies archived/discontinued USD reference · exact complete car only",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/kyosho-110-fazer-mk2-fz02l-ve-1970-dodge-charger-supercharged-4x4-brushless-electric-touring-rtr-gray/KYO34492T1C.html",
+        "note": "The independent USD reference is a retained discontinued Tower Hobbies exact-SKU listing, not a currently orderable Tower offer. API verification may identify another seller’s remaining stock."
+      },
+      "conflicts": "Kyosho 65 km/h statement is a manufacturer claim, not our measurement. Powered headlights require separate micro servo; LEDs extra."
+    },
+    {
+      "slug": "kyosho/fazer-mk2-toyota-celica-gt",
+      "sku": "34429T1",
+      "asin": "B0FHGR7GZ8",
+      "apiSku": "34429T1",
+      "bodyWords": 2228,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34429t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/34429_1970_TOYOTA_CELICA_GT_op.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0FHGR7GZ8",
+          "url": "https://www.amazon.com/dp/B0FHGR7GZ8?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · exact Celica manufacturer-video coverage",
+          "url": "https://www.bigsquidrc.com/video-kyosho-1-10-1970-toyota-celica-gt-tuned-ver-in-orion-turquoise/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Kyosho America published USD reference · vehicle only",
+          "url": "https://kyoshoamerica.com/1-10-scale-radio-controlled-electric-powered-4wd-fazer-mk2-fz02-series-readyset-1970-toyota-celica-gt-tuned-ver-orion-turquoise-34429t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34429t1-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/4/34429t1_900_im1.jpg"
+        },
+        {
+          "file": "kyosho-34429t1-gallery-1.jpg",
+          "source": "https://rc.kyosho.com/en/34429t1.html",
+          "caption": "Kyosho official overhead/front-quarter view of the finished turquoise Celica GT and vintage wheels."
+        },
+        {
+          "file": "kyosho-34429t1-gallery-2.jpg",
+          "source": "https://rc.kyosho.com/en/34429t1.html",
+          "caption": "Kyosho official alternate whole-car Celica view. Any illuminated example uses optional LED equipment."
+        }
+      ],
+      "price": {
+        "amount": 229.99,
+        "currency": "USD",
+        "basis": "Kyosho America published USD reference · vehicle only",
+        "checked": "2026-10-13",
+        "source": "https://kyoshoamerica.com/1-10-scale-radio-controlled-electric-powered-4wd-fazer-mk2-fz02-series-readyset-1970-toyota-celica-gt-tuned-ver-orion-turquoise-34429t1.html",
+        "note": "The dated USD reference comes from indexed/cached exact-model Kyosho America material; direct retrieval returned HTTP503. It is a published reference, not a live checkout quote. Amazon offers remain separate and expire from display."
+      },
+      "conflicts": "Independent outlet embeds manufacturer footage rather than supplying its own measured test. Light buckets do not include LED set."
+    },
+    {
+      "slug": "kyosho/fazer-mk2-skyline-2000gt-r",
+      "sku": "34425T1C",
+      "asin": "B0C9LP1C5K",
+      "apiSku": "34425T1C",
+      "bodyWords": 2247,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34425t1c.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/34425T1_NISSAN_SKYLINE_2000GT-R_im.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification",
+          "accessNote": "Officially linked manual; direct PDF fetch timed out and web retrieval returned403. Hardware facts were verified on the accessible product/specification pages."
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0C9LP1C5K",
+          "url": "https://www.amazon.com/dp/B0C9LP1C5K?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · 34425T1 Skyline promotional-video coverage",
+          "url": "https://www.bigsquidrc.com/video-kyosho-nissan-skyline-2000gt-r/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies archived/discontinued USD reference · exact complete car only",
+          "url": "https://www.towerhobbies.com/product/kyosho-110-fazer-mk2-nissan-skyline-2000-gt-r-4x4-electric-touring-rtr-silver/KYO34425T1C.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        },
+        {
+          "name": "Kyosho Japan · exact regional product and specification page",
+          "url": "https://rc.kyosho.com/ja/34425t1c.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer regional specification"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34425t1-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/4/34425t1900-14-1_1.jpg"
+        },
+        {
+          "file": "kyosho-34425t1-gallery-1.jpg",
+          "source": "https://rc.kyosho.com/en/34425t1c.html",
+          "caption": "Kyosho official FZ02 body-off layout from the Skyline product page: stock road-car electronics and battery location."
+        },
+        {
+          "file": "kyosho-34425t1-gallery-2.jpg",
+          "source": "https://rc.kyosho.com/en/34425t1c.html",
+          "caption": "Kyosho official underside view of the FZ02 platform: suspension layout and low touring-car chassis."
+        }
+      ],
+      "price": {
+        "amount": 249.99,
+        "currency": "USD",
+        "basis": "Tower Hobbies archived/discontinued USD reference · exact complete car only",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/kyosho-110-fazer-mk2-nissan-skyline-2000-gt-r-4x4-electric-touring-rtr-silver/KYO34425T1C.html",
+        "note": "The independent USD reference is a retained discontinued Tower Hobbies exact-SKU listing, not a currently orderable Tower offer. API verification may identify another seller’s remaining stock."
+      },
+      "conflicts": "Current reviewed 34425T1C vs independent earlier 34425T1. Old launch price and any unverified component revision are not transferred."
+    },
+    {
+      "slug": "kyosho/fazer-mk2-el-camino-ss396",
+      "sku": "34419T2",
+      "asin": "B09ZXSBYJV",
+      "apiSku": "34419T2",
+      "bodyWords": 2283,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34419t2.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/34419T2-OC01.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B09ZXSBYJV",
+          "url": "https://www.amazon.com/dp/B09ZXSBYJV?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · unboxing of T1 black sibling; package context only",
+          "url": "https://www.bigsquidrc.com/unboxing-video-kyosho-1969-chevy-el-camino-ss-396/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies archived/discontinued USD reference · exact complete car only",
+          "url": "https://www.towerhobbies.com/product/kyosho-110-1969-chevy-el-camino-fazer-mk2-fz02l-brushed-4x4-on-road-touring-rtr-cortez-silver/KYO34419T2.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34419t2-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/4/34419t2900-01_1.jpg"
+        },
+        {
+          "file": "kyosho-34419t2-gallery-1.jpg",
+          "source": "https://rc.kyosho.com/en/34419t2.html",
+          "caption": "Kyosho official FZ02L body-off layout from the El Camino page; chassis technical context without substituting a black sibling body for the silver T2."
+        },
+        {
+          "file": "kyosho-34419t2-gallery-2.jpg",
+          "source": "https://rc.kyosho.com/en/34419t2.html",
+          "caption": "Kyosho official FZ02L underside view: long chassis, independent suspension and service layout."
+        }
+      ],
+      "price": {
+        "amount": 289.99,
+        "currency": "USD",
+        "basis": "Tower Hobbies archived/discontinued USD reference · exact complete car only",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/kyosho-110-1969-chevy-el-camino-fazer-mk2-fz02l-brushed-4x4-on-road-touring-rtr-cortez-silver/KYO34419T2.html",
+        "note": "The independent USD reference is a retained discontinued Tower Hobbies exact-SKU listing, not a currently orderable Tower offer. API verification may identify another seller’s remaining stock."
+      },
+      "conflicts": "Manufacturer34419T2 page marks discontinued. Independent unboxing is black T1 sibling, used for package context only."
+    },
+    {
+      "slug": "kyosho/mini-z-land-cruiser-300",
+      "sku": "32533PW",
+      "asin": "B0CL491MVB",
+      "apiSku": "32533PW",
+      "bodyWords": 2265,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/32533pw.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://rc.kyosho.com/en/miniz4x4-lc300",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification"
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0CL491MVB",
+          "url": "https://www.amazon.com/dp/B0CL491MVB?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "たーし · exact white LC300 on a homemade indoor trail",
+          "url": "https://www.youtube.com/watch?v=Ze6SJnGjmhs",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Kyosho America published USD reference · vehicle only",
+          "url": "https://kyoshoamerica.com/mini-z-4x4-readyset-toyota-land-cruiser-300-precious-white-pearl-32533pw.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer price reference"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-32533pw-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32533pw_1.jpg"
+        },
+        {
+          "file": "kyosho-32533pw-gallery-1.png",
+          "source": "https://rc.kyosho.com/en/32533pw.html",
+          "caption": "Kyosho official side view of the actual Precious White Pearl Mini-Z LC300; the supplied miniature body, wheels and proportions."
+        },
+        {
+          "file": "kyosho-32533pw-chassis.png",
+          "source": "https://rc.kyosho.com/en/32533pw.html",
+          "caption": "Kyosho official MX-01 chassis illustration: ladder frame, solid axles, links and electronics. Technical illustration, not a drive-test photo."
+        }
+      ],
+      "price": {
+        "amount": 139.99,
+        "currency": "USD",
+        "basis": "Kyosho America published USD reference · vehicle only",
+        "checked": "2026-10-13",
+        "source": "https://kyoshoamerica.com/mini-z-4x4-readyset-toyota-land-cruiser-300-precious-white-pearl-32533pw.html",
+        "note": "The dated USD reference comes from indexed/cached exact-model Kyosho America material; direct retrieval returned HTTP503. It is a published reference, not a live checkout quote. Amazon offers remain separate and expire from display."
+      },
+      "conflicts": "Product page speed 2.7–5.4km/h differs from special page 3.3–6.6km/h. Both are manufacturer claims; no tested speed/runtime rating."
+    },
+    {
+      "slug": "kyosho/kc10-land-cruiser-60",
+      "sku": "34801T1",
+      "asin": "B0GYC7QPS9",
+      "apiSku": "34801T1",
+      "bodyWords": 2252,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34801t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/kc10/pdf/KC10_im.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification",
+          "accessNote": "Officially linked manual; direct PDF fetch timed out and web retrieval returned403. Hardware facts were verified on the accessible product/specification pages."
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0GYC7QPS9",
+          "url": "https://www.amazon.com/dp/B0GYC7QPS9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · exact 34801T1 release coverage",
+          "url": "https://www.bigsquidrc.com/kyosho-1-10-kc10-toyota-land-cruiser-60-readyset/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+          "url": "https://www.towerhobbies.com/product/kyosho-110-toyota-land-cruiser-60-kc10-4x4-electric-rock-crawler-rtr/KYO34801T1.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        },
+        {
+          "name": "Kyosho Japan · exact regional product and specification page",
+          "url": "https://rc.kyosho.com/ja/34801t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer regional specification"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34801t1-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/4/34801t1_900_1_1.jpg"
+        },
+        {
+          "file": "kyosho-34801t1-gallery-1.jpg",
+          "source": "https://rc.kyosho.com/en/34801t1.html",
+          "caption": "Kyosho official KC10 whole-car/body presentation from the Type1 product page. See the source for other supported body examples."
+        },
+        {
+          "file": "kyosho-34801t1-gallery-2.jpg",
+          "source": "https://rc.kyosho.com/en/34801t1.html",
+          "caption": "Kyosho official early Land Cruiser60 whole-car view; Type1 round-headlight subject."
+        }
+      ],
+      "price": {
+        "amount": 419.99,
+        "currency": "USD",
+        "basis": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/kyosho-110-toyota-land-cruiser-60-kc10-4x4-electric-rock-crawler-rtr/KYO34801T1.html",
+        "note": "The dated USD reference is a directly verified exact-SKU Tower Hobbies listing with in-stock status at the check; it remains independent of the expiring Amazon offer."
+      },
+      "conflicts": "API bullet mislabels G32L as a15kg servo; manufacturer correctly assigns G32L to32T motor. DIG/two-speed kits are optional."
+    },
+    {
+      "slug": "kyosho/fazer-mk2-datsun-240z-rally",
+      "sku": "34482T1",
+      "asin": "B0D34FM6M9",
+      "apiSku": "34482T1",
+      "bodyWords": 2241,
+      "sources": [
+        {
+          "name": "Kyosho · exact model product/specification",
+          "url": "https://rc.kyosho.com/en/34482t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer"
+        },
+        {
+          "name": "Kyosho · assembly/body or regional specification documentation",
+          "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/FZ02-R-T01_FAZER_Mk2_im.pdf",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer manual / specification",
+          "accessNote": "Officially linked manual; direct PDF fetch timed out and web retrieval returned403. Hardware facts were verified on the accessible product/specification pages."
+        },
+        {
+          "name": "Amazon Creators API · exact ASIN B0D34FM6M9",
+          "url": "https://www.amazon.com/dp/B0D34FM6M9?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+          "checked": "2026-10-13",
+          "kind": "API product verification",
+          "affiliate": true
+        },
+        {
+          "name": "Big Squid RC · exact FZ02-R 240Z release coverage",
+          "url": "https://www.bigsquidrc.com/kyosho-1-10-1971-datsun-240z-rally-fz02-r-readyset/",
+          "checked": "2026-10-13",
+          "kind": "Independent coverage"
+        },
+        {
+          "name": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+          "url": "https://www.towerhobbies.com/product/kyosho-110-1971-datsun-240z-fazer-mk2-fz02-r-4x4-rally-rtr/KYO34482T1.html",
+          "checked": "2026-10-13",
+          "kind": "Retailer price reference"
+        },
+        {
+          "name": "Kyosho Japan · exact regional product and specification page",
+          "url": "https://rc.kyosho.com/ja/34482t1.html",
+          "checked": "2026-10-13",
+          "kind": "Manufacturer regional specification"
+        }
+      ],
+      "media": [
+        {
+          "file": "kyosho-34482t1-official-1.jpg",
+          "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/4/34482t1_900_im1.jpg"
+        },
+        {
+          "file": "kyosho-34482t1-gallery-1.jpg",
+          "source": "https://rc.kyosho.com/en/34482t1.html",
+          "caption": "Kyosho official whole-car240Z example with optional LED lights fitted. Lighting is a separate purchase."
+        },
+        {
+          "file": "kyosho-34482t1-gallery-2.jpg",
+          "source": "https://rc.kyosho.com/en/34482t1.html",
+          "caption": "Kyosho official alternate240Z whole-car view with optional illumination; manufacturer example, not our test photograph."
+        }
+      ],
+      "price": {
+        "amount": 309.99,
+        "currency": "USD",
+        "basis": "Tower Hobbies listed USD reference · exact complete car only · retailer, not MSRP",
+        "checked": "2026-10-13",
+        "source": "https://www.towerhobbies.com/product/kyosho-110-1971-datsun-240z-fazer-mk2-fz02-r-4x4-rally-rtr/KYO34482T1.html",
+        "note": "The dated USD reference is a directly verified exact-SKU Tower Hobbies listing with in-stock status at the check; it remains independent of the expiring Amazon offer."
+      },
+      "conflicts": "Gallery lit-body photos show optional LED equipment. Independent launch coverage uses regional 34482T1B; no unverified regional equipment or regular FZ02 touring-car test is transferred."
+    }
+  ]
+}

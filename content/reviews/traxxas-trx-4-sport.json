@@ -1,0 +1,517 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "TRX-4 Sport",
+  "modelSlug": "trx-4-sport",
+  "headlineLines": [
+    "TRX-4 SPORT",
+    "THE BUYING CASE."
+  ],
+  "sku": "82224-4",
+  "title": "Traxxas TRX-4 Sport review: simple functions, serious trail hardware",
+  "dek": "A full-size RTR crawler with portals, permanent locks and one gear. The simpler operating brief is persuasive for slow trail learning, but battery and charger add to the startup basket.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Rock",
+    "Trail"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "First full-size trail-and-crawling buyer who prefers permanent locks",
+  "price": {
+    "amount": 349.95,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://traxxas.com/trx-4-sport-82224-4"
+  },
+  "image": "traxxas-trx-4-sport-product.jpg",
+  "imageAlt": "Official Traxxas photograph of the TRX-4 Sport, exact reviewed complete-car variant",
+  "imageCaption": "TRX-4 Sport, SKU 82224-4. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "Traxxas official product photography",
+    "url": "https://traxxas.com/trx-4-sport-82224-4",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The TRX-4 Sport 82224-4 is for a first full-size trail-and-crawling buyer who values an assembled, understandable vehicle more than a licensed SUV body or remote-operated drivetrain functions. The single-speed transmission and permanently locked axles make the operating brief clear: pick a line and work over the ground slowly. Its chief reservation is the incomplete power basket. Battery and charger are extra, so a car-only price cannot tell a new hobbyist what the first usable trail session will cost.",
+  "verdict": "Simple functions, serious trail hardware",
+  "verdictText": "I would shortlist the TRX-4 Sport 82224-4 for a first full-size crawler owner who wants to learn terrain slowly, prefers a finished straightforward body and accepts buying the drive power separately. Portal axles, locked spools, a single gear and appropriate trail controls form a convincing documented package. The reservation is the whole basket: battery equipment and service needs deserve the same attention as the car's price. A modest route and a sensible pack are a better first plan than an immediate collection of weights and cosmetics.",
+  "pros": [
+    "Portal axles and permanently locked spools",
+    "Simple single-speed operating brief",
+    "Finished current clipless pickup body",
+    "Trail and crawl operating profiles"
+  ],
+  "cons": [
+    "Battery, charger and AAs extra",
+    "No remotely selectable differential functions",
+    "No factory two-speed shift function",
+    "Current parts support must still be checked locally"
+  ],
+  "bestFor": [
+    "First full-size slow trail driving",
+    "Drivers who prefer permanent locks and one gear",
+    "Learning lines before adding accessory weight"
+  ],
+  "avoidIf": [
+    "Remote lockers and shifting are essential enjoyment features",
+    "A licensed SUV body is the main purchasing goal",
+    "Small indoor obstacles are the only driving space"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Titan 21T 550 reverse rotation · Brushed"
+    ],
+    [
+      "Controller / radio",
+      "XL-5 HV · TQ 2.4 GHz · two channels"
+    ],
+    [
+      "Drivetrain",
+      "Single speed · locked spools · portal axles"
+    ],
+    [
+      "Drive power",
+      "6–7-cell NiMH or 2S–3S LiPo · extra"
+    ],
+    [
+      "Package",
+      "Complete RTR · 82224-4"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First full-size trail-and-crawling buyer who prefers permanent locks",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Starting package",
+        "score": 7.5,
+        "reason": "The RTR arrives assembled and painted, but battery, charger and four AA cells are separate."
+      },
+      {
+        "label": "Crawling hardware",
+        "score": 8.5,
+        "reason": "Portals, permanent axle locks and a single-speed gearbox form a coherent slow-terrain package."
+      },
+      {
+        "label": "Control simplicity",
+        "score": 8.5,
+        "reason": "Two radio channels and documented trail/crawl ESC profiles match a buyer who does not want remote shift or locker decisions."
+      },
+      {
+        "label": "Service information",
+        "score": 8,
+        "reason": "Current 82224-4 drawings and a clipless shell make the configuration and routine access legible."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "The car-only reference needs a power basket; value is strongest when the simpler configuration is the desired destination."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0HBFR8MTZ",
+    "marketplace": "www.amazon.com",
+    "variant": "Gray · complete car",
+    "sku": "82224-4",
+    "detailPageUrl": "https://www.amazon.com/dp/B0HBFR8MTZ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:25.467Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "Portal-axle trail driving without the extra shifting controls.",
+      "paragraphs": [
+        "The TRX-4 Sport 82224-4 is for a first full-size trail-and-crawling buyer who values an assembled, understandable vehicle more than a licensed SUV body or remote-operated drivetrain functions. The single-speed transmission and permanently locked axles make the operating brief clear: pick a line and work over the ground slowly. Its chief reservation is the incomplete power basket. Battery and charger are extra, so a car-only price cannot tell a new hobbyist what the first usable trail session will cost.",
+        "This review identifies the gray complete current 82224-4, verified through Amazon's Creators API. It is the clipless Sport RTR, not the older 82024-4, a High Trail version, an assembly kit or a replacement body. The current official page and owner manual establish its Titan 21T reverse-rotation motor, XL-5 HV controller, TQ radio and portal axle arrangement. Keep that distinction visible when reading historical reviews, because a familiar Sport name does not establish identical body access or package details.",
+        "I would buy this model for unhurried line choice on rocks, roots and trails. It is appealing because the driving task does not require deciding whether to shift a second gear or open a differential first. That simpler operating arrangement is a preference, not a universal improvement. A driver who enjoys remote lockers, trail speed and a detailed scale body should compare another TRX-4 variant before choosing the Sport solely as the least elaborate route into the family."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "The truck is assembled; the battery decision is still yours.",
+      "paragraphs": [
+        "Traxxas supplies an assembled vehicle with its finished pickup body, motor, controller, steering servo and TQ transmitter. The current clipless shell removes painting and assembly from the startup project. The factory equipment is coordinated around low-speed trail use. That is a useful RTR advantage for someone who wants to begin driving rather than selecting and installing every electronic component. It does not mean the box contains the drive power required to run.",
+        "You need a compatible battery, charger and four AA alkaline transmitter cells. The manufacturer documents NiMH and 2S/3S LiPo routes for the XL-5 HV system; choose one coherent battery-and-charger arrangement instead of collecting individually cheap items with incompatible connectors or dimensions. Check the actual tray and restraint measurements. A large capacity number on a pack says little about whether it can be secured correctly inside this truck. Battery weight and placement also become part of the vehicle's setup, so start with a sensible documented fit.",
+        "Before the first outing, make radio and steering checks on the bench, confirm the chosen battery chemistry setting and inspect drivetrain movement. Then use a modest route with easy recovery. A crawler can get itself into positions where holding more throttle is an unhelpful response. Learn neutral, braking and the controller's operating profile on a gentle obstacle before introducing steep climbs. You have bought an assembled platform, but the first setup should still establish a trustworthy baseline."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Choose a documented compatible drive battery and charger, checking chemistry, connector and dimensions.",
+          "Supply four AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with a modest obstacle and easy recovery."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "The Sport trades selectable functions for a permanent crawling configuration.",
+      "paragraphs": [
+        "The Sport uses shaft-driven four-wheel drive, a single-speed transmission and locked axle spools. Locked wheels on an axle turn together rather than letting a conventional differential accommodate different wheel speeds. That supports the crawling brief when individual tires lose contact or grip, while making tight turns on high-grip surfaces a different proposition. This is why the Sport's simpler equipment is a deliberate buying choice rather than a missing feature that every owner must immediately restore.",
+        "Portal axles place reduction gearing near the wheels and raise the main axle housing relative to a conventional straight axle arrangement. The practical buying benefit is additional clearance around the obstacle-contact area. The official current center-clearance figure is 80mm; it should not be read as clearance below every part of the vehicle. The portal mechanism also adds assemblies to understand when servicing the truck. Use the current parts drawings when inspecting gears and housings rather than assuming all axle work occurs in one central differential case.",
+        "The Titan 21T reverse-rotation brushed motor and XL-5 HV controller are suited by the manufacturer to the trail layout. Do not treat a brushed label as an automatic failure to specify expensive electronics. For this buyer, controllable low-speed use and a complete operating plan matter more than an irrelevant speed headline. We have not measured motor smoothness, climbing ability or runtime. A different power system should answer an observed limitation or a specific requirement, not merely improve the appearance of a specification list."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Pick the operating profile for the route, not for the name on a switch.",
+      "paragraphs": [
+        "The TQ radio is a two-channel steering-and-throttle system, which fits the Sport's single-speed, permanently locked drivetrain. There are no remote locker or shift functions to operate. The XL-5 HV has multiple drive profiles including trail and crawl-oriented choices. Read their exact braking and reverse behavior in the current manual before driving a slope. The right profile is the one whose response you understand on the ground you intend to cover, rather than whichever label sounds most advanced.",
+        "Practice a slow approach, a stop and a controlled retreat on a small obstacle. Work out how releasing the trigger affects the truck before relying on that behavior on a steep descent. A crawler session often rewards careful planning more than large bursts of throttle. Keep the vehicle close enough to see its tires and consider the route's recovery options. Buying a mechanically capable trail truck does not remove the need to choose a line that can be observed and recovered comfortably.",
+        "Battery-type setup remains essential. Use the controller's documented settings for NiMH or LiPo, and follow the correct low-voltage and charging procedures. Do not copy profile or battery instructions from an ordinary XL-5 truck, because the HV controller's trail functions belong to this product's specific instructions. Our controls assessment rewards an operating arrangement that matches a first straightforward crawler purchase. It does not claim a measured advantage in modulation or stopping on a slope."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Locked axles make line planning part of the turning job.",
+      "paragraphs": [
+        "The 2075X metal-geared digital servo, steel suspension links and oil-filled GTS shocks are part of the current official specification. Locked axles can resist turning on a grippy surface, so give the front wheels room to do their work rather than holding full steering while a tire is pinned between rocks. Inspect for binding with the vehicle supported, and check endpoints according to the manual. A stronger servo is not a cure for a mechanical stop or an inappropriate steering command against a trapped wheel.",
+        "Suspension articulation lets individual tires follow uneven ground, but more droop is not automatically better in every situation. When a tire extends far from the chassis, body clearance, driveshaft angles and the rest of the route still matter. Start with the supplied setup and a repeatable low obstacle. Watch where the tires make contact and where the body or axle housings interrupt progress. That observation will tell you more about a useful adjustment than ordering weights and softer springs immediately.",
+        "Historical Big Squid RC testing of the earlier 82024-4 Sport identified steering-servo performance as an upgrade consideration for demanding crawling. That is the named tester's observation on that earlier vehicle. It is not our current 82224-4 test and does not establish a failure rate or a mandatory immediate replacement. Use it as a reason to inspect how your stock steering behaves on your route, while relying on current documentation for exactly which servo and assembly you are buying."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Rocks and roots fit the brief; speed runs do not explain the purchase.",
+      "paragraphs": [
+        "The Sport's portal-axle layout, locked drivetrain and Canyon Trail tire package form a coherent trail and crawling specification. Roots, rocks and irregular dirt tracks give those mechanisms a purpose. Begin with obstacles you can approach slowly and see clearly. Try more than one line before assuming the truck needs another component. Sometimes moving a tire a few centimeters changes which part of the axle or bumper contacts the obstacle, making driving technique the useful adjustment.",
+        "Side slopes deserve care because axle clearance does not establish rollover resistance. A battery high in the chassis, a heavily decorated body or simply a difficult angle changes the situation. We have not quantified a safe slope or measured a maximum climb. Keep early practice modest and inspect tire contact rather than relying on a dramatic marketing image. If the route requires a running start and repeated leaps, ask whether a crawler is the correct vehicle for the activity.",
+        "Wet-ground use must follow the manufacturer's instructions for waterproof electronics and mechanical upkeep. Mud can collect around links and rotating assemblies, so plan the cleaning job as part of the outing. Independent historical Sport coverage provides useful trail context, but this review does not transplant its runtime or damage record onto the current clipless truck. Our terrain recommendation rests on the documented mechanical layout and the practical conditions the buyer can inspect."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The plain pickup body leaves fewer distractions from the line.",
+      "paragraphs": [
+        "The current Sport pickup shell uses clipless retention and an internal cage. It is a finished body with a relatively straightforward trail presentation, rather than a licensed hard-body scale project. For a buyer focused on learning routes, that can be an advantage: there are fewer cosmetic details to buy before the first session. A driver whose enjoyment centers on a specific real-world vehicle may reasonably choose another model. Appearance is part of buyer fit, but we do not award a fictional realism test score.",
+        "Learn the clipless release and check that the shell is seated after changing batteries. Remove it for post-session inspection of the frame, links, steering, shafts and portal housings. Check wheel fasteners, tire fit and shock leakage. Use the 82224-4 parts list when identifying an assembly, while remembering that a long combined list can contain optional equipment for related bodies. An item appearing in a catalog is not proof that it is installed on this Sport or required to complete it.",
+        "Portal axles and four-wheel drive bring more service points than a simple rear-drive recreational truck. That is an ownership consequence of the capability you chose. The official manual and exploded drawings help make the work understandable. Local spares availability remains unmeasured, so confirm access to likely service items with the shop that would support you. A careful cleaning and inspection routine will be more useful initially than adding weight to the vehicle without a clear purpose."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Cost",
+      "heading": "The first trail budget includes the power system's supporting equipment.",
+      "paragraphs": [
+        "The dated vehicle price reference covers the complete truck, not the separate drive battery and charger. For a new owner, those are real required purchases alongside four AA transmitter cells. Choose a compatible documented pack and charger before comparing the Sport's total with another RTR. We do not give a universal all-in number because the correct basket differs for a household with suitable existing equipment and one starting from nothing, and unverified accessory totals would not help either buyer.",
+        "Start with the power equipment, then basic maintenance needs. A cleaning brush, suitable drivers and a small parts tray can be useful; brass weights, lights, wheels and detailed accessories are optional. Adding all of them immediately changes both spending and setup without showing which limitation you are solving. A heavier truck can demand more from steering and alter behavior on slopes. Keep cosmetic enjoyment and mechanical goals visible as separate reasons for a purchase.",
+        "If you want remote differential selection and a two-speed transmission, price the relevant factory TRX-4 variant before trying to add those functions to a Sport. The less elaborate model is not automatically cheaper after a substantial conversion. Conversely, an owner who wants permanent locks and one gear should not pay for functions that complicate the operating brief without adding enjoyment. The Sport's value is conditional on preferring this particular configuration, rather than simply entering the brand at a car-only price."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$349.95 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "6–7-cell NiMH or 2S–3S LiPo · extra",
+            "Required extra; select exact compatible pack"
+          ],
+          [
+            "Charger",
+            "Compatible charger extra",
+            "Required extra"
+          ],
+          [
+            "Charger input power",
+            "Check selected charger",
+            "Supply any required adapter or cable"
+          ],
+          [
+            "Transmitter batteries",
+            "Price separately",
+            "Four AA cells required; extra"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Compare a simple crawler with the exact functions you care about.",
+      "paragraphs": [
+        "The Axial SCX10 III Base Camp RTR is a useful full-size trail alternative. Its own manufacturer documentation and completion list should be checked for the precise current version. It offers another assembled route into scale trail driving and provides a fair comparison for the buyer who prioritizes mechanical layout and local parts support over a particular body. We have not run these trucks together, so the comparison is about purchase format and equipment rather than which one clears a particular rock formation faster.",
+        "The Traxxas TRX-4 Ford Bronco 92076-4 is the relevant in-family alternative when a licensed body, remote differential functions and two-speed operation are part of the fun. Those additional functions change both the purchase and how you operate the truck. Choose it because you want them, not because the Sport must be considered incomplete without them. If your route consists mostly of slow technical lines, the simpler permanently locked arrangement can remain a coherent preference.",
+        "The TRX-4M Ford Bronco is a much smaller complete crawler with a supplied battery and USB charger. It is worth considering for indoor obstacles and carry-anywhere sessions, but size changes the obstacles and the whole ownership project. It is not a substitute full-size trail truck merely because both models use four-wheel drive and a Bronco can be found in the range. Match the vehicle to the scale of your driving space before comparing the appealingly different prices."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "TRX-4 Sport 82224-4",
+            "Full-size RTR; power extra",
+            "Permanent locks and single speed"
+          ],
+          [
+            "Axial SCX10 III Base Camp RTR",
+            "Full-size trail RTR; check exact package",
+            "Another trail chassis and support ecosystem"
+          ],
+          [
+            "TRX-4 Ford Bronco 92076-4",
+            "Full-size RTR; power extra",
+            "Licensed body and remote drivetrain functions"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the Sport because its permanent crawling configuration suits you.",
+      "paragraphs": [
+        "I would shortlist the TRX-4 Sport 82224-4 for a first full-size crawler owner who wants to learn terrain slowly, prefers a finished straightforward body and accepts buying the drive power separately. Portal axles, locked spools, a single gear and appropriate trail controls form a convincing documented package. The reservation is the whole basket: battery equipment and service needs deserve the same attention as the car's price. A modest route and a sensible pack are a better first plan than an immediate collection of weights and cosmetics.",
+        "Our five equally weighted editorial categories evaluate RTR preparation, crawling hardware, control simplicity, service information and complete-purchase value for that specific buyer. We do not score a measured climb angle, runtime, steering force or reliability result. Traxxas's current documentation establishes this generation, Amazon's API verifies the exact commercial listing, and Big Squid's earlier Sport review is labeled historical context. Different source roles should not blur into a claim that we personally drove the current clipless model.",
+        "Skip the Sport when remote lockers, a second gear or a particular licensed shell are central to the purchase. Consider it when their absence simplifies the activity you want. Start with factory setup, watch tire contact and make only changes that answer repeated limitations. On those terms this is a purposeful entry into full-size trail driving: enough mechanical equipment to learn, without requiring the owner to operate every function found on the more elaborate versions."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-trx-4-sport-gallery-1.jpg",
+      "alt": "Official Traxxas TRX-4 Sport chassis inspection",
+      "caption": "Chassis and installed layout. Photograph: Traxxas.",
+      "source": "https://traxxas.com/trx-4-sport-82224-4"
+    },
+    {
+      "image": "traxxas-trx-4-sport-gallery-2.jpg",
+      "alt": "Official Traxxas TRX-4 Sport second vehicle view",
+      "caption": "Another official view of the reviewed vehicle. Photograph: Traxxas.",
+      "source": "https://traxxas.com/trx-4-sport-82224-4"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "Traxxas 82224-4 · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0HBFR8MTZ"
+    ],
+    [
+      "Scale / drive",
+      "4WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Titan 21T 550 reverse rotation"
+    ],
+    [
+      "ESC",
+      "XL-5 HV"
+    ],
+    [
+      "Radio",
+      "TQ 2.4 GHz · two channels"
+    ],
+    [
+      "Steering servo",
+      "2075X metal-geared"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Single speed · locked spools · portal axles"
+    ],
+    [
+      "Length × width × height",
+      "557 × 249 × 241 mm"
+    ],
+    [
+      "Wheelbase",
+      "312 mm"
+    ],
+    [
+      "Weight publication basis",
+      "2.63 kg · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "159 × 47 × 23/26 mm"
+    ],
+    [
+      "Drive battery",
+      "6–7-cell NiMH or 2S–3S LiPo · extra"
+    ],
+    [
+      "Charger",
+      "Compatible charger extra"
+    ],
+    [
+      "Tires",
+      "Canyon Trail 1.9-inch trail tires"
+    ],
+    [
+      "Transmitter power",
+      "Four AA alkaline cells · extra"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which Sport generation is reviewed?",
+      "answer": "The gray complete clipless 82224-4. Earlier 82024-4 coverage is historical context; High Trail and assembly-kit packages are different vehicles."
+    },
+    {
+      "question": "Does it have a two-speed transmission?",
+      "answer": "No. The Sport has a single-speed transmission and permanently locked axle spools. Those functions are part of its deliberately simpler brief."
+    },
+    {
+      "question": "What do portal axles change?",
+      "answer": "Reduction gearing near the wheels raises the main axle housing. It provides a clearance-oriented layout, while adding portal assemblies to understand during service."
+    },
+    {
+      "question": "Does it include a drive battery?",
+      "answer": "No. Supply a suitable documented NiMH or 2S/3S LiPo, the appropriate charger and four AA transmitter cells. Verify physical fit and controller settings."
+    },
+    {
+      "question": "Should I immediately replace the steering servo?",
+      "answer": "Not solely because an earlier-generation independent review discussed steering. Check the current 2075X setup and actual behavior on your route before choosing a replacement."
+    },
+    {
+      "question": "Is the rating a climb-angle result?",
+      "answer": "No. It evaluates the documented purchase for a first full-size buyer who prefers a permanent crawling configuration, without claiming measured climb, runtime or reliability data."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · current exact 82224-4 product, contents and specifications",
+      "url": "https://traxxas.com/trx-4-sport-82224-4",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Traxxas · current model owner manual",
+      "url": "https://traxxas.com/media/productattach/C-82224-4/2/82224-4-om-en-r00.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Big Squid RC · Jeremy Griffith tests earlier 82024-4 Sport, historical context",
+      "url": "https://www.bigsquidrc.com/review-traxxas-trx-4-sport/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0HBFR8MTZ identity and dated price",
+      "url": "https://www.amazon.com/dp/B0HBFR8MTZ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "traxxas trx 4m ford bronco · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/trx-4m-ford-bronco-97074-1",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "Axial · current Base Camp complete RTR",
+      "url": "https://www.axialadventure.com/product/axial-1-10-scx10-iii-base-camp-4x4-rtr-brushed-rock-crawler-white/AXI-1375T1.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "Traxxas · 92076-4 Ford Bronco complete RTR and functions",
+      "url": "https://traxxas.com/92076-4-trx-4-ford-bronco",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0HBFR8MTZ, 82224-4 and Traxxas for the exact complete-car listing. The historical independent test covers 82024-4. Its steering observation is attributed and does not establish current 82224-4 measured performance, runtime or reliability. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

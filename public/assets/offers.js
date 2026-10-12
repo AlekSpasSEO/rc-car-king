@@ -15,7 +15,7 @@ async function updateOffers(){
     if(!offer||!isFresh(offer)){price.textContent='Check Amazon price';status.textContent='Verified complete-car listing · current price on Amazon';checked.textContent='Price and availability are shown live by Amazon.';continue;}
     price.textContent=offer.priceDisplay??'Check Amazon price';
     status.textContent=[offer.availability==='IN_STOCK'?'Available at last check':'Check availability',offer.seller?`Seller: ${offer.seller}`:''].filter(Boolean).join(' · ');
-    checked.textContent=`API checked ${new Intl.DateTimeFormat('en-GB',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Skopje',timeZoneName:'short'}).format(new Date(offer.checkedAt))}. Price and availability can change.`;
+    checked.textContent=`API checked ${new Intl.DateTimeFormat('en-GB',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Skopje',timeZoneName:'short'}).format(new Date(offer.checkedAt))}. Price and availability can change; Amazon checkout determines the purchase terms.`;
    }
   }
   paint();setInterval(paint,60000);

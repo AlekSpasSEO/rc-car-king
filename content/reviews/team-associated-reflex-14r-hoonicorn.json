@@ -1,0 +1,522 @@
+{
+  "brand": "Team Associated",
+  "brandSlug": "team-associated",
+  "model": "Reflex 14R Hoonicorn",
+  "modelSlug": "reflex-14r-hoonicorn",
+  "headlineLines": [
+    "REFLEX 14R HOONICORN",
+    "THE BUYING CASE."
+  ],
+  "sku": "20178",
+  "title": "Team Associated Reflex 14R Hoonicorn review: buy the hoonicorn for pavement play and the licensed car?",
+  "dek": "A compact four-wheel-drive Hoonicorn with a finished licensed body and brushless power. Battery and charger are extra, and the full-size car’s headline horsepower has nothing to do with this RC package.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "On-road car",
+  "use": "Bashing",
+  "terrain": [
+    "On-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/14",
+  "format": "Ready-to-run",
+  "skill": "Hoonigan fan wanting a compact pavement play car",
+  "price": {
+    "amount": 169.99,
+    "currency": "USD",
+    "basis": "Team Associated US published reference · exact RTR package; excluded equipment itemized below",
+    "checked": "2026-10-13",
+    "source": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/"
+  },
+  "image": "team-associated-reflex-14r-hoonicorn-detail.png",
+  "imageAlt": "Official Team Associated photograph of the Licensed Hoonicorn · standard RTR Reflex 14R Hoonicorn",
+  "imageCaption": "Reflex 14R Hoonicorn, 20178; exact reviewed variant. Official Team Associated product photography.",
+  "imageCredit": {
+    "name": "Team Associated official product photography",
+    "url": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+  },
+  "overview": "The Reflex 14R Hoonicorn is a compact 4WD brushed car for a Hoonigan fan who wants a finished replica to drive in an appropriate paved space. It is not a dedicated rear-drive tandem drifter simply because the full-size car appears in sliding videos. The current 20178 standard RTR carries its own battery completion requirements and friction-shock arrangement.",
+  "verdict": "It earns a conditional recommendation as a scale pavement car",
+  "verdictText": "The Hoonicorn offers a clear buying case for the named fan who wants an assembled compact vehicle and a recognizable body. Its main reservations are the additional power purchases and stock friction damping, which should remain visible rather than being replaced with option-part specifications.",
+  "pros": [
+    "Molded tub; covered aluminum center shaft; front/rear gear diffs",
+    "Rubber Hoonicorn tires on American Racing VF 503 wheels",
+    "2.4GHz 2-channel radio supplied",
+    "2S LiPo with T-plug · extra; exact model documentation available"
+  ],
+  "cons": [
+    "Suitable 2S LiPo, compatible balance charger and four AA cells",
+    "API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781",
+    "Venue, surface and class requirements still need checking",
+    "Speed, runtime and long-term durability are not measured here"
+  ],
+  "bestFor": [
+    "Casual driving in a suitable space",
+    "Buyers who prefer the exact finished body",
+    "Owners who want a documented complete vehicle"
+  ],
+  "avoidIf": [
+    "Your primary driving space does not suit on-road",
+    "You want a different vehicle scale or drivetrain from 1/14 4WD",
+    "You plan an immediate rebuild without pricing the full project"
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/14 · 4WD"
+    ],
+    [
+      "Motor",
+      "Reedy 3-pole brushed motor; WP1625 ESC"
+    ],
+    [
+      "Radio",
+      "2.4GHz 2-channel radio"
+    ],
+    [
+      "Drive battery",
+      "2S LiPo with T-plug · extra"
+    ],
+    [
+      "Wheelbase",
+      "Not stated in current official product specification"
+    ],
+    [
+      "Package",
+      "20178 · Licensed Hoonicorn · standard RTR"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Hoonigan fan wanting a compact pavement play car",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the buyer named here. Their arithmetic mean is the editorial rating. These are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 7,
+        "reason": "20178 coordinates the finished vehicle and 2.4GHz 2-channel radio; required completion remains suitable 2S LiPo, compatible balance charger and four AA cells."
+      },
+      {
+        "label": "Purpose-fit equipment",
+        "score": 8,
+        "reason": "Reedy 3-pole brushed motor; WP1625 ESC, 4WD drive and rubber hoonicorn tires on american racing vf 503 wheels fit the named buyer's bashing purpose; results on a particular surface are not measured."
+      },
+      {
+        "label": "Adjustment and learning",
+        "score": 8,
+        "reason": "The molded tub; covered aluminum center shaft; front/rear gear diffs and exact instructions offer an identifiable setup baseline; class suitability must still be checked."
+      },
+      {
+        "label": "Service documentation",
+        "score": 8,
+        "reason": "Official 20178 instructions, parts identification and attributed photographs make maintenance planning concrete; local stock was not surveyed."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "The $169.99 reference is evaluated with 2S LiPo with t-plug · extra and all required extras visible, without an invented accessory total."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0BSH7DGRX",
+    "marketplace": "www.amazon.com",
+    "variant": "Licensed Hoonicorn · standard RTR",
+    "sku": "20178",
+    "apiSku": "ASC20178",
+    "identityNote": "API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model.",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BSH7DGRX?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.282Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buying case",
+      "heading": "Buy the Hoonicorn for pavement play and the licensed car.",
+      "paragraphs": [
+        "The Reflex 14R Hoonicorn is a compact 4WD brushed car for a Hoonigan fan who wants a finished replica to drive in an appropriate paved space. It is not a dedicated rear-drive tandem drifter simply because the full-size car appears in sliding videos. The current 20178 standard RTR carries its own battery completion requirements and friction-shock arrangement. I would choose it for that compact scale-car experience, while a buyer already committed to an indoor RWD drift venue should compare a different platform such as the DC10.",
+        "The exact purchase in this guide is Team Associated Reflex 14R Hoonicorn 20178, Licensed Hoonicorn · standard RTR. Its 1/14 scale, 4WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to hoonigan fan wanting a compact pavement play car before a promotional feature becomes the reason to order. Decide where the car will be driven most often, because a usable nearby space can be more valuable than a longer feature list. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package and setup",
+      "heading": "The 20178 pack requirements are unusually specific.",
+      "paragraphs": [
+        "The standard RTR needs a 2S LiPo with T-plug, a compatible balance charger and four AA transmitter cells. Team Associated states a 114 × 33 × 18mm battery compartment and recommends its 1600mAh WolfPack pack. Those dimensions matter more than finding the largest advertised capacity. The separate 20178C Combo includes power equipment; it is not the package linked by this ASIN. Amazon uses the ASC20178 prefixed part number, and the official 20178 product and matching complete-car description establish the identity.",
+        "For Reflex 14R Hoonicorn, the stated drive-power arrangement is 2S LiPo with t-plug · extra, and the radio package is 2.4GHz 2-channel radio. Required completion is explicit: Suitable 2S LiPo, compatible balance charger and four AA cells. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact 20178 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor and drivetrain",
+      "heading": "The full-size horsepower story does not describe the RC motor.",
+      "paragraphs": [
+        "The actual model uses a Reedy three-pole brushed motor and brushed controller. Team Associated's page also tells the story of the full-size twin-turbo Hoonicorn and its 1,400 horsepower. Those figures are automotive background, not a motor specification or scaled performance claim for the electric car. The RC drivetrain has front and rear sealed gear differentials, a center spool and an aluminum shaft. Keep these model mechanisms separate from the appearance and story of the full-size Mustang when judging the purchase.",
+        "The documented Reedy 3-pole brushed motor; WP1625 ESC is the power equipment evaluated for Reflex 14R Hoonicorn. Four driven wheels distribute the task across both axles, but differential behavior and tire contact still matter. Four-wheel drive is a mechanism, not a guarantee of grip on every surface. Start from the original 20178 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and controls",
+      "heading": "A straightforward radio fits casual use better than elaborate drift promises.",
+      "paragraphs": [
+        "The supplied two-channel 2.4GHz system and servo saver provide the basic steering and throttle arrangement. We do not promise an assistance function merely because a broader radio-family manual may describe one. Check the actual transmitter and receiver fitted to the purchased 20178. Tim Mohr's Big Squid RC article identifies this exact model and package, but it is release coverage rather than a driving test. The Hoonicorn's scale appeal and compact control package can justify it without inventing a measured gyro or drift-handling advantage.",
+        "The Reflex 14R Hoonicorn control system is listed as 2.4GHz 2-channel radio. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For shared casual use, explain how to stop and shut down the vehicle before handing the controls to another driver. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "The friction shocks are a meaningful limitation to acknowledge.",
+      "paragraphs": [
+        "The official parts list identifies a Reflex 14R friction shock set as the standard component, with Factory Team shocks offered separately. Do not blend the stock car with optional oil-damped hardware and call the result its factory specification. Shock positions are adjustable, while the molded steering links keep the initial geometry comparatively simple. Begin by checking free travel and tire clearance. A buyer who wants extensive suspension experimentation should consider whether upgrading this compact replica is more attractive than starting from a vehicle designed around that tuning goal.",
+        "The published construction for Reflex 14R Hoonicorn is molded tub; covered aluminum center shaft; front/rear gear diffs. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is not stated in current official product specification, which makes exact replacement compatibility more useful than a generic Team Associated parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and terrain",
+      "heading": "Rubber tires put the purchase on smooth pavement.",
+      "paragraphs": [
+        "The standard car's rubber Hoonicorn tires and American Racing VF503-style wheels form a grip-car contact package, not the hard plastic tire setup of a dedicated RWD drifter. Use clean, appropriate pavement and allow enough room to slow down before barriers. The 330mm body length is modest, but the car still needs usable running space. Dirt, stones and thick grass are a poor match for its low on-road presentation. We do not assign it an unmeasured slide-angle, acceleration or grip rating from the tire description.",
+        "The Reflex 14R Hoonicorn tire package is Rubber Hoonicorn tires on American Racing VF 503 wheels. Its intended terrain listing is on-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Allow adequate space for braking and a clear run-out, particularly when the factory power system can quickly consume the available straight. The published dimensions are 330 ×173 mm;582g published. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "The molded details are the reason to choose this body.",
+      "paragraphs": [
+        "The licensed 1965 Mustang Hoonicorn shell, wheel details and molded brake calipers make the Reflex more than a generic compact car to a fan of the original. Those features deserve care when checking clearance and retrieving it after contact with a curb. The tub chassis and covered center shaft help explain the factory service layout. Use the exact Hoonicorn manual rather than the Hoonitruck document also linked in the family resources. A common platform does not make every body mount and cosmetic part identical.",
+        "The reviewed Licensed Hoonicorn · standard RTR Reflex 14R Hoonicorn is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the 20178 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Keep the extra power basket next to the $169.99 reference.",
+      "paragraphs": [
+        "The current official starting reference for the standard Hoonicorn is $169.99. The finished car and radio are included, but the correctly sized drive battery, charger and four AA cells remain extra. We list those requirements without an invented accessory subtotal. If you already own a compact 2S pack, confirm the compartment dimensions and T-plug before counting it as usable. I would price the exact standard basket against the Combo, then leave optional shock and brushless upgrades aside until the factory car reveals a specific limitation worth addressing.",
+        "The Reflex 14R Hoonicorn price reference is $169.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Suitable 2S LiPo, compatible balance charger and four AA cells. The drive battery basis is 2S LiPo with t-plug · extra. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "Complete first-session basket · checked 13 October 2026 · unpriced extras remain visible",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Budget treatment"
+        ],
+        "rows": [
+          [
+            "Reflex 14R Hoonicorn · 20178",
+            "$169.99 manufacturer car/package reference",
+            "Tax and delivery extra"
+          ],
+          [
+            "Drive battery",
+            "2S LiPo with T-plug · extra",
+            "Check chemistry, connector and physical fit"
+          ],
+          [
+            "Charger",
+            "Required separately",
+            "Confirm mains/USB power source"
+          ],
+          [
+            "Transmitter power",
+            "Four AA cells extra",
+            "Replace exhausted cells as needed"
+          ],
+          [
+            "Power-source completion",
+            "Suitable 2S LiPo, compatible balance charger and four AA cells",
+            "Add actual equipment cost where required"
+          ],
+          [
+            "Practical workbench kit",
+            "Correct drivers, wheel tool, brush, safe charging/storage place",
+            "Helpful ownership equipment; obtain live local prices"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "The DC10 is a purposeful change of discipline.",
+      "paragraphs": [
+        "Team Associated's blue 30133 DC10 is a 1/10 RWD brushless drift car with gyro and much more extensive geometry adjustment. It costs more as a documented package and also needs its own drive power in standard RTR form. Choose the Reflex when a compact licensed Hoonicorn and casual pavement use are the intended fun. Choose a dedicated drift platform when a venue, tire rule and RWD tandem driving are the actual goal. Neither the licensed body nor a four-wheel-drive label should obscure that distinction.",
+        "Team Associated DC10 Drift RTR 30133 is the complete alternative used in the comparison with Reflex 14R Hoonicorn. It is a 1/10 RWD brushless vehicle, with 2S 7.4–7.6v shorty LiPo · extra. Its required completion is suitable 2S shorty LiPo, charger and four AA transmitter cells. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        4
+      ],
+      "table": {
+        "caption": "Documented alternative routes; no head-to-head performance claim",
+        "columns": [
+          "Vehicle",
+          "What you buy",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Team Associated Reflex 14R Hoonicorn",
+            "1/14 4WD brushed RTR",
+            "It earns a conditional recommendation as a scale pavement car"
+          ],
+          [
+            "Team Associated DC10 Drift RTR",
+            "1/10 RWD brushless RTR",
+            "Team Associated's blue 30133 DC10 is a 1/10 RWD brushless drift car with gyro and much more extensive geometry adjustment. It costs more as a documented package and also needs its own drive power in standard RTR form."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Final verdict",
+      "heading": "It earns a conditional recommendation as a scale pavement car.",
+      "paragraphs": [
+        "The Hoonicorn offers a clear buying case for the named fan who wants an assembled compact vehicle and a recognizable body. Its main reservations are the additional power purchases and stock friction damping, which should remain visible rather than being replaced with option-part specifications. I would use the factory car on clean pavement and learn its setup before planning a brushless rebuild. Our assessment rewards the exact package and buyer fit. It does not turn a full-size Gymkhana reputation into measured RC handling or durability.",
+        "Our assessment of Reflex 14R Hoonicorn is directed at hoonigan fan wanting a compact pavement play car. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact 20178 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "team-associated-reflex-14r-hoonicorn-front.png",
+      "alt": "Official Team Associated product image 2 of the exact Reflex 14R Hoonicorn 20178",
+      "caption": "Official Hoonicorn image with its body shown beside the assembled chassis.",
+      "source": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+      "credit": "Team Associated official product photography"
+    },
+    {
+      "image": "team-associated-reflex-14r-hoonicorn-angle.png",
+      "alt": "Official Team Associated product image 3 of the exact Reflex 14R Hoonicorn 20178",
+      "caption": "Official close-up of the Reflex 14R steering and front suspension.",
+      "source": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+      "credit": "Team Associated official product photography"
+    }
+  ],
+  "specs": [
+    [
+      "Exact vehicle",
+      "Team Associated 20178 · Licensed Hoonicorn · standard RTR"
+    ],
+    [
+      "Amazon ASIN",
+      "B0BSH7DGRX"
+    ],
+    [
+      "Format",
+      "Complete assembled RTR with body and installed electronics"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/14 · 4WD"
+    ],
+    [
+      "Motor",
+      "Reedy 3-pole brushed motor; WP1625 ESC"
+    ],
+    [
+      "Controls",
+      "2.4GHz 2-channel radio"
+    ],
+    [
+      "Battery",
+      "2S LiPo with T-plug · extra"
+    ],
+    [
+      "Required completion",
+      "Suitable 2S LiPo, compatible balance charger and four AA cells"
+    ],
+    [
+      "Chassis and suspension",
+      "Molded tub; covered aluminum center shaft; front/rear gear diffs"
+    ],
+    [
+      "Tire package",
+      "Rubber Hoonicorn tires on American Racing VF 503 wheels"
+    ],
+    [
+      "Dimensions",
+      "330 ×173 mm;582g published"
+    ],
+    [
+      "Wheelbase",
+      "Not stated in current official product specification"
+    ],
+    [
+      "Reference price",
+      "$169.99 USD · official package reference · 2026-10-13"
+    ],
+    [
+      "Specification discrepancies",
+      "API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model."
+    ],
+    [
+      "Manufacturer table · Power Source",
+      "Electric"
+    ],
+    [
+      "Manufacturer table · Terrain",
+      "On-Road"
+    ],
+    [
+      "Manufacturer table · Body Style",
+      "Rally"
+    ],
+    [
+      "Manufacturer table · Scale Size",
+      "1:14 Scale"
+    ],
+    [
+      "Manufacturer table · Assembly Level",
+      "Ready-To-Run (This vehicle is fully assembled and ready to run right out of the box. Some models may require a battery and/or charger.)"
+    ],
+    [
+      "Manufacturer table · Length",
+      "330mm (12.99in)"
+    ],
+    [
+      "Manufacturer table · Width",
+      "173mm (6.81in)"
+    ],
+    [
+      "Manufacturer table · Weight",
+      "582g (1.28lbs)"
+    ],
+    [
+      "Manufacturer table · Internal Gear Ratio",
+      "2.5:1"
+    ],
+    [
+      "Manufacturer table · Drive",
+      "4WD"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which exact variant is linked?",
+      "answer": "20178, Licensed Hoonicorn · standard RTR. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+    },
+    {
+      "question": "Is the drive battery included?",
+      "answer": "2S LiPo with T-plug · extra. Required completion: Suitable 2S LiPo, compatible balance charger and four AA cells."
+    },
+    {
+      "question": "Which power equipment should I buy?",
+      "answer": "Follow the exact 20178 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+    },
+    {
+      "question": "What is the main evidence limitation?",
+      "answer": "API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model."
+    },
+    {
+      "question": "How should I compare the alternative?",
+      "answer": "Team Associated DC10 Drift RTR is a complete 1/10 RWD brushless alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+    },
+    {
+      "question": "Does the editorial rating describe a drive test?",
+      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Team Associated · exact 20178 official product, package and specification",
+      "url": "https://60years.associatedelectrics.com/reflex-14r-hoonicorn-rtr/",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Team Associated · model-specific instructions and parts documentation",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14R/RTR/20178-Reflex-14R-Hoonicorn-Manual-2023b.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · exact B0BSH7DGRX complete vehicle",
+      "url": "https://www.amazon.com/dp/B0BSH7DGRX?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr, Reflex 14R Hoonicorn announcement",
+      "url": "https://www.bigsquidrc.com/team-associated-reflex-14r-hoonicorn-rtr/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Team Associated · alternative DC10 Drift RTR exact specification",
+      "url": "https://60years.associatedelectrics.com/dc10-drift-car-ready-to-run/",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    },
+    {
+      "name": "Horizon Hobby · ASC20178 exact standard Reflex Hoonicorn",
+      "url": "https://www.horizonhobby.com/product/1-14-reflex-14r-hoonicorn-rtr/ASC20178.html",
+      "checked": "2026-10-13",
+      "kind": "Exact prefixed listing identity documentation"
+    }
+  ],
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+}

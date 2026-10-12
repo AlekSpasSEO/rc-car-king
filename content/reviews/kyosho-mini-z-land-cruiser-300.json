@@ -1,0 +1,459 @@
+{
+  "brand": "Kyosho",
+  "brandSlug": "kyosho",
+  "model": "Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+  "modelSlug": "mini-z-land-cruiser-300",
+  "headlineLines": [
+    "MINI-Z 4X4 TOYOTA LAND CRUISER 300 PRECIOUS WHITE PEARL",
+    "4WD · 1/24"
+  ],
+  "sku": "32533PW",
+  "title": "Kyosho Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl review: the right complete-car project?",
+  "dek": "A complete palm-sized LC300 for deliberate indoor crawling; eightAAA cells and a miniature course matter more than full-size trail expectations.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/24",
+  "format": "Ready-to-run",
+  "skill": "Indoor scale-crawler buyer with limited space",
+  "price": {
+    "amount": 139.99,
+    "currency": "USD",
+    "basis": "Kyosho America published USD reference · vehicle only",
+    "checked": "2026-10-13",
+    "source": "https://kyoshoamerica.com/mini-z-4x4-readyset-toyota-land-cruiser-300-precious-white-pearl-32533pw.html",
+    "note": "The dated USD reference comes from indexed/cached exact-model Kyosho America material; direct retrieval returned HTTP503. It is a published reference, not a live checkout quote. Amazon offers remain separate and expire from display."
+  },
+  "image": "kyosho-32533pw-official-1.jpg",
+  "imageAlt": "Kyosho official completed Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl product photograph",
+  "imageCaption": "Official Kyosho photograph of the exact finished Readyset model.",
+  "imageCredit": {
+    "name": "Kyosho official product photography",
+    "url": "https://rc.kyosho.com/en/32533pw.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Research-led buying assessment using exact manufacturer documentation, verified Amazon identity and attributable independent coverage. We have not physically driven this model."
+  },
+  "overview": "The Mini-Z Land Cruiser 300 is for the indoor scale-crawler buyer who wants a complete little vehicle that can make an interesting route out of modest obstacles.  Its white finished body, compact ladder-frame chassis and supplied transmitter create a coherent package without a large battery-installation project.  My reservation is that a tiny tire meets the world on tiny terms.",
+  "verdict": "A considered purchase for indoor scale-crawler buyer with limited space",
+  "verdictText": "I would choose 32533PW for somebody who enjoys slow driving and can make a stable little floor-level route. Use the specified cells, learn the stock gearing and preserve the body while checking the small moving parts. I would skip it for outdoor ground that routinely dwarfs its tires or for a buyer seeking a fast miniature race car. The LC300 works best when its compactness is the point of the purchase. Match the course to the miniature mechanism and the attractive finished Toyota becomes part of a focused, practical indoor hobby.",
+  "pros": [
+    "Completed body, chassis and transmitter need only the specified cells for basic operation.",
+    "White LC300 presentation and realistic small chassis form a coherent scale purchase.",
+    "Official frame view explains links and electronics in the small platform."
+  ],
+  "cons": [
+    "Product page speed 2.7–5.4km/h differs from special page 3.3–6.6km/h. Both are manufacturer claims; no tested speed/runtime rating.",
+    "EightAAA cells are required for first operation.",
+    "Tiny tires and exposed scale detail limit obstacle expectations."
+  ],
+  "bestFor": [
+    "Indoor scale-crawler buyer with limited space",
+    "Owners who want the exact included body and documented running hardware"
+  ],
+  "avoidIf": [
+    "Your intended ground routinely dwarfs37mm tires.",
+    "You want a fast miniature race car."
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/24 · 4WD"
+    ],
+    [
+      "Motor",
+      "130-class brushed · fitted"
+    ],
+    [
+      "Controller",
+      "MX-01 integrated crawler electronics · fitted"
+    ],
+    [
+      "Battery",
+      "4AAA chassis +4AAA transmitter extra; chassis alkaline/NiMH supported"
+    ],
+    [
+      "Radio / servo",
+      "Syncro KT-531P · supplied"
+    ],
+    [
+      "Format / SKU",
+      "Ready-to-run · 32533PW"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Indoor scale-crawler buyer with limited space",
+    "disclosure": "Five equally weighted categories assess documented equipment and buyer fit. No measured speed, handling, durability, runtime or reliability scores are assigned.",
+    "dimensions": [
+      {
+        "label": "Build / buyer fit",
+        "score": 9,
+        "reason": "Completed body, chassis and transmitter need only the specified cells for basic operation."
+      },
+      {
+        "label": "Documented equipment",
+        "score": 8.5,
+        "reason": "White LC300 presentation and realistic small chassis form a coherent scale purchase."
+      },
+      {
+        "label": "Setup / adjustment",
+        "score": 8,
+        "reason": "Six supplied pinions give a real gearing choice without promising measured performance."
+      },
+      {
+        "label": "Service understanding",
+        "score": 8,
+        "reason": "Official frame view explains links and electronics in the small platform."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "Rechargeable cells/charger or course-building costs are optional additions to an honest basket."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0CL491MVB",
+    "marketplace": "www.amazon.com",
+    "variant": "Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl · complete RTR",
+    "sku": "32533PW",
+    "apiSku": "32533PW",
+    "identityNote": "API manufacturer part number exactly equals reviewed SKU.",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CL491MVB?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.828Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "The buying case: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The Mini-Z Land Cruiser 300 is for the indoor scale-crawler buyer who wants a complete little vehicle that can make an interesting route out of modest obstacles. Its white finished body, compact ladder-frame chassis and supplied transmitter create a coherent package without a large battery-installation project. My reservation is that a tiny tire meets the world on tiny terms. Choose miniature obstacles and patient crawling, not the terrain expectations you would bring to a 1/10 trail truck.",
+        "The exact reviewed car is Precious White Pearl 32533PW on the MX-01 chassis, verified by Amazon under that part number. It is the complete Mini-Z 4x4 Readyset, not the black sibling, an Auto Scale display body or another Mini-Z racing chassis. The manufacturer identifies 1/24 scale on its special page and a 120 mm wheelbase. That matters because the Mini-Z name spans different scales and driving roles rather than describing one interchangeable type of car.",
+        "I would shortlist it for someone with limited space who enjoys slow driving and the look of a detailed Toyota. The basic first-session basket is unusually simple, but rechargeable cells and a charger can become useful later purchases. Our assessment concerns the documented vehicle and intended indoor use. We have no timed crawl test, incline result, measured runtime or crash data, and do not turn a miniature body’s scale realism into a claim about full-size Land Cruiser capability."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "The complete package",
+      "heading": "The complete package: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The Readyset includes the finished white LC300 body, complete chassis with installed electronics, KT-531P transmitter, six pinions and their associated spacing parts. The wheels and tires are supplied. There is no clear-shell trimming or separate servo/receiver integration project merely to make the stock vehicle run. This is a complete car in the literal package sense, with the specified cells providing the missing power.",
+        "You need four AAA cells for the chassis and four AAA cells for the transmitter. Kyosho supports alkaline or NiMH chassis cells; follow the current instructions for transmitter cells and use matched appropriate sets. A charger is unnecessary for a first session using suitable alkaline cells. If you choose rechargeable chassis cells, add a compatible NiMH charger and the correct cells to the budget. Do not substitute a small LiPo because another micro crawler uses one.",
+        "Read the transmitter and chassis instructions, check the battery polarity and covers, then inspect steering and wheel rotation on a clear surface. Set the controls before approaching an obstacle. Keep the supplied pinions and spacers together with the manual, because their sizes form a documented gearing choice rather than an unlabeled bag of spare plastic. I would begin with the installed stock gear arrangement and learn the miniature course before changing the gearing. The simple completion basket is a benefit when it encourages careful setup rather than careless assumptions about tiny electronics."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain and power",
+      "heading": "Drivetrain and power: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The MX-01 is a four-wheel-drive crawler platform with a 130-class motor, ladder frame and rigid axles. The reduction choices span 55.44:1 to 27.72:1 using the supplied pinions. That is a genuine mechanical option: the smaller-pinion lower-speed arrangement and larger-pinion higher-speed arrangement serve different driving priorities. Changing it requires the correct spacer and instructions, not just selecting a number that sounds impressive.",
+        "Start with the stock arrangement and observe whether your course calls for slower deliberate wheel placement or more ordinary travel between obstacles. A gearing change does not increase the tire diameter or remove body contact with an oversized obstacle. It can change the way the motor is loaded, so keep the motor and electrical limits in view and follow the manufacturer process. This review does not rank the six choices by a measured climbing result.",
+        "The manufacturer’s product page and special page disagree on the published speed range: approximately 2.7–5.4 km/h versus 3.3–6.6 km/h. Both remain manufacturer claims, and neither is used as a tested speed score here. The same applies to an approximate hour of runtime. Cell type, condition, ground and gearing affect operation. The useful buying fact is the small crawler mechanism and included gearing parts, not a precise number that would hide a source disagreement or imply we ran a test."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Radio and setup: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The KT-531P transmitter is supplied with the stock electronics, giving the buyer a coordinated control package. Use its documented trims and adjustments to establish neutral steering and a usable range. Check the direction on a clear surface before crawling. The car’s small size makes a tabletop setup tempting, but keep it well away from an edge during powered checks or begin on the floor instead.",
+        "A miniature crawler benefits from deliberate trigger movement and slow wheel placement. Learn the control response without approaching a difficult obstacle first, then make a short route with room to stop. This review does not assign a measured low-speed smoothness result. The recommendation is a practical learning method for a complete small crawler, allowing the owner’s own cells and course to establish the baseline.",
+        "The independent creator たーし identifies the exact Precious White Pearl 32533PW in a video of a homemade mountain trail. That is attributable creator footage rather than our testing or a standardized obstacle comparison. It is useful context for the car’s indoor miniature-course role; it does not establish that any improvised stack of objects is stable or that the stock LC300 has a quantified climbing angle. We do not reuse the creator’s images as product photography. Official manufacturer media establishes the appearance and chassis, while the video remains a credited source for how an owner chose to use the same subject."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Steering and suspension: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The small ladder frame carries multi-link rigid axles and coil-spring suspension. The manufacturer's chassis image makes the mechanism understandable even though it is compact. Axle movement is different from a touring car's independent suspension: wheel placement and body clearance have to be considered as the chassis approaches and leaves an obstacle. That gives the indoor owner a rewarding reason to drive slowly and watch the actual contact points.",
+        "Check steering clearance and make sure the tires do not rub abnormally after a battery change or adjustment. Use the documented trim rather than forcing the wheel against a stop. The 37 mm tires are small, so a hard edge that looks insignificant next to furniture can still be a large event for the front axle. If the model repeatedly catches, change the course before assuming a servo upgrade will cure it.",
+        "The published 120 mm wheelbase is the stock LC300 body configuration. Another body or wheelbase arrangement may require parts and its own setup, so do not apply general MX-01 compatibility as proof that every Mini-Z shell fits. Preserve the standard configuration and choose obstacles that let you understand its suspension motion. Our editorial score credits the documented small-scale mechanism and supplied control system. It does not measure articulation, turning radius, servo torque or the point at which the model tips on a side slope."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to drive",
+      "heading": "Where to drive: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "Think in miniature. A modest indoor course with stable ramps, manageable steps and room for recovery is a better first use than a deep gravel patch outside. The vehicle's small tires and body determine its sensible obstacles. A book-height edge, thick cable or carpet transition may be substantial to the car even when the surrounding room looks flat to a person. Observe the obstacle at wheel level before attempting it.",
+        "Choose a route with no drop from furniture and no loose construction likely to collapse under the model. Work from easy traversal to a slightly more demanding line, keeping speed low. If a tire becomes trapped, stop and reposition rather than continuing to load the motor. The crawling role is about placement and patience, not momentum over every obstacle. We have not tested a safe maximum incline or drop height, so none is printed as a recommendation.",
+        "Outdoor dry miniature ground can be explored carefully, but dust and moisture deserve more consideration than they would in a promotional image. The exact electronics and battery compartments are not given a blanket waterproof claim by this review. Follow the manufacturer's operating and cleaning guidance and clear debris from the tiny moving parts after use. A floor-level course indoors gives the intended buyer a reliable place to enjoy the LC300 without paying for large packs or traveling to a full-size trail. The smallness is the advantage when the terrain is scaled to match."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "Body and service: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The finished Precious White Pearl body is a strong part of the purchase. Its grille, glass areas and molded detail deliver a recognizable modern Land Cruiser without a painting project. At 207 mm long, 88.5 mm wide and 90 mm high, it is small enough for limited storage and a transport box that does not need to hold a large 1/10 chassis. The dimensions are more useful than the Mini-Z label alone when planning where the car will live.",
+        "Our product photograph shows the completed car and transmitter. The gallery uses a white-model side view and the official ladder-frame/axle image on a readable background. Those are actual manufacturer model views and a technical chassis illustration, not full-size Toyota advertising photography. They explain both the supplied appearance and the mechanism beneath it without implying ownership of a test car.",
+        "Treat mirrors and molded details as exposed parts when designing the course. The body’s scale accuracy is a reason to preserve it, not evidence of crash resistance. Learn its removal procedure and place it safely while changing chassis cells. Optional lighting is a separate purchase if desired. I would use the first ownership stage to keep the white body standard and learn how axle movement affects its clearance, then consider decoration or lights only if they add enjoyment without making routine battery service inconvenient."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Startup basket: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The dated indexed Kyosho America exact 32533PW reference is $139.99 for the complete white Mini-Z. Direct retrieval returned a server error and exact dealer offers were not established, so this is published reference pricing rather than a present checkout or availability claim. The exact Amazon identity is verified independently and any temporary offer stays in the expiring box. Keep complete-car scope visible because display bodies can share the same Toyota subject. The basic alkaline-cell basket adds eight AAA cells; a rechargeable route has its own additional equipment costs.",
+        "For basic operation on alkaline cells, the actual basket is 32533PW plus eight appropriate AAA cells—four for the car and four for its transmitter. The vehicle supplies the motor, steering electronics, radio and finished body. There is no separate drive-pack charger requirement for that alkaline route. Cell prices were not independently verified together here, so an exact all-in dollar subtotal is not supplied.",
+        "For repeated use, a supported NiMH chassis-cell route adds matched cells and a compatible charger. Those purchases should be priced as a distinct reusable-power option, not invented as compulsory equipment in the first basket. Course materials, LEDs and extra pinions beyond the supplied set are optional. I would first use a simple stable floor route and the stock gearing. This keeps the initial cost tied to the compact-crawler experience rather than beginning with an elaborate indoor mountain and accessories before you know which kind of route you enjoy."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ],
+      "table": {
+        "caption": "Actual completion basket · extras unpriced unless a checked price is available",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Price basis"
+        ],
+        "rows": [
+          [
+            "Reviewed vehicle",
+            "Kit/car only",
+            "$139.99 · stated dated reference"
+          ],
+          [
+            "Motor",
+            "130-class brushed · fitted",
+            "Included/extra as described"
+          ],
+          [
+            "ESC",
+            "MX-01 integrated crawler electronics · fitted",
+            "Confirm regional box; price any missing controller separately"
+          ],
+          [
+            "Radio / servo",
+            "Syncro KT-531P · supplied",
+            "Extra; quote exact components"
+          ],
+          [
+            "Drive power",
+            "4AAA chassis +4AAA transmitter extra; chassis alkaline/NiMH supported",
+            "Extra; quote exact pack and charger"
+          ],
+          [
+            "Tools / finishing / transmitter cells",
+            "As required by exact manuals",
+            "Price required items separately"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "Real alternatives: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "Another Mini-Z 4x4 body-inclusive Readyset, such as the Jeep Wrangler MX-01, is a relevant alternative if the chassis size appeals but the Toyota subject does not. Verify its exact scale, body dimensions, wheelbase and supplied equipment rather than assuming every body has the same geometry. A separate Auto Scale body is not a complete-car alternative and cannot be priced as though it replaces the Readyset.",
+        "The FMS FCX24 Power Wagon is a complete small-crawler route to compare when you want a different body and battery/transmission package. Its exact RTR contents and charger requirements need their own check. The useful comparison is the complete working basket and the course you intend to use, not nominal scale alone. We have not performed a common-obstacle test between these cars.",
+        "A 1/10 Kyosho KC10 Land Cruiser 60 is an appropriate category change when you actually want outdoor trail driving with larger tires and a full-size hobby battery. It costs more and needs much more space, but asks a different question. I would take the LC300 Mini-Z for deliberately small indoor routes, another MX-01 for a preferred body, and the KC10 when the intended ground requires a large trail vehicle. That prevents a charming little model from being bought to solve a terrain problem belonging to another class of car."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Buying verdict",
+      "heading": "Buying verdict: Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl",
+      "paragraphs": [
+        "The white LC300 earns its recommendation through completeness and sensible miniature scale. The body, motor, chassis electronics and transmitter are supplied, and the basic alkaline-cell route has a short honest startup list. The ladder frame, rigid axles and supplied gearing choices give the owner a real crawler mechanism to understand. Its reservations are small-obstacle limits, exposed body detail and the need to keep rechargeable and accessory spending separate from essential completion.",
+        "Our five categories assess first-session completeness, scale presentation, documented mechanism, service understanding and complete-purchase value for an indoor buyer with limited space. We do not score measured climbing, speed, runtime, rollover behavior or reliability. The independent exact-model video is attributed as creator use, while the two different manufacturer speed ranges remain disclosed claims rather than being quietly reconciled.",
+        "I would choose 32533PW for somebody who enjoys slow driving and can make a stable little floor-level route. Use the specified cells, learn the stock gearing and preserve the body while checking the small moving parts. I would skip it for outdoor ground that routinely dwarfs its tires or for a buyer seeking a fast miniature race car. The LC300 works best when its compactness is the point of the purchase. Match the course to the miniature mechanism and the attractive finished Toyota becomes part of a focused, practical indoor hobby."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "kyosho-32533pw-gallery-1.png",
+      "alt": "Kyosho official side view of the actual Precious White Pearl Mini-Z LC300; the supplied miniature body, wheels and proportions.",
+      "caption": "Kyosho official side view of the actual Precious White Pearl Mini-Z LC300; the supplied miniature body, wheels and proportions.",
+      "source": "https://rc.kyosho.com/en/32533pw.html"
+    },
+    {
+      "image": "kyosho-32533pw-chassis.png",
+      "alt": "Kyosho official MX-01 chassis illustration: ladder frame, solid axles, links and electronics. Technical illustration, not a drive-test photo.",
+      "caption": "Kyosho official MX-01 chassis illustration: ladder frame, solid axles, links and electronics. Technical illustration, not a drive-test photo.",
+      "source": "https://rc.kyosho.com/en/32533pw.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / SKU",
+      "Kyosho 32533PW"
+    ],
+    [
+      "Amazon ASIN",
+      "B0CL491MVB · API verified"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/24 · 4WD"
+    ],
+    [
+      "Purchase format",
+      "Ready-to-run"
+    ],
+    [
+      "Motor",
+      "130-class brushed · fitted"
+    ],
+    [
+      "Speed controller",
+      "MX-01 integrated crawler electronics · fitted"
+    ],
+    [
+      "Radio / steering servo",
+      "Syncro KT-531P · supplied"
+    ],
+    [
+      "Drive battery / charging",
+      "4AAA chassis +4AAA transmitter extra; chassis alkaline/NiMH supported"
+    ],
+    [
+      "Length / width / height",
+      "207 × 88.5 × 90 mm"
+    ],
+    [
+      "Wheelbase",
+      "120 mm ·242 g excluding cells"
+    ],
+    [
+      "Suspension",
+      "Steel ladder frame / multi-link rigid axles / coil springs"
+    ],
+    [
+      "Tires / wheels",
+      "37 ×12 mm front/rear"
+    ],
+    [
+      "Gear arrangement",
+      "55.44 /46.20 /39.60 /34.65 /30.80 /27.72:1 · six supplied pinions"
+    ],
+    [
+      "Body",
+      "Body supplied · finishing per exact regional instructions"
+    ],
+    [
+      "Specification caveat",
+      "Product page speed 2.7–5.4km/h differs from special page 3.3–6.6km/h. Both are manufacturer claims; no tested speed/runtime rating."
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does this exact model come ready to run?",
+      "answer": "Yes, as an assembled car with fitted controls; battery requirements are explained separately."
+    },
+    {
+      "question": "What motor and controller are included?",
+      "answer": "130-class brushed · fitted. MX-01 integrated crawler electronics · fitted. Confirm the offered regional box before buying replacement electronics."
+    },
+    {
+      "question": "What do I need for the first session?",
+      "answer": "Syncro KT-531P · supplied. 4AAA chassis +4AAA transmitter extra; chassis alkaline/NiMH supported. Transmitter cells, appropriate finishing materials and assembly tools also need checking."
+    },
+    {
+      "question": "What ground should I plan to use?",
+      "answer": "Think in miniature. A modest indoor course with stable ramps, manageable steps and room for recovery is a better first use than a deep gravel patch outside. The vehicle's small tires and body determine its sensible obstacles. A book-height edge, thick cable or carpet transition may be substantial to the car even when the surrounding room looks flat to a person. Observe the obstacle at wheel level before attempting it."
+    },
+    {
+      "question": "Which specification differences should I check before ordering?",
+      "answer": "Product page speed 2.7–5.4km/h differs from special page 3.3–6.6km/h. Both are manufacturer claims; no tested speed/runtime rating."
+    },
+    {
+      "question": "Is the editorial rating a driving test or Amazon star rating?",
+      "answer": "Neither. It evaluates the documented complete purchase for indoor scale-crawler buyer with limited space. Manufacturer facts, API identity and independent context are credited separately. No speed, grip, crash or reliability measurements are invented."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyosho · exact model product/specification",
+      "url": "https://rc.kyosho.com/en/32533pw.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Kyosho · assembly/body or regional specification documentation",
+      "url": "https://rc.kyosho.com/en/miniz4x4-lc300",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual / specification"
+    },
+    {
+      "name": "Amazon Creators API · exact ASIN B0CL491MVB",
+      "url": "https://www.amazon.com/dp/B0CL491MVB?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "たーし · exact white LC300 on a homemade indoor trail",
+      "url": "https://www.youtube.com/watch?v=Ze6SJnGjmhs",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Kyosho America published USD reference · vehicle only",
+      "url": "https://kyoshoamerica.com/mini-z-4x4-readyset-toyota-land-cruiser-300-precious-white-pearl-32533pw.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer price reference"
+    }
+  ],
+  "evidenceNote": "Manufacturer documentation establishes the mechanism and requirements. Amazon Creators API verifies the exact listing/part number and dated offer. たーし · exact white LC300 on a homemade indoor trail supplies attributed context; any modified build or sibling variant is explicitly distinguished in the article. Product page speed 2.7–5.4km/h differs from special page 3.3–6.6km/h. Both are manufacturer claims; no tested speed/runtime rating. The dated USD reference comes from indexed/cached exact-model Kyosho America material; direct retrieval returned HTTP503. It is a published reference, not a live checkout quote. Amazon offers remain separate and expire from display.",
+  "revisionNote": "13 October 2026: original complete-car research review, exact API identity, current evidence ledger and credited manufacturer media."
+}

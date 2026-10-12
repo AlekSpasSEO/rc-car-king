@@ -1,0 +1,516 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "Bandit 2WD XL-5",
+  "modelSlug": "bandit-2wd-xl-5",
+  "headlineLines": [
+    "BANDIT 2WD XL-5",
+    "THE BUYING CASE."
+  ],
+  "sku": "24254-8",
+  "title": "Traxxas Bandit 2WD XL-5 review: a credible first buggy for a prepared route",
+  "dek": "A complete brushed buggy with battery and charger for firm-ground practice. It offers a clear first project, provided your terrain fits the narrow format and upgrades can wait.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Buggy",
+  "use": "Bashing",
+  "terrain": [
+    "Off-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "2WD",
+  "scale": "1/10",
+  "format": "Ready-to-run",
+  "skill": "First casual rear-drive buggy buyer with firm practice ground",
+  "price": {
+    "amount": 219.95,
+    "currency": "USD",
+    "basis": "Manufacturer US listed price · complete vehicle package",
+    "checked": "2026-10-13",
+    "source": "https://traxxas.com/bandit-xl-5-with-battery-24254-8"
+  },
+  "image": "traxxas-bandit-2wd-xl-5-product.jpg",
+  "imageAlt": "Official Traxxas photograph of the Bandit 2WD XL-5, exact reviewed complete-car variant",
+  "imageCaption": "Bandit 2WD XL-5, SKU 24254-8. Official manufacturer product photograph.",
+  "imageCredit": {
+    "name": "Traxxas official product photography",
+    "url": "https://traxxas.com/bandit-xl-5-with-battery-24254-8",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This is an original research-led buying assessment using current manufacturer documentation, exact Amazon API identity and attributed independent coverage. We have not physically tested the vehicle."
+  },
+  "overview": "The Bandit XL-5 24254-8 is for a first recreational buggy buyer who likes exposed wheels and has firm ground on which to learn a line. The current package supplies the drive battery and charger, which is a substantial practical advantage over an incomplete kit. My main qualification is terrain: the narrow buggy format should be chosen for the circuit you can actually use, not assumed to be a miniature monster truck. If your only driving area is thick lawn, I would compare a truck before buying the Bandit.",
+  "verdict": "A credible first buggy for a prepared route",
+  "verdictText": "I would shortlist the Bandit 24254-8 for a newcomer with a prepared firm-ground route who prefers buggy proportions and wants the supplied battery and charger. The fitted electronics, finished body, reduced-power option and service documents make the first project understandable. The reservation is more about use than glamour: dense grass and a predetermined competition class can each make another vehicle the smarter purchase. Recognize those conditions before turning a modest buggy into a large upgrade bill.",
+  "pros": [
+    "Battery and charger supplied",
+    "Finished buggy body and wing",
+    "Simple rear-drive power path to learn",
+    "Training profile available"
+  ],
+  "cons": [
+    "Narrow buggy format needs suitable ground",
+    "USB supply and AAs remain required",
+    "No electronic stability assistance",
+    "Immediate conversion can undermine entry-package savings"
+  ],
+  "bestFor": [
+    "Firm-ground first buggy practice",
+    "Buyers who specifically like open-wheel proportions",
+    "Using factory power while learning throttle timing"
+  ],
+  "avoidIf": [
+    "Dense grass as the sole route",
+    "A specific race class without checking rules",
+    "A known need for a larger 4WD brushless buggy"
+  ],
+  "quickSpecs": [
+    [
+      "Drive / scale",
+      "2WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Titan 12T 550 · Brushed"
+    ],
+    [
+      "Controller / radio",
+      "XL-5 · TQ 2.4 GHz · no TSM"
+    ],
+    [
+      "Drivetrain",
+      "Magnum 272 · slipper · planetary rear differential"
+    ],
+    [
+      "Drive power",
+      "3000mAh 8.4V 7-cell NiMH included"
+    ],
+    [
+      "Package",
+      "Complete RTR · 24254-8"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First casual rear-drive buggy buyer with firm practice ground",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the named buyer. They are not measured speed, handling, crash resistance, runtime or reliability results, and are separate from Amazon customer ratings.",
+    "dimensions": [
+      {
+        "label": "Starting package",
+        "score": 8.5,
+        "reason": "An assembled car, finished buggy body and coordinated NiMH charging route shorten the first purchase."
+      },
+      {
+        "label": "Controls for the buyer",
+        "score": 8,
+        "reason": "Training Mode and simple steering/throttle controls support a careful first circuit."
+      },
+      {
+        "label": "Hardware and intended use",
+        "score": 7,
+        "reason": "The 250mm-wide open-wheel buggy suits firm routes and deliberate line placement, with dense lawn a significant qualification."
+      },
+      {
+        "label": "Service information",
+        "score": 8,
+        "reason": "Exact 24254-8 manuals and drawings support generation-aware replacement identification."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "Value is conditional on wanting a stock rear-drive buggy rather than an immediate brushless conversion donor."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0G54SN7P3",
+    "marketplace": "www.amazon.com",
+    "variant": "Blue · complete car",
+    "sku": "24254-8",
+    "detailPageUrl": "https://www.amazon.com/dp/B0G54SN7P3?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:41.619Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "A buggy for a prepared route, with enough package to begin.",
+      "paragraphs": [
+        "The Bandit XL-5 24254-8 is for a first recreational buggy buyer who likes exposed wheels and has firm ground on which to learn a line. The current package supplies the drive battery and charger, which is a substantial practical advantage over an incomplete kit. My main qualification is terrain: the narrow buggy format should be chosen for the circuit you can actually use, not assumed to be a miniature monster truck. If your only driving area is thick lawn, I would compare a truck before buying the Bandit.",
+        "This article identifies the blue, complete brushed 24254-8 returned by Amazon's Creators API. Bandit searches also produce a brushless power-system set, finished shells and older VXL versions. Those are different purchases even if they share the familiar name. The current manufacturer page identifies the Titan 12T 550 motor, XL-5 controller, TQ radio and battery-inclusive USB-C package. Keep the part number alongside the name whenever buying equipment or replacements, because a long-running platform naturally accumulates a long history of specifications.",
+        "There is a useful reason to choose a basic buggy beyond price. You can watch where its front wheels point, build a small route with cones and learn the relationship between steering and rear-wheel power. The learning project is clear. A driver seeking an organized race class should begin with that club's rules instead. An assembled recreational buggy and a competition kit may look superficially related, but their setup, equipment and buying requirements are different."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package",
+      "heading": "A finished buggy means the first job is setup, not assembly.",
+      "paragraphs": [
+        "Traxxas documents an assembled Bandit with its radio system and fitted electronics, a finished body and wing, 3000mAh seven-cell 8.4V NiMH battery, four-amp USB-C charger and maintenance tools. That gives a newcomer a coordinated starting point. You do not have to decide which motor and receiver to fit before exploring the hobby. The included power equipment also needs to stay visible in a price comparison: a cheaper-looking kit that needs electronics, finishing and charging hardware may be the larger first purchase.",
+        "The remaining required equipment includes four AA transmitter cells and a suitable USB-C power source. Traxxas recommends its 45-watt adapter and cable. Confirm the actual power-supply requirements from the manual rather than assuming every USB-C phone adapter gives the charger's intended output. The charger and its input supply are separate devices. That distinction is especially important for a gift, because opening a complete-looking box should not be followed by discovering that charging cannot begin with the equipment available at home.",
+        "Before connecting the pack, inspect battery retention, wheel nuts, suspension travel and wire routing. The slender body makes it easy to leave an incorrectly routed lead where it can interfere with a moving part. Follow the radio startup instructions and make a supported-wheel steering check. Save the first outdoor session for confirming neutral, steering direction and braking on simple ground. A carefully checked RTR is a shorter project than a kit, but it remains a real vehicle that benefits from a deliberate first setup."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "list": {
+        "title": "Before the first session",
+        "items": [
+          "Use the supplied battery and its intended charging route for the first baseline.",
+          "Supply four AA transmitter cells.",
+          "Follow the exact manual for chemistry settings, startup sequence and free steering checks.",
+          "Begin with conservative controls and an open stopping area."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "A rear-driven buggy keeps the power path understandable.",
+      "paragraphs": [
+        "The Titan 12T 550 feeds a Magnum 272 transmission with a slipper clutch and planetary rear differential. The front wheels are unpowered. This is a clear layout for learning where the motor, spur, gearbox and driveshafts sit in the vehicle. Rear drive also means the tires at the back provide both acceleration and a large part of the cornering work. That creates a useful reason to practice progressive throttle instead of expecting all steering corrections to come from a larger wheel angle.",
+        "Keep factory gearing while you establish the first baseline. The current official page lists 48-pitch gearing and a manufacturer speed claim above 35mph with the seven-cell battery. We have not measured that speed, and it is not a promise for grass, gravel or your particular route. Motor loading changes with grip, gearing and resistance from the ground. The internal cooling fan is documented equipment; it does not make prolonged running against an obstruction or through dragging vegetation a sensible test.",
+        "The transmission is described as brushless-ready, but the fitted vehicle is brushed. Budget any conversion as a complete project. A motor and controller are only part of the decision once battery chemistry, charging, mounting and associated drivetrain choices are included. If you already want a brushless buggy, compare complete factory alternatives before buying this model merely as a donor. The Bandit's stock-package value is strongest when you will use the coordinated equipment that comes with it."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Reduced power leaves more attention for direction and braking.",
+      "paragraphs": [
+        "The TQ two-channel 2.4GHz radio and XL-5 controller supply a straightforward control arrangement. Sport, Race and Training profiles cover normal forward/brake/reverse use, running without reverse and reduced-power learning. Training reduces forward and reverse output while keeping braking. That is useful for a first buggy session because steering toward you reverses the visual intuition many newcomers bring from steering away. Less acceleration gives you more time to work out direction and neutral without needing another transmitter.",
+        "Make the initial circuit wide enough to recover from a missed turn. Practice stopping before linking fast corners or adding a jump. Changing the controller profile should be done using the exact LED procedure in the manual, preferably with the buggy stationary on the bench. This model does not have TSM stabilization. Your own throttle and steering choices remain the controlling inputs, which suits a buyer who wants to learn rear-drive behavior rather than delegate corrections to an assistance system.",
+        "If you later choose a compatible two-cell LiPo, revisit battery-type and low-voltage settings before driving. A pack that plugs in is not automatically ready to use correctly. The supplied NiMH arrangement is valuable because it lets you establish normal operation without changing several variables at once. Our controls rating assesses the documented options for a first casual buggy buyer. It contains no measured radio range, response time or braking-distance result, and should not be confused with an Amazon customer score."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Watching the front wheels is part of this buggy's appeal.",
+      "paragraphs": [
+        "The official specification identifies a 2056 servo, servo saver and independent suspension using oil-filled Ultra Shocks. Heavy-duty components are part of the current package. Check both front wheels through the steering travel and inspect that the linkage moves freely before making trim adjustments. Loose stones and grass near an exposed front assembly can create a mechanical problem that a radio adjustment cannot cure. Correct the obstruction or damaged component before asking the servo to work harder.",
+        "The front ribbed tires and rear step-pin pattern do different jobs. Their roles suit the rear-driven buggy layout, and they provide a useful starting point for learning how the surface changes the vehicle. Do not assume that a wider truck wheel will improve every aspect of the Bandit. Changing tire size or offset can affect clearance, steering load and gearing. Establish what the factory combination does on the intended ground before treating another model's wheel package as an automatic upgrade.",
+        "Use a consistent corner or low bump for setup comparisons. Record the original ride height and shock arrangement before making one change. If a change helps one part of the route and worsens another, you have learned something about the compromise rather than necessarily fitted the wrong component. We have no physical setup log for this exact blue buggy. The recommendation is to make adjustment a controlled learning process, supported by the current manual and drawings instead of an unverified internet recipe."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Keep the route proportionate to the wheels.",
+      "paragraphs": [
+        "Firm dirt, smooth loose-surface practice and modest bumps are the first environments I would investigate. The Bandit has a narrower buggy footprint than the trucks in Traxxas's beginner range, and its wheels remain exposed. Look at the intended course at wheel height. Pebbles, ruts and roots that are minor to a person can be substantial to this car. A useful route has room for turns, recovery and stopping as well as a straight section that allows acceleration.",
+        "Thick lawn is the buying concern. If grass continuously drags against the buggy or catches near moving parts, the vehicle may spend more time struggling than teaching you a line. A monster truck is a real alternative when that is the only available terrain. Do not interpret a broad off-road label as permission to force any surface. The correct response to a mismatched yard can be another vehicle format, rather than more motor power and additional heat in the existing one.",
+        "Independent Bandit coverage from RC Cars Guide identifies the current XL-5 and distinguishes earlier VXL versions. It is a researched guide, not a hands-on durability study, so we use it for generation context. Older Bandit test figures are deliberately not carried into this review. The present recommendation is about matching the current documented package to a prepared recreational route, with the buyer's own observation providing the next stage of evidence after the first sessions."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and upkeep",
+      "heading": "The slender shell needs correct fit around a busy chassis.",
+      "paragraphs": [
+        "The Bandit comes with a finished buggy body and wing, so the first purchase does not require paint and trimming equipment. That appearance is a real part of why a buggy enthusiast may choose it over a truck. Learn the body mounting arrangement shown in the current manual and check that the shell does not pinch wires or touch the drivetrain. Do not borrow a body-release procedure from a clipless truck simply because its radio and motor are related.",
+        "Exposed suspension helps you spot dirt and damage. After a run, look over the arms, wheel fasteners, tire bonding and rear shafts, then inspect the shock shafts and seals. Brush debris away before it has an opportunity to bind a corner during the next session. Check the motor and gear-cover area as well. Use the exact 24254-8 exploded views to identify replacement parts, because a familiar family resemblance does not guarantee that every old Bandit component is the current fitted item.",
+        "The electronic waterproofing claim should be read with the manual's operating and maintenance instructions. Wet use still requires care for mechanical assemblies and proper drying. We have no crash sequence or extended ownership record to justify calling the buggy unbreakable. Our service assessment rewards documentation and an understandable layout. Local stock remains something to check directly with the shop that would support you, especially when buying for a newcomer who may need help reading a parts drawing."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "Separate the supplied NiMH route from an optional conversion project.",
+      "paragraphs": [
+        "The dated car-package reference belongs to the exact current complete vehicle. Its NiMH battery, charger, radio and finished body are included purchases rather than omissions. Add transmitter AA cells and suitable USB-C input equipment if absent from your household. We have not created a speculative total for those extras. The table shows what must be present for the first session and leaves prices unquoted where there is no verified exact item chosen.",
+        "The next useful purchase depends on actual use. A second pack may shorten the wait between sessions, but should not be ordered solely to make the first basket look more serious. Verify tray dimensions, voltage, chemistry and connector before buying one. The factory tools can begin basic checks, with better drivers or a cleaning brush added when the work justifies them. Keep optional cosmetic bodies and aluminum pieces separate from genuine completion requirements.",
+        "Conversion spending deserves its own comparison. If the planned buggy needs brushless electronics immediately, write down the motor, ESC and battery/charger route, then compare a complete brushless alternative. A low initial price can hide expensive decisions made a week later. The Bandit is a strong candidate when its stock equipment matches the buyer's learning project. It is less persuasive when almost every included component is treated as temporary before the car has even been driven."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup basket · checked 13 October 2026",
+        "columns": [
+          "Item",
+          "Price basis",
+          "Included or extra"
+        ],
+        "rows": [
+          [
+            "Exact complete vehicle",
+            "$219.95 USD",
+            "Manufacturer US vehicle-package reference"
+          ],
+          [
+            "Drive battery",
+            "3000mAh 8.4V 7-cell NiMH included",
+            "Included in this package"
+          ],
+          [
+            "Charger",
+            "4A USB-C included; input supply extra",
+            "Included charger; input power is separate"
+          ],
+          [
+            "USB-C adapter and cable",
+            "Price separately",
+            "Required if not already owned; follow charger input specification"
+          ],
+          [
+            "Transmitter batteries",
+            "Price separately",
+            "Four AA cells required; extra"
+          ],
+          [
+            "Optional tools / spare pack",
+            "Add actual purchase cost",
+            "Optional; choose after actual use"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Another wheel format may solve the problem more directly.",
+      "paragraphs": [
+        "The Traxxas Rustler XL-5 37254-8 is the clearest nearby alternative. It supplies a similarly coordinated brushed starter package with wider stadium-truck proportions. I would compare it when the intended ground is a little rougher or the owner wants truck styling and a broader tire footprint. The official dimensions support a format comparison; they do not establish which vehicle handles better. The Bandit remains attractive when the narrower buggy shape and visible open-wheel line are the activity you specifically want.",
+        "The Stampede XL-5 36254-8 moves farther toward monster-truck clearance. That is a worthwhile shift for a predominantly grassy or irregular yard, while rear-wheel drive remains part of the choice. Its tall stance changes the driving exercise as much as its appearance. Avoid buying the Bandit, fitting progressively taller truck wheels and then assuming the result is the same as choosing the appropriate factory format at the beginning.",
+        "For a larger four-wheel-drive brushless buggy, compare the ARRMA Typhon 223S complete RTR. Battery and charger are separate, and the 2S/3S power and DSC equipment create a different startup basket. It is neither a bare chassis nor an equivalent price-only substitution. Choose that route if the desired drivetrain and performance envelope are already clear. We have no head-to-head lap, speed or durability test to rank it over the Bandit."
+      ],
+      "sourceIndexes": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "table": {
+        "caption": "Complete-vehicle alternatives · buying comparison, no head-to-head test",
+        "columns": [
+          "Vehicle",
+          "Buying route",
+          "Reason to compare"
+        ],
+        "rows": [
+          [
+            "Reviewed Bandit 2WD XL-5",
+            "Battery-inclusive brushed 2WD RTR",
+            "Coordinated first power equipment"
+          ],
+          [
+            "Traxxas Rustler 37254-8",
+            "Battery-inclusive brushed RTR",
+            "Compare the vehicle shape to the actual route"
+          ],
+          [
+            "ARRMA Typhon 223S",
+            "Brushless 4WD RTR; power equipment extra",
+            "A different drivetrain and startup basket"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A sensible first buggy for the buyer who wants this exact kind of driving.",
+      "paragraphs": [
+        "I would shortlist the Bandit 24254-8 for a newcomer with a prepared firm-ground route who prefers buggy proportions and wants the supplied battery and charger. The fitted electronics, finished body, reduced-power option and service documents make the first project understandable. The reservation is more about use than glamour: dense grass and a predetermined competition class can each make another vehicle the smarter purchase. Recognize those conditions before turning a modest buggy into a large upgrade bill.",
+        "The editorial rating uses five equally weighted categories focused on package completeness, beginner controls, buggy-use fit, service documentation and purchase value for that buyer. We do not score measured handling, speed, crash resistance or reliability. The manufacturer establishes the current hardware and procedures, Amazon establishes the exact complete-car listing, and independent researched coverage provides generation context. That is enough for a useful conditional buying judgment, but it remains distinct from a personal test or a quantified owner survey.",
+        "Start with the supplied battery, modest controls and a route you can repeat. Watch how the rear tires respond as you add throttle and keep notes before adjusting anything. If you need more clearance, first decide whether your route or the entire vehicle category should change. Buy the Bandit to enjoy an approachable rear-drive buggy as it comes. Skip it when your own requirements already describe a 4WD brushless truck, crawler or racing kit."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-bandit-2wd-xl-5-gallery-1.jpg",
+      "alt": "Official Traxxas Bandit 2WD XL-5 chassis inspection",
+      "caption": "Chassis and installed layout. Photograph: Traxxas.",
+      "source": "https://traxxas.com/bandit-xl-5-with-battery-24254-8"
+    },
+    {
+      "image": "traxxas-bandit-2wd-xl-5-gallery-2.jpg",
+      "alt": "Official Traxxas Bandit 2WD XL-5 second vehicle view",
+      "caption": "Another official view of the reviewed vehicle. Photograph: Traxxas.",
+      "source": "https://traxxas.com/bandit-xl-5-with-battery-24254-8"
+    }
+  ],
+  "specs": [
+    [
+      "Exact reviewed model",
+      "Traxxas 24254-8 · complete RTR"
+    ],
+    [
+      "ASIN",
+      "B0G54SN7P3"
+    ],
+    [
+      "Scale / drive",
+      "2WD · 1/10"
+    ],
+    [
+      "Motor",
+      "Titan 12T 550"
+    ],
+    [
+      "ESC",
+      "XL-5"
+    ],
+    [
+      "Radio",
+      "TQ 2.4 GHz · no TSM"
+    ],
+    [
+      "Steering servo",
+      "2056"
+    ],
+    [
+      "Drivetrain arrangement",
+      "Magnum 272 · slipper · planetary rear differential"
+    ],
+    [
+      "Length × width × height",
+      "413 × 250 × 178 mm"
+    ],
+    [
+      "Wheelbase",
+      "286 mm"
+    ],
+    [
+      "Weight publication basis",
+      "1.36 kg · manufacturer figure"
+    ],
+    [
+      "Battery tray",
+      "164 × 46 × 26 mm"
+    ],
+    [
+      "Drive battery",
+      "3000mAh 8.4V 7-cell NiMH included"
+    ],
+    [
+      "Charger",
+      "4A USB-C included; input supply extra"
+    ],
+    [
+      "Tires",
+      "Alias step-pin rear · ribbed front"
+    ],
+    [
+      "Transmitter power",
+      "Four AA alkaline cells · extra"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the current reviewed Bandit a VXL?",
+      "answer": "No. 24254-8 uses a Titan 12T brushed motor and XL-5. VXL power-system parts and older complete VXL vehicles are different purchases."
+    },
+    {
+      "question": "What remains to start driving?",
+      "answer": "Four transmitter AA cells and suitable USB-C input equipment, plus the manual setup and charging procedure. The drive NiMH battery and charger are included."
+    },
+    {
+      "question": "Can truck tires automatically improve it?",
+      "answer": "A size or offset change can alter clearance, steering load and effective gearing. Establish the stock setup on your ground before treating another model's wheels as a universal upgrade."
+    },
+    {
+      "question": "Is it appropriate for thick lawn?",
+      "answer": "Our recommendation is a prepared firm route. Compare a monster truck when dragging grass is the only available surface."
+    },
+    {
+      "question": "Can it enter buggy racing?",
+      "answer": "Ask the organizer about class and equipment rules. The Ready-To-Race branding does not guarantee eligibility at a particular venue."
+    },
+    {
+      "question": "What evidence supports the rating?",
+      "answer": "Current manufacturer specifications and manuals, API identity verification and a labeled independent research guide. We have not measured this vehicle's driving performance."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · current exact 24254-8 product, contents and specifications",
+      "url": "https://traxxas.com/bandit-xl-5-with-battery-24254-8",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Traxxas · current model owner manual",
+      "url": "https://traxxas.com/media/productattach/C-24254-8/2/24254-36254-37254-8-om-en-r00.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Cars Guide · Bandit generation and buying guide, research-led",
+      "url": "https://rccarsguide.com/blog/traxxas-bandit-review",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Amazon Creators API · exact complete-car B0G54SN7P3 identity and dated price",
+      "url": "https://www.amazon.com/dp/B0G54SN7P3?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "traxxas rustler 2wd xl 5 · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/rustler-2wd-xl-5-wbattery-37254-8",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "traxxas stampede 2wd xl 5 · current alternative complete-vehicle documentation",
+      "url": "https://traxxas.com/stampede-2wd-xl-5-wbattery-36254-8",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    },
+    {
+      "name": "arrma typhon 223s · current alternative complete-vehicle documentation",
+      "url": "https://www.horizonhobby.com/product/arrma-1-8-typhon-223s-dsc-4x4-rtr-brushless-buggy/ARA4306V4.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative Manufacturer"
+    }
+  ],
+  "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0G54SN7P3, 24254-8 and Traxxas for the exact complete-car listing. The independent source is a researched buyer guide, not a hands-on test. Older VXL speed and durability results are not used. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+}

@@ -1,0 +1,589 @@
+{
+  "brand": "Losi",
+  "brandSlug": "losi",
+  "model": "Micro-B",
+  "modelSlug": "micro-b",
+  "headlineLines": [
+    "MICRO-B",
+    "THE BUYING CASE."
+  ],
+  "sku": "LOS00007T1",
+  "title": "Losi Micro-B review: a real buggy for a very small race space?",
+  "dek": "A miniature rear-drive race buggy with an aluminum chassis, oil shocks and included battery equipment. The buying question is whether your indoor space gives this small car a useful circuit.",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Buggy",
+  "use": "Racing",
+  "terrain": [
+    "Indoor",
+    "On-road"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "2WD",
+  "scale": "1/24",
+  "format": "Ready-to-run",
+  "skill": "First-time indoor micro buggy driver",
+  "price": {
+    "amount": 89.99,
+    "currency": "USD",
+    "basis": "Losi US published reference · exact RTR package; excluded equipment itemized below",
+    "checked": "2026-10-13",
+    "source": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html"
+  },
+  "image": "losi-micro-b-front.jpg",
+  "imageAlt": "Official Losi photograph of the White · complete brushed buggy Micro-B",
+  "imageCaption": "Micro-B, LOS00007T1; exact reviewed variant. Official Losi product photography.",
+  "imageCredit": {
+    "name": "Losi official product photography",
+    "url": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+  },
+  "overview": "I would shortlist the Micro-B for indoor buggy practice and informal racing in limited space. Its complete power package and proper suspension make the small format useful. Choose a larger car if your main driving area is grass or broken outdoor ground.",
+  "verdict": "A credible indoor buggy starter",
+  "verdictText": "Buy the white LOS00007T1 for proportional micro racing, a finished buggy and documented maintenance. Keep the first budget focused on a suitable floor and charging setup. Skip it for rough lawns or when your intended club does not run this scale.",
+  "pros": [
+    "Complete buggy with battery, charger and transmitter cells",
+    "Aluminum chassis and adjustable oil-filled shocks",
+    "SLT2 throttle limiting helps share the car",
+    "Model-specific manual and exploded parts drawing"
+  ],
+  "cons": [
+    "Small wheels make outdoor debris significant",
+    "Rear-drive buggy still requires careful throttle use",
+    "Combined receiver/ESC complicates electronic replacement",
+    "Manufacturer speed and runtime claims are not our tests"
+  ],
+  "bestFor": [
+    "Garage or indoor micro circuits",
+    "Friends running matching cars and tires",
+    "A first proportional hobby buggy in little space"
+  ],
+  "avoidIf": [
+    "Your main driving surface is a lawn",
+    "You need a sanctioned club class confirmed today",
+    "You want easy separate motor-controller upgrades"
+  ],
+  "quickSpecs": [
+    [
+      "Scale / drive",
+      "1/24 · 2WD"
+    ],
+    [
+      "Motor",
+      "Losi 65T brushed motor"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT2; 2-in-1 SLT ESC/receiver"
+    ],
+    [
+      "Drive battery",
+      "350mAh 2S 30C LiPo · included"
+    ],
+    [
+      "Wheelbase",
+      "118 mm"
+    ],
+    [
+      "Package",
+      "LOS00007T1 · White · complete brushed buggy"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "First-time indoor micro buggy driver",
+    "disclosure": "Five equally weighted category scores assess the documented purchase for the buyer named here. Their arithmetic mean is the editorial rating. These are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 8,
+        "reason": "The installed vehicle, body and radio coordinate the basic purchase; the completion list still controls what you must supply."
+      },
+      {
+        "label": "Purpose-fit equipment",
+        "score": 8,
+        "reason": "The documented hardware makes sense for the named use and scale; capability on a particular surface has not been measured here."
+      },
+      {
+        "label": "Adjustment and learning",
+        "score": 7.5,
+        "reason": "The manual explains setup and adjustment, while the stock electronics keep a new owner from facing a complete custom build."
+      },
+      {
+        "label": "Service documentation",
+        "score": 8,
+        "reason": "Model-specific instructions and official replacement documentation identify what to maintain; local stock and repair turnaround were not measured."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7,
+        "reason": "The reference price is assessed with required completion equipment visible and no invented accessory total."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0DJ3M2Q56",
+    "marketplace": "www.amazon.com",
+    "variant": "White · complete brushed buggy",
+    "sku": "LOS00007T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DJ3M2Q56?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:09.763Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buying case",
+      "heading": "The space you have is the strongest reason to buy it.",
+      "paragraphs": [
+        "The Micro-B earns its place when a full-size buggy would spend more time avoiding furniture than completing corners. This is a 1/24 rear-drive car, not a crawler wearing a racing shell. It gives an indoor driver proportional steering and throttle, suspension to explore and a finished vehicle that can be shared with another person without assembling an electronics shopping list first.",
+        "The white LOS00007T1 has a 118mm wheelbase. That number is more useful than a racing pedigree claim when planning your course: turns, jump transitions and lane widths need to fit a small buggy. A circuit made for a larger mini can be awkward even if the car physically fits. The objective should be several repeatable corners, not the highest possible speed against a wall.",
+        "Bash The Stampede’s independent Micro-B review reports enjoyable small-track running and mentions steering links popping free during hard impacts. That is attributable outside experience, not a failure rate or an RC Car King crash test. I would use it as a reason to learn how the links attach before the first race. Its enthusiasm supports investigating the buggy, but our recommendation rests on the documented package and the place you intend to run it."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package and setup",
+      "heading": "Most of the shopping decisions have already been made.",
+      "paragraphs": [
+        "Losi includes the assembled buggy, 350mAh 2S LiPo, USB-C charger, SLT2 transmitter, installed servo and combined receiver/controller. Four AA transmitter cells are listed by the manufacturer. You do not need to add paint, a radio or a separate steering servo before getting started. That completeness matters particularly when two people want matching cars for informal racing.",
+        "Read the charging instructions before treating a USB socket as a universal answer. Losi says no additional equipment is required and recommends an optional 65W supply. A recommended adapter is different from a compulsory upgrade, and we do not add its price to the startup basket automatically. Use the exact supplied battery and charger procedure, then inspect the connector and leads before connecting them.",
+        "Make the first evening a setup session: charge the pack under observation, install the transmitter cells in the stated orientation and check steering and throttle at low power. The small tools included with an RTR can handle initial adjustments; a well-fitting driver is still a useful ownership purchase. Lay out a clean tray so a dropped screw remains visible. Micro scale reduces storage needs, but it also reduces the size of every fastener you will eventually have to handle."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor and drivetrain",
+      "heading": "The brushed motor suits a car that must fit the room.",
+      "paragraphs": [
+        "The factory power unit is a 65T brushed motor paired with a Spektrum SLT combined ESC and receiver. This review does not cover a brushless conversion. The rear wheels receive drive through a gear differential, while the front wheels steer. That arrangement makes the throttle an important part of cornering: demanding more drive does not create more front grip automatically.",
+        "For a new indoor driver, I would prefer learning the stock power delivery before increasing it. Extra motor output cannot enlarge the floor or soften a skirting board. If the car continually arrives at the next corner too quickly, the useful first adjustment is the radio’s throttle limit and the course layout. Buying a faster motor to improve a short circuit can make the circuit harder to use.",
+        "The combined electronic unit keeps the standard package tidy and coordinated, but it also means a future receiver change deserves a complete wiring plan. Check compatible voltage, connectors and available chassis space rather than assuming any micro controller is interchangeable. The official manual and exploded view provide a baseline for the factory configuration. Keep that baseline documented before changing the motor or gearing, because returning to stock is often the quickest way to distinguish a setup problem from a hardware fault."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and controls",
+      "heading": "Throttle limiting is more valuable than the headline speed.",
+      "paragraphs": [
+        "The Spektrum SLT2 gives proportional control and a switch for reduced throttle output. Losi documents 50 and 75 percent limiting positions alongside full output. For a living-room circuit, those lower settings are practical equipment. They help a new driver concentrate on finding the apex and leaving room for correction rather than making every straight a test of reaction time.",
+        "Throttle limiting is not a claim that the buggy travels at exactly half its quoted speed. Battery condition, traction and the relationship between motor output and road speed still matter. Use the switch as a repeatable training setting. If two beginners are racing together, matching their limiting positions also keeps the comparison easier to understand without pretending it is an official equal-performance class.",
+        "Set steering trim on the actual driving surface and begin with gentle circles in both directions. If neutral throttle does not behave as described in the manual, solve that before placing the car in a crowded room. Tiny movements of the steering wheel should produce correspondingly small changes, but a proportional radio cannot compensate for a binding linkage. I would also demonstrate the power-up and shut-down sequence to anyone borrowing the buggy. The complete package becomes easier to share when its operation is familiar, not merely when a transmitter is handed over."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering and suspension",
+      "heading": "Oil shocks create a learning project without a full kit build.",
+      "paragraphs": [
+        "The Micro-B has oil-filled shocks rather than relying only on springs. Their damping controls how quickly the suspension moves; the springs support the car. That distinction gives an interested owner something meaningful to learn. A preload adjustment changes the starting suspension position, while changing fluid changes resistance to movement. Neither should be described simply as making the buggy faster.",
+        "Start by checking that left and right sides move freely and that the body does not interfere. On a very small car, a minor misalignment can occupy a noticeable part of the available travel. If a corner behaves differently from its partner, investigate assembly, debris and leakage before buying a tuning part. The factory geometry and shock fluid are a useful reference point for those checks.",
+        "Bash The Stampede’s report of links detaching after impacts also makes inspection worthwhile. Check the connection and replace damaged parts using the exact diagram; repeatedly forcing a worn cup back on is not a measured reliability solution. Keep early adjustments modest and record them with the floor surface and tires used. You may find that moving the course barrier solves a recurring collision more effectively than adding metal hardware. For this buyer, useful adjustment is about learning the car and keeping practice consistent."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and terrain",
+      "heading": "Clean carpet and smooth concrete make more sense than a lawn.",
+      "paragraphs": [
+        "Losi describes low-shag carpet and smooth driveways as suitable settings for the Micro-B. Those are sensible starting points for this scale. A twig or stone that a 1/10 truck barely notices can become a substantial obstacle for a micro buggy. Grass also places a different load on the drivetrain and can catch around moving parts, so this is not our recommendation for a backyard that consists mainly of lawn.",
+        "The supplied Pro-Line buggy tires should be treated as one part of the surface choice. Their pattern does not guarantee equal grip on polished tile, dusty concrete and carpet. Begin with a clean, consistent patch of floor and learn how the car behaves there. If you plan to join a micro group, ask what tire rules apply before purchasing an alternative tread or compound.",
+        "Jumps should have gentle transitions and a clear landing area scaled to the buggy. A short, abrupt edge built for a larger vehicle can upset a small wheel before the suspension has room to work. We have not measured jump stability or crash resistance. My practical recommendation is to develop a repeatable low obstacle and increase difficulty only when the landing space remains predictable. The Micro-B’s attraction is frequent practice close to home; that benefit disappears if the course continually throws the car into hard furniture."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and service",
+      "heading": "A finished shell is useful, but the chassis still needs attention.",
+      "paragraphs": [
+        "The white factory body and yellow wheels identify the reviewed variant. A second silver version exists, but changing the product photo and affiliate listing casually would weaken the exact purchase information. LOS00007T1 is an assembled vehicle with fitted electronics and body. A replacement shell carrying the same Micro-B name is not the item evaluated here.",
+        "Body removal gives access to the battery and compact electronic layout. Work carefully around the leads when replacing the shell; a small body can catch a wire without making the problem obvious. The official parts illustration is particularly valuable because its component numbers let you describe the failed part instead of ordering a vaguely compatible micro upgrade.",
+        "After a session, remove lint or grit from the axle areas, inspect the tire seating and check the steering links for damage. Let the motor and pack cool before another charging cycle in accordance with the manual. We do not translate the aluminum chassis into a durability score: it is a documented construction choice, not evidence of surviving repeated crashes. I would keep a small brush and a parts tray near the charging area. A vehicle this compact can be easy to put away, which makes it equally easy to postpone inspection until the next unexplained steering problem."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup basket",
+      "heading": "The first usable session does not require a second electronics bill.",
+      "paragraphs": [
+        "The published Losi reference is $89.99 for the complete white package at this check. Amazon’s verified listing returned a separate live commercial snapshot; the current merchant offer can change. The review’s reference is a dated comparison point, not a promise that every seller charges that amount. Tax, delivery and any optional equipment still depend on where you purchase.",
+        "The required basket is short because the drive pack, charger, radio and transmitter cells are supplied. The manufacturer recommends an optional USB-C power supply, so check the supplied charging arrangement against what you already have. Do not count an existing compatible supply as a new purchase, and do not assume an unrelated phone adapter meets every stated charging requirement.",
+        "Useful ownership equipment is a correct small driver, wheel tool, cleaning brush and suitable supervised charging and storage space. We have not priced those extras, so there is no invented all-in subtotal. Before buying a spare pack, compare chemistry, voltage, connector and physical fit with the original 350mAh battery. A spare can reduce waiting between sessions, but it should not be a reason to ignore cooling or charging instructions. I would first establish how often the buggy will actually be used, then buy the extra pack only if the stock charging cycle interrupts that routine."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "Complete first-session basket · checked 13 October 2026 · unpriced extras remain visible",
+        "columns": [
+          "Item",
+          "Included / extra",
+          "Budget treatment"
+        ],
+        "rows": [
+          [
+            "Micro-B · LOS00007T1",
+            "$89.99 manufacturer car/package reference",
+            "Tax and delivery extra"
+          ],
+          [
+            "Drive battery",
+            "350mAh 2S 30C LiPo · included",
+            "Check chemistry, connector and physical fit"
+          ],
+          [
+            "Charger",
+            "Included; follow charging instructions",
+            "Confirm mains/USB power source"
+          ],
+          [
+            "Transmitter power",
+            "Included AA cells per manufacturer",
+            "Replace exhausted cells as needed"
+          ],
+          [
+            "Power-source completion",
+            "Nothing required; manufacturer recommends an optional 65W USB-C supply",
+            "Add actual equipment cost where required"
+          ],
+          [
+            "Practical workbench kit",
+            "Correct drivers, wheel tool, brush, safe charging/storage place",
+            "Helpful ownership equipment; obtain live local prices"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Real alternatives",
+      "heading": "Choose between the Micro-B and Micro-T by the course.",
+      "paragraphs": [
+        "The Losi Micro-T is a real complete-vehicle alternative, not an upgrade part. The current silver LOS-1392T2 is a brushed rear-drive stadium truck with an included power package. Its listed 102mm wheelbase is shorter than the Micro-B’s 118mm, and its body and tire presentation differ. That makes a course and format comparison more useful than asking which name sounds newer.",
+        "I would choose the Micro-B when the buggy silhouette, rear wing and buggy-style tire arrangement are part of the interest. I would inspect the Micro-T when a compact truck layout is more appealing or when friends already use that platform. We have no direct handling comparison, so the dimensions and included equipment support the shortlist rather than establish a winner.",
+        "A larger Mini-B Brushless is another direction if you have space and a local mini class. It requires a different course scale and brings substantially different power equipment. The cheaper or smaller vehicle is not automatically better once organized racing enters the purchase. Ask which models are welcome and what tires are used, then decide how much of your driving will happen at home. The Micro-B makes its strongest case when its small size enables regular driving that a bigger buggy would not get."
+      ],
+      "sourceIndexes": [
+        0,
+        4
+      ],
+      "table": {
+        "caption": "Documented alternative routes; no head-to-head performance claim",
+        "columns": [
+          "Vehicle",
+          "What you buy",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Losi Micro-B",
+            "1/24 2WD brushed RTR",
+            "A credible indoor buggy starter"
+          ],
+          [
+            "Losi Micro-T",
+            "1/28 2WD brushed RTR",
+            "The Micro-T is shorter and wears a stadium-truck body; choose its format for a different micro course."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Final verdict",
+      "heading": "Buy it for repeatable indoor practice, then learn the stock car.",
+      "paragraphs": [
+        "The Micro-B is a convincing complete micro buggy for the buyer named here. Its aluminum chassis, oil shocks and proportional radio form a coherent small racing package, and the included power equipment keeps the startup decisions manageable. Those documented qualities support our editorial assessment; they are not measured lap-time, range, crash or lifetime results.",
+        "The chief reservation is the running environment. If the available space is rough ground or a lawn, the tiny buggy solves the wrong problem. If the space is a clean garage or indoor circuit, its scale can become the reason you drive more often. Confirm that fit before treating the price or a quoted speed as the decisive feature.",
+        "I would start with the factory tires, a reduced throttle setting and a course with forgiving barriers. Learn the controls and maintenance before changing electronics. An identifiable problem provides a much better reason for an upgrade than an unused accessory list. The buying judgment also remains conditional on the exact LOS00007T1 package: verify the complete-car listing, charger arrangement and transmitter cells when the box arrives. A good starter gives you enough car to learn with and few unnecessary purchases. This Micro-B has a credible case on those terms."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "losi-micro-b-detail.jpg",
+      "alt": "Official Losi product image 2 of the exact Micro-B LOS00007T1",
+      "caption": "Official photograph of the white Micro-B, showing its front and rear tire arrangement.",
+      "source": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+      "credit": "Losi official product photography"
+    },
+    {
+      "image": "losi-micro-b-angle.jpg",
+      "alt": "Official Losi product image 3 of the exact Micro-B LOS00007T1",
+      "caption": "Official Micro-B photograph demonstrating the compact buggy proportions; this is manufacturer staging, not our testing.",
+      "source": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+      "credit": "Losi official product photography"
+    }
+  ],
+  "specs": [
+    [
+      "Exact vehicle",
+      "Losi LOS00007T1 · White · complete brushed buggy"
+    ],
+    [
+      "Amazon ASIN",
+      "B0DJ3M2Q56"
+    ],
+    [
+      "Format",
+      "Complete assembled RTR with body and installed electronics"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/24 · 2WD"
+    ],
+    [
+      "Motor",
+      "Losi 65T brushed motor"
+    ],
+    [
+      "Controls",
+      "Spektrum SLT2; 2-in-1 SLT ESC/receiver"
+    ],
+    [
+      "Battery",
+      "350mAh 2S 30C LiPo · included"
+    ],
+    [
+      "Required completion",
+      "Nothing required; manufacturer recommends an optional 65W USB-C supply"
+    ],
+    [
+      "Chassis and suspension",
+      "Black-anodized aluminum chassis; oil-filled shocks"
+    ],
+    [
+      "Tire package",
+      "Pro-Line buggy wheels and tires"
+    ],
+    [
+      "Dimensions",
+      "173 × 109 × 45 mm"
+    ],
+    [
+      "Wheelbase",
+      "118 mm"
+    ],
+    [
+      "Reference price",
+      "$89.99 USD · official package reference · 2026-10-13"
+    ],
+    [
+      "Specification discrepancies",
+      "Bash The Stampede describes AAA transmitter cells; Losi lists four AA. Follow the official manual and actual battery holder. Manufacturer speed/runtime figures are claims, not our measurements."
+    ],
+    [
+      "Manufacturer table · Approximate Assembly Time",
+      "No Assembly Required"
+    ],
+    [
+      "Manufacturer table · Battery",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Charger",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Chassis",
+      "Aluminum"
+    ],
+    [
+      "Manufacturer table · Completion Level",
+      "Ready-To-Run"
+    ],
+    [
+      "Manufacturer table · Connector Type",
+      "PH 2.0 (High-Current Ultra Micro)"
+    ],
+    [
+      "Manufacturer table · Differential",
+      "Gear"
+    ],
+    [
+      "Manufacturer table · Drivetrain",
+      "2WD"
+    ],
+    [
+      "Manufacturer table · Gear Pitch",
+      "0.3 MOD"
+    ],
+    [
+      "Manufacturer table · LiPo Compatibility",
+      "2S"
+    ],
+    [
+      "Manufacturer table · Motor Class",
+      "Mid Size"
+    ],
+    [
+      "Manufacturer table · Motor Type",
+      "Brushed"
+    ],
+    [
+      "Manufacturer table · Power Type",
+      "Electric"
+    ],
+    [
+      "Manufacturer table · Product Height",
+      "1.77\" (45 mm)"
+    ],
+    [
+      "Manufacturer table · Product Length",
+      "6.81\" (173 mm)"
+    ],
+    [
+      "Manufacturer table · Product Weight",
+      "With Battery: 5.36oz (152g)"
+    ],
+    [
+      "Manufacturer table · Product Width",
+      "4.29\" (109 mm)"
+    ],
+    [
+      "Manufacturer table · Radio",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Receiver",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Scale",
+      "1/24"
+    ],
+    [
+      "Manufacturer table · Servos",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Shock Type",
+      "Oil-Filled (20wt)"
+    ],
+    [
+      "Manufacturer table · Speed Control",
+      "Included"
+    ],
+    [
+      "Manufacturer table · Vehicle Size",
+      "Micro"
+    ],
+    [
+      "Manufacturer table · Vehicle Type",
+      "Buggy"
+    ],
+    [
+      "Manufacturer table · Wheelbase",
+      "4.65\" (118 mm)"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which exact version does this review cover?",
+      "answer": "LOS00007T1, White · complete brushed buggy. Match the manufacturer number and full vehicle package before buying; similarly named parts and other generations are separate purchases."
+    },
+    {
+      "question": "What equipment do I still need?",
+      "answer": "Nothing required; manufacturer recommends an optional 65W USB-C supply. The article lists the drive battery, charger, transmitter power and useful workbench items separately."
+    },
+    {
+      "question": "What power equipment is specified?",
+      "answer": "350mAh 2S 30C LiPo · included. Follow the exact model manual for charging, connectors, dimensions and any controller chemistry setting."
+    },
+    {
+      "question": "Where should I use it?",
+      "answer": "The intended setting is indoor and on-road. Match obstacle size and usable space to the actual dimensions; the vehicle category does not guarantee suitability for every surface."
+    },
+    {
+      "question": "Is it ready for organized events?",
+      "answer": "Ask the venue about permitted 1/24 classes, motor, battery, tires and assistance. An RTR label does not establish race or competition eligibility."
+    },
+    {
+      "question": "Is the rating a physical test result?",
+      "answer": "No. It is a research-led assessment of package completeness, purpose-fit equipment, adjustment, service documentation and purchase value for the named buyer. We have not driven this vehicle."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Losi · exact LOS00007T1 official product, package and specification",
+      "url": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Losi · model-specific instructions and parts documentation",
+      "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw356c9258/Manuals/LOS00007_MANUAL_EN.pdf",
+      "checked": "2026-10-13",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · exact B0DJ3M2Q56 complete vehicle",
+      "url": "https://www.amazon.com/dp/B0DJ3M2Q56?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+      "checked": "2026-10-13",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "Bash The Stampede · Micro-B review",
+      "url": "https://www.bashthestampede.com/the-losi-micro-b-review/",
+      "checked": "2026-10-13",
+      "kind": "Independent coverage"
+    },
+    {
+      "name": "Losi · alternative Micro-T exact specification",
+      "url": "https://www.losi.com/product/losi-1-28-micro-t-2s-2wd-rtr-stadium-truck-battery-and-charger-included-silver/LOS-1392T2.html",
+      "checked": "2026-10-13",
+      "kind": "Alternative manufacturer"
+    }
+  ],
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Bash The Stampede describes AAA transmitter cells; Losi lists four AA. Follow the official manual and actual battery holder. Manufacturer speed/runtime figures are claims, not our measurements. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+}
