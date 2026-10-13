@@ -2,8 +2,9 @@
 
 A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, browser JavaScript and a dependency-free Node generator.
 
-- [Homepage](https://alekspasseo.github.io/rc-car-king/)
-- [In-depth Traxxas Nissan 240SX review](https://alekspasseo.github.io/rc-car-king/traxxas/4-tec-drift-nissan-240sx/)
+- [Production homepage](https://rccarking.com/)
+- [In-depth Traxxas Nissan 240SX review](https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/)
+- [GitHub preview](https://alekspasseo.github.io/rc-car-king/)
 - [Initial 50-review launch index](LAUNCH_ARCHIVE.md): eight real brands, complete vehicles and body-inclusive kits.
 - Full product box: actual product photo, overview, specs, pros, cons, rating, buy/skip guidance and exact Amazon affiliate link.
 - 2,000+ words of core vehicle analysis in every review, five category scores, full specifications, startup-cost and alternative-car tables, six FAQs, attributed official media and dated sources.
@@ -32,7 +33,7 @@ Alternatively supply AMAZON_CREATORS_CREDENTIAL_ID, AMAZON_CREATORS_CREDENTIAL_S
 
 ## Publishing
 
-GitHub Pages serves main /docs. Commit generated docs with source/content updates. The local Codex daily automation remains scheduled for 09:00 Europe/Skopje and follows CONTENT_GUIDE.md. Review slugs remain /brand/model-name/; the temporary GitHub repository prefix disappears when the owner connects the domain. No custom domain is connected.
+Cloudflare Pages project `rc-car-king` builds main automatically and serves https://rccarking.com/ with root review paths /brand/model-name/. Its build environment sets SITE_ORIGIN=https://rccarking.com and BASE_PATH empty, then runs `npm run build && npm run check`. See CLOUDFLARE.md. GitHub Pages still serves main /docs as a separate preview using the default configuration. Commit generated preview docs with source/content updates. The daily automation remains scheduled for 09:00 Europe/Skopje and follows CONTENT_GUIDE.md, verifying production after every push.
 
 ## Media
 

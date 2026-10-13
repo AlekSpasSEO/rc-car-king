@@ -1,6 +1,6 @@
 # RC Car King publishing guide
 
-Publish one in-depth, source-backed RC car review per day at /brand/model-name/. Preview: https://alekspasseo.github.io/rc-car-king/. Do not connect rccarking.com until the owner requests it.
+Publish one in-depth, source-backed RC car review per day at /brand/model-name/. Production: https://rccarking.com/ on Cloudflare Pages, authorized by the owner on 13 October 2026. GitHub preview: https://alekspasseo.github.io/rc-car-king/. See CLOUDFLARE.md for the hosting configuration.
 
 ## Editorial scope and voice
 
@@ -18,8 +18,8 @@ The owner authorized an initial 50-review launch archive on 13 October 2026. Tha
    If the API uses a documented distributor prefix or regional part suffix for the same exact vehicle, retain the official SKU in `sku` and `amazon.sku`, set the exact returned value in `amazon.apiSku`, and explain the mapping in `amazon.identityNote` and the evidence record. The refresh still requires an exact API part match; do not strip prefixes or accept approximate strings. Verify regional package differences separately.
 5. Set vehicleScope to Complete RC car and status to published only once the record meets the requirements. Future-dated and draft records stay out of the public archive.
 6. Refresh commercial data with: npm run refresh:amazon -- --credentials "C:/Users/ASUS/Downloads/Coffeedant-credentials.csv" (or use environment credentials). The refresh validates exact ASIN, manufacturer SKU and brand independently for every published vehicle and saves only sanitized public offer data. Missing, inaccessible or mismatched items retain the previously verified review link with price and seller cleared immediately; other valid offers still update. A rejected batch is retried one item at a time. Inspect the reported unavailable identities without replacing them with approximate listings. If authentication fails before a refresh can run, retain the prior snapshot and let the browser's 24-hour freshness rule hide it on expiry. Never fabricate prices.
-7. Run npm run build and npm run check. Inspect the product box, full article, photos, offer display, links, FAQ and mobile tables. Keep generated docs/ committed with source/content changes. Commit and push main; GitHub Pages serves main /docs.
-8. Verify the live review and homepage before reporting publication. Notify with the review link on successful publication, or a concrete blocker on failure. Stay quiet when there is no meaningful change.
+7. Run npm run build and npm run check. Inspect the product box, full article, photos, offer display, links, FAQ and mobile tables. Keep generated docs/ committed with source/content changes. Commit and push main; GitHub Pages serves main /docs as a preview. Cloudflare Pages automatically rebuilds main with SITE_ORIGIN=https://rccarking.com and BASE_PATH empty, then runs the checker before deployment.
+8. Verify the matching successful Cloudflare deployment, the live review at https://rccarking.com/brand/model-name/ and the homepage before reporting publication. Notify with the production review link on successful publication, or a concrete blocker on failure. Stay quiet when there is no meaningful change.
 
 ## Required labeling
 
@@ -41,6 +41,6 @@ Separate manufacturer facts, independent observations, owner reports and editori
 
 Use actual official model photos and technical illustrations, with source links and credits. Maintain MEDIA_SOURCES.md. Keep the generated Tokyo artwork on the homepage as atmosphere; do not use it as review product photography. Community photos need appropriate permission and attribution before republication.
 
-## Domain later
+## Production domain
 
-When authorized, change site.config.json origin to https://rccarking.com and basePath to an empty string, configure the chosen host, rebuild and deploy. Review paths stay /brand/model-name/. Regenerate canonical metadata, feed and sitemap. Do not add a CNAME during preview.
+The owner authorized connecting rccarking.com through Cloudflare on 13 October 2026. Production uses the root path and canonical origin https://rccarking.com, including feed, sitemap and social metadata. The existing build environment overrides preserve the separate GitHub preview. Keep the Cloudflare GitHub integration enabled so daily main pushes update production. The domain registration remains at GoDaddy; Cloudflare hosts DNS and the website. Do not add a GitHub CNAME; the production domain is attached to Cloudflare Pages.

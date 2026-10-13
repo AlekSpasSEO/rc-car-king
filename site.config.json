@@ -4,5 +4,10 @@
   "basePath": "/rc-car-king",
   "timezone": "Europe/Skopje",
   "currency": "USD",
-  "futureDomain": "rccarking.com"
+  "production": {
+    "origin": "https://rccarking.com",
+    "basePath": "",
+    "provider": "Cloudflare Pages",
+    "project": "rc-car-king"
+  }
 }

@@ -7,6 +7,8 @@ import {matchesVehicle} from './amazon-client.mjs';
 import {refreshOffers} from './amazon-offers.mjs';
 import {overallRating} from './review-template.mjs';
 const config=JSON.parse(await readFile('site.config.json','utf8'));
+config.basePath=process.env.BASE_PATH??config.basePath;
+config.origin=process.env.SITE_ORIGIN??config.origin;
 const today=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const expectedPages=[];
 const files=(await readdir('content/reviews')).filter(f=>f.endsWith('.json'));
@@ -66,6 +68,8 @@ for(const file of output.filter(f=>f.endsWith('.html'))){
  const html=await readFile(file,'utf8');
  assert.equal((html.match(/<h1\b/g)||[]).length,1,`${file}: one H1`);
  assert.ok(html.includes('<title>')&&html.includes('name="description"'));
+ const pageRoute=path.relative('docs',file).split(path.sep).join('/').replace(/index\.html$/,'');
+ assert.ok(html.includes(`<link rel="canonical" href="${config.origin}${config.basePath}/${pageRoute}">`),`${file}: canonical must match the deployment origin and route`);
  for(const m of html.matchAll(/(?:href|src)="([^"#?]+)[^"]*"/g)){
   const url=m[1];if(!url.startsWith(config.basePath+'/')) continue;
   const local=url.slice(config.basePath.length+1).split('?')[0];
