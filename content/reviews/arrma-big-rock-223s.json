@@ -517,5 +517,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DVN9799X, ARA4312V4T1 and ARRMA for the exact complete-car listing. Greg Vogel identifies the matching black complete vehicle and describes cold-weather driving. Those sessions remain his coverage, not our test or a universal temperature/durability promise. Manufacturer current manual establishes 2S/3S support rather than a typo in independent completion copy. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Big Rock 223S 4X4 Review | RC Car King",
+    "description": "A longer 4WD crew-cab RC truck with brushless 2S/3S power and DSC. See the exact package, terrain fit, battery requirements, pros, cons and rating."
+  }
 }

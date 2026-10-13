@@ -520,5 +520,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0BQWS3MQ9, 97074-1-BLUE and Traxxas for the exact complete-car listing. Mike Febbo's observations about bushings and combined electronics are attributed; his driving remains his test. The factory truck uses straight axles, not the full-size TRX-4's portal arrangement. API color suffix is documented by the current official blue Bronco variant and base 97074-1. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas TRX-4M Ford Bronco Review | RC Car King",
+    "description": "The TRX-4M Bronco review covers its small crawler layout, dedicated LiPo and USB charger, stock bushings, integrated electronics, terrain and upgrade costs."
+  }
 }

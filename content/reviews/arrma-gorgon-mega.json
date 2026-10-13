@@ -510,5 +510,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0CJMWPG71, ARA3230ST2 and ARRMA for the exact complete-car listing. Current official ARA3230ST2 page labels this red battery-inclusive variant Discontinued; Amazon API still verified the exact complete vehicle. Availability is a live-offer question. Current content distinguishes factory brushed RTR from kits, GROM and brushless 223S. RC Driver’s driving remains independently attributed and its broad no-extra-purchase wording is narrowed by official USB input requirements. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Gorgon MEGA 550 Review | RC Car King",
+    "description": "Review the complete brushed 2WD Gorgon package, included NiMH charging gear, suitable terrain and remaining-stock caveats before buying this RC monster truck."
+  }
 }

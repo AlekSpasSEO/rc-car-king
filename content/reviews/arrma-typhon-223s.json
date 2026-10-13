@@ -503,5 +503,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DN43RSYD, ARA4306V4T1 and ARRMA for the exact complete-car listing. Independent source is a research-led parts guide, not our drive test. Current product-page battery length 147mm conflicts with current manual 165mm. The exact green factorySKU differs from GROM, 6S and TLR packages; their performance results are not transferred. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Typhon 223S 4X4 Review | RC Car King",
+    "description": "Review the exact Typhon 223S buggy: 4WD brushless hardware, DSC, 2S/3S battery fit, setup, terrain and the differences from GROM and 6S versions."
+  }
 }

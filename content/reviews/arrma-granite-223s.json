@@ -517,5 +517,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DVMLVJ5X, ARA4302V4T2 and ARRMA for the exact complete-car listing. Independent source is a researched buying guide, not a hands-on test. Current web tray length 139mm conflicts with current manual 165mm; verify real pack fit. Earlier brushed and 3S test results are not transferred. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Granite 223S 4X4 Review | RC Car King",
+    "description": "Explore the compact 4WD Granite 223S: brushless power, DSC, center differential, terrain fit and the battery-and-charger costs beyond the ready-to-run car."
+  }
 }

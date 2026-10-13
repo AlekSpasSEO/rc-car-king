@@ -522,5 +522,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. API ASC70021 corresponds to official 70021 standard RTR. Official document link label mistakenly says 72021 while filename/model contents identify 70021. Newer 70041 SC10SW is a different listing. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Team Associated Pro2 SC10 Method Review | RC Car King",
+    "description": "Explore the Pro2 SC10 Method truck: 2WD brushless hardware, DVC controls, terrain, separate power gear and the complete ready-to-run purchase requirements."
+  }
 }

@@ -519,5 +519,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B09NYDS7M4, TRX89086-4RED and Traxxas for the exact complete-car listing. AMain is a retailer; its driving and measurements remain its review. Manufacturer 60+mph claim requires 4S and optional gearing. API TRX89086-4RED is its exact part notation for the red 89086-4, with official current page and color photography documenting the variant. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas Maxx Review | RC Car King",
+    "description": "Review the WideMaxx brushless monster truck: 3S/4S power requirements, factory suspension, outdoor space, storage, setup and the complete charging budget."
+  }
 }

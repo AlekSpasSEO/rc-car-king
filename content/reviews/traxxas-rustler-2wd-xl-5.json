@@ -512,5 +512,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0GW933QBV, 37254-8 and Traxxas for the exact complete-car listing. The independent seller guide covers the XL-5 family; its broad impressions are not presented as a test of our exact blue ASIN. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas Rustler 2WD XL-5 Review | RC Car King",
+    "description": "Explore the brushed 2WD Rustler XL-5 package, included NiMH battery, USB-C charger, first-circuit fit, grass limits and the cost of future power upgrades."
+  }
 }

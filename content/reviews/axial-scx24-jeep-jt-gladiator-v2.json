@@ -607,5 +607,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Historical independent review predates V2 electronics/oil shocks and is used only for body and wheelbase context. Current official table rounds wheelbase to 155mm; parts naming uses 153.7mm. No original-version handling result is carried across. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Axial SCX24 Jeep Gladiator V2 Review | RC Car King",
+    "description": "The exact SCX24 Gladiator V2 review covers its longer wheelbase, body clearance, included battery equipment, indoor courses and generation-specific specs."
+  }
 }

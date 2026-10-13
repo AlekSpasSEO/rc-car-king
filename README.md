@@ -3,6 +3,7 @@
 A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, browser JavaScript and a dependency-free Node generator.
 
 - [Production homepage](https://rccarking.com/)
+- [About Aleksandar and RC Car King](https://rccarking.com/about/)
 - [In-depth Traxxas Nissan 240SX review](https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/)
 - [GitHub preview](https://alekspasseo.github.io/rc-car-king/)
 - [Initial 50-review launch index](LAUNCH_ARCHIVE.md): eight real brands, complete vehicles and body-inclusive kits.
@@ -11,6 +12,8 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 - The Garage Editor is an original house voice informed by RC Car Action, RC Driver and Big Squid RC. See EDITORIAL_VOICE.md.
 - Reviews cover complete cars and body-inclusive car kits. The earlier chassis-only pilot remains a source draft.
 - Shareable brand/price/use/search filters, RSS, sitemap, canonical metadata and Article/Review structured data.
+- Eight crawlable brand archives, unique model-specific metadata, publisher/founder/editorial identities, Product with editorial Review and pros/cons, visible FAQs and social-card metadata.
+- [SEO audit and actual metadata inventory](SEO_AUDIT.md): sitemap coverage, schema facts, affiliate-link checks and discovery standards.
 
 ## Local development
 
@@ -21,6 +24,8 @@ Node 22+; no npm dependencies.
     npm run dev
 
 Open http://127.0.0.1:4318/rc-car-king/.
+
+The checker verifies both the review standard and SEO requirements, including actual schema values, metadata uniqueness, sitemap/image coverage and sponsored Amazon links. Production uses the environment overrides documented in CLOUDFLARE.md. GitHub preview pages are noindex/follow. Each new published review requires `seo.title` and `seo.description`; see CONTENT_GUIDE.md.
 
 ## Amazon integration
 

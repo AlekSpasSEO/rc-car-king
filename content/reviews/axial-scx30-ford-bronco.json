@@ -595,5 +595,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. SCX30 damped shocks are not represented as conventional oil-filled SCX24 shocks. The official product listing supplies manual and servo-saver supplements; consult all current sheets. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Axial SCX30 Ford Bronco Review | RC Car King",
+    "description": "A small Bronco crawler for compact obstacle courses. Explore SCX30 dimensions, included power gear, controls, terrain limits and the full buying package."
+  }
 }

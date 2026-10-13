@@ -513,5 +513,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0HBFR8MTZ, 82224-4 and Traxxas for the exact complete-car listing. The historical independent test covers 82024-4. Its steering observation is attributed and does not establish current 82224-4 measured performance, runtime or reliability. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas TRX-4 Sport Review | RC Car King",
+    "description": "Explore the complete TRX-4 Sport crawler: portal axles, permanent differential locks, one gear, trail setup, separate battery costs and buying tradeoffs."
+  }
 }

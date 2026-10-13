@@ -632,5 +632,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. RC Team lists AAA cells and BK Bar tires; current manufacturer lists AA cells and directional-rib/step-pin tread. Those retailer differences are not adopted as the official specification. Older LOS 01019 Dynamite-equipped reviews are not used as tests of LOS-1056. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Losi Mini-T 2.0 Brushless Review | RC Car King",
+    "description": "Read the newer Spektrum-powered Mini-T 2.0 review. See included power equipment, the extra USB adapter and key differences from older Dynamite versions."
+  }
 }

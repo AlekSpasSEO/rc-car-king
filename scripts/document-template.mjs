@@ -1,0 +1,13 @@
+export function renderDocument({title,description,body,href,absolute,esc,schema,url='',script='',robots='index,follow',kind='website',socialImage='assets/night-drift.png',imageAlt='Original miniature drift-car artwork for RC Car King',imageSize,author='RC Car King Editorial',article}){
+ const imageUrl=absolute(socialImage);
+ const robotsValue=robots==='index,follow'?'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1':robots;
+ const meta=(key,value,property=false)=>`<meta ${property?'property':'name'}="${key}" content="${esc(value)}">`;
+ return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${esc(title)}</title>${meta('description',description)}${meta('robots',robotsValue)}${meta('author',author)}${meta('theme-color','#0a0d16')}
+<link rel="canonical" href="${absolute(url)}"><link rel="icon" href="${href('assets/favicon.svg')}" type="image/svg+xml"><link rel="alternate" type="application/rss+xml" title="RC Car King reviews" href="${href('feed.xml')}">
+${meta('og:type',kind,true)}${meta('og:site_name','RC Car King',true)}${meta('og:locale','en_US',true)}${meta('og:title',title,true)}${meta('og:description',description,true)}${meta('og:url',absolute(url),true)}${meta('og:image',imageUrl,true)}${meta('og:image:alt',imageAlt,true)}${imageSize?meta('og:image:width',imageSize.width,true)+meta('og:image:height',imageSize.height,true):''}
+${meta('twitter:card','summary_large_image')}${meta('twitter:title',title)}${meta('twitter:description',description)}${meta('twitter:image',imageUrl)}${meta('twitter:image:alt',imageAlt)}
+${article?meta('article:author',absolute('about/#garage-editor'),true)+meta('article:section','RC car reviews',true):''}
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,500;0,600;0,700;0,800;0,900;1,700;1,800;1,900&family=DM+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="${href('assets/style.css')}"><link rel="stylesheet" href="${href('assets/review.css')}"><link rel="stylesheet" href="${href('assets/about.css')}">
+${schema?`<script type="application/ld+json">${JSON.stringify(schema).replace(/</g,'\\u003c')}</script>`:''}</head><body>${body}${script?`<script src="${href(`assets/${script}`)}" defer></script>`:''}</body></html>`;
+}

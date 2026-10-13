@@ -599,5 +599,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. RC Driver calls the motor 050-size; manufacturer product specification says 030. The official table's USB connector entry does not identify the vehicle battery plug; verify manual and actual pack before buying spares. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Axial SCX24 Toyota 4Runner Review | RC Car King",
+    "description": "Read the SCX24 Toyota 4Runner buying review: supplied power gear, small-course terrain, stock controls and the manufacturer’s conflicting motor descriptions."
+  }
 }

@@ -517,5 +517,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DN3DN2M7, ARA4305V4T1 and ARRMA for the exact complete-car listing. RC Driver identifies the matching redSKU and separately discusses a converted vehicle; its driving is not our testing and the converted truck is not this factory configuration. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Vorteks 223S 4X4 Review | RC Car King",
+    "description": "The 4WD Vorteks 223S review explains brushless power, DSC, stadium-truck terrain, separate battery costs and how to avoid confusing it with the 2WD model."
+  }
 }

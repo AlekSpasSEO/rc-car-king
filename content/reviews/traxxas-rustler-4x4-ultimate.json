@@ -519,5 +519,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0CNG2PCWR, 67097-4-BLUE and Traxxas for the exact complete-car listing. Independent source is launch coverage rather than a controlled current-generation test. The current official height duplicates width at 329mm; verify it for fitted storage instead of relying on a silent correction. The blue API suffix is linked to the official current blue 67097-4 variant. Current Gravix tire specification is not replaced with older-generation tire descriptions. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas Rustler 4X4 Ultimate Review | RC Car King",
+    "description": "Review the Rustler 4X4 Ultimate’s GTR shocks, sway bars and connected radio. See brushless setup, terrain, separate battery costs and factory-upgrade value."
+  }
 }

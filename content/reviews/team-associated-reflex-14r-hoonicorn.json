@@ -518,5 +518,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. API ASC20178 is official 20178 with distributor brand prefix; manufacturer page confirms exact standard RTR and UPC 784695201781. Full-size 1,400hp Hoonicorn specifications do not describe this electric model. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Team Associated Reflex 14R Hoonicorn Review | RC Car King",
+    "description": "Review the exact brushed 4WD Hoonicorn RTR. See the licensed body, friction shocks, pavement fit, separate battery needs and compact-car buying tradeoffs."
+  }
 }

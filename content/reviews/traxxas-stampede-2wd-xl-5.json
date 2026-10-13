@@ -512,5 +512,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0GNW8LW5Y, 36254-8 and Traxxas for the exact complete-car listing. Historical Stampede test observations are generation context only and are not transferred to the current 36254-8 body, suspension or charging package. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas Stampede 2WD XL-5 Review | RC Car King",
+    "description": "Review the tall brushed Stampede XL-5 monster truck. See supplied NiMH charging gear, 2WD traction, terrain, USB input power needs, setup, pros and cons."
+  }
 }

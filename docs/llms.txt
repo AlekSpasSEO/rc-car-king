@@ -1,0 +1,73 @@
+# RC Car King
+
+> Research-led RC vehicle buying guides. Publisher: RC Car King; founder/editor: Aleksandar Spasevski. The Garage Editor is the house voice, not an invented hands-on tester.
+
+Current reviews cover complete cars and body-inclusive kits. Editorial ratings describe buyer fit, not measured performance or Amazon customer stars. Amazon links are affiliate links; offers expire after 24 hours.
+
+## Publication
+- [About](https://alekspasseo.github.io/rc-car-king/about/): Aleksandar’s story and editorial identity.
+- [Method](https://alekspasseo.github.io/rc-car-king/methodology/): Sources, ratings and evidence policy.
+- [XML sitemap](https://alekspasseo.github.io/rc-car-king/sitemap.xml)
+- [Review feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
+
+## Brand archives
+- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
+- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
+- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
+- [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
+- [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
+- [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
+
+## Reviews
+- [ARRMA Big Rock 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/big-rock-223s/): A longer 4WD crew-cab RC truck with brushless 2S/3S power and DSC. See the exact package, terrain fit, battery requirements, pros, cons and rating.
+- [ARRMA Gorgon MEGA 550](https://alekspasseo.github.io/rc-car-king/arrma/gorgon-mega/): Review the complete brushed 2WD Gorgon package, included NiMH charging gear, suitable terrain and remaining-stock caveats before buying this RC monster truck.
+- [ARRMA Granite 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/granite-223s/): Explore the compact 4WD Granite 223S: brushless power, DSC, center differential, terrain fit and the battery-and-charger costs beyond the ready-to-run car.
+- [ARRMA Kraton 6S BLX V6](https://alekspasseo.github.io/rc-car-king/arrma/kraton-6s-v6/): The exact V6 Kraton review covers its 4S/6S brushless system, EXB-derived hardware, outdoor space needs, setup, ownership costs and experienced-buyer fit.
+- [ARRMA Mojave 4S BLX](https://alekspasseo.github.io/rc-car-king/arrma/mojave-4s/): An in-depth Mojave 4S review covering the 4WD desert-truck package, 3S/4S power equipment, body access, suitable terrain, startup costs, pros and cons.
+- [ARRMA Senton 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/senton-223s/): See how the brushless 4WD Senton 223S package fits dirt-circuit recreation. We cover DSC, its center differential, cleaning, battery needs and buying value.
+- [ARRMA Typhon 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/typhon-223s/): Review the exact Typhon 223S buggy: 4WD brushless hardware, DSC, 2S/3S battery fit, setup, terrain and the differences from GROM and 6S versions.
+- [ARRMA Vorteks 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/vorteks-223s-4x4/): The 4WD Vorteks 223S review explains brushless power, DSC, stadium-truck terrain, separate battery costs and how to avoid confusing it with the 2WD model.
+- [Axial SCX10 III Coyote](https://alekspasseo.github.io/rc-car-king/axial/scx10-iii-coyote/): Explore the SCX10 III Coyote ready-to-run crawler: finished body, straight axles, trail setup, battery and charger needs, ownership and editorial buying score.
+- [Axial SCX24 Chevrolet C10 1967–1972](https://alekspasseo.github.io/rc-car-king/axial/scx24-chevrolet-c10-1967-1972/): Review the current AXI-3408 Chevrolet C10 crawler. See included power equipment, compact terrain fit, motor-spec conflicts, setup, pros, cons and rating.
+- [Axial SCX24 Jeep JT Gladiator V2](https://alekspasseo.github.io/rc-car-king/axial/scx24-jeep-jt-gladiator-v2/): The exact SCX24 Gladiator V2 review covers its longer wheelbase, body clearance, included battery equipment, indoor courses and generation-specific specs.
+- [Axial SCX24 Toyota 4Runner](https://alekspasseo.github.io/rc-car-king/axial/scx24-toyota-4runner/): Read the SCX24 Toyota 4Runner buying review: supplied power gear, small-course terrain, stock controls and the manufacturer’s conflicting motor descriptions.
+- [Axial SCX30 Ford Bronco](https://alekspasseo.github.io/rc-car-king/axial/scx30-ford-bronco/): A small Bronco crawler for compact obstacle courses. Explore SCX30 dimensions, included power gear, controls, terrain limits and the full buying package.
+- [Axial SCX30 Jeep Wrangler JLU](https://alekspasseo.github.io/rc-car-king/axial/scx30-jeep-wrangler-jlu/): The SCX30 Jeep Wrangler JLU review covers its finished body, supplied power gear, tiny-course fit, stock hardware and limits in the published specifications.
+- [Kyosho Fazer D2 Toyota 86 GT Tuned Lightning Red](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-d2-toyota-86-gt/): Review Kyosho’s RWD Toyota 86 drift Readyset: steering assistance, throttle control, venue tires, separate power equipment, setup and beginner buying fit.
+- [Kyosho Fazer Mk2 1971 Datsun 240Z Rally](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-datsun-240z-rally/): A complete 4WD 240Z rally car with oil damping and a chassis cover. See exact package details, manageable dirt terrain, power equipment and ownership costs.
+- [Kyosho Fazer Mk2 1970 Dodge Charger Supercharged VE Gray](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-dodge-charger-ve/): The brushless Charger VE review covers the finished 1970 body, road-car hardware, optional lights, required power gear and the exact complete-car package.
+- [Kyosho Fazer Mk2 1969 Chevy El Camino SS396 Cortez Silver](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-el-camino-ss396/): Review the silver El Camino Readyset for smooth-ground driving. See its long 4WD road chassis, brushed power, equipment needs and discontinued-model caveats.
+- [Kyosho Fazer Mk2 Nissan Skyline 2000GT-R KPGC10 Silver](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-skyline-2000gt-r/): Explore the silver KPGC10 Skyline Readyset: exact C-revision hardware, brushed 4WD power, low-chassis pavement use, setup, required extras and buying value.
+- [Kyosho Fazer Mk2 1970 Toyota Celica GT Orion Turquoise](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-toyota-celica-gt/): The 1970 Celica GT Readyset review covers its finished vintage body, brushed 4WD chassis, pavement use, separate power gear and optional lighting budget.
+- [Kyosho KC10 Toyota Land Cruiser 60 Body Type1](https://alekspasseo.github.io/rc-car-king/kyosho/kc10-land-cruiser-60/): Review the KC10 Land Cruiser 60 Readyset: straight axles, scale-trail equipment, power requirements and which dig or two-speed features are optional extras.
+- [Kyosho Mini-Z 4x4 Toyota Land Cruiser 300 Precious White Pearl](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-land-cruiser-300/): A palm-sized white LC300 for indoor crawling. Read the exact Mini-Z 4x4 package, AAA battery needs, miniature-course fit and conflicting published speed claims.
+- [Losi Micro-B](https://alekspasseo.github.io/rc-car-king/losi/micro-b/): Review the Losi Micro-B miniature 2WD buggy: aluminum chassis, oil shocks, included battery equipment, indoor-circuit fit, setup and editorial buying rating.
+- [Losi Micro-T](https://alekspasseo.github.io/rc-car-king/losi/micro-t/): Explore the Losi Micro-T stadium truck package, supplied battery gear, oil shocks and the surfaces and obstacle sizes that suit a tiny indoor RC car.
+- [Losi Mini-B Brushless](https://alekspasseo.github.io/rc-car-king/losi/mini-b-brushless/): An in-depth Mini-B Brushless review covering the included battery and charger, extra USB power adapter, small-car circuits, tires, setup and ownership.
+- [Losi Mini LMT Grave Digger](https://alekspasseo.github.io/rc-car-king/losi/mini-lmt-grave-digger/): Review the compact 4WD Grave Digger monster truck: solid axles, supplied battery gear, suitable driving space, setup and the complete purchase tradeoffs.
+- [Losi Mini-T 2.0 Brushless](https://alekspasseo.github.io/rc-car-king/losi/mini-t-2-0-brushless/): Read the newer Spektrum-powered Mini-T 2.0 review. See included power equipment, the extra USB adapter and key differences from older Dynamite versions.
+- [Redcat Racing Danchee Ridgerock](https://alekspasseo.github.io/rc-car-king/redcat/danchee-ridgerock/): Review this 1/10 dual-motor crawler with four steering modes and included battery equipment. See terrain fit, setup, upgrade tradeoffs, pros, cons and rating.
+- [Tamiya BBX BB-01](https://alekspasseo.github.io/rc-car-king/tamiya/bbx-bb-01/): The BBX BB-01 review covers its detailed buggy kit, suspension, body build, motor-shaft and low-profile-servo requirements, startup equipment and buying value.
+- [Tamiya Fighter NXGEN DT-04](https://alekspasseo.github.io/rc-car-king/tamiya/fighter-nxgen-dt-04/): Explore the Fighter NXGEN DT-04 buggy kit: oil dampers, molded body panels, standard servo fit, build requirements, terrain and complete startup costs.
+- [Tamiya The Frog (2005)](https://alekspasseo.github.io/rc-car-king/tamiya/frog-2005/): Review the 2005 Frog reissue as a classic RC build. See its space-frame chassis, suspension, included hardware, required electronics and complete kit budget.
+- [Tamiya The Grasshopper II (2017)](https://alekspasseo.github.io/rc-car-king/tamiya/grasshopper-ii-2017/): An in-depth Grasshopper II kit review covering the stock 380 motor, molded classic body, assembly, suitable terrain and why conversion spending needs a plan.
+- [Tamiya The Hornet](https://alekspasseo.github.io/rc-car-king/tamiya/hornet/): Review the original Hornet kit: supplied 540 motor, rear oil damping, classic buggy construction, regional equipment details, startup costs and buying fit.
+- [Tamiya Midnight Pumpkin Metallic Special](https://alekspasseo.github.io/rc-car-king/tamiya/midnight-pumpkin-metallic/): Explore this plated classic pickup kit, its tall wheelie-oriented layout, simple suspension, assembly equipment and the budget beyond the car itself.
+- [Tamiya Subaru Impreza Monte-Carlo ’99 TT-02](https://alekspasseo.github.io/rc-car-king/tamiya/subaru-impreza-monte-carlo-99/): The TT-02 Impreza Monte-Carlo ’99 review covers the blue-and-gold body build, mild rally use, friction damping, regional kit contents and discontinued stock.
+- [Tamiya Toyota Celica GT-Four ST165 TT-02](https://alekspasseo.github.io/rc-car-king/tamiya/toyota-celica-gt-four-st165/): Review the TT-02 Celica ST165 kit for smooth-ground driving. Check regional body finish, ESC contents, assembly requirements and the complete equipment basket.
+- [Team Associated DC10 Drift RTR](https://alekspasseo.github.io/rc-car-king/team-associated/dc10-drift-rtr/): Read the DC10 RTR buying review: RWD brushless power, G10 chassis, adjustable gyro, separate battery equipment, drift setup and exact blue-package specs.
+- [Team Associated Pro2 SC10 Method Race Wheels](https://alekspasseo.github.io/rc-car-king/team-associated/pro2-sc10-method-race-wheels/): Explore the Pro2 SC10 Method truck: 2WD brushless hardware, DVC controls, terrain, separate power gear and the complete ready-to-run purchase requirements.
+- [Team Associated Reflex 14R Hoonicorn](https://alekspasseo.github.io/rc-car-king/team-associated/reflex-14r-hoonicorn/): Review the exact brushed 4WD Hoonicorn RTR. See the licensed body, friction shocks, pavement fit, separate battery needs and compact-car buying tradeoffs.
+- [Team Associated Rival MT10 V2](https://alekspasseo.github.io/rc-car-king/team-associated/rival-mt10-v2/): The red Rival MT10 V2 review covers brushless 4WD power, terrain, battery and charger costs, and the differences from brushed, Combo and Factory Team versions.
+- [Team Associated SR10M Dirt Oval LiPo Combo](https://alekspasseo.github.io/rc-car-king/team-associated/sr10m-dirt-oval-lipo-combo/): Review the exact 70033C SR10M dirt-oval Combo, including its Reedy LiPo and balance charger. See track fit, setup, included equipment and full buying costs.
+- [Traxxas 4-Tec Drift Nissan 240SX](https://alekspasseo.github.io/rc-car-king/traxxas/4-tec-drift-nissan-240sx/): Review the Traxxas Nissan 240SX RWD drift car: driving assistance, tire compounds, setup, separate battery costs, exact specs, pros, cons and editorial rating.
+- [Traxxas Bandit 2WD XL-5](https://alekspasseo.github.io/rc-car-king/traxxas/bandit-2wd-xl-5/): The Bandit XL-5 review covers the complete brushed 2WD buggy package, supplied battery and charger, firm-ground terrain, setup and future upgrade costs.
+- [Traxxas Maxx](https://alekspasseo.github.io/rc-car-king/traxxas/maxx/): Review the WideMaxx brushless monster truck: 3S/4S power requirements, factory suspension, outdoor space, storage, setup and the complete charging budget.
+- [Traxxas Rustler 2WD XL-5](https://alekspasseo.github.io/rc-car-king/traxxas/rustler-2wd-xl-5/): Explore the brushed 2WD Rustler XL-5 package, included NiMH battery, USB-C charger, first-circuit fit, grass limits and the cost of future power upgrades.
+- [Traxxas Rustler 4X4 Ultimate](https://alekspasseo.github.io/rc-car-king/traxxas/rustler-4x4-ultimate/): Review the Rustler 4X4 Ultimate’s GTR shocks, sway bars and connected radio. See brushless setup, terrain, separate battery costs and factory-upgrade value.
+- [Traxxas Slash 2WD XL-5](https://alekspasseo.github.io/rc-car-king/traxxas/slash-2wd-xl-5/): Read the brushed Slash 2WD XL-5 review: included charging gear, rear-drive learning, terrain limits, USB input requirements, ownership and full buying costs.
+- [Traxxas Stampede 2WD XL-5](https://alekspasseo.github.io/rc-car-king/traxxas/stampede-2wd-xl-5/): Review the tall brushed Stampede XL-5 monster truck. See supplied NiMH charging gear, 2WD traction, terrain, USB input power needs, setup, pros and cons.
+- [Traxxas TRX-4 Sport](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-sport/): Explore the complete TRX-4 Sport crawler: portal axles, permanent differential locks, one gear, trail setup, separate battery costs and buying tradeoffs.
+- [Traxxas TRX-4M Ford Bronco](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4m-ford-bronco/): The TRX-4M Bronco review covers its small crawler layout, dedicated LiPo and USB charger, stock bushings, integrated electronics, terrain and upgrade costs.

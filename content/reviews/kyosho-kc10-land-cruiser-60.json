@@ -462,5 +462,9 @@
     }
   ],
   "evidenceNote": "Manufacturer documentation establishes the mechanism and requirements. Amazon Creators API verifies the exact listing/part number and dated offer. Big Squid RC · exact 34801T1 release coverage supplies attributed context; any modified build or sibling variant is explicitly distinguished in the article. API bullet mislabels G32L as a15kg servo; manufacturer correctly assigns G32L to32T motor. DIG/two-speed kits are optional. The dated USD reference is a directly verified exact-SKU Tower Hobbies listing with in-stock status at the check; it remains independent of the expiring Amazon offer. The cited manual remains an official product-page link; its PDF server was unavailable during this check. Equipment facts were cross-checked on accessible English and Japan product/specification pages.",
-  "revisionNote": "13 October 2026: original complete-car research review, exact API identity, current evidence ledger and credited manufacturer media."
+  "revisionNote": "13 October 2026: original complete-car research review, exact API identity, current evidence ledger and credited manufacturer media.",
+  "seo": {
+    "title": "Kyosho KC10 Land Cruiser 60 Review | RC Car King",
+    "description": "Review the KC10 Land Cruiser 60 Readyset: straight axles, scale-trail equipment, power requirements and which dig or two-speed features are optional extras."
+  }
 }

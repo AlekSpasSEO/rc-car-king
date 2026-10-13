@@ -512,5 +512,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0G54K2LC5, 58234-8 and Traxxas for the exact complete-car listing. Independent coverage is from a retailer and is not treated as controlled independent measurement. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas Slash 2WD XL-5 Review | RC Car King",
+    "description": "Read the brushed Slash 2WD XL-5 review: included charging gear, rear-drive learning, terrain limits, USB input requirements, ownership and full buying costs."
+  }
 }

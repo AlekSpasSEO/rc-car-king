@@ -508,5 +508,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0CK4W3X13, ARA4404T1 and ARRMA for the exact complete-car listing. Greg Vogel’s Mojave 4S driving is credited to his publication; his 6S comparison is not ours. Current manufacturer 3S/4S specifications and exact ARA4404T1 identity govern this article. Speed remains a manufacturer configured-condition claim, and the stock radio is not described as a DSC or AVC package. The shared 4S manual gives Mojave-specific battery-tray length 163mm, different from neighboring vehicle columns; a LiPo charging bag is on its required-equipment page. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Mojave 4S BLX Review | RC Car King",
+    "description": "An in-depth Mojave 4S review covering the 4WD desert-truck package, 3S/4S power equipment, body access, suitable terrain, startup costs, pros and cons."
+  }
 }

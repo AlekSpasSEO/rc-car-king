@@ -6,6 +6,7 @@ import vm from 'node:vm';
 import {matchesVehicle} from './amazon-client.mjs';
 import {refreshOffers} from './amazon-offers.mjs';
 import {overallRating} from './review-template.mjs';
+import {checkSeo} from './check-seo.mjs';
 const config=JSON.parse(await readFile('site.config.json','utf8'));
 config.basePath=process.env.BASE_PATH??config.basePath;
 config.origin=process.env.SITE_ORIGIN??config.origin;
@@ -13,8 +14,10 @@ const today=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'nume
 const expectedPages=[];
 const files=(await readdir('content/reviews')).filter(f=>f.endsWith('.json'));
 const slugs=new Set();const publishedAsins=new Set();const paragraphsSeen=new Map();
+const records=[],publishedBrands=new Set();
 for(const f of files){
  const r=JSON.parse(await readFile(`content/reviews/${f}`,'utf8'));
+ records.push(r);
  for(const key of ['brand','brandSlug','model','modelSlug','sku','title','dek','published','updated','reviewType','type','use','motor','power','drive','scale','format','skill','verdict','verdictText']) assert.equal(typeof r[key],'string',`${f}: missing ${key}`);
  for(const key of ['brandSlug','modelSlug']) assert.match(r[key],/^[a-z0-9]+(?:-[a-z0-9]+)*$/);
  for(const key of ['published','updated']) assert.match(r[key],/^\d{4}-\d{2}-\d{2}$/);
@@ -27,6 +30,7 @@ for(const f of files){
  assert.ok(r.pros.length&&r.cons.length&&r.terrain.length);
  if(!r.handsOn) assert.match(r.reviewType,/specification|research-led/i);
  if(r.status==='published'){
+  assert.ok(r.seo?.title&&r.seo?.description,`${f}: authored SEO metadata is required`);
   assert.equal(r.vehicleScope,'Complete RC car','Only complete RC cars are currently published');
   assert.ok(r.overview&&r.quickSpecs.length>=6&&r.bestFor.length&&r.avoidIf.length);
   assert.ok(r.amazon?.asin&&r.amazon.sku===r.sku);
@@ -53,7 +57,7 @@ for(const f of files){
    }
   }
   assert.ok(r.imageCredit&&r.faqs.length>=5&&r.gallery.length>=2);
-  if(r.published<=today)expectedPages.push(`docs/${r.brandSlug}/${r.modelSlug}/index.html`);
+  if(r.published<=today){expectedPages.push(`docs/${r.brandSlug}/${r.modelSlug}/index.html`);publishedBrands.add(r.brandSlug);}
  }
  for(const s of r.sources){assert.equal(new URL(s.url).protocol,'https:');assert.ok(s.checked);}
  for(const asset of [r.image,...(r.gallery??[]).map(g=>g.image)]){
@@ -62,7 +66,8 @@ for(const f of files){
 }
 async function walk(dir){return(await Promise.all((await readdir(dir,{withFileTypes:true})).map(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]))).flat();}
 const output=await walk('docs');
-assert.equal(output.filter(f=>f.endsWith('.html')).length,expectedPages.length+3,'Generated archive must include every eligible review plus homepage, methodology and404');
+expectedPages.push('docs/about/index.html',...[...publishedBrands].map(brand=>`docs/${brand}/index.html`));
+assert.equal(output.filter(f=>f.endsWith('.html')).length,expectedPages.length+3,'Generated archive must include reviews, brand archives, About, homepage, methodology and404');
 await Promise.all(expectedPages.map(file=>access(file)));
 for(const file of output.filter(f=>f.endsWith('.html'))){
  const html=await readFile(file,'utf8');
@@ -144,3 +149,4 @@ assert.equal(offerBoxes[1].fields.price.textContent,'Check Amazon price');
 assert.match(offerBoxes[1].fields.status.textContent,/unavailable/);
 assert.equal(unavailable.detailPageUrl,offerReviews[7].amazon.detailPageUrl);
 console.log('Verified partial Amazon refresh, batch recovery, unavailable/mismatched price removal and browser fallback.');
+await checkSeo({config,output,records});

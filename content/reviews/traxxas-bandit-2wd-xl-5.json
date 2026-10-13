@@ -512,5 +512,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0G54SN7P3, 24254-8 and Traxxas for the exact complete-car listing. The independent source is a researched buyer guide, not a hands-on test. Older VXL speed and durability results are not used. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "Traxxas Bandit 2WD XL-5 Review | RC Car King",
+    "description": "The Bandit XL-5 review covers the complete brushed 2WD buggy package, supplied battery and charger, firm-ground terrain, setup and future upgrade costs."
+  }
 }

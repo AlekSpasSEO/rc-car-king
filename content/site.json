@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-13",
+  "publisher": "RC Car King",
+  "editorialName": "RC Car King Editorial",
+  "editorialVoice": "The Garage Editor",
+  "founder": {
+    "name": "Aleksandar Spasevski",
+    "role": "Founder and editor of RC Car King",
+    "bio": "The editor behind Coffeedant, bringing a practical, equipment-focused editorial approach to RC Car King.",
+    "source": "https://coffeedant.com/about/",
+    "sourceChecked": "2026-10-13"
+  },
+  "about": {
+    "title": "About RC Car King & Aleksandar Spasevski | Our Story",
+    "description": "Meet Aleksandar Spasevski, the editor behind Coffeedant and RC Car King. Our story, research-led RC reviews, editorial standards and affiliate disclosure.",
+    "intro": "I’m Aleksandar Spasevski. You might know me from Coffeedant. RC Car King brings the same curiosity about equipment into a different corner of the workbench: small cars, useful details and a lot to learn.",
+    "sections": [
+      {
+        "heading": "Coffee was the starting point.",
+        "paragraphs": [
+          "At Coffeedant, my world is coffee beans, espresso machines and the details that make a home setup work. Thousands of espresso shots and time spent understanding machines have made me care about extraction, temperature, maintenance and what equipment is like to live with. That is the background I bring here. The attraction is familiar: understand the mechanism, ask better questions, and make the purchase fit the person who will use it.",
+          "Coffee has a way of turning a simple question into several smaller ones. Which grinder? What fits the counter? What needs cleaning? What does the cheaper machine leave out? The useful answer is rarely just the biggest number on the box. It is the combination of equipment, routine and expectations. I wanted RC Car King to have that same practical center of gravity."
+        ]
+      },
+      {
+        "heading": "A different machine. The same curiosity.",
+        "paragraphs": [
+          "The tinkering side of RC appeals to me: steering geometry, tires, transmissions, controllers and bodies that turn a pile of small decisions into one complete car. A model can look perfect in a photograph and still be the wrong purchase for the ground outside your door. A drift car, a crawler and a monster truck each ask a different question of the owner. That makes the research interesting.",
+          "The questions I want this site to answer are ordinary ones. Will the car suit the place you have? Does the box include a battery and charger? Is the model in the listing the brushed version, the brushless version or a replacement body? Which adjustments are useful at the beginning, and which purchases can wait? Those details belong beside the excitement, where you can use them before ordering."
+        ]
+      },
+      {
+        "heading": "The Tokyo-night look is the invitation.",
+        "paragraphs": [
+          "The neon colors, checkered graphics and sideways-minded atmosphere give the garage its personality. I wanted a publication that feels like an enthusiast’s place, with room for the build as well as the buying decision. You do not need to be chasing a podium or building a collection to belong here. A first car and a patch of suitable ground are a perfectly good starting point.",
+          "Behind that visual energy, the pages stay practical. The archive sorts real vehicles by brand, reference price and use. Each review identifies the exact package and explains terrain, motor, drivetrain, included equipment and the remaining startup basket. The styling gets you through the door; the details should help you leave with a clearer shortlist."
+        ]
+      },
+      {
+        "heading": "Meet The Garage Editor.",
+        "id": "garage-editor",
+        "paragraphs": [
+          "The Garage Editor is RC Car King’s original house voice: interested in the machinery, candid about the compromises and focused on the whole purchase. I set the direction of the publication, and that voice gives the archive a consistent way of explaining the cars. Every review identifies its sources and the limits of its evidence.",
+          "Our current vehicle reviews are research-led. They use manufacturer documentation, exact Amazon product checks and attributed independent coverage. AI assists research organization and drafting, and automated checks validate the published data and site. The current archive is based on research rather than our own drive tests. An editorial score assesses the documented buying package; it does not stand in for a speed run, a crash test or years of ownership. Any future hands-on claim must come with its own setup and evidence."
+        ]
+      },
+      {
+        "heading": "The purchase should still make sense tomorrow.",
+        "paragraphs": [
+          "I want the recommendation to survive the moment when the new-car excitement wears off and the first practical question arrives. That means explaining missing equipment, service access and the alternative complete cars before asking you to click a shop link. It also means keeping a source disagreement visible instead of choosing the most flattering specification.",
+          "RC Car King uses affiliate links. As an Amazon Associate I earn from qualifying purchases. A qualifying purchase through our Amazon links may earn a commission at no extra cost to you. Those links support the publication, while the editorial score remains a separate, clearly labeled judgment. Prices and seller availability can change, so the final purchase terms are always the retailer’s."
+        ]
+      }
+    ]
+  }
+}

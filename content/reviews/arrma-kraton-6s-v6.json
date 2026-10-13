@@ -515,5 +515,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DQB2F58S, ARA8608V6T1 and ARRMA for the exact complete-car listing. Independent guide is research-led, not a personal drive test. The current official standard-V6 page explicitly lists a 7075-T6 chassis, unlike omissions in some earlier coverage. We use current exact documentation and distinguish standard ARA8608V6 from separate EXB ARA8708V6. Web Wheel Width 377mm matches manual wheelbase, so the label conflict is disclosed. Speed is a manufacturer configured-condition claim. SameS665 part is described as 20kg on current webpage and 18kg in current manual; no measured torque is claimed. The manual required-equipment page lists a LiPo charging bag. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Kraton 6S BLX V6 Review | RC Car King",
+    "description": "The exact V6 Kraton review covers its 4S/6S brushless system, EXB-derived hardware, outdoor space needs, setup, ownership costs and experienced-buyer fit."
+  }
 }

@@ -556,5 +556,9 @@
     }
   ],
   "evidenceNote": "Manufacturer documentation establishes the listed hardware and setup requirements. Amazon Creators API verifies the exact complete-car listing, variant and offer. RC Driver supplies independent coverage of the same Nissan model; its driving is not our driving. We do not carry earlier Mustang or 4WD touring-car test results across to this model. Weight figures conflict in the manufacturer table, so weight is flagged rather than silently corrected.",
-  "revisionNote": "13 October 2026: published the complete-car review, product box, editorial rating rubric, exact Amazon API match and attributed official product images."
+  "revisionNote": "13 October 2026: published the complete-car review, product box, editorial rating rubric, exact Amazon API match and attributed official product images.",
+  "seo": {
+    "title": "Traxxas 4-Tec Drift Nissan 240SX Review | RC Car King",
+    "description": "Review the Traxxas Nissan 240SX RWD drift car: driving assistance, tire compounds, setup, separate battery costs, exact specs, pros, cons and editorial rating."
+  }
 }

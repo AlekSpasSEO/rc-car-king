@@ -517,5 +517,9 @@
     }
   ],
   "evidenceNote": "Current manufacturer documentation establishes hardware and startup requirements. Amazon Creators API verifies B0DN3YC3XM, ARA4303V4T1 and ARRMA for the exact complete-car listing. ICRC83's published description identifies 2S child driving and 3S adult use. Those sessions are that publisher's coverage, not our testing or a universal suitability guarantee. Older MEGA and 3S BLX configurations are not substituted for current 223S. The buying conclusions and scores are our editorial judgments; we claim no personal drive test.",
-  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media."
+  "revisionNote": "13 October 2026: published original complete-vehicle buying review, dated exact API identity and price reference, editorial rubric and attributed manufacturer media.",
+  "seo": {
+    "title": "ARRMA Senton 223S 4X4 Review | RC Car King",
+    "description": "See how the brushless 4WD Senton 223S package fits dirt-circuit recreation. We cover DSC, its center differential, cleaning, battery needs and buying value."
+  }
 }

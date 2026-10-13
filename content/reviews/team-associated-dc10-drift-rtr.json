@@ -518,5 +518,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. API PartNumber ASC30133 and Model 30133 refer to official 30133. Official product/manual confirm blue assembled brushless RWD car;30133C Combo and 30134 kit are separate purchases. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Team Associated DC10 Drift RTR Review | RC Car King",
+    "description": "Read the DC10 RTR buying review: RWD brushless power, G10 chassis, adjustable gyro, separate battery equipment, drift setup and exact blue-package specs."
+  }
 }

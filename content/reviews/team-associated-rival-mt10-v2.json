@@ -523,5 +523,9 @@
     }
   ],
   "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. API AS20518 is official 20518; title identifies ASC20518, brand Team Associated, red V2 brushless standard package. Official model page and 20518 manual distinguish 20517C brushed,20518C Combo and 20524 Factory Team kit. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media."
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "seo": {
+    "title": "Team Associated Rival MT10 V2 Review | RC Car King",
+    "description": "The red Rival MT10 V2 review covers brushless 4WD power, terrain, battery and charger costs, and the differences from brushed, Combo and Factory Team versions."
+  }
 }
