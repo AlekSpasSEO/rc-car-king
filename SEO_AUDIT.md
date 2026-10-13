@@ -14,6 +14,10 @@ Checked 13 October 2026. Production: https://rccarking.com/.
 - Product and gallery image dimensions come from actual file bytes. Article text, summaries, specifications, FAQs and source links are present in HTML without requiring JavaScript.
 - Optional llms.txt directory lists publication context and all reviews. It is a supplemental reader resource; Google does not use it as a ranking or inclusion requirement.
 
+## Live validation
+
+All 61 production URLs passed canonical, indexability and schema checks after deployment. All 50 review pages passed exact product identity and affiliate checks: 236 Amazon links use coffeedant03-20. The sitemap contains 150 image entries; a genuinely missing URL returns HTTP 404. Google Rich Results Test crawled the sample 240SX page successfully and validated Product, Review, Article and Breadcrumb items. Its initial optional Article date warnings prompted timezone-aware publication/revision timestamps, recovered from the actual release commits.
+
 ## Actual example values
 
 - URL: https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/
@@ -25,7 +29,7 @@ Checked 13 October 2026. Production: https://rccarking.com/.
 - SKU / MPN: 105247-4
 - ASIN: B0H88LPTT1
 - Score: 7.8 / 10, from five visible category scores
-- Published / modified: 2026-10-13 / 2026-10-13
+- Published / modified: 2026-10-13T00:31:17+02:00 / 2026-10-13T23:06:17+02:00 (actual source publication/revision commits)
 - Affiliate URL: https://www.amazon.com/dp/B0H88LPTT1?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1
 
 ## Review metadata inventory

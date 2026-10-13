@@ -45,7 +45,7 @@ Use independently verified manufacturer USD prices/MSRP for static article and f
 
 Use a clearly labeled research-led editorial buying assessment for a named buyer. Five equally weighted, reasoned category scores produce the overall rating. Do not score measured speed, handling, crash resistance, long-term reliability or runtime without actual testing evidence. Do not confuse the editorial score with Amazon customer ratings.
 
-Separate manufacturer facts, independent observations, owner reports and editorial inferences. Never invent a tester biography, ownership experience, measurements, quotes, discounts or sponsorship. Record conflicting source figures rather than silently fixing them. Update dates for substantive revisions.
+Separate manufacturer facts, independent observations, owner reports and editorial inferences. Never invent a tester biography, ownership experience, measurements, quotes, discounts or sponsorship. Record conflicting source figures rather than silently fixing them. Update dates for substantive revisions. Record actual `publishedAt` and `updatedAt` ISO 8601 timestamps with a timezone, alongside the matching Europe/Skopje `published` and `updated` dates. Use the real release/revision time; never invent a midnight time merely to satisfy schema. The initial archive timestamps were recovered from its publication and revision commits. Article, Review, Open Graph and visible time markup share those values.
 
 ## Product photos
 
@@ -53,4 +53,4 @@ Use actual official model photos and technical illustrations, with source links 
 
 ## Production domain
 
-The owner authorized connecting rccarking.com through Cloudflare on 13 October 2026. Production uses the root path and canonical origin https://rccarking.com, including feed, sitemap and social metadata. The existing build environment overrides preserve the separate GitHub preview. Keep the Cloudflare GitHub integration enabled so daily main pushes update production. The domain registration remains at GoDaddy; Cloudflare hosts DNS and the website. Do not add a GitHub CNAME; the production domain is attached to Cloudflare Pages.
+The owner authorized connecting rccarking.com through Cloudflare on 13 October 2026. Production uses the root path and canonical origin https://rccarking.com, including feed, sitemap and social metadata. The existing build environment overrides preserve the separate GitHub preview. After pushing main, verify the Cloudflare deployment matches the new commit. If the disconnected GitHub installation does not start a build, trigger the documented Cloudflare Git-branch main deployment through its API and verify success. The domain registration remains at GoDaddy; Cloudflare hosts DNS and the website. Do not add a GitHub CNAME; the production domain is attached to Cloudflare Pages.

@@ -55,7 +55,9 @@ export async function checkSeo({config,output,records}){
    assert.deepEqual(product.review.negativeNotes.itemListElement.map(x=>x.name),r.cons);
    assert.deepEqual(product.additionalProperty,r.specs.map(([name,value])=>({'@type':'PropertyValue',name,value})));
    assert.ok(!product.offers&&!product.aggregateRating,'No stale offers or fabricated customer ratings in static schema');
-   assert.equal(article.datePublished,r.published);assert.equal(article.dateModified,r.updated);
+   assert.equal(article.datePublished,r.publishedAt);assert.equal(article.dateModified,r.updatedAt);
+   assert.equal(product.review.datePublished,r.publishedAt);assert.equal(product.review.dateModified,r.updatedAt);
+   assert.equal(metas.get('article:published_time'),r.publishedAt);assert.equal(metas.get('article:modified_time'),r.updatedAt);
    assert.deepEqual(article.citation,[...new Set(r.sources.map(s=>s.url))]);
    assert.deepEqual(faq.mainEntity.map(q=>({question:q.name,answer:q.acceptedAnswer.text})),r.faqs);
    for(const img of product.image){assert.ok(img.width>0&&img.height>0,'Use actual image dimensions');assert.equal(new URL(img.url).protocol,'https:');}

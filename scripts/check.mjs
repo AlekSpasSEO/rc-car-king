@@ -30,6 +30,12 @@ for(const f of files){
  assert.ok(r.pros.length&&r.cons.length&&r.terrain.length);
  if(!r.handsOn) assert.match(r.reviewType,/specification|research-led/i);
  if(r.status==='published'){
+  for(const [timestamp,dateField] of [['publishedAt','published'],['updatedAt','updated']]){
+   assert.match(r[timestamp]??'',/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/,`${f}: actual timezone-aware ${timestamp}`);
+   const instant=new Date(r[timestamp]);assert.ok(Number.isFinite(instant.getTime()),`${f}: valid ${timestamp}`);
+   assert.equal(new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(instant),r[dateField],`${f}: date matches ${timestamp}`);
+  }
+  assert.ok(new Date(r.updatedAt)>=new Date(r.publishedAt),`${f}: revision follows publication`);
   assert.ok(r.seo?.title&&r.seo?.description,`${f}: authored SEO metadata is required`);
   assert.equal(r.vehicleScope,'Complete RC car','Only complete RC cars are currently published');
   assert.ok(r.overview&&r.quickSpecs.length>=6&&r.bestFor.length&&r.avoidIf.length);
