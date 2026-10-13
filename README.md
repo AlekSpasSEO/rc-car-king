@@ -33,7 +33,7 @@ Alternatively supply AMAZON_CREATORS_CREDENTIAL_ID, AMAZON_CREATORS_CREDENTIAL_S
 
 ## Publishing
 
-Cloudflare Pages project `rc-car-king` builds main automatically and serves https://rccarking.com/ with root review paths /brand/model-name/. Its build environment sets SITE_ORIGIN=https://rccarking.com and BASE_PATH empty, then runs `npm run build && npm run check`. See CLOUDFLARE.md. GitHub Pages still serves main /docs as a separate preview using the default configuration. Commit generated preview docs with source/content updates. The daily automation remains scheduled for 09:00 Europe/Skopje and follows CONTENT_GUIDE.md, verifying production after every push.
+Cloudflare Pages project `rc-car-king` builds main and serves https://rccarking.com/ with root review paths /brand/model-name/. Its build environment sets SITE_ORIGIN=https://rccarking.com and BASE_PATH empty, then runs `npm run build && npm run check`. The daily automation verifies that the pushed commit deploys and triggers a Git-branch API deployment if the Git connection does not start it. See CLOUDFLARE.md. GitHub Pages still serves main /docs as a separate preview using the default configuration. Commit generated preview docs with source/content updates. The daily automation remains scheduled for 09:00 Europe/Skopje and follows CONTENT_GUIDE.md, verifying production after every push.
 
 ## Media
 
