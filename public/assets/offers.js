@@ -12,8 +12,11 @@ async function updateOffers(){
     const price=box.querySelector('[data-amazon-price]');
     const status=box.querySelector('[data-amazon-status]');
     const checked=box.querySelector('[data-amazon-checked]');
+    if(offer?.status==='unavailable'){
+     price.textContent='Check Amazon price';status.textContent='Amazon product data unavailable · verified product link retained';checked.textContent='Current price could not be verified. Check the listing on Amazon.';continue;
+    }
     if(!offer||!isFresh(offer)){price.textContent='Check Amazon price';status.textContent='Verified complete-car listing · current price on Amazon';checked.textContent='Price and availability are shown live by Amazon.';continue;}
-    price.textContent=offer.priceDisplay??'Check Amazon price';
+    price.textContent=Number.isFinite(offer.price)&&offer.price>0?offer.priceDisplay??'Check Amazon price':'Check Amazon price';
     status.textContent=[offer.availability==='IN_STOCK'?'Available at last check':'Check availability',offer.seller?`Seller: ${offer.seller}`:''].filter(Boolean).join(' · ');
     checked.textContent=`API checked ${new Intl.DateTimeFormat('en-GB',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Skopje',timeZoneName:'short'}).format(new Date(offer.checkedAt))}. Price and availability can change; Amazon checkout determines the purchase terms.`;
    }

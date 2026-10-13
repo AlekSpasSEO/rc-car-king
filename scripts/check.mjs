@@ -4,6 +4,7 @@ import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 import vm from 'node:vm';
 import {matchesVehicle} from './amazon-client.mjs';
+import {refreshOffers} from './amazon-offers.mjs';
 import {overallRating} from './review-template.mjs';
 const config=JSON.parse(await readFile('site.config.json','utf8'));
 const today=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
@@ -103,3 +104,39 @@ const mappedItem={asin:'FROG',itemInfo:{manufactureInfo:{itemPartNumber:{display
 assert.equal(matchesVehicle(mappedItem,mappedVehicle),true);
 assert.equal(matchesVehicle({...mappedItem,itemInfo:{...mappedItem.itemInfo,manufactureInfo:{itemPartNumber:{displayValue:'TAM58365'}}}},mappedVehicle),false);
 console.log('Verified Amazon offer expiry, wrong-SKU/body exclusion and editorial-rating content requirements.');
+
+// Regression: one inaccessible or mismatched listing cannot hold the archive's
+// other offers hostage, and an old price must never survive the failed record.
+const offerReviews=Array.from({length:50},(_,i)=>({sku:`SKU-${i}`,brand:'Test Brand',amazon:{asin:`ASIN-${i}`,variant:'Complete car',detailPageUrl:`https://www.amazon.com/dp/ASIN-${i}?tag=coffeedant03-20`}}));
+const itemFor=r=>({asin:r.amazon.asin,itemInfo:{manufactureInfo:{itemPartNumber:{displayValue:r.sku}},byLineInfo:{brand:{displayValue:r.brand}}},offersV2:{listings:[{price:{money:{amount:199,currency:'USD',displayAmount:'$199.00'}},availability:{type:'IN_STOCK'},merchantInfo:{name:'Test seller'}}]}});
+const fixedCheck=new Date().toISOString(),noPause=async()=>{};
+const partial=await refreshOffers({reviews:offerReviews,checkedAt:fixedCheck,pause:noPause,client:{get:async asins=>({itemsResult:{items:offerReviews.filter(r=>asins.includes(r.amazon.asin)&&r.amazon.asin!=='ASIN-7').map(itemFor)},errors:[{code:'ItemNotAccessible'}]})}});
+assert.equal(Object.values(partial.offers).filter(o=>o.status==='verified').length,49);
+assert.equal(Object.values(partial.offers).filter(o=>o.status==='unavailable').length,1);
+const unavailable=partial.offers['ASIN-7'];
+assert.equal(unavailable.reason,'ITEM_UNAVAILABLE');assert.equal(unavailable.detailPageUrl,offerReviews[7].amazon.detailPageUrl);
+for(const key of ['price','priceDisplay','currency','seller'])assert.equal(unavailable[key],null);
+const mismatch=await refreshOffers({reviews:[offerReviews[0]],pause:noPause,client:{get:async()=>({itemsResult:{items:[{...itemFor(offerReviews[0]),itemInfo:validItem.itemInfo}]}})}});
+assert.equal(mismatch.offers['ASIN-0'].reason,'IDENTITY_MISMATCH');assert.equal(mismatch.offers['ASIN-0'].price,null);
+const recovered=await refreshOffers({reviews:offerReviews.slice(0,3),pause:noPause,client:{get:async asins=>{
+ if(asins.length>1||asins[0]==='ASIN-1')throw Error('Simulated request failure');
+ return {itemsResult:{items:[itemFor(offerReviews.find(r=>r.amazon.asin===asins[0]))]}};
+}}});
+assert.equal(recovered.offers['ASIN-0'].status,'verified');assert.equal(recovered.offers['ASIN-2'].status,'verified');
+assert.equal(recovered.offers['ASIN-1'].reason,'REQUEST_FAILED');assert.equal(recovered.offers['ASIN-1'].price,null);
+const noListing=await refreshOffers({reviews:[offerReviews[0]],pause:noPause,client:{get:async()=>({itemsResult:{items:[{...itemFor(offerReviews[0]),offersV2:{listings:[]}}]}})}});
+assert.equal(noListing.offers['ASIN-0'].price,null);
+
+// Exercise the shipped display code against the same partial refresh. Include
+// a poisoned old price to prove unavailable status overrides cached data.
+const boxFor=asin=>({dataset:{amazonOffer:asin},fields:Object.fromEntries(['price','status','checked'].map(k=>[k,{textContent:'old value'}])),querySelector(selector){return this.fields[selector.match(/amazon-(\w+)/)[1]];}});
+const offerBoxes=[boxFor('ASIN-0'),boxFor('ASIN-7')];
+const displayContext={document:{querySelectorAll:()=>[],currentScript:{src:'https://example.com/assets/offers.js'}},URL,Date,Intl,setInterval(){},fetch:async()=>({ok:true,json:async()=>({offers:{...partial.offers,'ASIN-7':{...unavailable,price:999,priceDisplay:'$999.00'}}})})};
+vm.runInNewContext(await readFile('public/assets/offers.js','utf8'),displayContext);
+displayContext.document.querySelectorAll=()=>offerBoxes;
+await displayContext.updateOffers();
+assert.equal(offerBoxes[0].fields.price.textContent,'$199.00');
+assert.equal(offerBoxes[1].fields.price.textContent,'Check Amazon price');
+assert.match(offerBoxes[1].fields.status.textContent,/unavailable/);
+assert.equal(unavailable.detailPageUrl,offerReviews[7].amazon.detailPageUrl);
+console.log('Verified partial Amazon refresh, batch recovery, unavailable/mismatched price removal and browser fallback.');
