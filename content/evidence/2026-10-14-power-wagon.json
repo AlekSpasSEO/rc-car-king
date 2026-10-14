@@ -1,0 +1,101 @@
+{
+  "checked": "2026-10-14",
+  "sku": "AXI00007T2",
+  "asin": "B0CL8VMLND",
+  "apiCheckedAt": "2026-10-14T09:16:51.721Z",
+  "verifiedBrand": "Axial",
+  "verifiedPartNumber": "AXI00007T2",
+  "coreWords": 2406,
+  "scope": "Complete RC car",
+  "reference": {
+    "price": 159.99,
+    "currency": "USD",
+    "source": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+    "availabilityNote": "Browser check: green Add to Cart enabled; manufacturer JSON-LD InStock. Hidden no-longer-available tooltip was rejected as evidence of stock status. No guaranteed retailer inventory claimed."
+  },
+  "conflicts": [
+    [
+      "Radio",
+      "Spektrum SLT2 2.4GHz · product says two-channel; manual table says three-channel"
+    ],
+    [
+      "Width conflict",
+      "104mm product table; 107mm manual p.3"
+    ],
+    [
+      "Height conflict",
+      "107mm product table; 100mm manual p.3"
+    ],
+    [
+      "Wheelbase publication difference",
+      "155mm product table; chassis/link parts named 153.7mm in manual"
+    ]
+  ],
+  "independentEvidence": "RC Driver launch coverage; not a measured driving test",
+  "rejectedSearch": "FMS-named keyword results with differing API brands/part numbers; no alternate product link substituted",
+  "sources": [
+    {
+      "name": "Axial · exact green AXI00007T2 product, USD reference and official photos",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "checked": "2026-10-14",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Axial/Horizon · AXI00007T1/T2 model manual, controls, wiring and exploded views",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI00007_MANUAL_EN.pdf",
+      "checked": "2026-10-14",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · B0CL8VMLND exact brand/PartNumber verification",
+      "url": "https://www.amazon.com/dp/B0CL8VMLND?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1",
+      "checked": "2026-10-14",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "RC Driver · Greg Vogel, 8 September 2023 launch coverage (package context)",
+      "url": "https://www.rcdriver.com/axial-scx24-dodge-power-wagon/",
+      "checked": "2026-10-14",
+      "kind": "Independent launch coverage"
+    },
+    {
+      "name": "Spektrum · SPMXSE2425RX controller manual and channel compatibility",
+      "url": "https://www.spektrumrc.com/on/demandware.static/-/Sites-horizon-master/default/dw14169664/Manuals/SPMXSE2425RX_MANUAL_MULTI.pdf",
+      "checked": "2026-10-14",
+      "kind": "Manufacturer electronics manual"
+    },
+    {
+      "name": "Axial · alternative green Jeep JT Gladiator V2 AXI00005V2T3",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+      "checked": "2026-10-14",
+      "kind": "Alternative manufacturer"
+    },
+    {
+      "name": "Traxxas · alternative complete TRX-4M Land Rover Defender 97054-1",
+      "url": "https://traxxas.com/97054-1-trx-4m-land-rover-defender",
+      "checked": "2026-10-14",
+      "kind": "Alternative manufacturer"
+    }
+  ],
+  "media": [
+    {
+      "file": "public/assets/axial-power-wagon-detail.jpg",
+      "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwd57be3ff/Images/AXI/AXI00007T2_A12_JFRSZV4V.jpg",
+      "purpose": "Exact green complete vehicle",
+      "credit": "Axial/Horizon Hobby"
+    },
+    {
+      "file": "public/assets/axial-power-wagon-package.jpg",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwbe8079d1/Images/AXI/AXI00007T2_A11_JFRSZV4V.jpg",
+      "purpose": "Original supplied equipment and optional accessories",
+      "credit": "Axial/Horizon Hobby"
+    },
+    {
+      "file": "public/assets/axial-power-wagon-green-front.jpg",
+      "url": "https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwf227c5f7/Images/AXI/AXI00007T2_A0_JFRSZV4V.jpg",
+      "purpose": "Front body and illuminated headlights",
+      "credit": "Axial/Horizon Hobby"
+    }
+  ]
+}

@@ -11,8 +11,8 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Review feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
-- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
+- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
@@ -21,6 +21,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 
 ## Reviews
+- [Axial SCX24 1940s Dodge Power Wagon](https://alekspasseo.github.io/rc-car-king/axial/scx24-dodge-power-wagon/): Review the green AXI00007T2 Power Wagon: hard body, included battery gear, crawler setup, source conflicts, ownership costs, pros, cons and editorial score.
 - [ARRMA Big Rock 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/big-rock-223s/): A longer 4WD crew-cab RC truck with brushless 2S/3S power and DSC. See the exact package, terrain fit, battery requirements, pros, cons and rating.
 - [ARRMA Gorgon MEGA 550](https://alekspasseo.github.io/rc-car-king/arrma/gorgon-mega/): Review the complete brushed 2WD Gorgon package, included NiMH charging gear, suitable terrain and remaining-stock caveats before buying this RC monster truck.
 - [ARRMA Granite 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/granite-223s/): Explore the compact 4WD Granite 223S: brushless power, DSC, center differential, terrain fit and the battery-and-charger costs beyond the ready-to-run car.

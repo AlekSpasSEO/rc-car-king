@@ -1,0 +1,586 @@
+{
+  "brand": "Axial",
+  "brandSlug": "axial",
+  "model": "SCX24 1940s Dodge Power Wagon",
+  "modelSlug": "scx24-dodge-power-wagon",
+  "headlineLines": [
+    "POWER WAGON.",
+    "SMALL TRAILS."
+  ],
+  "sku": "AXI00007T2",
+  "title": "Axial SCX24 Dodge Power Wagon review: the hard-body buying case",
+  "dek": "A green four-door hard body, oil-filled shocks and a complete power package. A careful look at the original AXI00007T2, its source conflicts and the setup that matters.",
+  "published": "2026-10-14",
+  "updated": "2026-10-14",
+  "publishedAt": "2026-10-14T09:26:34.890Z",
+  "updatedAt": "2026-10-14T09:33:26.583Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "type": "Rock crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Indoor obstacles",
+    "Small rocks",
+    "Dry trails"
+  ],
+  "motor": "Brushed",
+  "power": "Electric",
+  "drive": "4WD",
+  "scale": "1/24",
+  "format": "Ready-to-run",
+  "skill": "Beginner scale-crawling enthusiast",
+  "price": {
+    "amount": 159.99,
+    "currency": "USD",
+    "basis": "Axial US listed price · green AXI00007T2 complete RTR",
+    "checked": "2026-10-14",
+    "source": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html"
+  },
+  "purchaseNote": "Dated manufacturer reference; current retailer prices and availability can change. Confirm the exact package and final purchase terms.",
+  "image": "axial-power-wagon-detail.jpg",
+  "imageAlt": "Official Axial front three-quarter photo of the green SCX24 four-door Dodge Power Wagon AXI00007T2",
+  "imageCaption": "Green AXI00007T2 with its four-door ABS body and stock wheels. Official Axial/Horizon Hobby photograph.",
+  "imageCredit": {
+    "name": "Axial official AXI00007T2 photography",
+    "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+    "kind": "Official product photo"
+  },
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "I would choose this truck for its finished scale character and a compact dry course. That is a buying judgment drawn from the documented package, not a report of driving this model."
+  },
+  "overview": "The Power Wagon makes sense for a first scale crawler when the detailed hard body is part of the attraction. The original green AXI00007T2 includes the drive battery, USB charger and transmitter cells, so the startup basket is unusually straightforward. Its main reservations are the weight carried above the chassis, stock brushed micro-scale power and several conflicting published dimensions and radio descriptions.",
+  "verdict": "A detailed micro crawler for patient first sessions",
+  "verdictText": "Shortlist the green AXI00007T2 if you want a detailed, complete small crawler. Leave the rack off for the first setup session, learn the controls and compare the lighter-bodied Gladiator at actual delivered prices. Choose a larger trail platform if the ground outside your door overwhelms these small tires.",
+  "pros": [
+    "Complete RTR package includes drive battery, charger and four AA cells",
+    "Detailed licensed four-door ABS body with optional scale accessories",
+    "Oil-filled shocks and Pro-Line tires/wheels supplied",
+    "Model-specific manual includes controls, wiring and exploded drawings"
+  ],
+  "cons": [
+    "A suitable USB power supply is still needed for the included charger",
+    "Hard body and optional rack add an upper-body weight consideration",
+    "Published width, height and radio channel descriptions disagree",
+    "Tiny chassis and stock brushed power suit deliberate crawling rather than fast rough-ground driving"
+  ],
+  "bestFor": [
+    "A first small crawler where scale appearance matters",
+    "Dry indoor courses and carefully chosen outdoor rocks",
+    "Buyers who prefer a documented complete power package"
+  ],
+  "avoidIf": [
+    "You want grass running, jumps or a fast trail truck",
+    "You prioritize the lightest body for technical crawling",
+    "You require unambiguous dimensional and radio-channel documentation"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "AXI00007T2 · green complete RTR"
+    ],
+    [
+      "Scale / drive",
+      "1/24 · full-time 4WD"
+    ],
+    [
+      "Motor",
+      "Dynamite 88T 030 · brushed"
+    ],
+    [
+      "Suspension",
+      "Oil-filled shocks · solid axles"
+    ],
+    [
+      "Power equipment",
+      "350mAh 2S LiPo + USB charger included"
+    ],
+    [
+      "Wheelbase",
+      "155 mm product table · 153.7 mm parts naming"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "Beginner scale-crawling buyer using a compact dry course",
+    "disclosure": "Research-led score for the documented purchase, not measured grip, climbing angle, runtime, durability or reliability. Five equally weighted categories produce the 7.8/10 mean.",
+    "dimensions": [
+      {
+        "label": "Startup package",
+        "score": 8.5,
+        "reason": "The listed battery, charger, radio and AA cells reduce completion purchases. A suitable USB power source and supervised setup are still necessary."
+      },
+      {
+        "label": "Scale equipment",
+        "score": 8,
+        "reason": "The finished ABS body, oil damping and supplied Pro-Line wheel/tire package are coherent reasons to buy this exact version."
+      },
+      {
+        "label": "Setup clarity",
+        "score": 7.5,
+        "reason": "Throttle limiting, steering travel and crawler running-mode instructions are useful; conflicting dimensions and radio-channel wording require care."
+      },
+      {
+        "label": "Ownership documentation",
+        "score": 7.5,
+        "reason": "Model-specific wiring, part identifiers and exploded views help plan service. Current local stock and long-term supply have not been measured."
+      },
+      {
+        "label": "Purchase value",
+        "score": 7.5,
+        "reason": "The $159.99 dated manufacturer reference includes startup power equipment. Compare final retailer prices and body preference with complete alternatives."
+      }
+    ]
+  },
+  "amazon": {
+    "asin": "B0CL8VMLND",
+    "marketplace": "www.amazon.com",
+    "variant": "Green · original AXI00007T2 complete RTR",
+    "sku": "AXI00007T2",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CL8VMLND?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-14T09:16:51.721Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "The buying case",
+      "heading": "Buy the character. Check the exact truck.",
+      "paragraphs": [
+        "A miniature Power Wagon invites a different sort of evening from a fast car. The appeal is choosing a line, getting the front tires onto a step and working out why the rear end follows or gets stuck. For that use, the buying decision starts with the course you can make at home. If you enjoy changing a few obstacles and trying the same approach more carefully, a small crawler can earn its place without a large driving area.",
+        "This review identifies the green AXI00007T2, with Amazon ASIN B0CL8VMLND. The Creators API returned Axial as the brand and the exact manufacturer part number. That distinction is especially useful here: an FMS Power Wagon, a replacement body and an Axial complete vehicle are separate purchases. We rejected differently branded and differently numbered keyword results. The badge and body name alone do not establish which electronics or equipment will arrive.",
+        "Axial lists $159.99 for the green vehicle at this check. That is a useful reference for the package, not a guarantee of the Amazon checkout price or a future discount. I would compare the actual delivered total, contents and seller terms with a current alternative before ordering. The body, included power equipment and course you have are better reasons to choose the Power Wagon than a promotional percentage attached to a listing that does not clearly identify the exact vehicle."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "What arrives",
+      "heading": "A complete box still needs a first-session plan.",
+      "paragraphs": [
+        "For this original package, the manual identifies the assembled truck, SLT2 radio, AS-1 steering servo, combined ESC/receiver, 350mAh 2S battery, USB charger and four AA cells. Those are the expensive decisions a new owner might otherwise need to make separately. The important benefit is avoiding a compatibility shopping exercise before learning whether crawling is enjoyable. There is no reason to order another drive pack or a premium charger as a condition of trying the stock vehicle.",
+        "The remaining practical requirement is a suitable USB power supply. The model manual specifies a 5V source with at least 1A output for the supplied charger. Use its instructions and indicator chart, supervise charging and disconnect the pack when the cycle finishes. A supplied charger is part of the package, not permission to ignore the charging routine. Before fitting the battery, look for cable damage and make sure the connector and leads will not be trapped beneath the body.",
+        "Separate the first drive from the first decorating session. Identify the accessory bag, retain the screws and start with the truck in its simpler configuration. The optional rack can wait until you have a reference for how your course works. On an online purchase, check those contents immediately against the manual and seller description. A photographed radio beside a truck is less useful than confirming that the actual box includes the matching charger, battery and small fittings."
+      ],
+      "sourceIndexes": [
+        1
+      ],
+      "list": {
+        "title": "Before the first course",
+        "items": [
+          "Check AXI00007T2 and the green complete-vehicle package on arrival.",
+          "Read the exact charger instructions and use the specified USB supply.",
+          "Check steering and wheel direction with the wheels raised.",
+          "Start with a low, dry course and retain the optional accessory hardware."
+        ]
+      }
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor and gearing",
+      "heading": "Reduction changes the job of the motor.",
+      "paragraphs": [
+        "The documented motor is a brushed Dynamite 88-turn 030 unit, part DYNS1217. The drivetrain uses shafts to carry drive to both axles, where worm gearing adds reduction. This is a system intended to place the tires carefully. Motor size, turn count and the word 4WD cannot tell you a measured climbing angle, and we have not obtained one. What they do tell the buyer is that this is a stock crawling package rather than a miniature high-speed truck.",
+        "A worm drive puts a screw-shaped gear against its mating gear. In general, this creates substantial reduction and resistance to being driven backward by the wheels; it helps explain why these axles feel different from a freely rolling road-car transmission. That mechanism is useful context for setup, rather than a promise that this particular truck will hold every slope. Tire contact, the course angle and the body’s position still decide whether the vehicle has a workable route.",
+        "Treat a stalled wheel as a question about the line before treating it as an invitation to buy more motor. A tire wedged between rocks can load the drivetrain without moving the truck. Back out, approach from another angle and check for fouling. If the motor or controller becomes hot, stop and let the equipment cool as the manual directs. More throttle applied to a trapped truck offers poor information about the stock system and can turn a simple obstacle into a repair."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Use the travel adjustments before changing hardware.",
+      "paragraphs": [
+        "The SLT2’s documented throttle limit has 50, 75 and 100 percent positions. Start with the lower setting while checking a small course, then adjust if the available control range suits you better elsewhere. This limits the maximum command; it does not convert the truck to another gear ratio or add traction. A useful early exercise is driving slowly between two markers with enough room to stop, reverse and re-center the steering without contacting either one.",
+        "The steering-rate control and programmable servo travel address another ordinary setup problem: demanding more steering than the mechanism can use. Check both directions with the wheels clear of the ground, and use the manufacturer procedure for travel settings. A servo buzzing against a mechanical stop should prompt inspection and adjustment. Do not assume the largest possible radio setting is the best one. Learn the stock turning space on a clear surface before building a tight corridor that requires repeated correction.",
+        "The model manual’s receiver diagram distinguishes forward/reverse mode, recommended for crawling, from forward/brake/reverse mode. Consult that diagram before changing the jumper, and check the result with the wheels raised. Its parts table calls the SLT2 a three-channel transmitter, while the product description says two-channel; the separate ESC instructions associate auxiliary CH3 use with an SLT3. We therefore describe the fitted SLT2 controls and do not promise a working stock third channel, remote gearshift or added accessories from that conflicting label."
+      ],
+      "sourceIndexes": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension and balance",
+      "heading": "A scale body gives the suspension another job.",
+      "paragraphs": [
+        "Oil damping resists rapid shock movement, while a spring supports the vehicle. Those are different functions. Preload adjustments can change the starting position, but they do not magically create grip or remove body weight. For a beginner, the useful baseline is consistent assembly: check that the suspension moves without a cable, accessory or wheel rubbing where it should not. Change one setting at a time so that any difference on the same obstacle has an identifiable cause.",
+        "The four-door hard body is part of the Power Wagon’s reason to exist. The general tradeoff is that weight positioned higher in a vehicle can reduce the margin before tipping on a side slope. We have not measured this model’s center of gravity or rollover angle. I would begin without the upper rack, use low side-slope obstacles and record which approach fails. That gives you a reason for a later adjustment instead of copying a brass-parts shopping list without knowing what problem it solves.",
+        "Wheelbase also changes the route you choose. A longer distance between axles can bridge some gaps, but a sharp crest can leave the center section resting on the obstacle before the rear tires climb it. The product page lists 155mm, and the chassis/link parts are named 153.7mm in the manual. Keep both figures visible rather than claim a precision the documents do not share. On a homemade course, a shallow transition teaches more than a sudden step sized to catch the skid every time."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires and terrain",
+      "heading": "Make the obstacle smaller before making the truck heavier.",
+      "paragraphs": [
+        "The supplied Pro-Line Super Swamper tires and beadlock wheels give this package a clear equipment identity. A tread pattern can present edges to a surface, but the route, surface texture and how the tire is loaded matter as well. We have not tested grip or compared compounds. Build a first obstacle with an easy approach and a clear exit. If it becomes possible only after repeated full-throttle attempts, reduce the height and practice placing each front tire instead.",
+        "Choose dry, stable objects for an indoor course and keep the driving area clear of an unprotected table edge. Outdoors, think in terms of individual small rocks, short twigs and bare patches rather than a miniature version of a full-size trail. Tall grass can surround small tires and hide the intended line. A long drive across an unsuitable yard is unlikely to reveal why this category is interesting. Taking the truck to a suitable patch and working a short route is a better use of it.",
+        "Axial labels the vehicle water-resistant. We have no immersion test and would not make water part of the buying case. Dirt and dampness also increase the cleaning work around small mechanisms. RC Driver’s September 2023 launch coverage highlights the lights, scale accessories and suspension equipment; it is useful corroboration of the package, not a source of quantified handling results. Its enthusiasm does not replace the need to match the truck to your own obstacles or make the water-resistance label broader."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body and ownership",
+      "heading": "Keep the nice body, and make routine access easy.",
+      "paragraphs": [
+        "The green body is a custom four-door interpretation of a 1940s Dodge Power Wagon. A buyer who enjoys looking at that cab and bed gets something different from a minimally bodied competition project. RC Driver identifies working lights and a functional tailgate in its model coverage. The official photographs also let you distinguish the unadorned truck from the accessory-filled presentation. Decide whether that scale character belongs in your garage before treating the body as something that must immediately be replaced.",
+        "Routine access should stay routine. Follow the body-removal instructions, watch the light wiring and keep the battery leads clear when closing the vehicle. Small screws and plastic mounts reward a measured hand: use the appropriate driver, keep removed hardware together and avoid tightening by force after a fastener seats. The manual’s exploded drawings help identify an assembly before ordering a replacement. That is more useful than assuming every part labeled SCX24 is a direct fit for this long-wheelbase version.",
+        "Ownership planning starts with the exact version rather than the SCX24 family name. Check whether your chosen retailer can supply the model-specific body mounts, stock electronics and drivetrain items you expect to need. We have not surveyed local stock or counted failures, so the documentation score is about available instructions rather than guaranteed parts supply. After a session, remove debris, inspect visible wiring and disconnect the battery; let the observed condition determine maintenance instead of assigning an invented replacement schedule."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Pay for the whole first session, not the accessory cart.",
+      "paragraphs": [
+        "The dated manufacturer reference is $159.99 for the complete original green RTR. Use the figure to understand the equipment basket and compare delivered retailer totals. The stock battery, charger and transmitter cells do not require a second purchase. If you already have the specified USB supply, the reference equipment total remains $159.99 before tax and shipping. If you need a supply, add its actual local price rather than hiding it inside a guessed total. The Amazon offer may differ and is checked separately.",
+        "A spare battery is optional convenience. Axial’s product page lists the matching SPMX3502S30 at $8.99, making the dated vehicle-plus-one-spare example $168.98 before tax, delivery and any USB supply. Confirm the connector, chemistry and physical fit; capacity alone is not a compatibility check. We are not recommending a spare as a runtime claim, and have not measured session length. Finish a few supervised stock charging cycles before deciding whether an extra pack improves the routine you actually use.",
+        "Keep the vehicle budget separate from the upgrade project. Before adding an accessory cart, compare current complete alternatives and ask which included features you value. A rack, heavier wheels, electronics conversion and new charger can collectively move the purchase into another category, with no evidence here that you need them. Amazon commercial data belongs in the expiring offer box; if its API cannot return the listing, the verified link remains while the price is hidden. Static reference prices and live retailer offers serve different purposes."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ],
+      "table": {
+        "caption": "Dated startup basket · USD references checked 14 October 2026",
+        "columns": [
+          "Item",
+          "Included / reference",
+          "Buying implication"
+        ],
+        "rows": [
+          [
+            "Green AXI00007T2 complete RTR",
+            "$159.99 Axial listed reference",
+            "Confirm the retailer’s current delivered price and exact package"
+          ],
+          [
+            "Drive battery, charger, radio and AA cells",
+            "Included in original RTR package",
+            "No second power-equipment purchase required"
+          ],
+          [
+            "Compatible USB power supply",
+            "5V, at least 1A · manual requirement",
+            "Use an existing suitable supply or add its actual price"
+          ],
+          [
+            "Minimum reference equipment basket",
+            "$159.99 + USB supply if needed",
+            "Before tax and shipping; retailer checkout determines the actual total"
+          ],
+          [
+            "Optional matching SPMX3502S30 spare",
+            "$8.99 Axial listed reference",
+            "Vehicle + one spare = $168.98 before other costs"
+          ],
+          [
+            "Scale rack or performance upgrades",
+            "Optional · no initial budget assigned",
+            "Try the stock vehicle first"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Complete-car alternatives",
+      "heading": "Compare the body choice and the ground you have.",
+      "paragraphs": [
+        "The Axial SCX24 Jeep JT Gladiator V2 is the closest useful cross-check in this archive. Its manufacturer identifies a polycarbonate body, oil-filled shocks and included power equipment, with a 155mm wheelbase in the product table. That makes it worth comparing when you want a long small crawler but feel less attached to an ABS scale body. This is a package comparison, not a claim that the Gladiator beats the Power Wagon on a particular climb. Check its own exact color SKU and current seller terms.",
+        "The Traxxas TRX-4M Land Rover Defender is a complete 1/18 alternative for a buyer willing to allocate more course and storage space. Its official package includes a 2S battery and USB charger. The larger scale changes which obstacles make sense, so it is a useful question to ask before committing to the smaller Power Wagon. It does not turn a thick lawn into a suitable crawler course, and we have not conducted a head-to-head test of either vehicle.",
+        "The FMS FCX24S Power Wagon is another complete-vehicle family, but it should never be substituted silently into an Axial comparison or affiliate link. Our keyword search returned several FMS-named items under other API brands and different part numbers, which did not meet this review’s exact-identity requirement. If that platform interests you, verify its brushed or brushless generation, color, radio and included equipment independently. There is no verified FMS purchase link in this article, and no original FMS review result is transferred to the Axial."
+      ],
+      "sourceIndexes": [
+        5,
+        6,
+        2
+      ],
+      "table": {
+        "caption": "Alternative complete vehicles · no head-to-head testing claimed",
+        "columns": [
+          "Complete vehicle",
+          "Why compare it",
+          "Check before buying"
+        ],
+        "rows": [
+          [
+            "Axial SCX24 Jeep JT Gladiator V2",
+            "Polycarbonate-body long-wheelbase micro crawler with supplied power gear",
+            "Exact V2 color SKU, availability and delivered price"
+          ],
+          [
+            "Traxxas TRX-4M Land Rover Defender",
+            "Larger 1/18 scale complete trail package with battery and charger",
+            "Course size, package identity and required USB source"
+          ],
+          [
+            "FMS FCX24S Power Wagon family",
+            "Separate platform with generation-specific equipment",
+            "Brand/part-number match and brushed versus brushless variant"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "The conditional verdict",
+      "heading": "A good reason to choose the hard body.",
+      "paragraphs": [
+        "I would put this Power Wagon on the shortlist for someone who wants a finished miniature truck and enjoys careful driving on a compact dry course. Its appearance is part of the value, and the complete startup equipment makes that interest easy to explore. Compare the exact green AXI00007T2 at its actual delivered price against current complete vehicles. The manufacturer figure is a reference point, not a reason to rush a listing that cannot demonstrate its contents or explain which generation of electronics is included.",
+        "The editorial mean is 7.8 out of 10. Startup completeness and the supplied scale equipment are its strongest documented points. The score makes room for conflicting dimensions, radio wording and the separate USB supply requirement because those create real purchasing questions. It does not score our handling impressions, long-term service experience or measured performance; we have none for this vehicle. A reader who cares only about technical climbing should weight the body compromise differently from the scale-focused beginner named in the scorecard.",
+        "The first useful upgrade is a better understanding of the truck you bought. Start with the rack off, use the manual’s crawler control settings and build a repeatable route with a forgiving exit. Keep a note of the obstacle and the change you made. If the body is why you enjoy bringing the truck out, retain it and work within that choice. If you immediately want to remove its defining features to pursue another style of crawling, compare that alternative purchase before ordering the Power Wagon."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "axial-power-wagon-package.jpg",
+      "alt": "Official green Axial Power Wagon package photo with SLT2 transmitter, battery, USB charger and optional rack accessories",
+      "caption": "Original green RTR package shown by Axial: the truck, transmitter, battery, charger and optional scale accessories. Manufacturer photograph, not our unboxing.",
+      "source": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html"
+    },
+    {
+      "image": "axial-power-wagon-green-front.jpg",
+      "alt": "Official close front view of the green Axial SCX24 Power Wagon with its headlights illuminated",
+      "caption": "Official green-variant photograph showing the molded cab, front bumper and working headlights. This is not RC Car King driving photography.",
+      "source": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html"
+    }
+  ],
+  "specs": [
+    [
+      "Reviewed identity",
+      "Axial AXI00007T2 · green complete original RTR"
+    ],
+    [
+      "Verified Amazon ASIN",
+      "B0CL8VMLND · brand Axial · exact PartNumber AXI00007T2"
+    ],
+    [
+      "Scale / type",
+      "1/24 · rock crawler"
+    ],
+    [
+      "Drivetrain",
+      "Full-time 4WD · shaft drive"
+    ],
+    [
+      "Motor",
+      "Dynamite 88T 030 brushed · DYNS1217"
+    ],
+    [
+      "ESC / receiver",
+      "Spektrum 10A brushed 2-in-1 SLT · SPMXSE2425RX in manual component table"
+    ],
+    [
+      "Steering servo",
+      "Axial AS-1 · AXI31619"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT2 2.4GHz · product says two-channel; manual table says three-channel"
+    ],
+    [
+      "Throttle limit",
+      "50 / 75 / 100 percent · manual"
+    ],
+    [
+      "Battery",
+      "Spektrum SPMX3502S30 · 7.4V 350mAh 2S LiPo · included"
+    ],
+    [
+      "Vehicle connector",
+      "PH 2.0 · manufacturer specification"
+    ],
+    [
+      "Charger",
+      "Spektrum SPMXC0030 USB LiPo · included"
+    ],
+    [
+      "USB supply requirement",
+      "5V source with at least 1A output · model manual"
+    ],
+    [
+      "Transmitter batteries",
+      "Four AA cells · included"
+    ],
+    [
+      "Body",
+      "Licensed custom four-door 1940s Dodge Power Wagon · molded ABS"
+    ],
+    [
+      "Scale accessories",
+      "Overlanding rack/accessories supplied for optional installation"
+    ],
+    [
+      "Chassis",
+      "Steel C-channel rails"
+    ],
+    [
+      "Suspension",
+      "Solid axles · three-link front / four-link rear"
+    ],
+    [
+      "Shocks",
+      "Oil-filled coil-over · product lists 24–33.4mm"
+    ],
+    [
+      "Wheels / tires",
+      "Pro-Line Impulse beadlock / Interco Super Swamper"
+    ],
+    [
+      "Axle gearing",
+      "Worm drive · product table labels 16T/4T"
+    ],
+    [
+      "Spur / pinion",
+      "55T / 10T · product table"
+    ],
+    [
+      "Bearings",
+      "Full vehicle · manufacturer description"
+    ],
+    [
+      "Length",
+      "245mm · product and manual agree"
+    ],
+    [
+      "Width conflict",
+      "104mm product table; 107mm manual p.3"
+    ],
+    [
+      "Height conflict",
+      "107mm product table; 100mm manual p.3"
+    ],
+    [
+      "Listed operating weight",
+      "325.5g · manufacturer figure, not our measurement"
+    ],
+    [
+      "Wheelbase publication difference",
+      "155mm product table; chassis/link parts named 153.7mm in manual"
+    ],
+    [
+      "Ground clearance",
+      "37mm listed product figure · no independent measurement"
+    ],
+    [
+      "Water-resistance label",
+      "Yes in manufacturer table · no immersion or waterproof claim made here"
+    ],
+    [
+      "Price basis",
+      "$159.99 dated manufacturer listed reference · not a live Amazon price"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the linked car an FMS Power Wagon or an Axial replacement body?",
+      "answer": "Neither. It is the complete green Axial SCX24 original RTR, AXI00007T2, ASIN B0CL8VMLND. Amazon Creators API returned brand Axial and that exact manufacturer PartNumber on 14 October 2026."
+    },
+    {
+      "question": "What do I need beyond the box?",
+      "answer": "The documented original package includes the drive battery, USB charger, radio and four AA cells. You need a suitable USB supply: the model manual specifies 5V and at least 1A. An optional spare battery is not required to start."
+    },
+    {
+      "question": "Does the reference figure guarantee the Amazon price?",
+      "answer": "No. Axial listed the exact green complete RTR at $159.99 on 14 October 2026. Amazon pricing is checked separately through its API and expires after 24 hours. Confirm the retailer’s current delivered price, exact package and purchase terms."
+    },
+    {
+      "question": "Which width and height are correct?",
+      "answer": "The product table lists 104mm width and 107mm height; manual page 3 lists 107mm width and 100mm height. We have not measured the truck and cannot resolve the conflict. Leave room beyond either figure when planning storage or a course."
+    },
+    {
+      "question": "Can the stock radio operate a third accessory channel?",
+      "answer": "Do not assume so from the manual’s three-channel table entry. The product describes SLT2 as two-channel, and the separate ESC manual associates CH3 with SLT3 use. Verify the fitted radio and receiver instructions before planning an auxiliary accessory."
+    },
+    {
+      "question": "Should I install the rack or buy weight upgrades immediately?",
+      "answer": "Our buying advice is to start with the simpler body configuration and learn a repeatable course. Weight high on a vehicle can affect balance, but we have no measured rollover angle or proof that a particular upgrade is required."
+    },
+    {
+      "question": "Is 7.8/10 a customer rating or a physical test result?",
+      "answer": "No. It is our research-led buying assessment for a beginner scale-crawling buyer, calculated from five visible category scores. We have not measured this truck’s speed, runtime, durability, grip or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Axial · exact green AXI00007T2 product, USD reference and official photos",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "checked": "2026-10-14",
+      "kind": "Manufacturer"
+    },
+    {
+      "name": "Axial/Horizon · AXI00007T1/T2 model manual, controls, wiring and exploded views",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI00007_MANUAL_EN.pdf",
+      "checked": "2026-10-14",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Amazon Creators API · B0CL8VMLND exact brand/PartNumber verification",
+      "url": "https://www.amazon.com/dp/B0CL8VMLND?tag=coffeedant03-20&linkCode=ogi&th=1&psc=1",
+      "checked": "2026-10-14",
+      "kind": "API product verification",
+      "affiliate": true
+    },
+    {
+      "name": "RC Driver · Greg Vogel, 8 September 2023 launch coverage (package context)",
+      "url": "https://www.rcdriver.com/axial-scx24-dodge-power-wagon/",
+      "checked": "2026-10-14",
+      "kind": "Independent launch coverage"
+    },
+    {
+      "name": "Spektrum · SPMXSE2425RX controller manual and channel compatibility",
+      "url": "https://www.spektrumrc.com/on/demandware.static/-/Sites-horizon-master/default/dw14169664/Manuals/SPMXSE2425RX_MANUAL_MULTI.pdf",
+      "checked": "2026-10-14",
+      "kind": "Manufacturer electronics manual"
+    },
+    {
+      "name": "Axial · alternative green Jeep JT Gladiator V2 AXI00005V2T3",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-jeep-jt-gladiator-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00005V2T3.html",
+      "checked": "2026-10-14",
+      "kind": "Alternative manufacturer"
+    },
+    {
+      "name": "Traxxas · alternative complete TRX-4M Land Rover Defender 97054-1",
+      "url": "https://traxxas.com/97054-1-trx-4m-land-rover-defender",
+      "checked": "2026-10-14",
+      "kind": "Alternative manufacturer"
+    }
+  ],
+  "evidenceNote": "This is a research-led review of the original green AXI00007T2. Exact identity is verified through Amazon Creators API and manufacturer documentation. The product page and model manual disagree on width/height and radio-channel wording; the parts naming also differs from the rounded wheelbase table. Those conflicts remain visible. RC Driver is attributed as launch/package coverage, not an independent quantified test. We have not physically driven, weighed, timed, crashed or owned this vehicle; technical explanations and recommendations are editorial analysis.",
+  "revisionNote": "14 October 2026: published the green original complete-car review with exact API identity, dated startup basket, documented source conflicts and three credited official images.",
+  "seo": {
+    "title": "Axial SCX24 Dodge Power Wagon Review | RC Car King",
+    "description": "Review the green AXI00007T2 Power Wagon: hard body, included battery gear, crawler setup, source conflicts, ownership costs, pros, cons and editorial score."
+  }
+}

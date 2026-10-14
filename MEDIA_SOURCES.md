@@ -31,3 +31,13 @@ The following tracked manifests map every launch model to its actual official as
 - [Tamiya and Kyosho](content/launch-tamiya-kyosho.json)
 
 The original Tokyo illustration remains homepage atmosphere. Review product photography is actual manufacturer media.
+
+## Daily review · 14 October 2026 · Axial SCX24 Dodge Power Wagon
+
+Original green AXI00007T2, checked against the exact manufacturer page and API listing. All three photographs were inspected for the actual vehicle; no community images or RC Car King test photography. See [evidence record](content/evidence/2026-10-14-power-wagon.json).
+
+| Local file | Manufacturer source | Purpose |
+| --- | --- | --- |
+| `public/assets/axial-power-wagon-detail.jpg` | https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwd57be3ff/Images/AXI/AXI00007T2_A12_JFRSZV4V.jpg | Exact green complete vehicle |
+| `public/assets/axial-power-wagon-package.jpg` | https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwbe8079d1/Images/AXI/AXI00007T2_A11_JFRSZV4V.jpg | Original supplied equipment and optional accessories |
+| `public/assets/axial-power-wagon-green-front.jpg` | https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwf227c5f7/Images/AXI/AXI00007T2_A0_JFRSZV4V.jpg | Front body and illuminated headlights |
