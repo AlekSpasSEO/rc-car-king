@@ -72,8 +72,8 @@ for(const f of files){
 }
 async function walk(dir){return(await Promise.all((await readdir(dir,{withFileTypes:true})).map(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]))).flat();}
 const output=await walk('docs');
-expectedPages.push('docs/about/index.html',...[...publishedBrands].map(brand=>`docs/${brand}/index.html`));
-assert.equal(output.filter(f=>f.endsWith('.html')).length,expectedPages.length+3,'Generated archive must include reviews, brand archives, About, homepage, methodology and404');
+expectedPages.push('docs/about/index.html','docs/privacy-policy/index.html','docs/terms-of-service/index.html','docs/sitemap/index.html',...[...publishedBrands].map(brand=>`docs/${brand}/index.html`));
+assert.equal(output.filter(f=>f.endsWith('.html')).length,expectedPages.length+3,'Generated archive must include reviews, brand archives, publication/policy pages, homepage, methodology and 404');
 await Promise.all(expectedPages.map(file=>access(file)));
 for(const file of output.filter(f=>f.endsWith('.html'))){
  const html=await readFile(file,'utf8');

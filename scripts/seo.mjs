@@ -50,9 +50,9 @@ export async function createSeo({config,origin,base,reviews,site}){
   const article={'@type':'Article','@id':url+'#article',headline:`${r.brand} ${r.model} review`,description:r.seo.description,abstract:r.overview,datePublished:r.publishedAt,dateModified:r.updatedAt,author,publisher:{'@id':org['@id']},mainEntityOfPage:{'@id':url+'#webpage'},about:{'@id':product['@id']},image:images,articleSection:'RC car reviews',inLanguage:'en',isAccessibleForFree:true,citation:[...new Set(r.sources.map(s=>s.url))],wordCount:r.sections.flatMap(s=>s.paragraphs).join(' ').trim().split(/\s+/).length};
   return graph([{'@type':'WebPage','@id':url+'#webpage',url,name:r.seo.title,description:r.seo.description,isPartOf:{'@id':website['@id']},mainEntity:{'@id':article['@id']},primaryImageOfPage:images[0],breadcrumb:{'@id':crumbs['@id']},hasPart:{'@id':faq['@id']},inLanguage:'en'},article,product,crumbs,faq]);
  }
- function information(p,title,description,type='WebPage'){
-  const crumbs=breadcrumb(p,[['Reviews',''],[title,p]]);
-  return graph([{'@type':type,'@id':absolute(p+'#webpage'),url:absolute(p),name:title,description,isPartOf:{'@id':website['@id']},publisher:{'@id':org['@id']},...(type==='AboutPage'?{mainEntity:{'@id':org['@id']},about:{'@id':founder['@id']}}:{}),dateModified:site.updated,inLanguage:'en',breadcrumb:{'@id':crumbs['@id']}},crumbs]);
+ function information(p,title,description,type='WebPage',updated=site.updated,label=title){
+  const crumbs=breadcrumb(p,[['Reviews',''],[label,p]]);
+  return graph([{'@type':type,'@id':absolute(p+'#webpage'),url:absolute(p),name:title,description,isPartOf:{'@id':website['@id']},publisher:{'@id':org['@id']},...(type==='AboutPage'?{mainEntity:{'@id':org['@id']},about:{'@id':founder['@id']}}:{}),dateModified:updated,inLanguage:'en',breadcrumb:{'@id':crumbs['@id']}},crumbs]);
  }
  return {collection,review,information,imageAttributes,images:sizes,site,absolute};
 }

@@ -1,8 +1,19 @@
 # RC Car King SEO and discovery audit
 
-Checked 13 October 2026. Production: https://rccarking.com/.
+Updated 14 October 2026. Production: https://rccarking.com/.
 
-## Implemented and checked
+## Policy and discovery update — 14 October 2026
+
+- Live inspection found About, JSON-LD, canonical/social metadata, robots.txt, RSS, the original sitemap and llms.txt already present. Privacy Policy and Terms of Service returned 404; HTML microdata and a sitemap index were absent.
+- Added `/privacy-policy/` and `/terms-of-service/`, with dated policies grounded in the site's current behavior: Cloudflare delivery/security, external Google Fonts, Amazon affiliate links, browser-side filters, no installed visitor analytics, and no accounts or checkout. Contact uses Aleksandar's existing external Coffeedant contact page. Do not add data-collecting features without updating the privacy policy.
+- Added `/sitemap_index.xml` pointing to `/pages-sitemap.xml`. `/sitemap.xml` now serves the same index so existing sitemap submissions continue to discover the pages. The child includes every canonical published page, real modification dates and review images; drafts, 404s, redirect aliases and filter URLs stay excluded.
+- Added `/sitemap/`, linked from every footer, with every publication page, brand archive and published review. Extended llms.txt with policies and discovery files; `/llm.txt` redirects to the standard `/llms.txt`. `/privacy`, `/terms` and `/tos` redirect to their canonical policy pages on Cloudflare.
+- Added visible breadcrumb microdata with the same IDs, names, positions and URLs as the JSON-LD BreadcrumbList, plus navigation microdata. New policy pages retain publisher identity, WebPage schema, unique titles/descriptions, canonicals and social cards.
+- Current inventory: 51 reviews, eight brand archives, homepage, About, methodology, two policies and HTML site map: 65 indexable production URLs, plus a noindex 404. The pages sitemap contains 153 real review image entries.
+- Expanded `npm run check` to verify the index/child relationship, full URL and image coverage, policy dates and metadata, footer links, HTML sitemap coverage, discovery files and agreement between breadcrumb formats. Check both GitHub preview and production configurations before publishing.
+- llms.txt is an optional reader directory. There is no extra AI-specific markup requirement for Google's AI features; see [Google's guidance](https://developers.google.com/search/docs/appearance/ai-features). Existing JSON-LD remains the complete structured-data graph, consistent with [Google's supported formats](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data).
+
+## Previous audit — 13 October 2026
 
 - 50 published reviews, eight server-rendered brand archives, homepage, About and methodology: 61 indexable production URLs. A separate 404 returns HTTP 404 and is excluded from the sitemap.
 - Unique, authored review titles (33–57 characters) and descriptions (145–160 characters). Length targets are editorial guidance, not Google limits. Every page has matching Open Graph and Twitter title, description, image and alt values.

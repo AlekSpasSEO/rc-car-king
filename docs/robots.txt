@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://alekspasseo.github.io/rc-car-king/sitemap.xml
+Sitemap: https://alekspasseo.github.io/rc-car-king/sitemap_index.xml

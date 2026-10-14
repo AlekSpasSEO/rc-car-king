@@ -4,6 +4,8 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 
 - [Production homepage](https://rccarking.com/)
 - [About Aleksandar and RC Car King](https://rccarking.com/about/)
+- [Privacy Policy](https://rccarking.com/privacy-policy/) and [Terms of Service](https://rccarking.com/terms-of-service/), reflecting the current site's services and linked from every footer.
+- [Sitemap index](https://rccarking.com/sitemap_index.xml), [pages sitemap](https://rccarking.com/pages-sitemap.xml), [browsable site map](https://rccarking.com/sitemap/) and [llms.txt](https://rccarking.com/llms.txt), regenerated with every build. `/sitemap.xml` also serves the index for existing submissions.
 - [In-depth Traxxas Nissan 240SX review](https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/)
 - [GitHub preview](https://alekspasseo.github.io/rc-car-king/)
 - [Initial 50-review launch index](LAUNCH_ARCHIVE.md): eight real brands, complete vehicles and body-inclusive kits.
@@ -13,6 +15,7 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 - Reviews cover complete cars and body-inclusive car kits. The earlier chassis-only pilot remains a source draft.
 - Shareable brand/price/use/search filters, RSS, sitemap, canonical metadata and Article/Review structured data.
 - Eight crawlable brand archives, unique model-specific metadata, publisher/founder/editorial identities, Product with editorial Review and pros/cons, visible FAQs and social-card metadata.
+- Visible breadcrumb microdata shares the same identities and values as JSON-LD. Navigation microdata, discovery links, robots.txt, image sitemap entries and affiliate-link attributes are checked during publication.
 - [SEO audit and actual metadata inventory](SEO_AUDIT.md): sitemap coverage, schema facts, affiliate-link checks and discovery standards.
 
 ## Local development

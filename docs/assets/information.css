@@ -1,0 +1,16 @@
+.breadcrumbs ol{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;padding:0;margin:0}
+.breadcrumbs li{display:flex;align-items:center;gap:.55rem}
+.breadcrumbs li+li::before{content:"/";color:var(--muted)}
+.breadcrumbs a[aria-current="page"]{color:inherit}
+.policy-page h1,.sitemap-page h1{font-size:clamp(2.8rem,7vw,6rem);overflow-wrap:anywhere}
+.policy-intro,.policy-date{max-width:800px}
+.policy-date{color:var(--muted);font-size:.9rem}
+.policy-intro{font-size:1.15rem;line-height:1.7}
+.policy-toc{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;max-width:850px;margin:2rem 0;padding:1.4rem;border:1px solid var(--line)}
+.policy-toc a,.policy-related a{font-size:.9rem;color:var(--lime)}
+.policy-related{display:flex;flex-wrap:wrap;gap:1rem;margin-top:2rem;border-top:1px solid var(--line);padding-top:1.5rem}
+.policy-page section{scroll-margin-top:1.5rem}
+.policy-page .method-prose p+p{margin-top:1rem}
+.policy-page ul,.sitemap-page ul{padding-left:1.3rem}
+.policy-page li,.sitemap-page li{margin:.7rem 0;line-height:1.6}
+.method-prose a{overflow-wrap:anywhere}

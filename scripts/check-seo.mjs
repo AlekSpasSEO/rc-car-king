@@ -7,6 +7,7 @@ import {renderDocument} from './document-template.mjs';
 const decode=s=>s.replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');
 export async function checkSeo({config,output,records}){
  const site=JSON.parse(await readFile('content/site.json','utf8'));
+ const policies=JSON.parse(await readFile('content/policies.json','utf8'));
  const absolute=p=>`${config.origin}${config.basePath}/${p}`;
  const published=records.filter(r=>r.status==='published'&&r.published<=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()));
  const reviewByRoute=new Map(published.map(r=>[`${r.brandSlug}/${r.modelSlug}/`,r]));
@@ -32,6 +33,9 @@ export async function checkSeo({config,output,records}){
   assert.ok(metas.get('og:image:alt')&&metas.get('twitter:image:alt'));
   const preview=config.origin!==config.production.origin;
   assert.match(metas.get('robots'),preview||route==='404.html'?/noindex,follow/:/index,follow,max-image-preview:large/);
+  for(const p of ['about/','privacy-policy/','terms-of-service/','sitemap/'])assert.ok(html.includes(`href="${config.basePath}/${p}"`),`${file}: shared footer discovers ${p}`);
+  assert.ok(html.includes(`rel="sitemap" type="application/xml" href="${config.basePath}/sitemap_index.xml"`));
+  assert.ok(html.includes('itemscope itemtype="https://schema.org/SiteNavigationElement"'),`${file}: navigation microdata`);
   if(route==='404.html')continue;
   pageRoutes.push(route);
   const data=JSON.parse(html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)?.[1]??'null');
@@ -43,6 +47,24 @@ export async function checkSeo({config,output,records}){
   function gather(value){if(Array.isArray(value))return value.forEach(gather);if(!value||typeof value!=='object')return;if(value['@id']&&Object.keys(value).length>1)ids.add(value['@id']);Object.values(value).forEach(gather);}
   function checkReferences(value){if(Array.isArray(value))return value.forEach(checkReferences);if(!value||typeof value!=='object')return;if(value['@id']&&Object.keys(value).length===1)assert.ok(ids.has(value['@id']),`${file}: unresolved schema reference ${value['@id']}`);Object.values(value).forEach(checkReferences);}
   gather(graph);checkReferences(graph);
+  if(route){
+   const crumbs=graph.find(x=>x['@type']==='BreadcrumbList');
+   const microdata=html.match(/<nav class="breadcrumbs"[^>]*>(.*?)<\/nav>/s);
+   assert.ok(microdata,`${file}: visible breadcrumb microdata`);
+   assert.ok(microdata[0].includes(`itemid="${crumbs['@id']}"`),`${file}: same breadcrumb identity in both formats`);
+   const items=[...microdata[1].matchAll(/<li\b[^>]*>(.*?)<\/li>/gs)].map(m=>({
+    name:decode(m[1].match(/<span itemprop="name">(.*?)<\/span>/s)?.[1]??''),
+    item:decode(m[1].match(/itemprop="item" href="([^"]*)"/)?.[1]??''),
+    position:Number(m[1].match(/itemprop="position" content="(\d+)"/)?.[1])
+   }));
+   assert.deepEqual(items,crumbs.itemListElement.map(({name,item,position})=>({name,item,position})),`${file}: microdata agrees with JSON-LD`);
+  }
+  const policy=policies.pages.find(p=>p.path===route);
+  if(policy){
+   assert.equal(title,policy.title);assert.equal(metas.get('description'),policy.description);
+   assert.equal(graph.find(x=>x['@id']===absolute(route+'#webpage')).dateModified,policies.updated);
+   assert.ok(html.includes(policies.contact.url));
+  }
   const r=reviewByRoute.get(route);
   if(r){
    assert.equal(title,r.seo.title);assert.equal(metas.get('description'),r.seo.description);
@@ -70,15 +92,26 @@ export async function checkSeo({config,output,records}){
    assert.ok(html.includes('As an Amazon Associate I earn from qualifying purchases.'));
   }
  }
- const sitemap=await readFile('docs/sitemap.xml','utf8');
+ const index=await readFile('docs/sitemap_index.xml','utf8');
+ assert.match(index,/<sitemapindex xmlns="http:\/\/www.sitemaps.org\/schemas\/sitemap\/0.9">/);
+ const children=[...index.matchAll(/<sitemap><loc>(.*?)<\/loc><lastmod>(.*?)<\/lastmod><\/sitemap>/g)];
+ assert.equal(children.length,1);assert.equal(decode(children[0][1]),absolute('pages-sitemap.xml'));
+ assert.equal(await readFile('docs/sitemap.xml','utf8'),index,'Existing sitemap.xml subscribers discover the same index');
+ const sitemap=await readFile('docs/pages-sitemap.xml','utf8');
  assert.match(sitemap,/xmlns="http:\/\/www.sitemaps.org\/schemas\/sitemap\/0.9"/);
  const urls=[...sitemap.matchAll(/<url>(.*?)<\/url>/gs)].map(m=>({loc:decode(m[1].match(/<loc>(.*?)<\/loc>/)?.[1]??''),lastmod:m[1].match(/<lastmod>(.*?)<\/lastmod>/)?.[1]}));
  assert.deepEqual(urls.map(x=>x.loc).sort(),pageRoutes.map(absolute).sort());assert.equal(new Set(urls.map(x=>x.loc)).size,urls.length);
  for(const url of urls){assert.match(url.lastmod,/^\d{4}-\d{2}-\d{2}$/);assert.ok(url.lastmod<=new Date().toLocaleDateString('en-CA',{timeZone:config.timezone}));}
  for(const r of published)assert.equal(urls.find(u=>u.loc===absolute(`${r.brandSlug}/${r.modelSlug}/`)).lastmod,r.updated);
+ for(const p of policies.pages)assert.equal(urls.find(u=>u.loc===absolute(p.path)).lastmod,policies.updated);
+ assert.equal(children[0][2],urls.reduce((last,u)=>u.lastmod>last?u.lastmod:last,''),'Index date reflects its child sitemap');
  assert.equal((sitemap.match(/<image:image>/g)??[]).length,published.reduce((n,r)=>n+1+r.gallery.length,0));
- const robots=await readFile('docs/robots.txt','utf8');assert.ok(robots.includes(`Sitemap: ${absolute('sitemap.xml')}`));assert.match(robots,/User-agent: \*\nAllow: \//);assert.ok(!robots.includes('LLM-Policy'));
+ const robots=await readFile('docs/robots.txt','utf8');assert.ok(robots.includes(`Sitemap: ${absolute('sitemap_index.xml')}`));assert.match(robots,/User-agent: \*\nAllow: \//);assert.ok(!robots.includes('LLM-Policy'));
  const llms=await readFile('docs/llms.txt','utf8');for(const r of published)assert.ok(llms.includes(absolute(`${r.brandSlug}/${r.modelSlug}/`)));
+ for(const p of [...policies.pages.map(p=>p.path),'sitemap_index.xml','pages-sitemap.xml'])assert.ok(llms.includes(absolute(p)),`AI directory discovers ${p}`);
+ const htmlSitemap=await readFile('docs/sitemap/index.html','utf8');
+ for(const p of pageRoutes)assert.ok(htmlSitemap.includes(`href="${config.basePath}/${p}"`),`HTML sitemap discovers ${p}`);
+ const redirects=await readFile('docs/_redirects','utf8');assert.ok(redirects.includes('/llm.txt /llms.txt 301'));assert.ok(redirects.includes('/tos/ /terms-of-service/ 301'));
  assert.ok((await readFile('docs/about/index.html','utf8')).includes(site.founder.name));
  const escaped=renderDocument({title:'Example',description:'Example',body:'',href:p=>'/'+p,absolute:p=>'https://example.com/'+p,esc:String,schema:{'@context':'https://schema.org',name:'</script><script>bad()</script>'}});
  const parsed=JSON.parse(escaped.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);assert.equal(parsed.name,'</script><script>bad()</script>');
