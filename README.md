@@ -18,6 +18,10 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 - Visible breadcrumb microdata shares the same identities and values as JSON-LD. Navigation microdata, discovery links, robots.txt, image sitemap entries and affiliate-link attributes are checked during publication.
 - [SEO audit and actual metadata inventory](SEO_AUDIT.md): sitemap coverage, schema facts, affiliate-link checks and discovery standards.
 
+## Scheduled publication
+
+Active in-chat schedules use Europe/Skopje: three complete vehicle reviews per weekday starting at 09:00, one listicle each Monday at 10:00, and one how-to/informational guide every day at 11:00, including weekends. Runs count already published content to avoid exceeding each quota or duplicating topics. See [publishing guide](CONTENT_GUIDE.md) and [article formats](CONTENT_FORMATS.md). The first listicle/guide run adds reusable rendering if its format is not yet supported.
+
 ## Local development
 
 Node 22+; no npm dependencies.
