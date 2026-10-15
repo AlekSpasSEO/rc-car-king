@@ -12,7 +12,7 @@
   "published": "2026-10-15",
   "updated": "2026-10-15",
   "publishedAt": "2026-10-15T20:15:56.054Z",
-  "updatedAt": "2026-10-15T20:15:56.054Z",
+  "updatedAt": "2026-10-15T20:25:43.640Z",
   "answer": "Steering trim changes the neutral steering position. Steering rate or dual rate changes how much steering travel you can request. A gyro adds automatic steering correction when the car rotates. Check mechanical freedom and steering direction first, then make small trim adjustments during slow straight runs on a suitable level surface. Set steering travel and assistance afterward. A large trim requirement calls for inspection, not another handful of adjustment.",
   "scope": "This guide is for a complete electric hobby RC car with a working, correctly paired radio. It explains an initial steering check, not radio binding, ESC calibration, charging, advanced geometry or servo replacement. The vehicle, transmitter and receiver manuals take priority, especially for gyro-equipped drift cars. We use documented examples from ARRMA, Kyosho and Traxxas without treating their menu sequences as interchangeable.",
   "prerequisites": [
@@ -334,5 +334,5 @@
     }
   ],
   "evidenceNote": "Research-led explanation, checked 15 October 2026. Manufacturer controls and compatibility are distinguished from the recommended diagnostic order. Exact button sequences, electrical calibration and battery charging are left to the installed equipment’s instructions. The independent 240SX coverage establishes model context only. The conceptual diagram is original; the ARRMA photograph is credited manufacturer media. No physical test, ownership, universal setup value or measured result is claimed.",
-  "revisionNote": "First published 15 October 2026 as a practical controls guide, separate from the vehicle-review quota. No direct purchase links or affiliate prices are needed for this procedure."
+  "revisionNote": "First published 15 October 2026. Manufacturer control definitions, exact-model examples and source dates checked for this edition."
 }
