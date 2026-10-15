@@ -1,0 +1,52 @@
+{
+  "checked": "2026-10-15",
+  "scope": "Three weekday vehicle reviews; complete RTRs or body-inclusive kit",
+  "media": [
+    {
+      "file": "arrma-mojave-grom-223s-front.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwff6d4490/Images/ARA/ARA2304T1_A0_Y9XDCGB5.jpg"
+    },
+    {
+      "file": "arrma-mojave-grom-223s-location.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw63fe1df2/Images/ARA/ARA2304T1_A2_Y9XDCGB5.jpg"
+    },
+    {
+      "file": "arrma-mojave-grom-223s-action.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw16c29f54/Images/ARA/ARA2304_A3_EZ4PP2S8.jpg"
+    },
+    {
+      "file": "kyosho-initial-d-r32-front.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32652id_900_1.jpg"
+    },
+    {
+      "file": "kyosho-initial-d-r32-detail.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32652id_900_2.jpg"
+    },
+    {
+      "file": "kyosho-initial-d-r32-chassis.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32652/32652_600_3.jpg"
+    },
+    {
+      "file": "tamiya-lunch-box-official.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/5/58347/58347_1.jpg"
+    },
+    {
+      "file": "tamiya-lunch-box-manual-cover.jpg",
+      "url": "https://www.tamiya.com/cms/english/rc/rcmanual/58347.pdf",
+      "page": 1,
+      "method": "Original embedded manufacturer JPEG, unchanged"
+    },
+    {
+      "file": "tamiya-lunch-box-body-diagram.png",
+      "url": "https://www.tamiya.com/cms/english/rc/rcmanual/58347.pdf",
+      "page": 14,
+      "method": "Complete manufacturer page rendered with Poppler, no retouching"
+    }
+  ],
+  "permissionBasis": "Official manufacturer product photography and credited technical/manual illustrations; no community photography or claimed original testing",
+  "notes": [
+    "All images visually inspected. ARRMA action images labeled promotional manufacturer photography.",
+    "Kyosho chassis image is the manufacturer platform illustration on the exact 32652ID page; wheels are illustrative.",
+    "Tamiya product and manual photographs show assembled examples; kit/paint/completion requirements explicit."
+  ]
+}

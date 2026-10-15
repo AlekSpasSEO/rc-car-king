@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-15T11:46:20.801Z",
+  "review": "kyosho-mini-z-awd-initial-d-skyline-r32",
+  "coreWords": 2425,
+  "scope": "Research-led editorial assessment; no physical testing",
+  "manufacturerSku": "32652ID",
+  "amazon": {
+    "asin": "B0F7884F7B",
+    "brand": "Kyosho",
+    "model": {
+      "itemPartNumber": {
+        "displayValue": "32652ID",
+        "label": "PartNumber",
+        "locale": "en_US"
+      },
+      "model": {
+        "displayValue": "32652ID",
+        "label": "Model",
+        "locale": "en_US"
+      }
+    },
+    "detailPageUrl": "https://www.amazon.com/dp/B0F7884F7B?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Exact API ASIN, brand and manufacturer part number checked; no customer rating or Amazon price copied into static content"
+  },
+  "sources": [
+    {
+      "name": "Kyosho exact 32652ID product, current gyro guidance, dimensions and official photography",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Kyosho MINI-Z AWD T01 manual · cells, setup, gear changes and exploded parts",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZAWD-T01_IM.pdf",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Dollar Hobbyz exact 32652ID listing · dated USD reference and retail specification differences",
+      "url": "https://www.dollarhobbyz.com/collections/newest-rtr-cars-trucks/products/ma-020-awd-mini-z-readyset-initial-d-skyline-gt-r-r32-black",
+      "checked": "2026-10-15",
+      "kind": "Retailer product listing and reference price"
+    },
+    {
+      "name": "r/MiniZ · 2022 AWD owner discussion · category preference only, not 32652ID test evidence",
+      "url": "https://www.reddit.com/r/MiniZ/comments/vpqgar/",
+      "checked": "2026-10-15",
+      "kind": "Community owner discussion; no photographs reused"
+    },
+    {
+      "name": "Kyosho MD009P original AWD motor identification",
+      "url": "https://rc.kyosho.com/en/md009p.html",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    }
+  ],
+  "notes": [
+    "API identity exact 32652ID, not R34 from the initial search keywords.",
+    "Exact manufacturer dimensions 160/72/51mm override retailer 165/71/50mm.",
+    "Current manufacturer specifies optional MZW711; no unsupported older MZW446/MZW431 compatibility promised.",
+    "Manufacturer page requires alkaline for radio; alkaline or NiMH for chassis. Manual pages 11 and 13 visually checked.",
+    "Stock brushed motor confirmed by exact retailer and manufacturer MD009P parts identification; no unsupported turn count, Kv or speed used.",
+    "AAA startup cost explicitly left as actual local cell price; no invented cell quote or full basket total."
+  ]
+}

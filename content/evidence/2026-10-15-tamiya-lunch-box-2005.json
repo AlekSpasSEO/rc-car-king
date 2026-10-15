@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-15T11:50:03.785Z",
+  "review": "tamiya-lunch-box-2005",
+  "coreWords": 2508,
+  "scope": "Research-led editorial assessment; no physical testing",
+  "manufacturerSku": "58347",
+  "amazon": {
+    "asin": "B000BMVIGW",
+    "brand": "TAMIYA",
+    "model": {
+      "itemPartNumber": {
+        "displayValue": "TAM58347",
+        "label": "PartNumber",
+        "locale": "en_US"
+      },
+      "model": {
+        "displayValue": "58347",
+        "label": "Model",
+        "locale": "en_US"
+      },
+      "warranty": {
+        "displayValue": "No Warranty",
+        "label": "Warranty",
+        "locale": "en_US"
+      }
+    },
+    "detailPageUrl": "https://www.amazon.com/dp/B000BMVIGW?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Exact API ASIN, brand and manufacturer part number checked; no customer rating or Amazon price copied into static content"
+  },
+  "sources": [
+    {
+      "name": "Tamiya official 58347 product · original CW-01 specifications and finished photograph; page information dated 21 July 2005",
+      "url": "https://www.tamiya.com/english/products/58347/index.html",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Tamiya official 58347 assembly manual · equipment, paint, construction and body mounting",
+      "url": "https://www.tamiya.com/cms/english/rc/rcmanual/58347.pdf",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Horizon Hobby exact TAM58347 listing · dated USD reference and TEU-105BK/PS-paint descriptions",
+      "url": "https://www.horizonhobby.com/product/1-12-lunch-box-2wd-monster-truck-kit/TAM58347.html",
+      "checked": "2026-10-15",
+      "kind": "Retailer / distributor listing"
+    },
+    {
+      "name": "Big Squid RC · Doug · 31 July 2014 original 58347 build and driving account; modified example, historical context",
+      "url": "https://www.bigsquidrc.com/product-spotlight-throwback-thursday-edition-tamiya-lunch-box/",
+      "checked": "2026-10-15",
+      "kind": "Independent historical firsthand account"
+    }
+  ],
+  "notes": [
+    "API PartNumber TAM58347 and Model 58347 match original Tamiya kit, documented distributor-prefix mapping.",
+    "No displayable Amazon price in the verified research snapshot; no static Amazon price copied.",
+    "Current Horizon reference $146.30 is retailer kit-only pricing, not manufacturer MSRP or all-in cost.",
+    "Horizon TEU-105BK versus API 101BK is unresolved; buyer directed to actual boxed electronics.",
+    "Horizon PS paint suggestion conflicts with official manual page 2 TS-16 and bottle paint instructions. Manual visually checked and takes priority.",
+    "Big Squid 2014 steering criticism attributed to Doug’s modified example; no current stock test or durability claim inferred.",
+    "Official manufacturer product data is historically dated 2005; later EVO features not carried over."
+  ]
+}

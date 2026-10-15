@@ -41,3 +41,7 @@ Original green AXI00007T2, checked against the exact manufacturer page and API l
 | `public/assets/axial-power-wagon-detail.jpg` | https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwd57be3ff/Images/AXI/AXI00007T2_A12_JFRSZV4V.jpg | Exact green complete vehicle |
 | `public/assets/axial-power-wagon-package.jpg` | https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwbe8079d1/Images/AXI/AXI00007T2_A11_JFRSZV4V.jpg | Original supplied equipment and optional accessories |
 | `public/assets/axial-power-wagon-green-front.jpg` | https://www.axialadventure.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwf227c5f7/Images/AXI/AXI00007T2_A0_JFRSZV4V.jpg | Front body and illuminated headlights |
+
+## Weekday reviews · 15 October 2026
+
+ARRMA Mojave GROM 223S ARA2304T1, Kyosho MINI-Z AWD Initial D R32 32652ID and Tamiya Lunch Box 58347. See the [dated media manifest](content/evidence/2026-10-15-media.json) for all nine original asset URLs, manual pages and provenance. Photographs and diagrams were visually checked. No community photographs or RC Car King test photography are used. Tamiya images show a completed example; the review clearly identifies the body-inclusive assembly kit. Source conflicts and exact Amazon identities are recorded in each review’s evidence file.

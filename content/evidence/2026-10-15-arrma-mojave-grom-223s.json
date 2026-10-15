@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-15T11:29:17.914Z",
+  "review": "arrma-mojave-grom-223s",
+  "coreWords": 2415,
+  "scope": "Research-led editorial assessment; no physical testing",
+  "manufacturerSku": "ARA2304T1",
+  "amazon": {
+    "asin": "B0DN3YXJWV",
+    "brand": "ARRMA",
+    "model": {
+      "itemPartNumber": {
+        "displayValue": "ARA2304T1",
+        "label": "PartNumber",
+        "locale": "en_US"
+      },
+      "model": {
+        "displayValue": "ARA2304T1",
+        "label": "Model",
+        "locale": "en_US"
+      }
+    },
+    "detailPageUrl": "https://www.amazon.com/dp/B0DN3YXJWV?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Exact API ASIN, brand and manufacturer part number checked; no customer rating or Amazon price copied into static content"
+  },
+  "sources": [
+    {
+      "name": "ARRMA/Horizon exact ARA2304T1 package, manufacturer price and official photographs",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA ARA2304 multilingual manual · English specifications and DSC controls",
+      "url": "https://assets.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwb76aca74/Manuals/ARA2304_MANUAL_ML.pdf",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr · 24 October 2024 platform announcement, not a driving test",
+      "url": "https://www.bigsquidrc.com/arrma-mojave-grom-223s-blx-brushless-desert-truck-4wd-rtr/",
+      "checked": "2026-10-15",
+      "kind": "Independent launch coverage"
+    }
+  ],
+  "notes": [
+    "Official ARA2304T1 exact SKU, black, no drive battery or charger.",
+    "DSC mode and throttle positions taken from English manual pages 20–22.",
+    "Current $229.99 manufacturer reference replaces historical launch pricing; accessory total left explicitly unquoted until compatible choices are made.",
+    "Official action photography is labeled manufacturer imagery, not our testing."
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Mojave GROM 223S DSC",
+  "modelSlug": "mojave-grom-223s",
+  "sku": "ARA2304T1",
+  "headlineLines": [
+    "MINI BAJA.",
+    "FULL ATTENTION."
+  ],
+  "title": "ARRMA Mojave GROM 223S review: buy the right small desert truck",
+  "dek": "The black ARA2304T1 brings brushless 4WD, adjustable stability assistance and desert-truck attitude. Its missing battery and charger matter as much as the headline speed.",
+  "type": "Desert truck",
+  "use": "Bashing",
+  "terrain": [
+    "Packed dirt",
+    "Fine gravel",
+    "Smooth pavement"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/16",
+  "format": "Ready-to-run",
+  "skill": "Beginner with throttle limit; experienced on 3S",
+  "price": {
+    "amount": 229.99,
+    "basis": "ARRMA/Horizon US listed vehicle-only RTR price · ARA2304T1",
+    "source": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+    "currency": "USD",
+    "checked": "2026-10-15"
+  },
+  "purchaseNote": "Manufacturer vehicle reference checked 15 October 2026. Battery, compatible charger and charging bag are additional; this is not the ST-series power bundle.",
+  "image": "arrma-mojave-grom-223s-front.jpg",
+  "imageAlt": "Official ARRMA photograph of the black and bronze Mojave GROM 223S ARA2304T1 desert truck",
+  "imageCaption": "Black ARA2304T1. The truck and radio are supplied; the drive battery and charger are separate. Official ARRMA photograph.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+    "kind": "Official product photography"
+  },
+  "overview": "A compact brushless desert truck with an unusually useful control ladder: 2S or 3S power, three throttle limits and four DSC modes. The black ARA2304T1 suits carefully chosen compact outdoor courses and owners who already have compatible charging equipment. Small wheels, a narrow IC2 battery tray and the separate power package are the main buying catches.",
+  "verdict": "A strong compact basher when the course fits the truck",
+  "verdictText": "Buy the ARA2304T1 for packed dirt, small gravel and manageable transport size, with the full power basket priced first. Skip it for ordinary long grass or when you want an all-inclusive first-car gift. Treat 3S as an optional later step rather than the reason to spend.",
+  "pros": [
+    "Brushless 2S/3S-capable system supplied without a motor conversion",
+    "DSC assistance and 50/75/100 throttle limits create distinct learning steps",
+    "Oil-filled differentials, aluminum shocks and metal hubs are already included",
+    "Compact clipless body and included transmitter cells simplify routine use"
+  ],
+  "cons": [
+    "ARA2304T1 excludes the drive battery, charger and charging bag",
+    "101 × 31 × 21mm tray and IC2 connector restrict casual battery swapping",
+    "Small wheels make grass, deep loose ground and curbs significant obstacles",
+    "Combined ESC/receiver ties radio and power-electronics replacements together"
+  ],
+  "bestFor": [
+    "Small packed-dirt courses with clear run-off space",
+    "Existing hobbyists who can supply a verified compatible power package",
+    "A compact desert-truck experience with adjustable assistance"
+  ],
+  "avoidIf": [
+    "Your only driving area is long or thick lawn",
+    "You need a gift with every power component included",
+    "You want a proven crash-test result or measured runtime before purchase"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "ARA2304T1 · black · no drive battery/charger"
+    ],
+    [
+      "Motor",
+      "Spektrum 2838 · 4500Kv brushless"
+    ],
+    [
+      "Drive / scale",
+      "4WD · 1/16"
+    ],
+    [
+      "Battery requirement",
+      "2S or 3S hardcase LiPo · IC2"
+    ],
+    [
+      "Controls",
+      "SLT2 DSC · 50/75/100 throttle limit"
+    ],
+    [
+      "Length / wheelbase",
+      "338mm / 196mm"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "A compact-course basher buyer prepared to select compatible batteries and charging equipment",
+    "disclosure": "Research-led scores, not physical test results or Amazon customer stars. Five categories carry equal weight; the displayed score is their arithmetic mean.",
+    "dimensions": [
+      {
+        "label": "Compact-course suitability",
+        "score": 8.5,
+        "reason": "The dimensions and desert-truck package suit modest dirt venues; small wheels narrow the terrain choice."
+      },
+      {
+        "label": "Control and learning",
+        "score": 8.5,
+        "reason": "Three throttle limits and four documented DSC settings give useful progression without an immediate conversion."
+      },
+      {
+        "label": "Supplied hardware",
+        "score": 8.5,
+        "reason": "Oil-filled differentials, metal hubs and aluminum shocks address several usual upgrade temptations."
+      },
+      {
+        "label": "Ownership clarity",
+        "score": 7.5,
+        "reason": "A detailed manual helps, but the narrow tray, IC2 connector and combined electronics need advance planning."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7,
+        "reason": "The $229.99 vehicle reference excludes the power equipment; value depends strongly on what the owner already has."
+      }
+    ]
+  },
+  "amazon": {
+    "variant": "Black ARA2304T1 complete RTR vehicle; battery and charger not included",
+    "asin": "B0DN3YXJWV",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA2304T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DN3YXJWV?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-15T11:16:19.374Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buying case",
+      "heading": "A small desert truck needs a small-truck course",
+      "paragraphs": [
+        "The Mojave GROM 223S looks like the sort of desert truck that ought to live beside a full-size toolbox: wide fenders, a visible driver and enough suspension detail to make a dirt corner look interesting. The important part of the buying decision happens before that first corner. This is a 338mm-long vehicle on a 196mm wheelbase. A patch of ground that looks smooth beside a larger basher can be rough enough to dominate a truck this size.",
+        "My shortlist would begin with the place you can actually use it every week. Packed dirt, compacted fine gravel and a clean paved area give the package a sensible job. A lawn with deep growth does not become suitable merely because the electronics accept 3S. More voltage increases the available performance; it does not increase tire diameter or remove the constant load imposed by grass. Course selection is a cheaper and more useful first adjustment than another battery.",
+        "This review covers the black ARA2304T1 specifically. It is the assembled brushless RTR without a drive battery or charger, rather than an ST-suffix bundle. ARRMA's current manufacturer listing supplies the package evidence, and the model manual supplies the operating details. Big Squid RC's October 2024 announcement independently records the platform's launch configuration. That is useful corroboration of what was announced, not a long-term durability test, a speed measurement or proof that today's selling price matches launch pricing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "In the box",
+      "heading": "RTR describes the assembled truck, not the whole basket",
+      "paragraphs": [
+        "The supplied equipment includes the finished truck, Spektrum SLT2 DSC transmitter and four AA transmitter cells. The 4500Kv motor, combined brushless ESC/receiver and SX110 metal-geared steering servo are already installed. There is no reason to buy those items again for a normal first run. The omission that matters is the drive-power system: this exact T1 package needs a suitable hardcase 2S or 3S LiPo, a compatible charger and the charging bag specified by the manufacturer.",
+        "Check battery dimensions before capacity or branding. The manual gives a maximum tray envelope of 101mm long, 31mm wide and 21mm high, and the vehicle uses an IC2 connection. A familiar larger 1/10 pack is not automatically useful here. The complete assembly has to fit securely with its wires routed away from moving parts, and the charging connection has to match the equipment you actually own. A collection of adapters is not evidence that the combination is appropriate.",
+        "The manual is shared with battery-and-charger versions and explicitly separates their additional contents. This is an easy place to misread a family brochure and promise equipment that the box does not contain. When comparing an offer, match ARA2304T1, the black livery and the no-battery package, then compare the delivered total. A cheaper body-only listing, another GROM model or an ST bundle with a different included-power specification is a different purchase, even when the photographs look familiar."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Brushless power is useful before you ever select 3S",
+      "paragraphs": [
+        "The installed Spektrum 2838 4500Kv brushless motor and SLT 25A two-in-one unit make this a factory brushless vehicle. The motor's Kv figure describes its nominal unloaded rotational-speed relationship to voltage; it is not a wheel-speed reading or a promise about acceleration. Gearing, tire size, battery condition, surface and load still determine what happens on the ground. I would buy this configuration to avoid an early electronics conversion, rather than interpret one motor number as a performance test.",
+        "Four-wheel drive distributes drive through the enclosed drivetrain, while the included oil-filled differentials permit wheel-speed differences through turns. The metal axle and wheel-hub upgrades, adjustable steering links and aluminum shock package are part of the documented specification. Those additions reduce the number of obvious extras on a new-owner shopping list. They do not make the drivetrain immune to shock loads, grit or neglected bearings, and the published equipment list cannot establish a failure rate.",
+        "ARRMA markets 50-plus-mph potential for the platform on 3S. We have not verified that claim, timed this truck or established the space and conditions needed to reproduce it. For a buyer working with a compact venue, the useful question is how consistently the truck can be placed and stopped. Start with the manufacturer-approved power specification that fits the venue, keep the stock gearing while learning, and inspect for binding or excess heat before adding electrical demand. A speed headline is a poor substitute for a suitable place to run."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & DSC",
+      "heading": "Separate throttle limiting from stability assistance",
+      "paragraphs": [
+        "The transmitter's 50, 75 and 100 throttle-limit positions provide a straightforward way to restrict available throttle. They are settings, not independently measured percentages of road speed. The lower position is the sensible starting point for a new driver because it leaves more time to recognize steering reversal when the truck approaches. Increase the setting only after repeated controlled starts, predictable turns and stops well inside the available run-off. Another person's video does not tell you how much space your own venue needs.",
+        "DSC is a separate steering-assistance system. The manual describes four modes: off, low, medium and high correction. It responds to changes in yaw and applies steering correction; it does not turn an unsuitable surface into a safe course or provide obstacle detection. The transmitter remembers the selected mode. That is worth checking when someone else has driven the truck, because a remembered assistance setting can change the feel even though the throttle-limit switch has not moved.",
+        "Set up with the vehicle stationary and use the documented mode-selection sequence rather than experimenting while driving. Establish steering trim on a level surface and verify direction with the wheels clear before the first ground run. Learn what the truck does at a restrained throttle setting, then compare DSC levels one at a time. If it behaves unexpectedly, return to a known baseline and inspect the steering system. More correction should not be used to conceal a binding linkage, damaged tire or incorrectly centered steering assembly."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension",
+      "heading": "Keep the included upgrades working together",
+      "paragraphs": [
+        "Independent suspension and oil-filled coil-over shocks are important distinctions from a simple toy-grade desert-truck silhouette. Oil damping controls suspension motion; spring force supports the vehicle. Increasing preload does not automatically create more useful bump absorption, and a taller stance may bring its own handling compromises. I would photograph the factory setup and check that each corner moves freely before making changes. That produces a reference you can return to instead of a collection of unrelated adjustments.",
+        "The SX110 servo's metal gears are a worthwhile inclusion, but the steering system still needs sensible mechanical travel. Check the linkage, available clearance and transmitter steering rate before assuming that maximum steering-wheel movement is desirable. A servo that pushes into a mechanical stop is doing work without producing useful extra angle. The included adjustable steering links allow correction of alignment; they also make it possible to create an inconsistent setup if changes are made without recording which side moved and by how much.",
+        "Tires belong in the setup conversation as well. The supplied dBoots Fortress pattern has a different job from a smooth indoor drift tire. Choose a consistent test strip, check tire seating and remove trapped debris before changing springs or electronics to solve a grip complaint. None of this establishes a lap-time advantage or predicts how the truck lands from a jump. It is a practical way to keep the original package coherent while you learn which limitations come from the surface and which come from an actual mechanical issue."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to run",
+      "heading": "Fine gravel is a different proposition from a gravel pit",
+      "paragraphs": [
+        "On compacted dirt, the case for this truck is its manageable physical size and desert-truck presentation. That is a suitability assessment based on its dimensions and construction, not a report of our own sessions. Survey the ground at tire level. Small stones, drainage grooves and broken paving edges occupy a larger share of the wheel's working height than they do on a larger Mojave. Choose a route that lets you steer around them without entering a road or a shared pedestrian area.",
+        "Loose deep gravel, thick grass and soft sand can impose sustained load while reducing useful forward progress. Repeatedly holding more throttle because the truck is struggling is a reason to stop and reconsider the venue. A bigger battery cannot create clearance underneath the chassis. For early running, avoid deliberately launching off curbs; the height may look modest to a standing driver while representing a substantial obstacle to the vehicle. The included metal parts do not establish a safe impact height.",
+        "The manufacturer describes protected electronics, but the manual's water-use and maintenance limitations still govern the assembled vehicle. Do not treat a waterproof component label as permission to submerge the whole truck or ignore bearings afterward. Dry driving areas simplify the first ownership period and make dirt-related checks easier to interpret. After a run, disconnect the pack, allow hot components to cool and inspect tires, shafts and steering for debris. We do not supply a runtime estimate because pack choice and terrain would make an unsupported number misleading."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & service",
+      "heading": "The shell is convenient; the electronics are a shared unit",
+      "paragraphs": [
+        "The clipless body attachment is useful because battery access is part of every session. Learn the release method before pulling at a painted panel, and check that the body is positively seated before driving. The detailed desert shell, fenders and visible cabin are a large part of this model's appeal. They are also bodywork attached to a small chassis, so treat decorative pieces and mounting points as inspection items after a tumble rather than evidence of structural reinforcement.",
+        "Ownership planning should include the combined ESC and receiver. It saves space in a compact chassis, but a future radio-system change is not necessarily a receiver-only swap. The steering servo and motor connect to an integrated package whose functions should be identified before ordering replacements. Keep the exact manual and exploded drawings associated with this model, particularly when an online shop groups several GROM generations under one broad category. A part that fits a brushed sibling is not automatically the correct electronics replacement here.",
+        "I would postpone cosmetic and performance upgrades until there is a specific problem to solve. A clean drivetrain, secure hardware and correctly fitted pack protect the usefulness of the supplied upgrades better than an immediate pile of metal accessories. Record any changes, retain the original parts and diagnose one symptom at a time. We have no measured maintenance interval or fleet reliability data for this truck. The service argument is its documented construction and available model literature, not a claim that a particular component will last a particular number of packs."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Price the power system before judging the value",
+      "paragraphs": [
+        "The manufacturer vehicle reference checked on 15 October 2026 is $229.99 for ARA2304T1. This is a dated US reference, not a live Amazon offer. Big Squid RC's 2024 launch article quoted different historical prices and packages; those numbers are not today's checkout quote. Amazon pricing, when the API returns an eligible exact-item offer, appears separately and expires after 24 hours. A missing offer does not justify substituting another vehicle or retaining an old price.",
+        "The certain starter basket is the truck plus a correctly sized supported battery, a charger with the correct battery and connector support, and the specified charging bag. Four transmitter cells are included. A source-compatible 3S battery is not essential simply because it appears in a recommended-accessories carousel. For the first purchase, ask the seller to confirm the whole battery-and-charger combination, including any required charging lead, before comparing totals. Chargers and batteries you already own reduce the additional cost only if they actually meet those requirements.",
+        "I am deliberately leaving the unverified accessory subtotal open instead of presenting $229.99 as an all-in cost. Taxes, shipping, regional power supply and charging accessories can alter the basket. Compare the finished basket against the matching battery-included version and a larger vehicle suited to your terrain. If the smaller truck needs a new charging ecosystem while a larger option uses equipment already on your bench, the attractive entry price may not determine the better buy. Transport convenience and the place you will drive remain part of that calculation."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "table": {
+        "caption": "Required first-run basket · USD reference checked 15 October 2026",
+        "columns": [
+          "Item",
+          "Included?",
+          "Cost basis"
+        ],
+        "rows": [
+          [
+            "ARA2304T1 truck, installed electronics, radio",
+            "Yes",
+            "$229.99 manufacturer vehicle reference"
+          ],
+          [
+            "Four AA transmitter cells",
+            "Yes",
+            "Included in vehicle price"
+          ],
+          [
+            "Correctly fitted 2S/3S hardcase IC2 LiPo",
+            "No",
+            "Obtain a current compatible-pack quote"
+          ],
+          [
+            "Compatible charger and required connection accessories",
+            "No",
+            "Confirm exact charging configuration before pricing"
+          ],
+          [
+            "Battery charging bag",
+            "No",
+            "Additional; no verified quote supplied"
+          ],
+          [
+            "All-in starting total",
+            "Incomplete until accessories selected",
+            "$229.99 plus the missing power equipment, tax and shipping"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete cars",
+      "heading": "Choose the size and job before choosing the badge",
+      "paragraphs": [
+        "The larger ARRMA Mojave 4S is the relevant family comparison when the available ground overwhelms a mini truck. Its larger format changes storage, transport and the drive-power requirement, so it should be compared as a different ownership commitment. Read our separate Mojave 4S review for its exact package rather than expecting this GROM's battery guidance to carry across. Neither review is a physical head-to-head test, and a shared desert-truck name does not establish identical handling.",
+        "The ARRMA Typhon 223S is another complete-vehicle route when you prefer a buggy layout and have room for a larger course. It is a more useful comparison than adding unrelated hop-ups to the GROM merely to imitate another vehicle category. Conversely, a battery-included Mojave GROM package can make more sense than T1 for a new owner who values a defined initial charging arrangement. Check the actual suffix and included battery: a family name alone is insufficient to compare those offers.",
+        "For indoor drifting, I would move to a purpose-built small drift car such as the Kyosho MINI-Z AWD reviewed today, rather than force the Mojave into a job its tires and body proportions were not selected to perform. A small crawler is likewise a separate slow-obstacle proposition. This helps make the purchase honest: the GROM earns its place by making a suitable outdoor bash course convenient, not by covering every activity associated with radio-controlled cars. Buy for the session you can repeat, not the broadest list of possible modifications."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Final call",
+      "heading": "Buy the compact experience, leave the speed chase optional",
+      "paragraphs": [
+        "The Mojave GROM 223S is a convincing specification for a compact outdoor basher: factory brushless power, several sensible included hardware upgrades, independent oil-damped suspension and useful driver-adjustable assistance. Its strongest purchase case is a buyer with a suitable small dirt venue who wants a finished desert-truck identity and understands the missing power equipment. I would prioritize the correct battery fit and a conservative initial setup over any optional maximum-speed plan.",
+        "The reservations are equally concrete. The battery tray is small, the connector choice needs attention, and the T1 box is not a complete charging package. Terrain remains the biggest physical constraint. No transmitter setting can make thick grass disappear, and no editorial score establishes crash resistance. The equally weighted category scores above assess buying fit from the evidence available; they are independent of customer star averages and contain no claimed driving measurements.",
+        "Buy if the transport size, course and supplied hardware solve a real use case. Skip if the only place available is rough lawn, if you need every component bundled for a first-time recipient, or if the headline 3S speed is the entire attraction. Before ordering, confirm ARA2304T1 on the listing, complete the power basket and open the manual. That leaves a straightforward ownership plan: learn at a restrained setting, keep the original setup as a baseline and add capability only when your venue and control justify it."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "arrma-mojave-grom-223s-action.jpg",
+      "alt": "ARRMA manufacturer action photograph showing the black Mojave GROM 223S turning on dirt",
+      "caption": "Manufacturer action photograph, not RC Car King testing. Dust and body motion here are promotional imagery, not measured performance evidence.",
+      "source": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html"
+    },
+    {
+      "image": "arrma-mojave-grom-223s-location.jpg",
+      "alt": "Official black Mojave GROM 223S on a dry rocky outdoor surface",
+      "caption": "Official ARRMA location photograph. Assess the actual course at tire level; this image does not establish obstacle or impact limits.",
+      "source": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html"
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer SKU",
+      "ARA2304T1"
+    ],
+    [
+      "Color / package",
+      "Black; drive battery and charger not supplied"
+    ],
+    [
+      "Scale",
+      "1/16"
+    ],
+    [
+      "Motor",
+      "Spektrum 2838 4500Kv brushless · SPMXSM4400"
+    ],
+    [
+      "ESC / receiver",
+      "Spektrum SLT DSC 25A 2-in-1 · SPMXSBER1025G"
+    ],
+    [
+      "Transmitter",
+      "Spektrum SLT2 DSC 2-channel 2.4GHz · SPMRSLT270"
+    ],
+    [
+      "Servo",
+      "Spektrum SX110 metal-geared"
+    ],
+    [
+      "Drivetrain",
+      "4WD; enclosed metal gearing; oil-filled differentials"
+    ],
+    [
+      "Suspension",
+      "Independent; oil-filled coil-over aluminum shocks"
+    ],
+    [
+      "Dimensions",
+      "338 × 172 × 120mm, manufacturer manual"
+    ],
+    [
+      "Wheelbase",
+      "196mm"
+    ],
+    [
+      "Weight",
+      "1.03kg T version without drive battery, manufacturer manual"
+    ],
+    [
+      "Battery tray maximum",
+      "101 × 31 × 21mm (L × W × H)"
+    ],
+    [
+      "Battery support",
+      "2S or 3S hardcase LiPo, IC2; sold separately"
+    ],
+    [
+      "Throttle limit",
+      "50 / 75 / 100 positions"
+    ],
+    [
+      "DSC",
+      "Four modes: off / low / medium / high"
+    ],
+    [
+      "Body",
+      "Clipless desert-truck shell"
+    ],
+    [
+      "Tires",
+      "dBoots Fortress"
+    ],
+    [
+      "Transmitter batteries",
+      "Four AA supplied"
+    ],
+    [
+      "Measured speed / runtime",
+      "Not tested or independently verified by RC Car King"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does the black ARA2304T1 include a battery and charger?",
+      "answer": "No. It includes the installed electronics, SLT2 DSC radio and four AA transmitter cells, but needs a drive battery, compatible charger and charging bag. ST-suffix family bundles have different contents."
+    },
+    {
+      "question": "Which battery fits the Mojave GROM 223S?",
+      "answer": "The manual specifies a supported 2S or 3S hardcase LiPo with IC2 connection and a maximum 101 × 31 × 21mm tray envelope. Confirm the complete pack and wire clearance, not just its capacity."
+    },
+    {
+      "question": "Do I need 3S for a first run?",
+      "answer": "No. The system supports 2S and 3S. A properly fitted supported 2S setup and a restrained throttle limit are the more conservative learning starting point."
+    },
+    {
+      "question": "Does DSC prevent crashes?",
+      "answer": "No. It provides adjustable steering correction based on yaw changes. It cannot detect obstacles, replace braking space or correct an unsuitable course."
+    },
+    {
+      "question": "Can it run through normal lawn?",
+      "answer": "Thick or long lawn is a poor match for its small wheels and can impose sustained load. Select compacted dirt, fine gravel or a suitable smooth paved area instead."
+    },
+    {
+      "question": "Has RC Car King verified the advertised speed?",
+      "answer": "No. ARRMA advertises 50-plus-mph potential for the platform on 3S. Our score is a research-led buying assessment, not a speed, runtime or crash test."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA/Horizon exact ARA2304T1 package, manufacturer price and official photographs",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA ARA2304 multilingual manual · English specifications and DSC controls",
+      "url": "https://assets.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwb76aca74/Manuals/ARA2304_MANUAL_ML.pdf",
+      "checked": "2026-10-15",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr · 24 October 2024 platform announcement, not a driving test",
+      "url": "https://www.bigsquidrc.com/arrma-mojave-grom-223s-blx-brushless-desert-truck-4wd-rtr/",
+      "checked": "2026-10-15",
+      "kind": "Independent launch coverage"
+    }
+  ],
+  "evidenceNote": "Exact black T1 vehicle verified through Amazon Creators API against ARRMA and ARA2304T1. Manual separates T and ST bundle contents. All photographs are official manufacturer media. No physical testing, measured runtime, durability rate or verified maximum speed is claimed.",
+  "revisionNote": "First published 15 October 2026. Exact package, current manufacturer reference, dated sources and API identity checked before publication.",
+  "seo": {
+    "title": "ARRMA Mojave GROM 223S Review: ARA2304T1 Buying Guide",
+    "description": "Research-led ARRMA Mojave GROM 223S review: exact ARA2304T1 specs, DSC setup, battery fit, startup costs, terrain limits and buying advice."
+  },
+  "published": "2026-10-15",
+  "updated": "2026-10-15",
+  "publishedAt": "2026-10-15T11:29:17.914Z",
+  "updatedAt": "2026-10-15T11:29:17.914Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "I would start this truck on a correctly fitted 2S pack and buy it for a small dirt course. The judgments below come from documentation and independent launch coverage, not driving or crash testing."
+  }
+}

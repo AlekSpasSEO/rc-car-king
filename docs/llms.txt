@@ -15,16 +15,19 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Review feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
-- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
+- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
-- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 
 ## Reviews
+- [ARRMA Mojave GROM 223S DSC](https://alekspasseo.github.io/rc-car-king/arrma/mojave-grom-223s/): Research-led ARRMA Mojave GROM 223S review: exact ARA2304T1 specs, DSC setup, battery fit, startup costs, terrain limits and buying advice.
+- [Kyosho MINI-Z AWD Initial D Skyline GT-R R32](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-awd-initial-d-skyline-r32/): Kyosho 32652ID Initial D R32 review with exact MINI-Z AWD specs, battery needs, radio and gyro compatibility, indoor setup, costs and alternatives.
+- [Tamiya Lunch Box (2005)](https://alekspasseo.github.io/rc-car-king/tamiya/lunch-box-2005/): Tamiya Lunch Box 58347 review covering the original CW-01 kit, included motor, ESC and paint conflicts, startup equipment, steering and alternatives.
 - [Axial SCX24 1940s Dodge Power Wagon](https://alekspasseo.github.io/rc-car-king/axial/scx24-dodge-power-wagon/): Review the green AXI00007T2 Power Wagon: hard body, included battery gear, crawler setup, source conflicts, ownership costs, pros, cons and editorial score.
 - [ARRMA Big Rock 223S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/big-rock-223s/): A longer 4WD crew-cab RC truck with brushless 2S/3S power and DSC. See the exact package, terrain fit, battery requirements, pros, cons and rating.
 - [ARRMA Gorgon MEGA 550](https://alekspasseo.github.io/rc-car-king/arrma/gorgon-mega/): Review the complete brushed 2WD Gorgon package, included NiMH charging gear, suitable terrain and remaining-stock caveats before buying this RC monster truck.
