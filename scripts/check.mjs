@@ -7,6 +7,8 @@ import {matchesVehicle} from './amazon-client.mjs';
 import {refreshOffers} from './amazon-offers.mjs';
 import {overallRating} from './review-template.mjs';
 import {checkSeo} from './check-seo.mjs';
+import {loadArticles,articleRoute} from './articles.mjs';
+import {checkArticleRecords} from './check-articles.mjs';
 const config=JSON.parse(await readFile('site.config.json','utf8'));
 config.basePath=process.env.BASE_PATH??config.basePath;
 config.origin=process.env.SITE_ORIGIN??config.origin;
@@ -72,6 +74,9 @@ for(const f of files){
 }
 async function walk(dir){return(await Promise.all((await readdir(dir,{withFileTypes:true})).map(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]))).flat();}
 const output=await walk('docs');
+const articleRecords=await loadArticles();
+const {articles,groups}=await checkArticleRecords({articles:articleRecords,records,config,today});
+expectedPages.push(...articles.map(a=>`docs/${articleRoute(a)}index.html`),...groups.map(g=>`docs/${g.directory}/index.html`));
 expectedPages.push('docs/about/index.html','docs/privacy-policy/index.html','docs/terms-of-service/index.html','docs/sitemap/index.html',...[...publishedBrands].map(brand=>`docs/${brand}/index.html`));
 assert.equal(output.filter(f=>f.endsWith('.html')).length,expectedPages.length+3,'Generated archive must include reviews, brand archives, publication/policy pages, homepage, methodology and 404');
 await Promise.all(expectedPages.map(file=>access(file)));
@@ -155,4 +160,4 @@ assert.equal(offerBoxes[1].fields.price.textContent,'Check Amazon price');
 assert.match(offerBoxes[1].fields.status.textContent,/unavailable/);
 assert.equal(unavailable.detailPageUrl,offerReviews[7].amazon.detailPageUrl);
 console.log('Verified partial Amazon refresh, batch recovery, unavailable/mismatched price removal and browser fallback.');
-await checkSeo({config,output,records});
+await checkSeo({config,output,records,articleRecords});

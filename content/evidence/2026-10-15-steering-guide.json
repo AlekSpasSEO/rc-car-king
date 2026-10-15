@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-15T20:15:56.054Z",
+  "kind": "guide",
+  "route": "guides/rc-steering-trim-dual-rate-gyro/",
+  "intentKey": "first-run-steering-trim-vs-rate-vs-gyro-setup",
+  "coreWords": 1453,
+  "quota": {
+    "timezone": "Europe/Skopje",
+    "date": "2026-10-15",
+    "previousGuidesToday": 0,
+    "newGuides": 1,
+    "vehicleReviewsUnchanged": 54
+  },
+  "sources": [
+    {
+      "name": "Spektrum SLT2 DSC SPMRSLT270 English user guide · control definitions and model-specific setup",
+      "url": "https://www.spektrumrc.com/on/demandware.static/-/Sites-horizon-master/default/dw8ddf3f81/Manuals/SPMRSLT270_MANUAL_EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-15"
+    },
+    {
+      "name": "ARRMA ARA2304 multilingual manual · exact Mojave GROM 223S family and DSC controls",
+      "url": "https://assets.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwb76aca74/Manuals/ARA2304_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-15"
+    },
+    {
+      "name": "Kyosho exact 32652ID page · KT-531P training, dual rate and optional MZW711 gyro",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-15"
+    },
+    {
+      "name": "Traxxas · How To Adjust the Steering Trim · 11 February 2020 support article",
+      "url": "https://traxxas.com/articles/How-Adjust-Steering-Trim",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-15"
+    },
+    {
+      "name": "RC Driver · Greg Vogel · Traxxas Nissan 240SX Drift Car · 20 February 2026",
+      "url": "https://www.rcdriver.com/traxxas-nissan-240sx-drift-car/",
+      "kind": "Independent exact-model coverage; no test results transferred",
+      "checked": "2026-10-15"
+    }
+  ],
+  "scope": "This guide is for a complete electric hobby RC car with a working, correctly paired radio. It explains an initial steering check, not radio binding, ESC calibration, charging, advanced geometry or servo replacement. The vehicle, transmitter and receiver manuals take priority, especially for gyro-equipped drift cars. We use documented examples from ARRMA, Kyosho and Traxxas without treating their menu sequences as interchangeable.",
+  "notes": [
+    "Control definitions are based on Spektrum and manufacturer instructions, not assumed identical menu sequences.",
+    "Gyro-off is not given as a universal centering instruction.",
+    "MZW711 optional on 32652ID; current exact manufacturer guidance overrides older generations.",
+    "No servo disassembly, ESC recalibration or battery charging procedure is improvised.",
+    "Manufacturer photograph reused with existing ledger provenance; four-control explanatory diagram is original HTML/CSS.",
+    "No direct buying links; relevant complete-car reviews use their previously verified affiliate identities."
+  ],
+  "commercialRefresh": {
+    "checkedAt": "2026-10-15T20:20:52.181Z",
+    "operation": "Amazon Creators API getItems",
+    "diagnostic": "HTTP 403 returned for an exact known-good ARA2304T1 request after the independent archive refresh failed",
+    "archiveResult": "54 REQUEST_FAILED entries; all prior verified affiliate URLs retained, all commercial prices/seller values cleared",
+    "credentials": "Existing authorized local CSV used in memory; no credentials or tokens saved",
+    "cause": "Not established beyond the catalog HTTP response"
+  }
+}

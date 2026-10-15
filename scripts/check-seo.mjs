@@ -1,15 +1,18 @@
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import path from 'node:path';
+import {articleRoute,articleGroups,articleWords,publishedArticles} from './articles.mjs';
 import {overallRating} from './review-template.mjs';
 import {renderDocument} from './document-template.mjs';
 
 const decode=s=>s.replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');
-export async function checkSeo({config,output,records}){
+export async function checkSeo({config,output,records,articleRecords=[]}){
  const site=JSON.parse(await readFile('content/site.json','utf8'));
  const policies=JSON.parse(await readFile('content/policies.json','utf8'));
  const absolute=p=>`${config.origin}${config.basePath}/${p}`;
  const published=records.filter(r=>r.status==='published'&&r.published<=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()));
+ const today=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+ const articles=publishedArticles(articleRecords,today),groups=articleGroups(articles),articleByRoute=new Map(articles.map(a=>[articleRoute(a),a]));
  const reviewByRoute=new Map(published.map(r=>[`${r.brandSlug}/${r.modelSlug}/`,r]));
  const titles=new Set(),descriptions=new Set(),pageRoutes=[];
  for(const file of output.filter(f=>f.endsWith('.html'))){
@@ -65,6 +68,25 @@ export async function checkSeo({config,output,records}){
    assert.equal(graph.find(x=>x['@id']===absolute(route+'#webpage')).dateModified,policies.updated);
    assert.ok(html.includes(policies.contact.url));
   }
+  const a=articleByRoute.get(route);
+  if(a){
+   assert.equal(title,a.seo.title);assert.equal(metas.get('description'),a.seo.description);assert.equal(metas.get('og:type'),'article');
+   assert.ok(!graph.some(n=>['Product','Review','HowTo'].includes(n['@type'])),'Guides have no fabricated vehicle review or search eligibility');
+   const article=graph.find(n=>n['@type']==='Article'),faq=graph.find(n=>n['@type']==='FAQPage');
+   assert.equal(article.headline,a.title);assert.equal(article.abstract,a.answer);assert.equal(article.wordCount,articleWords(a));
+   assert.equal(article.author['@id'],absolute('about/#garage-editor'));assert.equal(article.publisher['@id'],absolute('#organization'));
+   assert.equal(article.datePublished,a.publishedAt);assert.equal(article.dateModified,a.updatedAt);
+   assert.equal(metas.get('article:published_time'),a.publishedAt);assert.equal(metas.get('article:modified_time'),a.updatedAt);
+   assert.equal(metas.get('article:section'),a.kind==='guide'?'RC car guides':'RC car lists');
+   assert.deepEqual(article.citation,[...new Set(a.sources.map(s=>s.url))]);assert.deepEqual(faq.mainEntity.map(q=>({question:q.name,answer:q.acceptedAnswer.text})),a.faqs);
+   for(const f of a.faqs)for(const value of [f.question,f.answer]){assert.ok(html.includes(value.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))));}
+   assert.ok(html.includes('datetime="'+a.publishedAt+'"')&&html.includes('datetime="'+a.updatedAt+'"'));
+   for(const review of a.reviewLinks)assert.ok(html.includes('href="'+config.basePath+'/'+review.route+'"'));
+   for(const image of article.image)assert.ok(image.width>0&&image.height>0);
+   assert.ok(!html.includes('data-amazon-offer='),'Guide has no vehicle offer box');
+  }
+  const group=groups.find(g=>g.directory+'/'===route);
+  if(group){const list=graph.find(n=>n['@type']==='ItemList');assert.equal(list.numberOfItems,group.entries.length);assert.deepEqual(list.itemListElement.map(i=>i.url),group.entries.map(a=>absolute(articleRoute(a))));}
   const r=reviewByRoute.get(route);
   if(r){
    assert.equal(title,r.seo.title);assert.equal(metas.get('description'),r.seo.description);
@@ -105,9 +127,13 @@ export async function checkSeo({config,output,records}){
  for(const r of published)assert.equal(urls.find(u=>u.loc===absolute(`${r.brandSlug}/${r.modelSlug}/`)).lastmod,r.updated);
  for(const p of policies.pages)assert.equal(urls.find(u=>u.loc===absolute(p.path)).lastmod,policies.updated);
  assert.equal(children[0][2],urls.reduce((last,u)=>u.lastmod>last?u.lastmod:last,''),'Index date reflects its child sitemap');
- assert.equal((sitemap.match(/<image:image>/g)??[]).length,published.reduce((n,r)=>n+1+r.gallery.length,0));
+ assert.equal((sitemap.match(/<image:image>/g)??[]).length,published.reduce((n,r)=>n+1+r.gallery.length,0)+articles.filter(a=>a.image).length);
  const robots=await readFile('docs/robots.txt','utf8');assert.ok(robots.includes(`Sitemap: ${absolute('sitemap_index.xml')}`));assert.match(robots,/User-agent: \*\nAllow: \//);assert.ok(!robots.includes('LLM-Policy'));
- const llms=await readFile('docs/llms.txt','utf8');for(const r of published)assert.ok(llms.includes(absolute(`${r.brandSlug}/${r.modelSlug}/`)));
+ const feed=await readFile('docs/feed.xml','utf8'),llms=await readFile('docs/llms.txt','utf8');
+ for(const a of articles){assert.ok(feed.includes(absolute(articleRoute(a))));assert.ok(llms.includes(absolute(articleRoute(a))));assert.equal(urls.find(u=>u.loc===absolute(articleRoute(a))).lastmod,a.updated);}
+ for(const group of groups)assert.ok(llms.includes(absolute(group.directory+'/')));
+ for(const a of articleRecords.filter(a=>!articles.includes(a))){assert.ok(!feed.includes(absolute(articleRoute(a)))&&!llms.includes(absolute(articleRoute(a)))&&!urls.some(u=>u.loc===absolute(articleRoute(a))));}
+ for(const r of published)assert.ok(llms.includes(absolute(`${r.brandSlug}/${r.modelSlug}/`)));
  for(const p of [...policies.pages.map(p=>p.path),'sitemap_index.xml','pages-sitemap.xml'])assert.ok(llms.includes(absolute(p)),`AI directory discovers ${p}`);
  const htmlSitemap=await readFile('docs/sitemap/index.html','utf8');
  for(const p of pageRoutes)assert.ok(htmlSitemap.includes(`href="${config.basePath}/${p}"`),`HTML sitemap discovers ${p}`);

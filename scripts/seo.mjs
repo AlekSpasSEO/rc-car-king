@@ -1,4 +1,5 @@
 import {readFile} from 'node:fs/promises';
+import {articleRoute,articleFormats,articleWords} from './articles.mjs';
 import {overallRating} from './review-template.mjs';
 
 export function dimensions(bytes){
@@ -19,11 +20,11 @@ export function dimensions(bytes){
  return null;
 }
 
-export async function createSeo({config,origin,base,reviews,site}){
+export async function createSeo({config,origin,base,reviews,articles=[],site}){
  const absolute=p=>/^https:\/\//i.test(p)?p:`${origin}${base}/${p}`;
  const route=r=>`${r.brandSlug}/${r.modelSlug}/`;
  const sizes=new Map();
- const assets=[...new Set(['night-drift.png',...reviews.flatMap(r=>[r.image,...r.gallery.map(g=>g.image)])])];
+ const assets=[...new Set(['night-drift.png',...reviews.flatMap(r=>[r.image,...r.gallery.map(g=>g.image)]),...articles.filter(a=>a.image).map(a=>a.image)])];
  await Promise.all(assets.map(async asset=>{if(!/^https:\/\//.test(asset))sizes.set(asset,dimensions(await readFile(`public/assets/${asset}`)));}));
  const imageAttributes=asset=>{const size=sizes.get(asset);return size?`width="${size.width}" height="${size.height}"`:'';};
  const image=(asset,caption)=>({'@type':'ImageObject',url:absolute(/^https:\/\//.test(asset)?asset:`assets/${asset}`),...(sizes.get(asset)??{}),...(caption?{caption}:{} )});
@@ -54,5 +55,18 @@ export async function createSeo({config,origin,base,reviews,site}){
   const crumbs=breadcrumb(p,[['Reviews',''],[label,p]]);
   return graph([{'@type':type,'@id':absolute(p+'#webpage'),url:absolute(p),name:title,description,isPartOf:{'@id':website['@id']},publisher:{'@id':org['@id']},...(type==='AboutPage'?{mainEntity:{'@id':org['@id']},about:{'@id':founder['@id']}}:{}),dateModified:updated,inLanguage:'en',breadcrumb:{'@id':crumbs['@id']}},crumbs]);
  }
- return {collection,review,information,imageAttributes,images:sizes,site,absolute};
+ function articleIndex(group){
+  const p=group.directory+'/',crumbs=breadcrumb(p,[['Home',''],[group.label,p]]);
+  const list={'@type':'ItemList','@id':absolute(p+'#articles'),numberOfItems:group.entries.length,itemListElement:group.entries.map((a,i)=>({'@type':'ListItem',position:i+1,url:absolute(articleRoute(a)),name:a.title}))};
+  return graph([{'@type':'CollectionPage','@id':absolute(p+'#webpage'),url:absolute(p),name:group.title,description:group.description,isPartOf:{'@id':website['@id']},mainEntity:{'@id':list['@id']},breadcrumb:{'@id':crumbs['@id']},inLanguage:'en'},list,crumbs]);
+ }
+ function article(a){
+  const p=articleRoute(a),url=absolute(p),format=articleFormats[a.kind];
+  const crumbs=breadcrumb(p,[['Home',''],[format.label,format.directory+'/'],[a.title,p]]);
+  const hero=a.image?image(a.image,a.imageCaption):image('night-drift.png','Original Tokyo-night illustration');
+  const faq=a.faqs.length?{'@type':'FAQPage','@id':url+'#faq',isPartOf:{'@id':url+'#webpage'},mainEntity:a.faqs.map(f=>({'@type':'Question',name:f.question,acceptedAnswer:{'@type':'Answer',text:f.answer}}))}:null;
+  const article={'@type':'Article','@id':url+'#article',headline:a.title,description:a.seo.description,abstract:a.answer,datePublished:a.publishedAt,dateModified:a.updatedAt,author:{'@id':editorial['@id']},publisher:{'@id':org['@id']},mainEntityOfPage:{'@id':url+'#webpage'},image:[hero],articleSection:a.kind==='guide'?'RC car guides':'RC car lists',inLanguage:'en',isAccessibleForFree:true,citation:[...new Set(a.sources.map(s=>s.url))],wordCount:articleWords(a)};
+  return graph([{'@type':'WebPage','@id':url+'#webpage',url,name:a.seo.title,description:a.seo.description,isPartOf:{'@id':website['@id']},mainEntity:{'@id':article['@id']},primaryImageOfPage:hero,breadcrumb:{'@id':crumbs['@id']},...(faq?{hasPart:{'@id':faq['@id']}}:{}),inLanguage:'en'},article,crumbs,...(faq?[faq]:[])]);
+ }
+ return {collection,review,information,article,articleIndex,imageAttributes,images:sizes,site,absolute};
 }

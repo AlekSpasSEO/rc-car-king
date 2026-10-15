@@ -45,3 +45,7 @@ Original green AXI00007T2, checked against the exact manufacturer page and API l
 ## Weekday reviews · 15 October 2026
 
 ARRMA Mojave GROM 223S ARA2304T1, Kyosho MINI-Z AWD Initial D R32 32652ID and Tamiya Lunch Box 58347. See the [dated media manifest](content/evidence/2026-10-15-media.json) for all nine original asset URLs, manual pages and provenance. Photographs and diagrams were visually checked. No community photographs or RC Car King test photography are used. Tamiya images show a completed example; the review clearly identifies the body-inclusive assembly kit. Source conflicts and exact Amazon identities are recorded in each review’s evidence file.
+
+## Daily guide · 15 October 2026 · Steering controls
+
+The guide reuses `public/assets/arrma-mojave-grom-223s-front.jpg`, the exact official ARA2304T1 photograph already recorded in the 15 October media manifest. It is labeled as one documented example, not a driving demonstration. The four-control explanation is an original accessible HTML/CSS diagram, not product photography or an electrical schematic. No community media is used.

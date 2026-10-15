@@ -12,7 +12,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Site map](https://alekspasseo.github.io/rc-car-king/sitemap/): All published pages and review archives.
 - [XML sitemap index](https://alekspasseo.github.io/rc-car-king/sitemap_index.xml)
 - [Pages XML sitemap](https://alekspasseo.github.io/rc-car-king/pages-sitemap.xml)
-- [Review feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
+- [Publication feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
@@ -23,6 +23,10 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
+
+## Guides and listicles
+- [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
+- [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
 - [ARRMA Mojave GROM 223S DSC](https://alekspasseo.github.io/rc-car-king/arrma/mojave-grom-223s/): Research-led ARRMA Mojave GROM 223S review: exact ARA2304T1 specs, DSC setup, battery fit, startup costs, terrain limits and buying advice.
