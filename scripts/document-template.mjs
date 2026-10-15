@@ -1,9 +1,10 @@
 export function renderDocument({title,description,body,href,absolute,esc,schema,url='',script='',robots='index,follow',kind='website',socialImage='assets/night-drift.png',imageAlt='Original miniature drift-car artwork for RC Car King',imageSize,author='RC Car King Editorial',article}){
  const imageUrl=absolute(socialImage);
+ const analytics=absolute('')==='https://rccarking.com/'?`<link rel="stylesheet" href="${href('assets/analytics.css')}"><script src="${href('assets/analytics.js')}" defer></script>`:'';
  const robotsValue=robots==='index,follow'?'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1':robots;
  const meta=(key,value,property=false)=>`<meta ${property?'property':'name'}="${key}" content="${esc(value)}">`;
  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${esc(title)}</title>${meta('description',description)}${meta('robots',robotsValue)}${meta('author',author)}${meta('theme-color','#0a0d16')}
+<title>${esc(title)}</title>${meta('description',description)}${meta('robots',robotsValue)}${meta('author',author)}${meta('theme-color','#0a0d16')}${analytics}
 <link rel="canonical" href="${absolute(url)}"><link rel="icon" href="${href('assets/favicon.svg')}" type="image/svg+xml"><link rel="alternate" type="application/rss+xml" title="RC Car King articles and reviews" href="${href('feed.xml')}"><link rel="sitemap" type="application/xml" href="${href('sitemap_index.xml')}"><link rel="alternate" type="text/plain" title="RC Car King AI reader directory" href="${href('llms.txt')}">
 ${meta('og:type',kind,true)}${meta('og:site_name','RC Car King',true)}${meta('og:locale','en_US',true)}${meta('og:title',title,true)}${meta('og:description',description,true)}${meta('og:url',absolute(url),true)}${meta('og:image',imageUrl,true)}${meta('og:image:alt',imageAlt,true)}${imageSize?meta('og:image:width',imageSize.width,true)+meta('og:image:height',imageSize.height,true):''}
 ${meta('twitter:card','summary_large_image')}${meta('twitter:title',title)}${meta('twitter:description',description)}${meta('twitter:image',imageUrl)}${meta('twitter:image:alt',imageAlt)}

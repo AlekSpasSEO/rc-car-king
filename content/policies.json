@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "contact": {
     "url": "https://coffeedant.com/contact/",
     "label": "Contact Aleksandar through Coffeedant"
@@ -9,30 +9,54 @@
       "path": "privacy-policy/",
       "title": "Privacy Policy | RC Car King",
       "heading": "Privacy Policy",
-      "description": "How RC Car King handles hosting requests, Google Fonts, Amazon affiliate links and messages, plus your privacy choices and how to contact the publisher.",
+      "description": "How RC Car King handles optional Google Analytics, cookie choices, hosting requests, Google Fonts, Amazon affiliate links and messages.",
       "intro": "This policy explains the data involved when you visit RC Car King. The publication is run by Aleksandar Spasevski. It describes the current research-led review website and the external services it uses.",
       "sections": [
         {
           "id": "information",
           "heading": "Information involved in a visit",
           "paragraphs": [
-            "You can read our reviews without an account. RC Car King currently has no registration, newsletter signup, comments, payment form or checkout. The site's own scripts do not set cookies or use browser local storage, and we have not installed visitor analytics or advertising pixels.",
+            "You can read our reviews without an account. RC Car King currently has no registration, newsletter signup, comments, payment form or checkout. Optional Google Analytics runs only after you accept analytics cookies. We store your accept or reject choice in browser local storage for up to 180 days; you can change it using Cookie settings in the footer.",
             "Like other websites, delivering a page involves request information such as your IP address, requested URL, browser information and the time of the request. Our hosting and security provider, Cloudflare, processes request data to deliver the site, detect abuse and maintain its services. Request headers may include a referring page, depending on your browser and the referring site's settings.",
             "Review filters run in your browser. Their selected values can appear in the page URL so you can share the same search. We do not send them to a separate search or analytics service, but a requested URL can be included in hosting logs. Avoid entering personal or sensitive information in a search box or shared URL."
+          ]
+        },
+        {
+          "id": "analytics",
+          "heading": "Optional Google Analytics",
+          "paragraphs": [
+            "If you choose Accept analytics, we load Google Analytics 4 to understand visits, traffic sources, page views, scrolling and outbound link use. Google receives browser and device information and request data, and analytics cookies such as _ga can distinguish visits. We do not load the Google Analytics tag or send analytics events before you accept. Rejecting analytics does not prevent you from reading the site.",
+            "Our implementation keeps advertising storage, advertising user data and ad personalization consent denied. Google signals and advertising personalization are disabled in the website tag. Page-view URLs omit query strings and fragments. Do not put personal or sensitive information in site URLs or search fields.",
+            "Use Cookie settings in the footer to change your choice. Reject analytics stops further measurement through this tag and removes its accessible first-party _ga cookies. Withdrawing consent does not automatically delete information already processed by Google. If your browser blocks local storage, your choice applies only to the current page."
+          ],
+          "links": [
+            {
+              "label": "How Google uses information from sites or apps that use its services",
+              "url": "https://policies.google.com/technologies/partner-sites"
+            }
           ]
         },
         {
           "id": "providers",
           "heading": "Hosting, fonts and external services",
           "paragraphs": [
-            "Cloudflare Pages hosts and delivers RC Car King. Depending on the security features in use and the request, Cloudflare may use necessary security cookies or challenges. The fact that our own scripts do not set cookies does not mean a hosting provider can never set one.",
+            "Cloudflare Pages hosts and delivers RC Car King. Depending on the security features in use and the request, Cloudflare may use necessary security cookies or challenges.",
             "Our pages request fonts from Google Fonts. Your browser contacts Google's font servers, which receive information needed to handle the request, such as your IP address and request headers. The site does not embed YouTube players or other social-media widgets.",
             "The services above may process information outside your country. Their processing, retention and transfer arrangements are described in their own privacy information. We do not claim that all service-provider logs are deleted after a particular number of days."
           ],
           "links": [
-            { "label": "Cloudflare privacy policy", "url": "https://www.cloudflare.com/privacypolicy/" },
-            { "label": "Cloudflare cookie information", "url": "https://developers.cloudflare.com/fundamentals/reference/policies-compliances/cloudflare-cookies/" },
-            { "label": "Google privacy policy", "url": "https://policies.google.com/privacy" }
+            {
+              "label": "Cloudflare privacy policy",
+              "url": "https://www.cloudflare.com/privacypolicy/"
+            },
+            {
+              "label": "Cloudflare cookie information",
+              "url": "https://developers.cloudflare.com/fundamentals/reference/policies-compliances/cloudflare-cookies/"
+            },
+            {
+              "label": "Google privacy policy",
+              "url": "https://policies.google.com/privacy"
+            }
           ]
         },
         {
@@ -44,7 +68,10 @@
             "Links to manufacturers, independent coverage and Coffeedant take you to separate websites. Their data practices apply when you visit them."
           ],
           "links": [
-            { "label": "Amazon privacy notice", "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ" }
+            {
+              "label": "Amazon privacy notice",
+              "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+            }
           ]
         },
         {

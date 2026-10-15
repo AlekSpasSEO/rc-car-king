@@ -34,6 +34,12 @@ Open http://127.0.0.1:4318/rc-car-king/.
 
 The checker verifies both the review standard and SEO requirements, including actual schema values, metadata uniqueness, sitemap/image coverage and sponsored Amazon links. Production uses the environment overrides documented in CLOUDFLARE.md. GitHub preview pages are noindex/follow. Each new published review requires `seo.title` and `seo.description`; see CONTENT_GUIDE.md.
 
+## Search Console and Analytics
+
+Google account: `alek.spas.seo@gmail.com`. Search Console domain property: `rccarking.com`, verified by a Cloudflare TXT record. Preserve that verification record. Submitted sitemap index: `https://rccarking.com/sitemap_index.xml`; child sitemap: `https://rccarking.com/pages-sitemap.xml`.
+
+GA4 account `412166102`, property `559136253`, web stream `16138028848`, measurement ID `G-8VSLEXNZTW`. The production document template loads `analytics.js`; Google Analytics itself loads only after explicit acceptance. Cookie settings in the footer permits rejection or withdrawal. Advertising consent remains denied. Preview and local hosts do not collect analytics. Consent choices expire after 180 days, with a current-page fallback when storage is unavailable. `npm run check` includes consent regression checks. Enhanced measurement excludes site-search, form-interaction and browser-history page-view events to avoid measuring filter input as navigation.
+
 ## Amazon integration
 
 Amazon Creators API is used for exact manufacturer SKU/ASIN/brand verification, variant identification, price, seller and availability. Current affiliate tag: coffeedant03-20. No credentials are committed.

@@ -7,7 +7,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Publication
 - [About](https://alekspasseo.github.io/rc-car-king/about/): Aleksandar’s story and editorial identity.
 - [Method](https://alekspasseo.github.io/rc-car-king/methodology/): Sources, ratings and evidence policy.
-- [Privacy Policy](https://alekspasseo.github.io/rc-car-king/privacy-policy/): How RC Car King handles hosting requests, Google Fonts, Amazon affiliate links and messages, plus your privacy choices and how to contact the publisher.
+- [Privacy Policy](https://alekspasseo.github.io/rc-car-king/privacy-policy/): How RC Car King handles optional Google Analytics, cookie choices, hosting requests, Google Fonts, Amazon affiliate links and messages.
 - [Terms of Service](https://alekspasseo.github.io/rc-car-king/terms-of-service/): Terms for using RC Car King's research-led reviews, editorial ratings, affiliate links and credited media, including purchase responsibilities and corrections.
 - [Site map](https://alekspasseo.github.io/rc-car-king/sitemap/): All published pages and review archives.
 - [XML sitemap index](https://alekspasseo.github.io/rc-car-king/sitemap_index.xml)
