@@ -20,7 +20,7 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 
 ## Scheduled publication
 
-Active in-chat schedules use Europe/Skopje: three complete vehicle reviews per weekday starting at 09:00, one listicle each Monday at 10:00, and one how-to/informational guide every day at 11:00, including weekends. Runs count already published content to avoid exceeding each quota or duplicating topics. See [publishing guide](CONTENT_GUIDE.md) and [article formats](CONTENT_FORMATS.md). The first listicle/guide run adds reusable rendering if its format is not yet supported.
+Active in-chat schedules use Europe/Skopje: three complete vehicle reviews per weekday starting at 09:00, one listicle each Monday at 10:00, and one how-to/informational guide every day at 11:00, including weekends. Runs count already published content to avoid exceeding each quota or duplicating topics. See [publishing guide](CONTENT_GUIDE.md) and [article formats](CONTENT_FORMATS.md). Guides use the reusable article renderer and /guides/ archive; see the source examples and evidence in content/articles and content/evidence.
 
 ## Local development
 

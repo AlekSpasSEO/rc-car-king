@@ -26,6 +26,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
+- [Can RC cars run on grass? Match the car to your terrain](https://alekspasseo.github.io/rc-car-king/guides/rc-cars-grass-terrain-guide/): Choose RC terrain by grass height, ground clearance, tires and space. Includes exact Kyosho, ARRMA and Traxxas examples, checks and troubleshooting.
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews

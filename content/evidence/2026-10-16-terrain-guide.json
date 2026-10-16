@@ -1,0 +1,150 @@
+{
+  "checkedAt": "2026-10-16T09:06:22.031Z",
+  "kind": "guide",
+  "route": "guides/rc-cars-grass-terrain-guide/",
+  "intentKey": "match-rc-car-size-clearance-tires-to-grass-and-driving-surface",
+  "coreWords": 1563,
+  "quota": {
+    "timezone": "Europe/Skopje",
+    "date": "2026-10-16",
+    "previousGuidesToday": 0,
+    "newGuides": 1,
+    "vehicleReviewsUnchanged": 54
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby · vehicle finder, intended activities and surface categories",
+      "url": "https://www.horizonhobby.com/hh-best-rc-finder?cp_medium=shop&cp_source=footer",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "Traxxas glossary · ground clearance and scale terminology",
+      "url": "https://traxxas.com/support/glossary",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "Traxxas support · overheating, load and inappropriate high-speed gearing; historical Rustler example",
+      "url": "https://traxxas.com/support/overheating-electrics-and-gearing",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "ARRMA ARA2304 multilingual manual · dimensions, operating inspections and temperature protection",
+      "url": "https://assets.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwb76aca74/Manuals/ARA2304_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "Traxxas Suspension Tuning Guide Part 2 · 10 December 2020 · ride height and suspension travel",
+      "url": "https://traxxas.com/articles/suspension-tuning-guide-part2",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "Kyosho exact 32652ID page · drift tires, chassis and physical dimensions",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "ARRMA / Horizon exact ARA2304T1 · complete desert truck and original equipment",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "Traxxas 82224-4 owner manual · portal design, driving limits, wet-operation restrictions and maintenance",
+      "url": "https://traxxas.com/media/productattach/C-82224-4/2/82224-4-om-en-r00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    },
+    {
+      "name": "Traxxas exact 82224-4 page · locked differentials, single speed and official photograph",
+      "url": "https://traxxas.com/trx-4-sport-82224-4",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-16"
+    }
+  ],
+  "scope": "This is a terrain-selection guide for complete electric hobby RC cars in their documented configuration. It helps you choose a venue or vehicle category, rather than prescribe gearing changes, battery upgrades, water operation or a maximum obstacle size. Examples identify exact complete vehicles already reviewed on RC Car King. The decision process is editorial guidance grounded in manufacturer documentation, not a physical comparison test.",
+  "sourceChecks": [
+    {
+      "file": "kyosho.html",
+      "bytes": 261345,
+      "sha256": "6f357afaa31bcf18bb3d7a889ffec0be83761e5b75fa89ad040807737ce2c829",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "file": "sport.html",
+      "bytes": 474509,
+      "sha256": "857cc53352695e43a2dc7d26783c32cfcd1199a874d5ead7837a94ae8ed7d0d6",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "file": "mojave-manual.pdf",
+      "bytes": 27025565,
+      "sha256": "1296ee8a8a0fd586665436b079da16b44706d96a385df487708d3378375fcacf",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "file": "sport-manual.pdf",
+      "bytes": 10040302,
+      "sha256": "1a196f67650931469af2845c9bec8f08eb4fe208a30858e3241d79a16cc8a6be",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "file": "glossary.html",
+      "bytes": 270096,
+      "sha256": "eb7ae8910a27fc8ab7f6b1b248f7002440090d2707cbe32ac38b38b10fcad4b2",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "file": "overheating.html",
+      "bytes": 242427,
+      "sha256": "48aa70171e63cf824c8e71b5b90474a924f4cf2818b9d2aa0d9f100bf59ffbab",
+      "retrieved": "2026-10-16"
+    }
+  ],
+  "notes": [
+    "Intent differs from previous steering-control guide: venue selection and surface/load matching.",
+    "Manufacturer facts distinguished from editorial category fit and venue-assessment sequence.",
+    "No universal grass height, clearance threshold, water procedure, gearing or battery upgrade prescribed.",
+    "Current TRX-4 Sport manual wet-operation LiPo restriction is explicitly preserved in FAQ.",
+    "No direct buying links, new ASINs or product ratings; previously verified complete-vehicle reviews linked for context.",
+    "Official gray 82224-4 studio photograph visually inspected; existing launch manifest provenance reused.",
+    "Original accessible four-question diagram explains clearance, traction, load and space."
+  ],
+  "commercialRefresh": {
+    "checkedAt": "2026-10-16T09:02:04.812Z",
+    "result": "54 existing verified affiliate links retained, all unavailable prices and seller values cleared",
+    "previousFocusedDiagnostic": "16 October 2026: getItems and searchItems HTTP 403; catalog message states account does not currently meet eligibility requirements",
+    "credentials": "Authorized local CSV used in memory; no credentials or tokens stored"
+  },
+  "validation": {
+    "checkedAt": "2026-10-16T09:09:43.029Z",
+    "production": "npm run build and npm run check passed with SITE_ORIGIN=https://rccarking.com and empty BASE_PATH",
+    "preview": "Default GitHub profile build and check passed; committed docs use /rc-car-king",
+    "counts": {
+      "vehicleReviews": 54,
+      "guides": 2,
+      "htmlPages": 72,
+      "sitemapUrls": 71
+    },
+    "desktop": {
+      "viewport": 1280,
+      "bodyWidth": 1265,
+      "heading": "Verified",
+      "manufacturerImageNaturalWidth": 1500
+    },
+    "mobile": {
+      "viewport": 390,
+      "bodyWidth": 375,
+      "scrollTableContainer": 335,
+      "scrollTableContent": 530,
+      "faq": "Wet-grass model-specific answer expanded correctly",
+      "archive": "Both guides present; no body horizontal overflow"
+    },
+    "regressions": "Existing review filters, affiliate expiry/partial failures, schema, discovery and analytics consent checks passed"
+  }
+}

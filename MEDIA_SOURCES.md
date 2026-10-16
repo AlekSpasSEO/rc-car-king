@@ -49,3 +49,7 @@ ARRMA Mojave GROM 223S ARA2304T1, Kyosho MINI-Z AWD Initial D R32 32652ID and Ta
 ## Daily guide · 15 October 2026 · Steering controls
 
 The guide reuses `public/assets/arrma-mojave-grom-223s-front.jpg`, the exact official ARA2304T1 photograph already recorded in the 15 October media manifest. It is labeled as one documented example, not a driving demonstration. The four-control explanation is an original accessible HTML/CSS diagram, not product photography or an electrical schematic. No community media is used.
+
+## Daily guide · 16 October 2026 · Terrain matching
+
+The guide reuses `public/assets/traxxas-trx-4-sport-product.jpg`, the official gray 82224-4 studio image in the [launch manifest](content/launch-traxxas-arrma.json). It was visually checked for the exact body and portal-axle truck. The caption identifies it as a category example, not a terrain demonstration. The clearance/traction/load/space diagram is original accessible HTML/CSS. No community photographs are used. See the [guide evidence](content/evidence/2026-10-16-terrain-guide.json).
