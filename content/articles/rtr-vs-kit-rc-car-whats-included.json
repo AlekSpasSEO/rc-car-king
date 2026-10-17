@@ -1,0 +1,315 @@
+{
+  "kind": "guide",
+  "slug": "rtr-vs-kit-rc-car-whats-included",
+  "intentKey": "rtr-readyset-body-inclusive-kit-package-and-first-run-equipment-audit",
+  "status": "published",
+  "title": "RTR vs kit RC cars: what is actually included?",
+  "dek": "Ready-to-run describes the package, not your entire shopping basket. Compare four exact cars, identify the missing equipment and choose how much building you want to do.",
+  "seo": {
+    "title": "RTR vs Kit RC Cars: What’s Included? | RC Car King",
+    "description": "Understand RTR, Readyset and body-inclusive RC kits. Check radios, batteries, chargers, paint and total startup needs with four exact-model examples."
+  },
+  "published": "2026-10-17",
+  "updated": "2026-10-17",
+  "publishedAt": "2026-10-17T15:31:54.998Z",
+  "updatedAt": "2026-10-17T15:31:54.998Z",
+  "answer": "An RTR RC car normally arrives assembled with its driving electronics and radio, but batteries and a charger depend on the exact package. A Readyset can still need operating batteries. A body-inclusive assembly kit adds the building and finishing work, and may also require a motor, speed controller, radio and steering servo. Read the exact model’s included and required lists together before comparing the complete startup cost.",
+  "scope": "This guide covers complete electric RTR vehicles, Kyosho Readysets and body-inclusive car kits. It is a package and ownership decision guide, not a parts buying roundup, assembly tutorial or charging procedure. Examples are exact vehicles in our review archive, checked against their manufacturer pages and manuals. Regional bundles, revisions and used listings need their own inventory; the model name alone cannot establish what is supplied.",
+  "prerequisites": [
+    "Exact manufacturer model number, generation and seller package description",
+    "Manufacturer contents list, required-equipment list and current instruction manual",
+    "A note of compatible equipment you already own, identified by exact model rather than connector appearance",
+    "A realistic choice between learning to drive now and making assembly part of the hobby",
+    "Space for the completed vehicle, its storage and any planned building or finishing work"
+  ],
+  "conceptCaption": "Audit four parts of the package",
+  "concepts": [
+    {
+      "name": "ASSEMBLY",
+      "description": "Is the vehicle built, or are you constructing the chassis?"
+    },
+    {
+      "name": "CONTROL",
+      "description": "Are radio, receiver, servo and speed controller supplied?"
+    },
+    {
+      "name": "POWER",
+      "description": "Which operating batteries, charger and input source are needed?"
+    },
+    {
+      "name": "FINISH",
+      "description": "Is the body completed, or does it need preparation and paint?"
+    }
+  ],
+  "image": "axial-power-wagon-package.jpg",
+  "imageAlt": "Official Axial package photograph showing the green SCX24 Dodge Power Wagon, SLT2 transmitter, battery, USB charger and supplied rack accessories",
+  "imageCaption": "Axial SCX24 Dodge Power Wagon AXI00007T2 manufacturer package photograph. The drive battery, USB charger, radio and rack accessories are supplied; the manual still specifies a suitable USB power source. This is product media, not our unboxing.",
+  "imageCredit": {
+    "name": "Axial / Horizon Hobby",
+    "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html"
+  },
+  "sections": [
+    {
+      "id": "package-labels",
+      "heading": "Read the label, then read the inventory",
+      "paragraphs": [
+        "I would start with the job left to do after opening the box. If you want to spend the first afternoon learning the controls, an assembled vehicle removes the chassis-building task. If the appeal is following the mechanism from a bag of parts to a working car, the assembly itself belongs in the purchase decision. Neither format tells you whether the vehicle suits your driving area.",
+        "RTR means ready-to-run, but manufacturers use it across packages with different power equipment. The radio and motor can be installed while the drive battery and charger remain separate purchases. A retailer may offer a bundle around the manufacturer's vehicle, creating another inventory. Treat the full model number and the actual bundle contents as a pair, and keep the vehicle's instructions distinct from any extras supplied by the shop.",
+        "Kyosho's Readyset label also needs that second reading. The MINI-Z example below has a completed body and transmitter but requires cells to operate. At the other end, an assembly kit can include the body without including its finish or the electronics needed to drive. “Body included” and “painted body included” answer different questions. A photograph of a finished model is useful identification, but the written contents list decides what arrives."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "exact-examples",
+      "heading": "Four real packages show why one label is not enough",
+      "paragraphs": [
+        "Axial's green SCX24 Dodge Power Wagon AXI00007T2 includes the assembled crawler, SLT2 transmitter, installed electronics, a 350mAh 2S LiPo, USB charger and four AA transmitter cells. That is a substantially equipped RTR package. Its manual identifies the USB input separately: a suitable 5V source providing at least 1A. Check that provision at home; the box's USB charger should not be mistaken for an included mains supply. This requirement belongs to that supplied charging equipment, not every USB charger.",
+        "ARRMA's black Mojave GROM 223S ARA2304T1 is also an RTR, yet the exact product page lists the drive battery and charger as required extras. Four AA cells for the transmitter are supplied. Its installed brushless electronics are part of the car; purchasing those again would duplicate equipment while leaving the actual power requirement unresolved. Use the ARA2304 instructions for the approved battery package, fit and charging equipment rather than treating another GROM bundle as identical.",
+        "The Kyosho MINI-Z AWD Initial D R32 32652ID contains a completed chassis, painted body and KT-531P transmitter. Its operating list calls for four AAA alkaline or NiMH cells in the chassis and four AAA alkaline cells in the transmitter. Those are two separate requirements. The chassis allowance does not authorize rechargeable cells everywhere, and optional lighting or gyro hardware is separate from the equipment needed for the stock Readyset. A small car does not eliminate the need to read battery roles carefully.",
+        "Tamiya's BBX 58719 is a body-inclusive build kit. The manufacturer specifies a separate motor and ESC, radio system, low-profile steering servo, operating battery and charger. The motor-shaft requirement and servo envelope make “I already own a 540 motor and a servo” an incomplete compatibility check. The manual also distinguishes body and detail paints and lists building tools. Its painted, assembled promotional model represents the result of that work, rather than an assembled car inside the kit box."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "table": {
+        "caption": "Exact package examples, not universal brand rules",
+        "columns": [
+          "Vehicle and package",
+          "What is supplied",
+          "What still needs checking"
+        ],
+        "rows": [
+          [
+            "Axial AXI00007T2 · RTR",
+            "Crawler, radio, drive battery, USB charger and transmitter cells",
+            "Specified USB power source; normal setup and inspection"
+          ],
+          [
+            "ARRMA ARA2304T1 · RTR without drive battery/charger",
+            "Assembled brushless truck, radio and four AA cells",
+            "Compatible drive battery, charger and required charging equipment"
+          ],
+          [
+            "Kyosho 32652ID · Readyset",
+            "Completed drift car, painted body and KT-531P",
+            "Four chassis AAA cells plus four transmitter AAA cells of specified types"
+          ],
+          [
+            "Tamiya 58719 · body-inclusive kit",
+            "Mechanical build kit and body to finish",
+            "Compatible electronics, power equipment, paint, tools and assembly"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "assembly-choice",
+      "heading": "Choose whether building is part of the activity",
+      "paragraphs": [
+        "A kit is attractive when the construction is part of the enjoyment. You see how the steering, suspension and drivetrain go together and can keep a record of the installed equipment. That is a learning opportunity rather than an automatic reliability advantage. The quality of the result depends on following the instructions and completing the setup. An unfinished build cannot substitute for a drivable car when your main goal is an outing this weekend.",
+        "Peter Vieira's February 2026 RC Driver BBX preview describes his interest in assembling its ball differential and unusual suspension layout. That is useful independent context for why somebody might choose a kit: the mechanical details are an activity in themselves. It is his build anticipation, not our ownership account or evidence of a particular completion time. We have not timed a first-time BBX build or compared its reliability with an RTR.",
+        "An RTR still needs a responsible handover from box to driving surface. Read the manual, confirm the supplied equipment, inspect the assembled car and follow its first-run checks. Factory assembly does not remove your need to identify controls or maintain the vehicle. If the radio is unfamiliar, use the exact paired instructions. Buying an RTR avoids the main chassis build, not every learning task that follows it."
+      ],
+      "sourceIndexes": [
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "basket-audit",
+      "heading": "A five-step audit for a complete first-run basket",
+      "paragraphs": [
+        "Make a short inventory before spending money. Use three statuses: supplied, separately required and optional. Keep an unresolved compatibility question visible instead of assigning it a guessed specification. This approach works for a new package or an existing car whose equipment history you need to reconstruct."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "steps": [
+        {
+          "heading": "Lock the exact identity and bundle",
+          "paragraphs": [
+            "Record the manufacturer's model number, generation, color/package suffix and the seller's bundle contents. Check that the description is for a complete car or body-inclusive kit. An attractive body photograph can also appear in a replacement-body listing. When the title and contents disagree, ask the seller to identify the actual package before treating the listing as equivalent."
+          ]
+        },
+        {
+          "heading": "Separate installed electronics from missing equipment",
+          "paragraphs": [
+            "List the transmitter, receiver, steering servo, speed controller and motor one by one. Note combined units rather than assuming every function needs a separate box. For a kit, check the mounting and compatibility limits in its manual before reusing an item. A servo that is available on your shelf is useful only if the specified physical and electrical requirements are satisfied."
+          ]
+        },
+        {
+          "heading": "Follow the full power chain",
+          "paragraphs": [
+            "Write separate lines for drive power, transmitter cells, the approved charger and its required input source. Compare battery type, supported configuration, physical fit and connectors with the actual instructions. Matching plugs alone do not establish compatibility. This guide does not select charge rates or provide an adapter workaround; unresolved power-system questions belong with the manufacturers or an experienced hobby retailer."
+          ]
+        },
+        {
+          "heading": "Account for body finishing and the work area",
+          "paragraphs": [
+            "For a kit, read the preparation and finishing stages before choosing paint or tools. The BBX manual lists polycarbonate paints for appropriate body parts and different plastic paints for details; that distinction is useful without becoming a universal paint recipe. Include the named consumables and follow their use instructions. Allow practical space to organize parts and store unfinished work between sessions."
+          ]
+        },
+        {
+          "heading": "Total required items before adding options",
+          "paragraphs": [
+            "Calculate the current vehicle or kit price plus missing required equipment, necessary finishing supplies and any tools you lack. Mark optional lighting, decorative extras and future upgrades separately. Record the source and date beside every quote you actually use. If one required item has no confirmed cost or compatibility, keep the total open instead of advertising a complete startup figure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ownership-cost",
+      "heading": "Compare the complete route into the hobby",
+      "paragraphs": [
+        "An RTR with a lower vehicle price may need more power equipment than another package. A kit can let you reuse suitable electronics, but that advantage disappears when the existing equipment does not fit or suit the installation. Compare the remaining jobs and purchases for your own situation. A radio already in a drawer is not a saving until its compatibility is established and you know whether it is still needed elsewhere.",
+        "Keep the initial basket separate from possible running costs. Storage, routine inspection and access to the exact manual matter in either format. A builder also benefits from recording which motor, controller, servo and radio were installed, because the kit number cannot describe a custom electronics combination later. Keep the applicable instructions with that record. This makes a future setup question answerable without guessing which parts are in the car.",
+        "There is no fixed kit-to-RTR price multiplier or universal build duration here. Finish choices, existing tools and the selected equipment change the comparison too much for a useful blanket number. Decide what must be ready for the first outing, then consider what you would enjoy learning afterward. A well-understood stock RTR can be the right starting point; a carefully planned kit can be the right project."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "package-troubleshooting",
+      "heading": "When the box and the expectation disagree",
+      "paragraphs": [
+        "If a battery or charger seems missing, compare the exact package with the manufacturer's included and required lists before assuming the delivery is incomplete. A required extra is different from a supplied item that was omitted. Retain the seller's description and contact the seller about a genuine discrepancy. Do not substitute an unknown battery merely to see whether the car turns on.",
+        "If an advertised feature will not appear, check whether it describes an option or fitted equipment. Kyosho identifies the MZW711 gyro for 32652ID as separately sold; a provision for that accessory is not proof it is installed. With a kit, a completed photograph likewise cannot confirm that its pictured motor, radio or painted finish is supplied. Read the captions alongside the inventory, rather than using appearance as the only evidence.",
+        "If the equipment is present but the car does not respond, switch from the package audit to the exact manual's setup and troubleshooting process. Confirm the documented power, connections and radio procedure without trying unrelated binding sequences or bypasses. A contents checklist cannot diagnose an electrical fault. The successful outcome of this guide is a complete, identified and compatible starting package, with the remaining work understood before the first run."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Your package is ready to plan when…",
+    "items": [
+      "Exact vehicle or body-inclusive kit and seller bundle are identified",
+      "Supplied, separately required and optional items are recorded separately",
+      "Radio, receiver, servo, motor and controller roles are accounted for",
+      "Drive power and transmitter-cell requirements are checked independently",
+      "Charger compatibility and its required input source are confirmed",
+      "Body finishing, tools and assembly work are included where applicable",
+      "Required startup costs use actual dated quotes, with unknowns left open",
+      "Manufacturer instructions and any unresolved seller questions are in hand"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "axial/scx24-dodge-power-wagon/",
+      "title": "Axial SCX24 Dodge Power Wagon · AXI00007T2",
+      "note": "The supplied battery and USB-charger package, controls and ownership caveats."
+    },
+    {
+      "route": "arrma/mojave-grom-223s/",
+      "title": "ARRMA Mojave GROM 223S DSC · ARA2304T1",
+      "note": "The exact RTR variant without a drive battery or charger, including its startup requirements."
+    },
+    {
+      "route": "kyosho/mini-z-awd-initial-d-skyline-r32/",
+      "title": "Kyosho MINI-Z AWD Initial D R32 · 32652ID",
+      "note": "The completed Readyset, separate chassis/transmitter cells and optional equipment."
+    },
+    {
+      "route": "tamiya/bbx-bb-01/",
+      "title": "Tamiya BBX BB-01 · 58719",
+      "note": "The full body-inclusive kit, missing electronics, compatibility limits and finishing work."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does RTR mean the battery and charger are included?",
+      "answer": "Not necessarily. Axial AXI00007T2 includes them, while ARRMA ARA2304T1 lists the drive battery and charger as separate requirements. Check the exact package, not only the RTR label."
+    },
+    {
+      "question": "Is a Kyosho Readyset ready without buying anything else?",
+      "answer": "Check its required-equipment list. MINI-Z 32652ID needs four AAA alkaline or NiMH chassis cells and four AAA alkaline transmitter cells; those requirements are separate from its completed car and supplied radio."
+    },
+    {
+      "question": "Does every Tamiya RC kit include a motor and ESC?",
+      "answer": "No. BBX 58719 specifies both separately. Its manual also defines the required motor installation and low-profile servo dimensions. Other kits and regional bundles must be checked individually."
+    },
+    {
+      "question": "Can I use any USB supply with the Power Wagon’s charger?",
+      "answer": "Use the actual AXI00007 instructions. For its supplied USB charger, the manual specifies a suitable 5V source with at least 1A output and warns about lower-current USB ports. Follow all of its charging instructions; this is not a rule for every charger."
+    },
+    {
+      "question": "Is a body-inclusive kit already painted?",
+      "answer": "Do not assume so. Tamiya labels its BBX promotional model as painted and assembled, while the kit requires finishing. Check the contents, photograph captions and exact body instructions."
+    },
+    {
+      "question": "Which is better for a first RC car: RTR or kit?",
+      "answer": "Choose an RTR if you want to reduce the initial assembly work, or a kit if building and finishing are part of the activity you want. Both need a suitable venue, complete compatible equipment and model-specific setup. Neither format is automatically better for every beginner."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Axial exact green AXI00007T2 · supplied battery, USB charger, radio and transmitter cells",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Axial AXI00007 English manual · printed pages 3–4 contents and USB input requirements",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI00007_MANUAL_EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Kyosho exact 32652ID · Readyset contents, required cell types and optional MZW711",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "ARRMA / Horizon exact black ARA2304T1 · in-box equipment and needed-to-complete list",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Tamiya BBX 58719 · assembly kit, required equipment and completed-photo disclosure",
+      "url": "https://www.tamiya.com/english/products/58719/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Tamiya BBX 58719 manual · printed page 2 electronics, physical fit, paints and tools",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/58719.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "RC Driver · Peter Vieira · 4 February 2026 BBX build preview, attributed project perspective",
+      "url": "https://www.rcdriver.com/im-ready-to-jump-into-a-tamiya-bbx-build-heres-what-im-stoked-on/",
+      "kind": "Independent author build preview; no results or photographs reused",
+      "checked": "2026-10-17"
+    }
+  ],
+  "evidenceNote": "Research-led package guide checked 17 October 2026. Manufacturer contents and requirements are separated from the editorial audit sequence. Axial manual pages 3–4 and Tamiya manual page 2 were visually inspected. The RC Driver preview supplies an attributed reason to enjoy building, not a timed build or reliability comparison. No charging procedure, unsupported compatibility, invented startup price or ownership experience is supplied. The original four-part diagram and attributed official Axial package photograph explain the inventory; no community images are used.",
+  "revisionNote": "First published 17 October 2026. Exact package identities, contents, manual prerequisites and source dates checked for this edition."
+}

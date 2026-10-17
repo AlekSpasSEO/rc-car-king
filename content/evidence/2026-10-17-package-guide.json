@@ -1,0 +1,147 @@
+{
+  "checkedAt": "2026-10-17T15:31:54.998Z",
+  "kind": "guide",
+  "route": "guides/rtr-vs-kit-rc-car-whats-included/",
+  "intentKey": "rtr-readyset-body-inclusive-kit-package-and-first-run-equipment-audit",
+  "coreWords": 1613,
+  "quota": {
+    "timezone": "Europe/Skopje",
+    "date": "2026-10-17",
+    "previousGuidesToday": 0,
+    "newGuides": 1,
+    "vehicleReviewsUnchanged": 54,
+    "weekendVehicleReviewsAdded": 0
+  },
+  "sources": [
+    {
+      "name": "Axial exact green AXI00007T2 · supplied battery, USB charger, radio and transmitter cells",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Axial AXI00007 English manual · printed pages 3–4 contents and USB input requirements",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI00007_MANUAL_EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Kyosho exact 32652ID · Readyset contents, required cell types and optional MZW711",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "ARRMA / Horizon exact black ARA2304T1 · in-box equipment and needed-to-complete list",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Tamiya BBX 58719 · assembly kit, required equipment and completed-photo disclosure",
+      "url": "https://www.tamiya.com/english/products/58719/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "Tamiya BBX 58719 manual · printed page 2 electronics, physical fit, paints and tools",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/58719.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-17"
+    },
+    {
+      "name": "RC Driver · Peter Vieira · 4 February 2026 BBX build preview, attributed project perspective",
+      "url": "https://www.rcdriver.com/im-ready-to-jump-into-a-tamiya-bbx-build-heres-what-im-stoked-on/",
+      "kind": "Independent author build preview; no results or photographs reused",
+      "checked": "2026-10-17"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "file": "tamiya.html",
+      "bytes": 104233,
+      "sha256": "06a3ac6a382adad2fa17eb947c197d573aa16cd8fc24e3e610d978cf36c61496",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "file": "tamiya-manual.pdf",
+      "bytes": 7356605,
+      "sha256": "02053e5ed08d895d7be8699ddeace4c6edbd3aaaee3a11e1aca3b3db0034db7d",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "file": "axial.html",
+      "bytes": 470392,
+      "sha256": "444d5e41fea8f254c584b8804fc717b263c8358e9a2b3f23f7b545a54f204d43",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "file": "axial-manual.pdf",
+      "bytes": 20083754,
+      "sha256": "8f92448c40abaf0325baedcbe41a7371f759bdc77779ca2f686d65275758e403",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "file": "kyosho.html",
+      "bytes": 261745,
+      "sha256": "ced01300956e6c208fcc84375bce53b0e5339c4245ff0702460800ca7aa11748",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "file": "arrma.html",
+      "bytes": 2309707,
+      "sha256": "2f5cf4b15d4c3ec4de9e23d32c148752e941ad1d2b200b2d17901643d8c245fe",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "file": "rcdriver.html",
+      "bytes": 131564,
+      "sha256": "ca3b3da0573f862bf27e37a1b7e1889a9550fa165ddd9d3eb75ac8898e42784c",
+      "retrieved": "2026-10-17"
+    }
+  ],
+  "notes": [
+    "Distinct ownership/package intent; earlier guides cover steering controls and terrain.",
+    "Exact packages are compared without treating RTR or Readyset as universal contents guarantees.",
+    "Axial printed manual pages 3–4 confirm included components and 5V/at-least-1A USB source; no cross-model charging instructions are given.",
+    "Tamiya printed manual page 2 confirms separate motor, low-profile servo and other radio requirements, different paint materials and tools.",
+    "BBX complete build kit includes body; it is not a bare-chassis review.",
+    "RC Driver passage attributed to Peter Vieira’s February 2026 project preview; no quoted prose, test measurements or images reused.",
+    "Existing official Axial package photograph visually checked and credited; no community media.",
+    "No direct purchase links, new ASINs, ratings or static prices; complete-vehicle reviews retain previously verified affiliate identities."
+  ],
+  "commercialRefresh": {
+    "checkedAt": "2026-10-17T15:11:26.622Z",
+    "offers": 54,
+    "unavailable": 54,
+    "result": "Independent archive refresh failed for all catalog requests; previously verified URLs retained, all commercial prices and sellers cleared",
+    "credentials": "Authorized local CSV used in memory; no credentials or tokens saved"
+  },
+  "validation": {
+    "checkedAt": "2026-10-17T15:33:51.752Z",
+    "production": "Build and check passed with production origin and empty base path",
+    "preview": "Build and check passed with default GitHub preview profile; generated docs committed in preview configuration",
+    "counts": {
+      "vehicleReviews": 54,
+      "guides": 3,
+      "htmlPages": 73,
+      "sitemapUrls": 72
+    },
+    "desktop": {
+      "viewport": 1280,
+      "bodyWidth": 1265,
+      "photoNaturalWidth": 2000,
+      "steps": 5,
+      "faqs": 6
+    },
+    "mobile": {
+      "viewport": 390,
+      "bodyWidth": 375,
+      "tableContainer": 335,
+      "tableContent": 530,
+      "faq": "Exact Axial USB source requirement expanded and read",
+      "archive": "All three daily guides visible with the new article first"
+    },
+    "regressions": "Metadata, schema references, internal links, review filters, unavailable offer handling and analytics consent checks passed"
+  }
+}

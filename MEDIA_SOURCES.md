@@ -53,3 +53,7 @@ The guide reuses `public/assets/arrma-mojave-grom-223s-front.jpg`, the exact off
 ## Daily guide · 16 October 2026 · Terrain matching
 
 The guide reuses `public/assets/traxxas-trx-4-sport-product.jpg`, the official gray 82224-4 studio image in the [launch manifest](content/launch-traxxas-arrma.json). It was visually checked for the exact body and portal-axle truck. The caption identifies it as a category example, not a terrain demonstration. The clearance/traction/load/space diagram is original accessible HTML/CSS. No community photographs are used. See the [guide evidence](content/evidence/2026-10-16-terrain-guide.json).
+
+## Daily guide · 17 October 2026 · RTR, Readyset and kit contents
+
+The guide reuses `public/assets/axial-power-wagon-package.jpg`, the official green AXI00007T2 package image recorded above on 14 October. The contents and photograph were checked against the exact manufacturer page and printed manual pages 3–4. The rack accessories shown are included for optional installation; a separate suitable USB input source is explained. The caption discloses manufacturer product media, not an RC Car King unboxing. The four-part assembly/control/power/finish diagram is original HTML/CSS. No community or RC Driver photographs are reused. See the [guide evidence](content/evidence/2026-10-17-package-guide.json).
