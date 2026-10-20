@@ -1,0 +1,472 @@
+{
+  "brand": "Kyosho",
+  "brandSlug": "kyosho",
+  "model": "MINI-Z AWD Initial D Toyota AE86",
+  "modelSlug": "mini-z-awd-initial-d-toyota-ae86",
+  "sku": "32651ID",
+  "headlineLines": [
+    "PANDA PAINT.",
+    "FOUR DRIVEN WHEELS."
+  ],
+  "title": "Kyosho MINI-Z Initial D AE86 review: a small-space slide car",
+  "dek": "The 32651ID Readyset pairs a finished panda Trueno with MA-020 AWD and drift tires. Know the AAA requirements and optional gyro before ordering.",
+  "type": "Mini drift car",
+  "use": "Drifting",
+  "terrain": [
+    "Smooth indoor hard surfaces"
+  ],
+  "motor": "Brushed",
+  "drive": "AWD",
+  "scale": "1/27 class",
+  "format": "Readyset",
+  "skill": "Beginner indoor driver; training mode included",
+  "price": {
+    "amount": 239.99,
+    "basis": "Indexed Kyosho America USD list reference · exact 32651ID; direct US page unavailable at check",
+    "source": "https://kyoshoamerica.com/mini-z-awd-toyota-sprinter-trueno-ae86-initial-d-32651id.html",
+    "currency": "USD",
+    "checked": "2026-10-20"
+  },
+  "purchaseNote": "Reference checked against indexed manufacturer content on 20 October 2026, not a live checkout quote. Eight AAA cells are required: four chassis cells and four alkaline transmitter cells. Gyro and LED kit are optional extras.",
+  "image": "kyosho-ae86-initial-d-rear.jpg",
+  "imageAlt": "Official Kyosho front three-quarter photograph of the white and black Initial D Toyota Sprinter Trueno AE86 32651ID",
+  "imageCaption": "The 32651ID factory-finished panda Trueno. This is the complete AWD Readyset, not an Auto Scale display body. Official Kyosho product image.",
+  "imageCredit": {
+    "name": "Kyosho",
+    "url": "https://rc.kyosho.com/en/32651id.html",
+    "kind": "Official product photography"
+  },
+  "overview": "An appealing indoor drift Readyset for an Initial D fan who wants the finished AE86 body and a supplied radio. The RC chassis is all-wheel drive, despite the full-size car’s rear-wheel-drive identity. Buy it for clean, smooth indoor surfaces; skip it for outdoor rough ground or a dedicated RWD tandem-drift goal.",
+  "verdict": "A strong character car when AWD indoor sliding is the goal",
+  "verdictText": "Choose 32651ID for its finished body, included drift tires and manageable indoor format. Supply the correct eight AAA cells, begin in training mode and leave optional electronics out of the first-order basket until needed. Its appeal is small-space driving with a favorite shape, not a miniature reproduction of the full-size car’s drivetrain.",
+  "pros": [
+    "Finished licensed Initial D AE86 body and KT-531P radio included",
+    "Stock drift tires and AWD define a clear indoor sliding role",
+    "Fourteen ball bearings and VCS front suspension are specified",
+    "Factory training mode and steering dual rate support initial practice"
+  ],
+  "cons": [
+    "Eight AAA cells are additional; rechargeable chassis use adds a charger if needed",
+    "The RC drivetrain is AWD, not the real AE86’s RWD layout",
+    "Gyro and lighting are optional, with conflicting regional gyro text to resolve",
+    "Tiny scale favors clean floors and careful handling over outdoor versatility"
+  ],
+  "bestFor": [
+    "Initial D fans who want a finished, driveable AE86 model",
+    "A small clean indoor course with soft boundaries",
+    "Beginners happy to learn the stock AWD configuration"
+  ],
+  "avoidIf": [
+    "You want a dedicated RWD tandem drift platform",
+    "You need grass, gravel or wet-weather capability",
+    "You expect batteries, gyro and lights in the Readyset"
+  ],
+  "quickSpecs": [
+    [
+      "Exact Readyset",
+      "32651ID · Initial D panda AE86"
+    ],
+    [
+      "Chassis / drive",
+      "MA-020-N · AWD"
+    ],
+    [
+      "Motor",
+      "Stock brushed electric"
+    ],
+    [
+      "Radio",
+      "Syncro KT-531P · 2.4GHz"
+    ],
+    [
+      "Battery requirement",
+      "4 AAA chassis + 4 AAA transmitter"
+    ],
+    [
+      "Length / wheelbase",
+      "165mm / 94mm"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "An Initial D fan seeking a complete small indoor AWD drift car",
+    "disclosure": "Research-led category judgments, not measured drift performance, durability results or Amazon customer stars. All five categories carry equal weight.",
+    "dimensions": [
+      {
+        "label": "Character and finish",
+        "score": 9,
+        "reason": "The factory-finished licensed body is the main reason to choose this exact Readyset."
+      },
+      {
+        "label": "First-drive equipment",
+        "score": 8,
+        "reason": "Radio and drift tires are included; eight cells remain necessary and the gyro is optional."
+      },
+      {
+        "label": "Indoor-use fit",
+        "score": 8.5,
+        "reason": "A 165mm model is practical to store and lay out a small course for, provided the surface is clean and smooth."
+      },
+      {
+        "label": "Compatibility clarity",
+        "score": 7,
+        "reason": "The exact wheelbase and offsets are clear, but regional gyro text conflicts and the radio is not universally compatible."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7.5,
+        "reason": "The indexed $239.99 reference buys the specific finished Readyset; required cells and any charging equipment still add cost."
+      }
+    ]
+  },
+  "amazon": {
+    "variant": "32651ID complete MINI-Z AWD Initial D Toyota Sprinter Trueno AE86 Readyset",
+    "asin": "B0DT45V3PQ",
+    "marketplace": "www.amazon.com",
+    "sku": "32651ID",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DT45V3PQ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-15T11:16:21.342Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Exact ASIN, brand and manufacturer part/model were matched in the archived public identity record dated 2026-10-15. Reused without a new API call; this is not a current offer or stock verification."
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Who it suits",
+      "heading": "An AE86 for the living-room course, with one big distinction",
+      "paragraphs": [
+        "The first buying decision is emotional, and that is fine. If the white-and-black Trueno is the shape you want to see circling a small indoor course, Kyosho has done the body-finishing work for you. The 32651ID Readyset supplies a completed car and its transmitter. I would put it on an Initial D fan's shortlist before discussing optional motors or suspension parts, because the appeal begins with the exact model rather than a specification contest.",
+        "The distinction to settle immediately is drivetrain. The full-size AE86 is associated with a front-engine, rear-wheel-drive layout; this miniature uses the MA-020-N all-wheel-drive chassis. That is not a hidden defect, but it changes what is being bought. This is an AWD car supplied with drift tires for sliding on suitable smooth surfaces. It is not a dedicated RWD competition drift platform simply because the body depicts a famous rear-drive car.",
+        "A r/MiniZ prospective-buyer discussion about the Initial D AE86 illustrates how often the AWD-versus-RWD question arrives before a first purchase. That is community context, not an instrumented review of this exact SKU, and the upgrade suggestions in its replies are not requirements we adopt. Our own assessment is documentary. We have not driven 32651ID, so the rating concerns its package, scale, compatibility and buyer fit rather than measured transitions, speed or crash survival."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Readyset contents",
+      "heading": "Complete car and radio; the AAA cells are your job",
+      "paragraphs": [
+        "Readyset is Kyosho's package term, not a statement that power cells are already fitted. The exact product page lists the assembled chassis with radio equipment installed, a painted and marked body, the Syncro KT-531P transmitter, a miniature pylon, spare nut, wheel wrench and pinion-removal tool. It also lists several pinion and spur gears. Those included gears are not a reason to alter the factory setup before learning how the stock car behaves.",
+        "The chassis requires four AAA alkaline or four AAA NiMH cells. The transmitter requires four AAA alkaline cells. Keep those two manufacturer requirements separate: permission to use NiMH in the car does not automatically authorize a different transmitter chemistry. If choosing rechargeable chassis cells, include an appropriate external charger and follow the cell and charger instructions. Do not attempt to recharge alkaline batteries or assume the car provides an onboard charging circuit.",
+        "Also distinguish the complete Readyset from a visually similar Auto Scale Collection body or a First MINI-Z toy listing. A body photograph, AE86 name or Initial D logo is insufficient identity evidence on its own. Check for 32651ID and the complete MA-020 Readyset package. The retained affiliate link matches that exact brand and manufacturer number in a historical public identity record. It establishes which listing was verified, not that a particular seller, delivery date or current stock position is guaranteed today."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "AWD hardware",
+      "heading": "Four driven wheels do not make this an off-road car",
+      "paragraphs": [
+        "The MA-020-N carries its motor and four-wheel-drive system underneath a very small road-car body. The stock motor is brushed electric. We have not found a supported exact winding or a measured output for this particular Readyset, so the specification table does not substitute one from an unrelated MINI-Z. Nor do we provide a guessed top speed. Those figures would add apparent precision without helping a buyer understand the supplied indoor drift configuration.",
+        "Kyosho lists fourteen ball bearings. Bearings support rotating components; they do not remove the need to keep hair, dust and small debris out of the drivetrain. At this scale, a strand wrapped around a shaft is a meaningful obstruction rather than cosmetic dirt. If the car suddenly rolls poorly or makes an unfamiliar noise, stop and inspect instead of feeding it more trigger. A clear floor is part of the setup, not merely a way to keep the body tidy.",
+        "The included drift tires intentionally put sliding ahead of maximum road grip. That is why AWD belongs in the discussion: all four tires are driven, but their interaction with the floor still depends on tire condition, surface and control input. A different surface can change the experience substantially. Buying this model for high-grip club racing, rough pavement or a realistic RWD countersteering experience would require a different assessment. Buy the documented stock activity rather than an imagined future conversion."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and learning",
+      "heading": "Keep the training mode until the course feels ordinary",
+      "paragraphs": [
+        "The supplied KT-531P operates at 2.4GHz and provides steering and throttle trim plus steering dual-rate adjustment. Kyosho says the transmitter ships in training mode, which limits speed for learning. Treat that as the initial baseline. A smaller steering setting and gentle trigger work can make it easier to practice consistent turns without immediately exploring every available adjustment. The exact radio instructions remain the authority for changing modes; this review does not invent a button sequence.",
+        "Start with a simple loop, one broad turn and a clear stopping area. Check steering direction at low speed, then practice returning to neutral and stopping before adding a second corner. If the car consistently drifts off a straight line, look for trapped debris and uneven wheel movement before relying on trim. If it spins only during abrupt trigger changes, repeat the section with smaller inputs before deciding that new hardware is necessary. These are diagnostic questions, not guaranteed cures for a fault we cannot inspect remotely.",
+        "Radio compatibility is a real limit. Kyosho explicitly excludes several older transmitters, including KT-18, KT-19 and EX-6-family units, and says optional ICS cannot be used with this model. Owning another MINI-Z transmitter is therefore not enough reason to assume it will bind. Use the supplied radio unless exact current compatibility is documented. The included transmitter is useful precisely because it resolves the initial pairing purchase, even though it is not a universal bridge to every radio in Kyosho's history."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension and gyro",
+      "heading": "The gyro is optional, and the regional text disagrees",
+      "paragraphs": [
+        "The manufacturer specifies VCS front suspension, which changes camber as the suspension moves, and a strut-type rear arrangement. Front springs can be changed without tools according to the product description. Those features explain the layout and adjustment potential. They do not tell us that one particular spring will produce a measured improvement on your floor, and they do not make an immediate spring purchase part of a complete first-drive basket.",
+        "There is an important source conflict over optional gyro compatibility. The current global 32651ID page names MZW711, and Kyosho's MZW711 compatibility sheet explicitly includes 32651ID in its AWD table. Indexed Kyosho America text still names MZW446. We prioritize the current global page together with the exact-model compatibility sheet rather than silently combining the two references. Before ordering an optional gyro, confirm the actual production version and current instructions with Kyosho or the supplying dealer.",
+        "No gyro is included in the stock Readyset. A place to mount a gyro and a sensitivity adjustment are provisions, not evidence of a fitted sensor. I would drive the supplied configuration first. Learn the available surface and make consistent inputs before deciding whether steering assistance solves a specific difficulty. A gyro reacts to vehicle rotation; it cannot change the car into rear-wheel drive, repair mechanical binding or turn a dirty, uneven floor into an appropriate drift venue."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Choose the floor",
+      "heading": "The indoor surface is the largest tuning variable",
+      "paragraphs": [
+        "A clean, smooth, dry indoor hard surface is the editorial starting recommendation. The model is only 165mm long and 68mm wide, with a 94mm wheelbase. Those dimensions make a modest course plausible and storage easy, but they also make cracks, grit and thresholds significant relative to the vehicle. There is no manufacturer-backed grass or gravel role in this review. A small AWD badge does not supply off-road suspension travel or outdoor protection.",
+        "Test a clear area before building a detailed layout. Remove debris and choose soft markers that will move when touched. Avoid valuable furniture edges, stairs and places where another person or pet can step into the course. Leave room beyond the turn rather than positioning a hard barrier exactly where an early slide is likely to finish. The goal is repeatable practice, with the freedom to reduce speed and adjust the line as you learn.",
+        "Do not apply floor treatments, lubricants or improvised tire chemicals to manufacture a slippery surface. They can affect the floor, other users and the model, and we have not verified them for this car. Likewise, a room with deep carpet is not equivalent to the smooth indoor ground suggested here. If the available venue cannot suit the tires and scale, a different complete vehicle makes more sense. It is better to choose a car for a real weekly venue than buy a favorite body and hope the venue problem disappears."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Finish and ownership",
+      "heading": "The panda body is a reason to be careful, not a reason to shelve it",
+      "paragraphs": [
+        "Kyosho's factory finish is the central difference between wanting an AE86 model and wanting an unspecified miniature drift chassis. The white-and-black body carries the Initial D treatment, with the pop-up-headlight appearance and visible trim reproduced in the official photographs. The Readyset requires no initial body painting. That lets the owner spend the first session on power cells, controls and course layout instead of paint preparation and drying time.",
+        "The lighting question needs a separate answer. The product page lists the MZW429R LED set as optional. Molded lamp detail in a photograph does not mean working LEDs are installed. The same distinction applies to the optional gyro: the finished appearance should not inflate the equipment list. Our product box and startup budget assess the stock Readyset without either addition, and the photography is credited manufacturer media rather than an RC Car King unboxing or demonstration.",
+        "For routine care, remove the body according to the model's supplied instructions and inspect without forcing delicate details or catches. Keep the original tools and unused gears together with the documentation. The narrow wheel offsets are listed as 0.0mm front and rear; the 94mm wheelbase also matters if later checking body compatibility. A broad claim that many MINI-Z bodies fit is not permission to assume that every shell or wheel package will transfer without additional changes. We are reviewing this complete AE86, not treating the body catalogue as a guaranteed interchange chart."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "The whole basket",
+      "heading": "An indexed $239.99 reference needs an honest label",
+      "paragraphs": [
+        "The USD reference used here is $239.99 from indexed Kyosho America content for exact item 32651ID, checked on 20 October 2026. The direct US page was unavailable during research, so this is explicitly an indexed manufacturer list reference rather than a live checkout quote. We do not convert the Japanese store's yen figure into a supposed American price, and we do not infer present availability from an older search listing.",
+        "The complete starting basket is the Readyset plus four suitable AAA chassis cells and four alkaline AAA transmitter cells. If the car will use NiMH cells and no compatible charger is already owned, add that charger. A clear practice area and simple soft markers help, but an aftermarket gyro, lights and tuning parts are optional. We have not priced the additional cells and charging equipment independently today, so the article does not pretend that the vehicle reference is an all-in ownership total.",
+        "The verified affiliate link retains the correct account tag and exact historical product identity. Current price, seller, package condition and delivery are checks to make on Amazon itself. A missing live offer does not justify substituting a different AE86 body or a cheaper First MINI-Z toy. For this purchase, a higher apparent listing price can still describe a different package, and a lower one can be only a display shell. Match the complete model first; compare final checkout baskets second."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "32651ID first-drive basket",
+        "columns": [
+          "Component",
+          "Included?",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Assembled car, finished body, KT-531P",
+            "Yes",
+            "Exact Readyset reference"
+          ],
+          [
+            "Four chassis AAA cells",
+            "No",
+            "Alkaline or NiMH as specified"
+          ],
+          [
+            "Four transmitter AAA cells",
+            "No",
+            "Alkaline as specified"
+          ],
+          [
+            "NiMH charger",
+            "No",
+            "Needed if using rechargeable chassis cells and not already owned"
+          ],
+          [
+            "Gyro and LED set",
+            "No",
+            "Optional, not a prerequisite"
+          ],
+          [
+            "Tax / shipping / cells",
+            "Not priced here",
+            "Complete total remains open"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Complete alternatives",
+      "heading": "Choose the experience before the silhouette",
+      "paragraphs": [
+        "If the desired experience is still tiny AWD sliding but the body preference changes, the MINI-Z AWD Initial D Skyline R32 32652ID already has a full review in our archive. It is a complete Readyset, not a body-only recommendation. Compare its exact dimensions, offsets and equipment rather than assuming that every figure in this AE86 article transfers across the range. The reason to choose between them should begin with the preferred model and documented package, not an unsupported claim that one shell wins a handling test.",
+        "The Traxxas 4-Tec Drift Nissan 240SX is a larger complete-car alternative for someone who wants a different drift format and a suitable larger venue. Its full review covers the actual drivetrain, controls and power basket. It will not replace the storage convenience or tiny indoor-course purpose of the MINI-Z, so compare the place you intend to drive as carefully as the cars. An attractive bigger car is not a solution to a room that only accommodates the smaller one.",
+        "If painting and mechanical assembly sound more appealing than a factory-finished miniature, the complete body-inclusive Tamiya Toyota Celica GT-Four ST165 TT-02 kit, item 58718 is another direction in the archive. It requires its own equipment and finishing plan and is not a stock substitute for this AWD drift Readyset. That distinction is useful: model-building, indoor sliding and larger-scale drift driving are separate reasons to spend. Pick the activity first, then use the individual review to check the exact SKU and remaining startup requirements."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The call",
+      "heading": "Buy the finished AE86 for the driving you can actually do",
+      "paragraphs": [
+        "For an Initial D fan with a clean indoor surface, the 32651ID is a convincing complete-car starting point. The body is finished, the radio is supplied and the stock tires establish the sliding purpose. Its small footprint makes it easier to create a repeatable practice space than a larger drift car would be. Those are documented package and dimension advantages, not a promise that every beginner will immediately link corners or that this particular car has passed our own test session.",
+        "The reservations should remain visible after the excitement of the body photograph. Eight cells are additional, optional electronics are genuinely optional, and the global-versus-US gyro text needs attention before a later purchase. Most importantly, the chassis is AWD. If the goal is specifically RWD tandem drifting or an exact mechanical miniature of the full-size Trueno, this Readyset answers a different question. Choosing it with that understanding is much more satisfying than planning a conversion before learning the stock car.",
+        "I would keep the first order simple: exact 32651ID, the specified cells, appropriate charging equipment only if needed, and a suitable clear venue. Begin in training mode and build consistency before buying around a problem that has not occurred. The editorial rating rewards character, the supplied indoor package and a clear use case while deducting for compatibility ambiguity and added power costs. If those tradeoffs suit your space, the panda AE86 earns its place in the garage."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "kyosho-ae86-initial-d-radio.jpg",
+      "alt": "Official Kyosho image of the Initial D AE86 complete car beside its included KT-531P transmitter",
+      "caption": "The KT-531P radio is included with the complete 32651ID Readyset. AAA cells, optional gyro and LED kit are not shown as included equipment.",
+      "source": "https://rc.kyosho.com/en/32651id.html"
+    },
+    {
+      "image": "kyosho-ae86-initial-d-detail.jpg",
+      "alt": "Official Kyosho rear three-quarter view of the white and black Initial D Toyota AE86 miniature",
+      "caption": "Rear body detail of the factory-finished 32651ID. Official manufacturer photography, not our test sample.",
+      "source": "https://rc.kyosho.com/en/32651id.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact item / JAN",
+      "32651ID / 4548565480296"
+    ],
+    [
+      "Vehicle package",
+      "Complete MINI-Z AWD Readyset"
+    ],
+    [
+      "Chassis",
+      "MA-020-N"
+    ],
+    [
+      "Drive / motor",
+      "AWD / stock brushed electric; winding not independently verified"
+    ],
+    [
+      "Length × width × height",
+      "165 × 68 × 53mm"
+    ],
+    [
+      "Wheelbase",
+      "94mm (L)"
+    ],
+    [
+      "Track",
+      "56.5mm front and rear"
+    ],
+    [
+      "Wheel offset",
+      "Narrow 0.0mm front and rear"
+    ],
+    [
+      "Front / rear suspension",
+      "VCS / strut type"
+    ],
+    [
+      "Ball bearings",
+      "14"
+    ],
+    [
+      "Radio",
+      "Syncro KT-531P 2.4GHz; factory training mode"
+    ],
+    [
+      "Chassis cells required",
+      "4 AAA alkaline or NiMH"
+    ],
+    [
+      "Transmitter cells required",
+      "4 AAA alkaline"
+    ],
+    [
+      "Tires",
+      "Drift tires included"
+    ],
+    [
+      "Gyro",
+      "Optional; current global page and compatibility sheet identify MZW711"
+    ],
+    [
+      "Lighting",
+      "Optional MZW429R LED set"
+    ],
+    [
+      "Radio limitations",
+      "Not ICS compatible; do not assume compatibility with older MINI-Z radios"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the Initial D AE86 rear-wheel drive?",
+      "answer": "The full-size inspiration is rear-wheel drive, but exact Readyset 32651ID uses the MA-020-N AWD chassis."
+    },
+    {
+      "question": "Does it include batteries?",
+      "answer": "No. The chassis needs four AAA alkaline or NiMH cells, and the KT-531P transmitter needs four AAA alkaline cells."
+    },
+    {
+      "question": "Is the gyro included?",
+      "answer": "No. The current global product page and exact compatibility sheet identify optional MZW711; older indexed US copy names MZW446. Confirm the actual production version before ordering."
+    },
+    {
+      "question": "Are lights installed?",
+      "answer": "Working LEDs are not included in the documented stock package. Kyosho lists optional MZW429R for this model."
+    },
+    {
+      "question": "Can I use it outdoors?",
+      "answer": "This recommendation is for clean, smooth, dry indoor hard surfaces. It does not establish suitability for grass, gravel, rain or rough pavement."
+    },
+    {
+      "question": "Is the body painted?",
+      "answer": "Yes, the Readyset body is painted and marked. A similarly named Auto Scale body-only listing is a different product."
+    },
+    {
+      "question": "Is $239.99 a live Amazon price?",
+      "answer": "No. It is an explicitly labeled indexed Kyosho America list reference checked 20 October 2026; the direct US page was unavailable. Check the exact retailer listing for current terms."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyosho global exact 32651ID product, contents and technical data",
+      "url": "https://rc.kyosho.com/en/32651id.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Kyosho America 32651ID indexed USD reference; direct page unavailable",
+      "url": "https://kyoshoamerica.com/mini-z-awd-toyota-sprinter-trueno-ae86-initial-d-32651id.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer indexed reference; not live stock/checkout evidence"
+    },
+    {
+      "name": "Kyosho MZW711 compatibility sheet, AWD row 32651ID",
+      "url": "https://www.kyosho.com/rc/ja/support/mini-z/Compatible_with_MZW711_3.pdf",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "r/MiniZ: prospective Initial D AE86 buyer discussion",
+      "url": "https://www.reddit.com/r/MiniZ/comments/1kfg8oc/buying_my_first_miniz_in_japan_next_month_need/",
+      "checked": "2026-10-20",
+      "kind": "Community buyer context; anecdotes, no exact-model measured test"
+    }
+  ],
+  "evidenceNote": "Current global exact-model specifications and the manufacturer MZW711 compatibility sheet were checked; its 32651ID row was visually inspected. Indexed US text supplies a labeled USD reference but conflicts on gyro part number. The linked family manual could not be retrieved, so no unverified programming or charging procedure is reproduced. Community discussion informs buyer questions only. Historical Amazon identity dated 15 October is reused without a new API or offer check.",
+  "revisionNote": "Published 20 October 2026. Separates full-size RWD identity from RC AWD, stock equipment from optional gyro/LEDs, and indexed US reference pricing from live offers.",
+  "seo": {
+    "title": "Kyosho MINI-Z Initial D AE86 Review | RC Car King",
+    "description": "Kyosho 32651ID AE86 reviewed: AWD drift setup, AAA battery needs, optional gyro conflict, finished body, indoor surfaces and full startup basket."
+  },
+  "published": "2026-10-20",
+  "updated": "2026-10-20",
+  "publishedAt": "2026-10-20T06:47:54.992Z",
+  "updatedAt": "2026-10-20T06:47:54.992Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. We have not physically tested this vehicle."
+  }
+}

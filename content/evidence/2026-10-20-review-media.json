@@ -1,0 +1,84 @@
+{
+  "checkedAt": "2026-10-20T06:51:22.301Z",
+  "media": [
+    {
+      "file": "arrma-mojave-grom-rta-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw6a1e4bd1/Images/ARA/ARA2104KT1_A39_EEBOE8OQ.jpg?sw=800&sh=800&sm=fit",
+      "bytes": 75210,
+      "sha256": "d03e3b1cb92124ac0fe6ccdce290ffcc9d5ceaf4446cb0d81b7ae3cf468cba07",
+      "credit": "ARRMA / Horizon Hobby",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "arrma-mojave-grom-rta-2.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw84d231c7/Images/ARA/ARA2104KT1_A96_EEBOE8OQ.jpg?sw=800&sh=800&sm=fit",
+      "bytes": 55088,
+      "sha256": "5712d876f409faa141df37342ed2e57020071e495d02de4a5de5714db0679403",
+      "credit": "ARRMA / Horizon Hobby",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "arrma-mojave-grom-rta-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw84a05634/Images/ARA/ARA2104KT1_A94_EEBOE8OQ.jpg?sw=800&sh=800&sm=fit",
+      "bytes": 59911,
+      "sha256": "6663399cfb721d77b28e9fc9ff6e39f1b61744ebaad07d02c65118684f5655bd",
+      "credit": "ARRMA / Horizon Hobby",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "kyosho-ae86-initial-d-rear.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32651id_900_2.jpg",
+      "bytes": 17390,
+      "sha256": "c50f7475f468de93241fa22e152a528e7b97fe6e15c204f3e99ecaa09e98ce55",
+      "credit": "Kyosho",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "kyosho-ae86-initial-d-radio.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32651/32651ID_600_2.jpg",
+      "bytes": 105530,
+      "sha256": "3c4150dc81a2d65aac2fef64719092bea07f00ae3c76640db8ebf5dd08971335",
+      "credit": "Kyosho",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "traxxas-pathfinder-silver-front.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/1/110056-4-TRX-4-Nissan-Pathfinder-3qtr-Front-Driver-SLVR_47647559.jpg",
+      "bytes": 202221,
+      "sha256": "4ec99937fa45318d26f21bfd33d7d7d743201842c36b1b7a735871924c045553",
+      "credit": "Traxxas",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "traxxas-pathfinder-silver-rear.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/1/110056-4-TRX-4-Nissan-Pathfinder-3qtr-Rear-Passenger-SLVR_47647563.jpg",
+      "bytes": 167934,
+      "sha256": "8a5dab7f6556fc09e230e828a9417c3902ec798673688682ad24a0c7c2661457",
+      "credit": "Traxxas",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "traxxas-pathfinder-silver-dimensions.jpg",
+      "url": "https://traxxas.com/media/wysiwyg/marketing-suites/C-110056-4/10157646/110056-4_SLVR-specs-side.jpg",
+      "bytes": 58101,
+      "sha256": "20a9a75cb6a2b34afe68305112c5f99ac74a39814508a48b1e2d29c99b961d3c",
+      "credit": "Traxxas",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    },
+    {
+      "file": "kyosho-ae86-initial-d-detail.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32651id_900_3.jpg",
+      "bytes": 19160,
+      "sha256": "70e0de7432635a30e8e5802d9fd2acf421fd6461d32e072116c22d46bbaf0986",
+      "credit": "Kyosho",
+      "visualCheck": "Inspected actual downloaded image; captions identify manufacturer media and optional equipment/finish."
+    }
+  ],
+  "notes": [
+    "Nine official product assets used; no community or independent-publication photos reused.",
+    "ARRMA main image is clear/black assembled example; yellow action photo optional painted finish, third image specifies separate USB supply.",
+    "Kyosho file named rear is actually the front three-quarter studio image and is captioned accurately. Radio and rear body image are separate gallery views.",
+    "Traxxas silver media shows optional lighting; 523mm diagram conflicts with577mm text and is disclosed.",
+    "Low-resolution Kyosho duplicate and blank manufacturer placeholder discarded before publication."
+  ]
+}

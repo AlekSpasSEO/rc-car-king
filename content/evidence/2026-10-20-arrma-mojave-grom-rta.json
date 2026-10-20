@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-10-20T06:45:13.109Z",
+  "review": "arrma-mojave-grom-rta",
+  "coreWords": 2274,
+  "scope": "Research-led editorial assessment; no physical testing",
+  "manufacturerSku": "ARA2104KT1",
+  "amazon": {
+    "asin": "B0H7FH17J1",
+    "brand": "ARRMA",
+    "manufacturerPartNumber": "ARA2104KT1",
+    "model": "ARA2104KT1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0H7FH17J1?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "originalIdentityCheckedAt": "2026-10-15T11:16:19.374Z",
+    "verification": "Historical sanitized public identity evidence reused; exact brand and both part/model fields asserted. No new Amazon requests, credentials, prices or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "ARRMA/Horizon ARA2104KT1 exact product, contents and USD reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-16-mojave-grom-4x4-rta-kit-brushed-desert-truck-battery-and-charger-included/ARA2104K.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA Mojave GROM RTA V2 assembly manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwd703d356/Manuals/ARA2104K-MANUAL-ML-V2.pdf",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA RTA assembly addendum: orientation and sequencing",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw31fa143c/Manuals/ARA2104K-GET%20ASSEMBLED-GUIDE-V2.pdf",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA RTA V2 body painting guide",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw0c3f29fb/Manuals/ARA2104K-HOW-TO-PAINT-GUIDE-V2.pdf",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Greg Vogel, RC Driver: ARA2104KT1 build coverage, 29 June 2026",
+      "url": "https://www.rcdriver.com/arrma-mojave-grom-rta-rc-truck/",
+      "checked": "2026-10-20",
+      "kind": "Independent publication coverage; affiliate disclosure on source"
+    }
+  ],
+  "notes": [
+    "Current manufacturer public variation data resolves parent ARA2104K to exact ARA2104KT1.",
+    "USD169.99 reference excludes paint and compatible USB supply.",
+    "No 223S DSC, brushless or 3S specifications transferred.",
+    "Yellow manufacturer action photo explicitly optional painted finish.",
+    "Reviewed the addendum before the main assembly sequence.",
+    "Archived exact identity only; no API calls or offers refreshed."
+  ],
+  "validation": {
+    "checkedAt": "2026-10-20T06:56:32.993Z",
+    "production": "npm run build and npm run check passed: 57 reviews, 4 articles, 77 HTML pages, 76 sitemap URLs; schema, affiliate, offer-fallback and analytics-consent checks pass.",
+    "preview": "Default /rc-car-king build and check passed; generated preview output committed with source.",
+    "browser": "Rendered DOM/layout inspected at 1280px desktop and390px mobile. Product image, six key specs, five category scores, affiliate link/disclosure, check-price fallback and FAQ interaction checked. No horizontal document overflow:1265px/375px body widths. Cost tables scroll inside334px mobile containers with530px content.",
+    "visualMedia": "All nine used official assets inspected directly; optional paint/lighting and dimensional conflict captions verified.",
+    "screenshotLimitation": "Browser screenshot capture returned Unable to capture screenshot. No screenshot-based page visual verification claimed."
+  }
+}

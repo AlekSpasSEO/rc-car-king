@@ -17,12 +17,12 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
@@ -32,6 +32,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Mojave GROM RTA](https://alekspasseo.github.io/rc-car-king/arrma/mojave-grom-rta/): ARA2104KT1 reviewed: brushed 2S power, kit contents, paint and USB supply needs, assembly checks, terrain limits and complete startup budget.
+- [Kyosho MINI-Z AWD Initial D Toyota AE86](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-awd-initial-d-toyota-ae86/): Kyosho 32651ID AE86 reviewed: AWD drift setup, AAA battery needs, optional gyro conflict, finished body, indoor surfaces and full startup basket.
+- [Traxxas TRX-4 1988 Nissan Pathfinder](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-1988-nissan-pathfinder/): Silver 110056-4 Pathfinder reviewed: portals, two speeds, remote diff locks, battery costs, optional lights, manual limits and trail-buyer fit.
 - [ARRMA Mojave GROM 223S DSC](https://alekspasseo.github.io/rc-car-king/arrma/mojave-grom-223s/): Research-led ARRMA Mojave GROM 223S review: exact ARA2304T1 specs, DSC setup, battery fit, startup costs, terrain limits and buying advice.
 - [Kyosho MINI-Z AWD Initial D Skyline GT-R R32](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-awd-initial-d-skyline-r32/): Kyosho 32652ID Initial D R32 review with exact MINI-Z AWD specs, battery needs, radio and gyro compatibility, indoor setup, costs and alternatives.
 - [Tamiya Lunch Box (2005)](https://alekspasseo.github.io/rc-car-king/tamiya/lunch-box-2005/): Tamiya Lunch Box 58347 review covering the original CW-01 kit, included motor, ESC and paint conflicts, startup equipment, steering and alternatives.

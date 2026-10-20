@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-10-20T06:50:37.944Z",
+  "review": "traxxas-trx-4-1988-nissan-pathfinder",
+  "coreWords": 2307,
+  "scope": "Research-led editorial assessment; no physical testing",
+  "manufacturerSku": "110056-4",
+  "amazon": {
+    "asin": "B0G1TDLPYQ",
+    "brand": "Traxxas",
+    "manufacturerPartNumber": "110056-4",
+    "model": "110056-4",
+    "detailPageUrl": "https://www.amazon.com/dp/B0G1TDLPYQ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "originalIdentityCheckedAt": "2026-10-12T22:12:24.062Z",
+    "verification": "Historical sanitized public identity evidence reused; exact brand and both part/model fields asserted. No new Amazon requests, credentials, prices or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Traxxas exact 110056-4 product, specifications, contents and current USD reference",
+      "url": "https://traxxas.com/trx-4-nissan-pathfinder-110056-4",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas 110056-4 English owner manual R00, including wet-use restrictions",
+      "url": "https://traxxas.com/media/productattach/C-110056-4/2/110056-4-OM-EN-R00.pdf",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Greg Vogel, RC Driver: Pathfinder coverage, 23 December 2025",
+      "url": "https://www.rcdriver.com/traxxas-nissan-pathfinder-rc-truck/",
+      "checked": "2026-10-20",
+      "kind": "Independent publication coverage; historical launch price only"
+    },
+    {
+      "name": "Traxxas silver side dimension illustration: 523mm length / 312mm wheelbase",
+      "url": "https://traxxas.com/media/wysiwyg/marketing-suites/C-110056-4/10157646/110056-4_SLVR-specs-side.jpg",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Axial white Base Camp AXI-1375T1 complete RTR; manufacturer currently marks unavailable",
+      "url": "https://www.axialadventure.com/product/axial-1-10-scx10-iii-base-camp-4x4-rtr-brushed-rock-crawler-white/AXI-1375T1.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer alternative documentation; availability limitation disclosed"
+    }
+  ],
+  "notes": [
+    "Exact current manufacturer canonical and silver variant photos.",
+    "Current499.95 manufacturer vehicle reference; historical RCDriver549.99 not a discount claim.",
+    "577mm text length conflicts with523mm official image;312mm wheelbase consistent.",
+    "Manual explicitly prohibits LiPo use in wet conditions and says transmitter not water resistant.",
+    "Official illuminated body media does not establish lights included.",
+    "Archived12October exact silver ASIN/brand/model identity reused, no API call."
+  ],
+  "validation": {
+    "checkedAt": "2026-10-20T06:56:33.001Z",
+    "production": "npm run build and npm run check passed: 57 reviews, 4 articles, 77 HTML pages, 76 sitemap URLs; schema, affiliate, offer-fallback and analytics-consent checks pass.",
+    "preview": "Default /rc-car-king build and check passed; generated preview output committed with source.",
+    "browser": "Rendered DOM/layout inspected at 1280px desktop and390px mobile. Product image, six key specs, five category scores, affiliate link/disclosure, check-price fallback and FAQ interaction checked. No horizontal document overflow:1265px/375px body widths. Cost tables scroll inside334px mobile containers with530px content.",
+    "visualMedia": "All nine used official assets inspected directly; optional paint/lighting and dimensional conflict captions verified.",
+    "screenshotLimitation": "Browser screenshot capture returned Unable to capture screenshot. No screenshot-based page visual verification claimed."
+  }
+}

@@ -61,3 +61,7 @@ The guide reuses `public/assets/axial-power-wagon-package.jpg`, the official gre
 ## Daily guide · 20 October 2026 · Brushed and brushless explanations
 
 This guide uses an original accessible HTML/CSS concept diagram separating brushed commutation, electronic brushless commutation, Kv and complete-system matching. It is conceptual, not a wiring diagram, motor cutaway or physical demonstration. No new manufacturer, community or independent-publication photographs are reused. See the [dated guide evidence](content/evidence/2026-10-20-motor-guide.json).
+
+## Weekday reviews · 20 October 2026
+
+ARRMA Mojave GROM RTA ARA2104KT1, Kyosho Initial D AE86 32651ID and silver Traxxas Pathfinder 110056-4 use nine visually inspected official assets. The [dated media manifest](content/evidence/2026-10-20-review-media.json) records original URLs, byte sizes, SHA-256 hashes and credits. The RTA yellow finish and Pathfinder working lights shown in manufacturer media are optional and explicitly captioned. The Pathfinder dimension illustration conflicts with the current text table; the review preserves both values. No community or independent-publication photography is reused. Exact-product affiliate identities reuse historical sanitized evidence with their original dates; no new Amazon requests or offer claims are made.
