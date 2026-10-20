@@ -1,0 +1,237 @@
+{
+  "checkedAt": "2026-10-20T07:10:47.772Z",
+  "article": "small-rc-cars-home-compact-outdoor-spaces",
+  "week": {
+    "timezone": "Europe/Skopje",
+    "start": "2026-10-19",
+    "end": "2026-10-25",
+    "existingPublishedListicles": 0
+  },
+  "wordCount": 2456,
+  "scope": "Research-led venue-based buying shortlist; no physical comparison",
+  "picks": [
+    {
+      "sku": "LOS00007T1",
+      "route": "losi/micro-b/",
+      "reference": {
+        "amount": 89.99,
+        "currency": "USD",
+        "basis": "Horizon/Losi exact white RTR listed reference",
+        "source": "https://www.horizonhobby.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+        "checked": "2026-10-20"
+      },
+      "affiliateIdentity": {
+        "asin": "B0DJ3M2Q56",
+        "originalVerifiedAt": "2026-10-12T23:04:09.763Z",
+        "sku": "LOS00007T1",
+        "apiSku": "LOS00007T1",
+        "variant": "White · complete brushed buggy",
+        "identityNote": "Exact public identity recorded in reviewed vehicle evidence"
+      },
+      "image": "losi-micro-b-front.jpg",
+      "imageCredit": {
+        "name": "Losi official product photography",
+        "url": "https://www.losi.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+        "kind": "Official product photo"
+      }
+    },
+    {
+      "sku": "32651ID",
+      "route": "kyosho/mini-z-awd-initial-d-toyota-ae86/",
+      "reference": {
+        "amount": 239.99,
+        "currency": "USD",
+        "basis": "Indexed Kyosho America exact-model list reference; direct US page unavailable",
+        "source": "https://kyoshoamerica.com/mini-z-awd-toyota-sprinter-trueno-ae86-initial-d-32651id.html",
+        "checked": "2026-10-20"
+      },
+      "affiliateIdentity": {
+        "asin": "B0DT45V3PQ",
+        "originalVerifiedAt": "2026-10-15T11:16:21.342Z",
+        "sku": "32651ID",
+        "apiSku": "32651ID",
+        "variant": "32651ID complete MINI-Z AWD Initial D Toyota Sprinter Trueno AE86 Readyset",
+        "identityNote": "Exact ASIN, brand and manufacturer part/model were matched in the archived public identity record dated 2026-10-15. Reused without a new API call; this is not a current offer or stock verification."
+      },
+      "image": "kyosho-ae86-initial-d-rear.jpg",
+      "imageCredit": {
+        "name": "Kyosho",
+        "url": "https://rc.kyosho.com/en/32651id.html",
+        "kind": "Official product photography"
+      }
+    },
+    {
+      "sku": "AXI00007T2",
+      "route": "axial/scx24-dodge-power-wagon/",
+      "reference": {
+        "amount": 159.99,
+        "currency": "USD",
+        "basis": "Horizon/Axial exact green original RTR listed reference",
+        "source": "https://www.horizonhobby.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+        "checked": "2026-10-20"
+      },
+      "affiliateIdentity": {
+        "asin": "B0CL8VMLND",
+        "originalVerifiedAt": "2026-10-14T09:16:51.721Z",
+        "sku": "AXI00007T2",
+        "apiSku": "AXI00007T2",
+        "variant": "Green · original AXI00007T2 complete RTR",
+        "identityNote": "Exact public identity recorded in reviewed vehicle evidence"
+      },
+      "image": "axial-power-wagon-detail.jpg",
+      "imageCredit": {
+        "name": "Axial official AXI00007T2 photography",
+        "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+        "kind": "Official product photo"
+      }
+    },
+    {
+      "sku": "97074-1",
+      "route": "traxxas/trx-4m-ford-bronco/",
+      "reference": {
+        "amount": 179.95,
+        "currency": "USD",
+        "basis": "Traxxas US base 97074-1 complete-vehicle listing",
+        "source": "https://traxxas.com/trx-4m-ford-bronco-97074-1",
+        "checked": "2026-10-20"
+      },
+      "affiliateIdentity": {
+        "asin": "B0BQWS3MQ9",
+        "originalVerifiedAt": "2026-10-12T23:04:29.161Z",
+        "sku": "97074-1",
+        "apiSku": "97074-1-BLUE",
+        "variant": "Blue · complete car",
+        "identityNote": "Amazon exact part 97074-1-BLUE is the blue complete-car color notation for manufacturer base 97074-1. The current Traxxas product page documents the blue Bronco variant and matching hardware; no different chassis or generation is substituted."
+      },
+      "image": "traxxas-trx-4m-ford-bronco-product.jpg",
+      "imageCredit": {
+        "name": "Traxxas official product photography",
+        "url": "https://traxxas.com/trx-4m-ford-bronco-97074-1",
+        "kind": "Official product photo"
+      }
+    },
+    {
+      "sku": "ARA2104KT1",
+      "route": "arrma/mojave-grom-rta/",
+      "reference": {
+        "amount": 169.99,
+        "currency": "USD",
+        "basis": "Horizon/ARRMA exact ARA2104KT1 kit listed reference",
+        "source": "https://www.horizonhobby.com/product/arrma-1-16-mojave-grom-4x4-rta-kit-brushed-desert-truck-battery-and-charger-included/ARA2104K.html",
+        "checked": "2026-10-20"
+      },
+      "affiliateIdentity": {
+        "asin": "B0H7FH17J1",
+        "originalVerifiedAt": "2026-10-15T11:16:19.374Z",
+        "sku": "ARA2104KT1",
+        "apiSku": "ARA2104KT1",
+        "variant": "ARA2104KT1 clear/black complete body-inclusive RTA kit; battery and charger included",
+        "identityNote": "Exact ASIN, brand and manufacturer part/model were matched in the archived public identity record dated 2026-10-15. Reused without a new API call; this is not a current offer or stock verification."
+      },
+      "image": "arrma-mojave-grom-rta-2.jpg",
+      "imageCredit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/product/arrma-1-16-mojave-grom-4x4-rta-kit-brushed-desert-truck-battery-and-charger-included/ARA2104K.html",
+        "kind": "Official product photography"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon/Losi exact white Micro-B LOS00007T1 package and USD reference",
+      "url": "https://www.horizonhobby.com/product/losi-1-24-micro-b-2s-2wd-rtr-race-buggy-battery-and-charger-included-white/LOS00007T1.html",
+      "kind": "Manufacturer current catalog",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Losi Micro-B exact model manual",
+      "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw356c9258/Manuals/LOS00007_MANUAL_EN.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Kyosho exact 32651ID global specifications and contents",
+      "url": "https://rc.kyosho.com/en/32651id.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Kyosho America indexed 32651ID USD reference; direct page unavailable",
+      "url": "https://kyoshoamerica.com/mini-z-awd-toyota-sprinter-trueno-ae86-initial-d-32651id.html",
+      "kind": "Manufacturer indexed reference; not live checkout evidence",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Horizon/Axial exact green Power Wagon AXI00007T2 package and USD reference",
+      "url": "https://www.horizonhobby.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "kind": "Manufacturer current catalog",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Axial original SCX24 Power Wagon model manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI00007_MANUAL_EN.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Traxxas exact 97074-1 Bronco specifications, package and USD reference",
+      "url": "https://traxxas.com/trx-4m-ford-bronco-97074-1",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Traxxas 97074-1 Bronco owner manual R02",
+      "url": "https://traxxas.com/media/productattach/C-97074-1/2/97074-1-OM-EN-R02.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "ARRMA/Horizon ARA2104KT1 Mojave GROM RTA exact current variant",
+      "url": "https://www.horizonhobby.com/product/arrma-1-16-mojave-grom-4x4-rta-kit-brushed-desert-truck-battery-and-charger-included/ARA2104K.html",
+      "kind": "Manufacturer current catalog",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "ARRMA Mojave GROM RTA V2 assembly manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwd703d356/Manuals/ARA2104K-MANUAL-ML-V2.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Michael Febbo, The Drive: TRX-4M Bronco review, 13 December 2024",
+      "url": "https://www.thedrive.com/guides-and-gear/traxxas-trx-4m-rc-rock-crawler-hands-on-review",
+      "kind": "Independent historical hands-on coverage; not our testing",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Greg Vogel, RC Driver: Mojave GROM RTA build, 29 June 2026",
+      "url": "https://www.rcdriver.com/arrma-mojave-grom-rta-rc-truck/",
+      "kind": "Independent build coverage; not our testing",
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Kyosho MZW711 compatibility chart, exact 32651ID row",
+      "url": "https://www.kyosho.com/rc/ja/support/mini-z/Compatible_with_MZW711_3.pdf",
+      "kind": "Manufacturer compatibility documentation",
+      "checked": "2026-10-20"
+    }
+  ],
+  "notes": [
+    "No Amazon credentials or API operations used. Existing unavailable offer snapshot unchanged.",
+    "Legacy Losi/Axial availability banners conflict with current Horizon catalog; no promise of current retailer stock.",
+    "Kyosho US indexed239.99 reference, directpage unavailable; global specifications and MZW711 chart prioritized.",
+    "Exact manufacturer USB input requirements kept separate for the different packages.",
+    "Existing manual checks and current source downloads support equipment discussion; no programming or charging settings improvised.",
+    "All five reused official photographs inspected; RTA photo assembled example, Bronco lighting in official media does not expand stock equipment.",
+    "Losi Micro-B manual p4 and charging section, Power Wagon manual pp3–4, Bronco manual p13 inspected for package/input facts."
+  ],
+  "validation": {
+    "checkedAt": "2026-10-20T07:15:20.708Z",
+    "production": "Build/check passed:57 reviews,5 articles,79 HTML pages,78 sitemap URLs. Exact picks, metadata, linked identities, affiliate attributes, discovery files and existing analytics consent checks pass.",
+    "preview": "Default /rc-car-king build/check passed; existing guide schema/rendering preserved.",
+    "regressions": "Wrong pick SKU, duplicate pick and attempts to attach product picks to a guide are rejected.",
+    "browser": "1280px desktop body1265px,390px mobile body375px. Five cards fit within335.2px mobile width. Comparison table scrolls inside335px container with530px content. FAQ expansion and section navigation checked.",
+    "media": "Five exact official archive photographs inspected directly; rendered captions/credits and equipment caveats checked.",
+    "screenshotLimitation": "Browser capture returned Unable to capture screenshot; no screenshot-based page inspection claimed."
+  }
+}

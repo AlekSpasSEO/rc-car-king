@@ -1,6 +1,7 @@
 import {readFile} from 'node:fs/promises';
 import {articleRoute,articleFormats,articleWords} from './articles.mjs';
 import {overallRating} from './review-template.mjs';
+import {listiclePickSchema} from './listicle-picks.mjs';
 
 export function dimensions(bytes){
  if(bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10])))return {width:bytes.readUInt32BE(16),height:bytes.readUInt32BE(20)};
@@ -61,12 +62,12 @@ export async function createSeo({config,origin,base,reviews,articles=[],site}){
   return graph([{'@type':'CollectionPage','@id':absolute(p+'#webpage'),url:absolute(p),name:group.title,description:group.description,isPartOf:{'@id':website['@id']},mainEntity:{'@id':list['@id']},breadcrumb:{'@id':crumbs['@id']},inLanguage:'en'},list,crumbs]);
  }
  function article(a){
-  const p=articleRoute(a),url=absolute(p),format=articleFormats[a.kind];
+  const p=articleRoute(a),url=absolute(p),format=articleFormats[a.kind],picks=listiclePickSchema(a,absolute);
   const crumbs=breadcrumb(p,[['Home',''],[format.label,format.directory+'/'],[a.title,p]]);
   const hero=a.image?image(a.image,a.imageCaption):image('night-drift.png','Original Tokyo-night illustration');
   const faq=a.faqs.length?{'@type':'FAQPage','@id':url+'#faq',isPartOf:{'@id':url+'#webpage'},mainEntity:a.faqs.map(f=>({'@type':'Question',name:f.question,acceptedAnswer:{'@type':'Answer',text:f.answer}}))}:null;
-  const article={'@type':'Article','@id':url+'#article',headline:a.title,description:a.seo.description,abstract:a.answer,datePublished:a.publishedAt,dateModified:a.updatedAt,author:{'@id':editorial['@id']},publisher:{'@id':org['@id']},mainEntityOfPage:{'@id':url+'#webpage'},image:[hero],articleSection:a.kind==='guide'?'RC car guides':'RC car lists',inLanguage:'en',isAccessibleForFree:true,citation:[...new Set(a.sources.map(s=>s.url))],wordCount:articleWords(a)};
-  return graph([{'@type':'WebPage','@id':url+'#webpage',url,name:a.seo.title,description:a.seo.description,isPartOf:{'@id':website['@id']},mainEntity:{'@id':article['@id']},primaryImageOfPage:hero,breadcrumb:{'@id':crumbs['@id']},...(faq?{hasPart:{'@id':faq['@id']}}:{}),inLanguage:'en'},article,crumbs,...(faq?[faq]:[])]);
+  const article={'@type':'Article','@id':url+'#article',headline:a.title,description:a.seo.description,abstract:a.answer,datePublished:a.publishedAt,dateModified:a.updatedAt,author:{'@id':editorial['@id']},publisher:{'@id':org['@id']},mainEntityOfPage:{'@id':url+'#webpage'},image:[hero],articleSection:a.kind==='guide'?'RC car guides':'RC car lists',inLanguage:'en',isAccessibleForFree:true,citation:[...new Set(a.sources.map(s=>s.url))],wordCount:articleWords(a),...(picks?{mainEntity:{'@id':picks['@id']}}:{})};
+  return graph([{'@type':'WebPage','@id':url+'#webpage',url,name:a.seo.title,description:a.seo.description,isPartOf:{'@id':website['@id']},mainEntity:{'@id':article['@id']},primaryImageOfPage:hero,breadcrumb:{'@id':crumbs['@id']},...(faq?{hasPart:{'@id':faq['@id']}}:{}),inLanguage:'en'},article,crumbs,...(faq?[faq]:[]),...(picks?[picks]:[])]);
  }
  return {collection,review,information,article,articleIndex,imageAttributes,images:sizes,site,absolute};
 }

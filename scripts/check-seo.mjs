@@ -83,7 +83,15 @@ export async function checkSeo({config,output,records,articleRecords=[]}){
    assert.ok(html.includes('datetime="'+a.publishedAt+'"')&&html.includes('datetime="'+a.updatedAt+'"'));
    for(const review of a.reviewLinks)assert.ok(html.includes('href="'+config.basePath+'/'+review.route+'"'));
    for(const image of article.image)assert.ok(image.width>0&&image.height>0);
-   assert.ok(!html.includes('data-amazon-offer='),'Guide has no vehicle offer box');
+   assert.ok(!html.includes('data-amazon-offer='),'Article has no fabricated vehicle offer box');
+    const picks=graph.find(n=>n['@type']==='ItemList');
+    if(a.picks?.length){
+     assert.ok(picks);assert.equal(picks.numberOfItems,a.picks.length);assert.equal(picks.itemListOrder,'https://schema.org/ItemListUnordered');assert.equal(article.mainEntity['@id'],picks['@id']);
+     assert.deepEqual(picks.itemListElement.map(p=>({position:p.position,name:p.name,identifier:p.identifier,url:p.url})),a.picks.map((p,i)=>({position:i+1,name:p.title,identifier:p.sku,url:absolute(p.route)})));
+     assert.equal((html.match(/class="listicle-pick"/g)??[]).length,a.picks.length);assert.ok(html.includes('Affiliate disclosure:'));
+     for(const p of a.picks){const r=reviewByRoute.get(p.route);assert.ok(html.includes('data-pick-sku="'+p.sku+'"'));assert.ok(html.includes(r.amazon.asin));assert.ok(html.includes('data-pick-route="'+p.route+'"'));}
+     for(const m of html.matchAll(/<a\b([^>]+)>/g)){const attrs=Object.fromEntries([...m[1].matchAll(/([\w:-]+)="([^"]*)"/g)].map(v=>[v[1],decode(v[2])]));if(!attrs.href?.startsWith('https://www.amazon.com/'))continue;const target=new URL(attrs.href);assert.equal(target.searchParams.get('tag'),'coffeedant03-20');assert.match(attrs.rel,/nofollow/);assert.match(attrs.rel,/sponsored/);}
+    }else assert.ok(!picks,'No product pick list invented for a guide');
   }
   const group=groups.find(g=>g.directory+'/'===route);
   if(group){const list=graph.find(n=>n['@type']==='ItemList');assert.equal(list.numberOfItems,group.entries.length);assert.deepEqual(list.itemListElement.map(i=>i.url),group.entries.map(a=>absolute(articleRoute(a))));}

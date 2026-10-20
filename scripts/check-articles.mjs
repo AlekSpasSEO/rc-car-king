@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import {validateListiclePicks} from './listicle-picks.mjs';
 import {access,readFile} from 'node:fs/promises';
 import {articleRoute,articleFormats,articleGroups,articleWords,publishedArticles} from './articles.mjs';
 
@@ -20,11 +21,18 @@ export async function checkArticleRecords({articles,records,config,today}){
   assert.ok(!a.rating&&!a.amazon&&!a.sku,'Informational articles are not vehicle review records');
   assert.ok(a.sources.filter(s=>/manufacturer/i.test(s.kind)).length>=2);
   for(const source of a.sources){assert.equal(new URL(source.url).protocol,'https:');assert.match(source.checked,/^\d{4}-\d{2}-\d{2}$/);assert.ok(source.checked<=today);assert.ok(!/(^|\.)amazon\./.test(new URL(source.url).hostname),'Use internally linked verified reviews for buying context; article sources are citations');}
-  const ids=new Set(['scope','checklist','related-reviews','faq','sources','quick-answer']);
+  const ids=new Set(['scope','checklist','related-reviews','faq','sources','quick-answer','selection-method']);
   for(const section of a.sections){assert.match(section.id,/^[a-z0-9]+(?:-[a-z0-9]+)*$/);assert.ok(!ids.has(section.id));ids.add(section.id);assert.ok(section.heading);assert.ok(section.paragraphs?.length||section.steps?.length);for(const text of [...(section.paragraphs??[]),...(section.steps??[]).flatMap(s=>s.paragraphs)])assert.ok(typeof text==='string'&&text.trim());for(const i of section.sourceIndexes??[])assert.ok(Number.isInteger(i)&&a.sources[i]);if(section.table)for(const row of section.table.rows)assert.equal(row.length,section.table.columns.length);}
   for(const f of a.faqs)assert.ok(f.question&&f.answer);
   for(const link of a.reviewLinks)assert.ok(reviewRoutes.has(link.route),`${route}: link to an actual published complete-vehicle review`);
+  validateListiclePicks(a,records,today);
   if(a.image){assert.ok(a.imageAlt&&a.imageCaption&&a.imageCredit?.name);assert.equal(new URL(a.imageCredit.url).protocol,'https:');await access('public/assets/'+a.image);}
+ }
+ // A mismatched SKU or duplicate recommendation must never reach a published buying list.
+ for(const a of articles.filter(a=>a.status==='published'&&a.picks?.length)){
+  assert.throws(()=>validateListiclePicks({...a,picks:a.picks.map((p,i)=>i===0?{...p,sku:'WRONG-SKU'}:p)},records,today),/SKU/);
+  assert.throws(()=>validateListiclePicks({...a,picks:[a.picks[0],a.picks[0]]},records,today),/Duplicate/);
+  assert.throws(()=>validateListiclePicks({...a,kind:'guide'},records,today),/listicle/);
  }
  // Guard publication eligibility independently of modified dates, and omit empty archives.
  const fixture=[{kind:'guide',slug:'old',status:'published',published:'2026-10-14',updated:'2026-10-15',publishedAt:'2026-10-14T12:00:00Z'},{kind:'guide',slug:'future',status:'published',published:'2026-10-16',publishedAt:'2026-10-16T12:00:00Z'},{kind:'guide',slug:'draft',status:'draft',published:'2026-10-15',publishedAt:'2026-10-15T12:00:00Z'},{kind:'guide',slug:'today',status:'published',published:'2026-10-15',publishedAt:'2026-10-15T12:00:00Z'}];
