@@ -57,3 +57,7 @@ The guide reuses `public/assets/traxxas-trx-4-sport-product.jpg`, the official g
 ## Daily guide · 17 October 2026 · RTR, Readyset and kit contents
 
 The guide reuses `public/assets/axial-power-wagon-package.jpg`, the official green AXI00007T2 package image recorded above on 14 October. The contents and photograph were checked against the exact manufacturer page and printed manual pages 3–4. The rack accessories shown are included for optional installation; a separate suitable USB input source is explained. The caption discloses manufacturer product media, not an RC Car King unboxing. The four-part assembly/control/power/finish diagram is original HTML/CSS. No community or RC Driver photographs are reused. See the [guide evidence](content/evidence/2026-10-17-package-guide.json).
+
+## Daily guide · 20 October 2026 · Brushed and brushless explanations
+
+This guide uses an original accessible HTML/CSS concept diagram separating brushed commutation, electronic brushless commutation, Kv and complete-system matching. It is conceptual, not a wiring diagram, motor cutaway or physical demonstration. No new manufacturer, community or independent-publication photographs are reused. See the [dated guide evidence](content/evidence/2026-10-20-motor-guide.json).

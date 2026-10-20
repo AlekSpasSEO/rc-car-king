@@ -1,0 +1,161 @@
+{
+  "checkedAt": "2026-10-20T06:21:34.686Z",
+  "kind": "guide",
+  "route": "guides/brushed-vs-brushless-rc-cars/",
+  "intentKey": "understand-brushed-brushless-kv-sensored-complete-car-motor-choice",
+  "coreWords": 1476,
+  "quota": {
+    "timezone": "Europe/Skopje",
+    "date": "2026-10-20",
+    "previousGuidesToday": 0,
+    "newGuides": 1,
+    "vehicleReviewsUnchanged": 54,
+    "noBackdating": true,
+    "trigger": "Delayed 19 October daily-guide heartbeat; release uses actual 20 October date"
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby · 4 August 2026 motor explainer · mechanical versus electronic commutation",
+      "url": "https://www.horizonhobby.com/blog-brushed-vs-brushless-rc-motors/",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas glossary · brushed and brushless motor definitions",
+      "url": "https://traxxas.com/support/glossary/",
+      "checked": "2026-10-19",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Hobbywing technical support · 12 January 2023 phase/rotor/sensor explanation; bench procedure not reproduced",
+      "url": "https://support.hobbywingdirect.com/hc/en-us/articles/12953797529491-Testing-for-a-damaged-ESC-Phase-or-Motor-Sensor",
+      "checked": "2026-10-19",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Spektrum SPMXSM4400 · RPM/Volt rating and exact motor identity",
+      "url": "https://www.spektrumrc.com/product/spektrum-firma-2838-4500kv-brushless-motor/SPMXSM4400.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Axial exact AXI00007T2 · supplied brushed 88T motor and complete crawler package",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Tamiya exact BBX 58719 · motor/ESC separately required and installation requirements",
+      "url": "https://www.tamiya.com/english/products/58719/index.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Hobbywing XeRun 3652/3660 SD G2 · rotor sensing and pairing-specific full-time sensored mode",
+      "url": "https://www.hobbywing.com/en/index.php/products/xerun-3652--3660-sd-g224.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA / Horizon exact ARA2304T1 · installed brushless system and required equipment",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr · 24 October 2024 Mojave GROM launch context, not a driving test",
+      "url": "https://www.bigsquidrc.com/arrma-mojave-grom-223s-blx-brushless-desert-truck-4wd-rtr/",
+      "checked": "2026-10-19",
+      "kind": "Independent launch coverage; no performance results transferred"
+    },
+    {
+      "name": "Traxxas overheating support · historical high-speed-gearing example, no gear recommendations transferred",
+      "url": "https://traxxas.com/support/overheating-electrics-and-gearing",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "file": "tamiya.html",
+      "bytes": 103734,
+      "sha256": "8a793a516182419f25aac47b3b94995cdbdde42479ccb163aa5888c4a690dd6e",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "file": "explainer.html",
+      "bytes": 2385500,
+      "sha256": "f5309b5991896f34c0c624ad4cb60864ad1b517a0fc373601d13e53864c2ca6b",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "file": "spektrum.html",
+      "bytes": 356024,
+      "sha256": "ee3513bff768e6db642445190795d8e49c10c79d73b4b2735571f224e8d48414",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "file": "mojave.html",
+      "bytes": 2309483,
+      "sha256": "8215c50c5c3c3e36f8602a4d56a817c98e53c6743d147d7a50b51bb59f27717a",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "file": "axial.html",
+      "bytes": 470392,
+      "sha256": "e6cd4a951c3a94801834ee8f89cd4dd76d7e252a40ed6ecf217f8854a2d8e260",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "file": "overheating.html",
+      "bytes": 242427,
+      "sha256": "620ae5e809bf3aa1bbba49188517e0eeb81afe1ae90ec5b614b43587ba2a2ae0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "file": "hobbywing-pairing.html",
+      "bytes": 181563,
+      "sha256": "97df0730ed759c9bae51c2b897724a048b184f4b5454c98f96ca077c78b30ae0",
+      "retrieved": "2026-10-20"
+    }
+  ],
+  "notes": [
+    "No Amazon credentials read, tokens obtained, API calls or offer refreshes performed; existing public snapshot untouched.",
+    "Distinct intent from earlier steering, terrain and package-inventory guides.",
+    "Motor terminology is explained without rating spare parts or recommending a parts basket.",
+    "No powered tests, wiring changes, charge settings, voltage upgrades or arbitrary compatibility are prescribed.",
+    "Exact BBX is body-inclusive and is not described as an equipped brushless RTR.",
+    "Sensored full-time operation limited to the documented Hobbywing example; not assumed for Mojave or Axial.",
+    "Big Squid coverage is an attributed launch announcement, not a source of independent performance measurements.",
+    "No photos needed: original accessible concept diagram explains motor mechanism versus ratings.",
+    "Owner’s pre-existing AGENTS.md and API-pause documentation changes preserved separately from publication edits."
+  ],
+  "validation": {
+    "checkedAt": "2026-10-20T06:25:27.338Z",
+    "production": "Production build and local checks passed; Cloudflare repeats them for the final source",
+    "preview": "Preview build/check passed after final revision-note wording",
+    "counts": {
+      "vehicleReviews": 54,
+      "guides": 4,
+      "htmlPages": 74,
+      "sitemapUrls": 73
+    },
+    "desktop": {
+      "viewport": 1280,
+      "bodyWidth": 1265,
+      "conceptCards": 4,
+      "steps": 5
+    },
+    "mobile": {
+      "viewport": 390,
+      "bodyWidth": 375,
+      "tableContainer": 335,
+      "tableContent": 530,
+      "faq": "Kv answer expanded and read",
+      "archive": "All four guides present, latest first"
+    },
+    "inspection": "Browser-rendered DOM and layout measurements checked at both widths; screenshot capture returned unavailable via both documented screenshot APIs",
+    "regressions": "Internal links, metadata/schema, review filters, local offer-expiry fixtures and analytics consent checks passed",
+    "commercial": "Existing snapshot unchanged; no Amazon requests, authentication, credential reads or refresh workflows"
+  }
+}

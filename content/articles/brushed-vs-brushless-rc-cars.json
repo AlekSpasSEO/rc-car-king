@@ -1,0 +1,336 @@
+{
+  "kind": "guide",
+  "slug": "brushed-vs-brushless-rc-cars",
+  "intentKey": "understand-brushed-brushless-kv-sensored-complete-car-motor-choice",
+  "status": "published",
+  "title": "Brushed vs brushless RC cars: what actually changes?",
+  "dek": "Understand the mechanism before paying for the label. What brushes, Kv and sensors mean—and how to judge the complete car for your kind of driving.",
+  "seo": {
+    "title": "Brushed vs Brushless RC Cars Explained | RC Car King",
+    "description": "Learn brushed vs brushless RC motor basics, Kv and sensored control. Compare exact complete-car examples, maintenance needs and compatibility questions."
+  },
+  "published": "2026-10-20",
+  "updated": "2026-10-20",
+  "publishedAt": "2026-10-20T06:21:34.686Z",
+  "updatedAt": "2026-10-20T06:21:34.686Z",
+  "answer": "A brushed motor uses brushes and a commutator to switch current through its rotating windings. A brushless system uses electronic switching through a compatible speed controller. Removing the brushes removes that wear mechanism, but it does not make the complete vehicle maintenance-free or guarantee a particular speed. Choose the car’s driving purpose, controls and complete power system first; use the motor label to understand the equipment, not to rank every car.",
+  "scope": "This guide explains electric motor types in complete hobby RC cars and body-inclusive kits. It covers buying interpretation and ownership questions, not motor replacement, battery charging, wiring changes or ESC programming. Exact examples come from our researched vehicle archive. The comparisons are editorial explanations grounded in public manufacturer documentation, without a physical efficiency, speed, runtime or durability test.",
+  "prerequisites": [
+    "The exact complete vehicle or kit number and its included-equipment list",
+    "Manufacturer identification of the installed motor and speed controller",
+    "Your intended activity and a suitable driving area",
+    "The actual operating and maintenance instructions for the installed system",
+    "A note of any claimed Kv, turn count, battery support or sensor mode that needs clarification"
+  ],
+  "conceptCaption": "Separate the motor mechanism from the buying claims",
+  "concepts": [
+    {
+      "name": "BRUSHED",
+      "description": "Brush contacts and the commutator perform the switching inside the motor."
+    },
+    {
+      "name": "BRUSHLESS",
+      "description": "A compatible controller switches power through the motor phases."
+    },
+    {
+      "name": "Kv",
+      "description": "A rotational-speed-per-volt rating, not a vehicle speed or power score."
+    },
+    {
+      "name": "SYSTEM",
+      "description": "Motor, controller, battery limits and gearing must be considered together."
+    }
+  ],
+  "sections": [
+    {
+      "id": "mechanism",
+      "heading": "What the brushes actually do",
+      "paragraphs": [
+        "An electric motor needs its magnetic forces to keep acting in a useful direction as it turns. In a conventional brushed RC motor, the brushes contact a segmented commutator connected to the rotating windings. That mechanical arrangement changes the current path as the rotor turns. The speed controller still regulates the motor’s power, but the commutator performs the internal switching job. The word “brushed” describes that mechanism; it does not describe the tire, drivetrain or intended driving surface.",
+        "In a brushless system, the controller takes on the switching sequence. The common surface-RC arrangement uses a permanent-magnet rotor and energizes the surrounding windings in sequence. The controller and motor therefore form a working combination, rather than a motor that can be selected independently of its electronics. Hobbywing’s technical support explanation describes the relationship between rotor position and the powered phases. This guide uses that principle, not its bench-testing procedure.",
+        "The practical distinction is useful before considering any performance claim. A brushed motor has brush and commutator contact to wear. A brushless motor removes those contact parts. Traxxas’s glossary uses the absence of brush wear to explain the brushless design’s maintenance advantage. That does not eliminate bearings, dirt, damaged wires or the maintenance requirements of the rest of the car. Read “less of this particular wear” separately from “nothing to inspect.”"
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "reading-labels",
+      "heading": "Kv, turns and motor size answer different questions",
+      "paragraphs": [
+        "Kv is a speed constant expressed in revolutions per minute per volt. Spektrum’s SPMXSM4400 documentation explicitly places its 4500 value under RPM/Volt. It is not a kilovolt supply requirement, a wattage figure or a measurement of the car’s road speed. The installed vehicle adds gearing, tire size and load. Even a useful motor rating cannot tell you how quickly an unfamiliar complete car will travel on your chosen surface.",
+        "Turn count describes a winding characteristic. Axial identifies the original SCX24 Power Wagon’s supplied motor as an 88-turn 030 brushed unit. That number should not be compared numerically with the Mojave GROM’s 4500Kv as though they shared a scoring scale. Nor should a turn count from a different motor family become a guaranteed conversion to Kv. Record the full motor identity before interpreting the number beside it.",
+        "Size and installation details are a third question. Tamiya’s BBX documentation identifies requirements for the separately supplied motor, including shaft installation, rather than promising that every motor carrying a familiar size label fits. The lesson for a complete-car buyer is to read exact specifications together. A large number in one field cannot substitute for the missing physical, electrical or operating limits in another field."
+      ],
+      "sourceIndexes": [
+        3,
+        4,
+        5
+      ],
+      "table": {
+        "caption": "Do not turn different motor labels into one performance ranking",
+        "columns": [
+          "Label",
+          "What it describes",
+          "What it does not establish"
+        ],
+        "rows": [
+          [
+            "Brushed / brushless",
+            "Motor commutation arrangement",
+            "A universal top speed or required skill level"
+          ],
+          [
+            "Kv",
+            "Rotational speed per volt",
+            "Road speed, motor power or approved battery voltage"
+          ],
+          [
+            "Turn count",
+            "A winding characteristic within an identified design",
+            "A universal conversion across motor families"
+          ],
+          [
+            "Motor size / model code",
+            "Identity and nominal size information",
+            "Every mounting, shaft or controller compatibility detail"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "sensors",
+      "heading": "Sensored and sensorless are another distinction",
+      "paragraphs": [
+        "A sensored brushless system supplies rotor-position information to the controller. A sensorless arrangement determines the necessary switching without that separate position-sensor input. This distinction matters when interpreting starting behavior and low-speed control, particularly in activities where small changes in throttle are the point. It is still only part of the explanation: the motor, controller, gearing and actual setup all contribute to how the car responds.",
+        "Hobbywing’s XeRun 3652/3660 SD G2 documentation is a useful compatibility example. It makes its full-time sensored operation conditional on the specified controller pairing. We cite that restriction to show why “sensored motor” alone cannot establish the operating mode of an arbitrary mixed system. It is not a parts recommendation or permission to fit those components to the complete cars discussed here.",
+        "I would ask for documented low-speed behavior and supported equipment before paying extra for a control feature. Horizon describes why sensored systems can benefit slow-speed applications, but that does not make every sensorless car unsuitable for a beginner or prove that every sensored installation is correctly configured. For a new complete vehicle, start with its actual factory combination. For an unfamiliar modified car, identify the installed system before drawing conclusions from the original box label."
+      ],
+      "sourceIndexes": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": "complete-car-examples",
+      "heading": "Three complete-vehicle examples keep the comparison honest",
+      "paragraphs": [
+        "The green Axial SCX24 Dodge Power Wagon AXI00007T2 is a small 4WD crawler supplied with an 88T 030 brushed motor, a brushed controller/receiver unit, battery and charger. Its purpose is deliberate crawling. The motor type is one part of that package, alongside the gearing, tires, dimensions and controls. Choosing it for the intended activity does not require pretending that crawling is a failed attempt at high-speed bashing.",
+        "The ARRMA Mojave GROM 223S ARA2304T1 instead combines a Spektrum 2838 4500Kv brushless motor with a 25A controller/receiver in a compact desert truck. Its exact package needs a drive battery and charger separately. Tim Mohr’s October 2024 Big Squid RC launch coverage identifies the platform’s brushless equipment and throttle limiting; it is announcement context, not our speed or reliability test. Check the current exact package rather than inheriting an old launch price.",
+        "Tamiya’s body-inclusive BBX 58719 kit supplies neither the driving motor nor ESC. Calling the kit itself a ready-to-drive brushless package would therefore hide required decisions and purchases. Its manufacturer specifies the separate equipment and installation requirements. The finished car’s motor type depends on the documented compatible build. These three examples explain different packages and purposes; they are not a controlled brushed-versus-brushless comparison between otherwise identical vehicles."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        7,
+        8
+      ],
+      "table": {
+        "caption": "Actual examples, with no head-to-head test implied",
+        "columns": [
+          "Exact complete vehicle / kit",
+          "Documented motor position",
+          "Buying question"
+        ],
+        "rows": [
+          [
+            "Axial AXI00007T2 · SCX24 Power Wagon",
+            "Supplied 88T 030 brushed motor",
+            "Does the small crawler package suit your course?"
+          ],
+          [
+            "ARRMA ARA2304T1 · Mojave GROM 223S",
+            "Supplied 4500Kv brushless motor and matched electronics",
+            "Do the desert-truck purpose, controls and required power equipment fit?"
+          ],
+          [
+            "Tamiya 58719 · BBX body-inclusive kit",
+            "Motor and ESC separately required",
+            "Have you planned a compatible complete build?"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "decision-process",
+      "heading": "A five-step way to choose without chasing the label",
+      "paragraphs": [
+        "Use the following as a specification-reading sequence. It requires no powered tests or dismantling. Keep the mechanical explanation in view while comparing the equipment you will actually receive."
+      ],
+      "sourceIndexes": [
+        3,
+        4,
+        5,
+        7,
+        9
+      ],
+      "steps": [
+        {
+          "heading": "Name the driving job",
+          "paragraphs": [
+            "Write down the activity, the available surface and the amount of space you have. A slow obstacle course and a flowing dirt loop ask different things of a vehicle. Choose the category and physical size before deciding that one motor type is mandatory. This keeps the motor comparison attached to a real use rather than a feature checklist."
+          ]
+        },
+        {
+          "heading": "Identify the complete installed system",
+          "paragraphs": [
+            "Find the exact motor, controller and vehicle variant in the manufacturer documentation. Note whether those parts are supplied, separately required or changed by a previous owner. Keep controller/receiver combinations distinct from separate components. If the listing is vague, resolve the identity before treating two packages as equivalent."
+          ]
+        },
+        {
+          "heading": "Read support limits together",
+          "paragraphs": [
+            "Check the documented battery support, physical fit, gearing guidance and any required sensor pairing. This is a reading task, not an instruction to experiment with a higher-voltage pack. A motor’s standalone rating does not raise the limit of a controller or the rest of the vehicle. Use the exact system’s instructions for any later setup."
+          ]
+        },
+        {
+          "heading": "Compare usable controls and ownership work",
+          "paragraphs": [
+            "Look for the documented learning controls, required equipment and maintenance access that matter to your activity. An included throttle limit can be more useful to a new driver than a larger headline motor number. Brush wear belongs in the ownership plan, but so do bearings, debris checks and the drivetrain that both motor types must drive."
+          ]
+        },
+        {
+          "heading": "Decide what a change would actually solve",
+          "paragraphs": [
+            "For an existing car, name the limitation before considering a different complete vehicle or any future modification. Restricted movement, overheating or poor setup is not automatically evidence that the car needs brushless power. Follow the actual troubleshooting instructions first. For a new purchase, finish the compatible startup basket before adding imagined future upgrades to the value calculation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ownership-and-mistakes",
+      "heading": "Heat, wear and symptoms need the whole system",
+      "paragraphs": [
+        "Terrain and gearing still affect electrical load. Traxxas’s overheating support article uses an older Rustler VXL example to explain the stress of high-speed gearing in demanding backyard conditions. That is a useful mechanism, not a gear recommendation for a Mojave or an SCX24. A brushless badge does not cancel the effects of obstruction, unsuitable setup or a demanding surface. Keep any thermal-protection event tied to the exact manual’s instructions.",
+        "Rough starting, poor movement or a sudden loss of power is a symptom to investigate, not an automatic diagnosis of worn brushes or a failed sensor. Hobbywing’s support article notes that phase or sensor faults can produce several behaviors, illustrating why the observed symptom alone is insufficient. This guide does not reproduce powered shaft-position tests, direct-battery tests or wire-swapping instructions. Stop using a car with unexplained abnormal behavior and follow its documented troubleshooting or manufacturer support route.",
+        "My preference is to buy the complete car whose purpose and operating requirements are clear. Choose brushless when its actual package and capabilities serve that plan; choose a brushed car when its controls, cost and intended activity make sense. Keep the maintenance instructions for either. The useful outcome is understanding what is installed, what the labels mean and which questions remain—not a promise that one motor word guarantees speed, runtime or a trouble-free ownership period."
+      ],
+      "sourceIndexes": [
+        2,
+        9
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Your motor-label checklist",
+    "items": [
+      "Exact complete vehicle or body-inclusive kit identified",
+      "Actual supplied motor and controller recorded; missing kit equipment recognized",
+      "Brushed/brushless separated from drivetrain and vehicle category",
+      "Kv, turn count and size treated as different specifications",
+      "Any sensored operating claim checked against the documented system pairing",
+      "Battery and operating limits read for the whole installed system",
+      "Maintenance and unresolved symptoms handled through the exact instructions",
+      "Purchase decision based on the complete usable package, without invented performance figures"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "axial/scx24-dodge-power-wagon/",
+      "title": "Axial SCX24 Dodge Power Wagon · AXI00007T2",
+      "note": "The complete brushed crawler, original power equipment, controls and course limits."
+    },
+    {
+      "route": "arrma/mojave-grom-223s/",
+      "title": "ARRMA Mojave GROM 223S DSC · ARA2304T1",
+      "note": "The exact brushless desert-truck package, supported power equipment and ownership questions."
+    },
+    {
+      "route": "tamiya/bbx-bb-01/",
+      "title": "Tamiya BBX BB-01 · 58719",
+      "note": "The body-inclusive kit and separate motor/controller requirements, with installation caveats."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is a brushless RC car always faster?",
+      "answer": "No universal road-speed ranking follows from the motor type alone. Compare exact vehicles, gearing, tires, operating configuration and evidence. This guide does not claim measured speeds for the examples."
+    },
+    {
+      "question": "Does a higher Kv mean more power?",
+      "answer": "Kv is a rotational-speed-per-volt constant. It is not a wattage, torque or complete-vehicle performance score, and it does not establish the allowed battery configuration."
+    },
+    {
+      "question": "Can a brushed controller run any brushless motor?",
+      "answer": "Do not assume compatibility. Use equipment explicitly documented to support the installed motor type and configuration. Similar plugs or a familiar motor size do not establish that approval."
+    },
+    {
+      "question": "Are brushless motors maintenance-free?",
+      "answer": "They remove brush and commutator contact wear. Bearings, wiring, contamination and the complete vehicle’s drivetrain still need the manufacturer’s inspection and maintenance procedures."
+    },
+    {
+      "question": "Does every sensored motor stay in sensored mode with every ESC?",
+      "answer": "No. Check the exact pairing. Hobbywing’s XeRun 3652/3660 SD G2 documentation makes full-time sensored operation conditional on its specified controller combination; that example is not a universal compatibility rule."
+    },
+    {
+      "question": "Does the Tamiya BBX 58719 include a brushless system?",
+      "answer": "No motor or ESC is included in the standard body-inclusive kit. Identify the separately required equipment and follow Tamiya’s installation requirements before calling a finished build brushed or brushless."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby · 4 August 2026 motor explainer · mechanical versus electronic commutation",
+      "url": "https://www.horizonhobby.com/blog-brushed-vs-brushless-rc-motors/",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas glossary · brushed and brushless motor definitions",
+      "url": "https://traxxas.com/support/glossary/",
+      "checked": "2026-10-19",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Hobbywing technical support · 12 January 2023 phase/rotor/sensor explanation; bench procedure not reproduced",
+      "url": "https://support.hobbywingdirect.com/hc/en-us/articles/12953797529491-Testing-for-a-damaged-ESC-Phase-or-Motor-Sensor",
+      "checked": "2026-10-19",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Spektrum SPMXSM4400 · RPM/Volt rating and exact motor identity",
+      "url": "https://www.spektrumrc.com/product/spektrum-firma-2838-4500kv-brushless-motor/SPMXSM4400.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Axial exact AXI00007T2 · supplied brushed 88T motor and complete crawler package",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-dodge-power-wagon-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-green/AXI00007T2.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Tamiya exact BBX 58719 · motor/ESC separately required and installation requirements",
+      "url": "https://www.tamiya.com/english/products/58719/index.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Hobbywing XeRun 3652/3660 SD G2 · rotor sensing and pairing-specific full-time sensored mode",
+      "url": "https://www.hobbywing.com/en/index.php/products/xerun-3652--3660-sd-g224.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA / Horizon exact ARA2304T1 · installed brushless system and required equipment",
+      "url": "https://www.horizonhobby.com/product/1-16-mojave-grom-223s-dsc-4x4-rtr-brushless-desert-truck-black/ARA2304T1.html",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr · 24 October 2024 Mojave GROM launch context, not a driving test",
+      "url": "https://www.bigsquidrc.com/arrma-mojave-grom-223s-blx-brushless-desert-truck-4wd-rtr/",
+      "checked": "2026-10-19",
+      "kind": "Independent launch coverage; no performance results transferred"
+    },
+    {
+      "name": "Traxxas overheating support · historical high-speed-gearing example, no gear recommendations transferred",
+      "url": "https://traxxas.com/support/overheating-electrics-and-gearing",
+      "checked": "2026-10-20",
+      "kind": "Manufacturer documentation"
+    }
+  ],
+  "evidenceNote": "Research-led explanation researched 19–20 October 2026. Manufacturer mechanisms and exact equipment are separated from editorial buying judgments. Hobbywing’s specific compatibility example does not establish the sensor mode of either RTR discussed. Source performance and maintenance marketing is not treated as a guaranteed measured result. No physical comparison, electrical modification, charging procedure, maintenance interval, new product rating or static price is claimed. The accessible four-part concept diagram is original RC Car King HTML/CSS. Buying context links to existing complete-car reviews; no direct purchase links are needed.",
+  "revisionNote": "First published 20 October 2026. Motor terminology, exact examples, compatibility scope and dated sources checked for this edition."
+}

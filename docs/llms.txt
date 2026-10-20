@@ -26,6 +26,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
+- [Brushed vs brushless RC cars: what actually changes?](https://alekspasseo.github.io/rc-car-king/guides/brushed-vs-brushless-rc-cars/): Learn brushed vs brushless RC motor basics, Kv and sensored control. Compare exact complete-car examples, maintenance needs and compatibility questions.
 - [RTR vs kit RC cars: what is actually included?](https://alekspasseo.github.io/rc-car-king/guides/rtr-vs-kit-rc-car-whats-included/): Understand RTR, Readyset and body-inclusive RC kits. Check radios, batteries, chargers, paint and total startup needs with four exact-model examples.
 - [Can RC cars run on grass? Match the car to your terrain](https://alekspasseo.github.io/rc-car-king/guides/rc-cars-grass-terrain-guide/): Choose RC terrain by grass height, ground clearance, tires and space. Includes exact Kyosho, ARRMA and Traxxas examples, checks and troubleshooting.
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
