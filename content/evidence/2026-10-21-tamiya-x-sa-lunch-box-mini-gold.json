@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-21T07:17:39.799Z",
+  "review": "tamiya-x-sa-lunch-box-mini-gold",
+  "coreWords": 2254,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "46706",
+  "amazon": {
+    "asin": "B0BDBLV18K",
+    "brand": "TAMIYA",
+    "manufacturerPart": "46706",
+    "model": "46706",
+    "title": "TAMIYA 1/24 X-SA Lunch Box Mini Gold Edition SW-01 TAM46706 Cars Electric Kit Other",
+    "originalIdentityVerifiedAt": "2026-10-15T11:16:20.142Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BDBLV18K?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby — exact Tamiya TAM46706 package and USD retailer reference",
+      "url": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html",
+      "checked": "2026-10-21",
+      "kind": "Exact-model hobby-retailer listing"
+    },
+    {
+      "name": "Tamiya USA — 46706 Gold X-SA, indexed product specifications",
+      "url": "https://www.tamiyausa.com/shop/110-trucks/rc-x-sa-lunch-box-2/",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer product information, indexed; direct page uses bot detection"
+    },
+    {
+      "name": "Tamiya — SW-01 chassis architecture and Type 370 description",
+      "url": "https://tamiya.com/english/products/product_info_ex.html?category=e_20&genre_item=e_7301",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Tamiya — Gold X-SA instruction sheet 11057535, mirrored by ManualsLib",
+      "url": "https://www.manualslib.de/manual/1368968/Tamiya-X-Sa-Lunch-Box-Mini-Gold-Edition-Sw-01.html",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer instruction sheet, third-party mirror"
+    },
+    {
+      "name": "TamiyaBlog — 21 May 2022 Gold X-SA introduction citing RC Driver",
+      "url": "https://tamiyablog.com/2022/05/tamiya-lunch-box-mini-xsa-gold-edition-video-review/",
+      "checked": "2026-10-21",
+      "kind": "Independent curated launch coverage; not our physical test"
+    }
+  ],
+  "notes": [
+    "US exact model and SW-01 guide conflict over 380/370 motor and suspension labels; not resolved by assumption.",
+    "Retailer USD144.20 checked today; no all-in total or current Amazon offer asserted.",
+    "Original diagram is a package map only. Official photography served by Horizon attributed to Tamiya/Horizon."
+  ]
+}

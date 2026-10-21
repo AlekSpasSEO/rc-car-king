@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-21T07:23:56.374Z",
+  "review": "traxxas-trx-4-chevrolet-k10-high-trail",
+  "coreWords": 2249,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "92056-4",
+  "amazon": {
+    "asin": "B0BPJ5VC5Y",
+    "brand": "Traxxas",
+    "manufacturerPart": "92056-4",
+    "model": "TRX4",
+    "title": "Traxxas TRX-4 Chevrolet K10 High Trail Edition 1/10 Scale 4X4 Crawler (Black)",
+    "originalIdentityVerifiedAt": "2026-10-12T22:12:24.062Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BPJ5VC5Y?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Traxxas — exact 92056-4 K10 High Trail package, specs and USD vehicle reference",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas — exact 92056-4 owner manual R01, including printed pages 21–22",
+      "url": "https://traxxas.com/media/productattach/C-92056-4/2/92056-4-OM-EN-R01.pdf",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "RC Car Action — Riding High, November 2022 issue; publicly accessible introductory sample only",
+      "url": "https://www.rccaraction.com/articles/riding-high-traxxas-trx-4-chevrolet-k10-high-trail-edition",
+      "checked": "2026-10-21",
+      "kind": "Independent historical context; subscriber-only test findings not accessed"
+    }
+  ],
+  "notes": [
+    "Archived brand and explicit manufacturer part match; generic API model TRX4 is not represented as exact SKU. Black title matches manufacturer photos.",
+    "Current length table gives 22.20in and 526mm inconsistently; no physical length correction claimed.",
+    "R01 manual printed p21–22 controls and wet-use limits explicitly retained. Public RC Car Action sample read without accessing hidden subscriber content."
+  ]
+}

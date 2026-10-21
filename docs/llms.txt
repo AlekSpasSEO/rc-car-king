@@ -15,10 +15,10 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Publication feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
-- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
+- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
@@ -34,6 +34,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [Kyosho MINI-Z AWD Skyline 2000GT-R Racing 1972 #15](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-awd-skyline-1972-15-blue/): Kyosho 32643BL blue Skyline MINI-Z review: AWD drift tires, AAA battery needs, optional gyro compatibility, indoor surfaces and complete startup planning.
+- [Tamiya X-SA Lunch Box Mini Gold Edition](https://alekspasseo.github.io/rc-car-king/tamiya/x-sa-lunch-box-mini-gold/): Tamiya 46706 Gold X-SA review: what is included, missing radio and power equipment, SW-01 source conflicts, small-course fit and complete startup planning.
+- [Traxxas TRX-4 Chevrolet K10 High Trail Edition](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-chevrolet-k10-high-trail/): Traxxas K10 High Trail 92056-4 review: lifted geometry, portal axles, two-speed controls, diff locks, battery needs, manual limits and complete startup cost.
 - [ARRMA Mojave GROM RTA](https://alekspasseo.github.io/rc-car-king/arrma/mojave-grom-rta/): ARA2104KT1 reviewed: brushed 2S power, kit contents, paint and USB supply needs, assembly checks, terrain limits and complete startup budget.
 - [Kyosho MINI-Z AWD Initial D Toyota AE86](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-awd-initial-d-toyota-ae86/): Kyosho 32651ID AE86 reviewed: AWD drift setup, AAA battery needs, optional gyro conflict, finished body, indoor surfaces and full startup basket.
 - [Traxxas TRX-4 1988 Nissan Pathfinder](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-1988-nissan-pathfinder/): Silver 110056-4 Pathfinder reviewed: portals, two speeds, remote diff locks, battery costs, optional lights, manual limits and trail-buyer fit.

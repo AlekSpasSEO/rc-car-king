@@ -1,0 +1,441 @@
+{
+  "brand": "Tamiya",
+  "brandSlug": "tamiya",
+  "model": "X-SA Lunch Box Mini Gold Edition",
+  "modelSlug": "x-sa-lunch-box-mini-gold",
+  "sku": "46706",
+  "headlineLines": [
+    "SMALL VAN.",
+    "FINISH THE PLAN."
+  ],
+  "title": "Tamiya Lunch Box Mini Gold review: what X-SA leaves to you",
+  "dek": "The 46706 SW-01 arrives assembled and painted. Radio gear, steering servo, speed controller and suitable power still need your attention.",
+  "type": "Mini monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Smooth pavement",
+    "Hard indoor surfaces"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "Non-scale mini",
+  "format": "Expert semi-assembled vehicle",
+  "skill": "Beginner with help selecting and installing compatible electronics",
+  "price": {
+    "amount": 144.2,
+    "basis": "Horizon Hobby US exact-model retailer reference · TAM46706 / manufacturer 46706",
+    "source": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html",
+    "currency": "USD",
+    "checked": "2026-10-21"
+  },
+  "purchaseNote": "Dated USD retailer reference, not a live Amazon offer. Radio/receiver, compatible servo, brushed ESC, supported drive power and charger are extra. An assembled model is not an electrically complete RTR.",
+  "image": "tamiya-lunch-box-mini-gold-1.jpg",
+  "imageAlt": "Official Tamiya 46706 champagne-gold Lunch Box Mini SW-01 with yellow chassis and black tires",
+  "imageCaption": "Tamiya 46706 Gold Edition on the SW-01 chassis. The painted body and assembled vehicle are supplied; radio equipment and drive power are separate.",
+  "imageCredit": {
+    "name": "Tamiya / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html",
+    "kind": "Official product photography"
+  },
+  "overview": "A tiny wheelie-minded van for someone who wants to install their own electronics without assembling a chassis or painting a shell. Its charm is clear; its complete startup price requires a separate equipment plan.",
+  "verdict": "Choose the small project, then complete its electronics properly",
+  "verdictText": "The Gold X-SA makes sense as a compact installation project with a finished body. It is a weaker first purchase when you need a fully matched radio-and-power package immediately. Resolve the documented motor-size discrepancy before selecting electrical equipment.",
+  "pros": [
+    "Assembled SW-01 chassis and painted, marked Gold body remove two substantial workshop jobs",
+    "Compact 190mm length and 92mm wheelbase suit a deliberately small course",
+    "Gear-driven 4WD, independent suspension and a wheelie bar are included",
+    "Separate electronics let an informed owner choose a compatible radio system"
+  ],
+  "cons": [
+    "Transmitter, receiver, servo, ESC and drive power are not included",
+    "Tamiya US and SW-01 documentation conflict over motor size and suspension terminology",
+    "Small wheels and a short chassis restrict rough ground and lawn use",
+    "Plastic bushings and friction damping are basic equipment rather than competition hardware"
+  ],
+  "bestFor": [
+    "An indoor-scale novelty course with clear boundaries",
+    "A buyer who enjoys selecting and installing electronics",
+    "A Tamiya fan who wants a painted miniature van"
+  ],
+  "avoidIf": [
+    "You need a complete RTR gift",
+    "Your only driving venue is thick grass or rubble",
+    "You want the larger CW-01 Lunch Box or a speed-focused platform"
+  ],
+  "quickSpecs": [
+    [
+      "Exact vehicle",
+      "46706 · Gold X-SA · SW-01"
+    ],
+    [
+      "Drive",
+      "Gear-driven 4WD"
+    ],
+    [
+      "Motor",
+      "Installed brushed · 370/380 source conflict"
+    ],
+    [
+      "Dimensions",
+      "190 × 150 × 140mm"
+    ],
+    [
+      "Wheelbase",
+      "92mm"
+    ],
+    [
+      "Still needed",
+      "Radio, servo, ESC, power and charger"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "A hobbyist who wants a compact, painted installation project",
+    "disclosure": "Five equally weighted research-led buyer-fit scores. These are not measured performance, crash or reliability results, or customer stars.",
+    "dimensions": [
+      {
+        "label": "Project accessibility",
+        "score": 8,
+        "reason": "Chassis assembly and body finishing are done, but compatible electronics still require selection and installation."
+      },
+      {
+        "label": "Package completeness",
+        "score": 5.5,
+        "reason": "The motor and finished vehicle are present; all radio and power-control equipment remains separate."
+      },
+      {
+        "label": "Small-course fit",
+        "score": 8,
+        "reason": "A 190mm footprint and wheelie-oriented design suit compact hard-surface play, with clear rough-terrain limits."
+      },
+      {
+        "label": "Documentation clarity",
+        "score": 6,
+        "reason": "The exact package sheet is useful, but official motor and suspension labels conflict and need confirmation."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7,
+        "reason": "The dated vehicle price is approachable only after separately costing the missing equipment."
+      }
+    ]
+  },
+  "amazon": {
+    "variant": "46706 X-SA Lunch Box Mini Gold Edition complete body-inclusive SW-01 vehicle; radio equipment and drive power excluded",
+    "asin": "B0BDBLV18K",
+    "marketplace": "www.amazon.com",
+    "sku": "46706",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BDBLV18K?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-15T11:16:20.142Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Exact ASIN, brand and manufacturer part were recorded on 2026-10-15. This historical public identity evidence is reused without a new API call or current offer/stock verification."
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "A miniature van with a separate electronics bill",
+      "paragraphs": [
+        "The first question is whether you want to finish an RC vehicle or drive one straight out of its packaging. Tamiya's X-SA Lunch Box Mini Gold Edition, item 46706, answers the first question. Its chassis is assembled and its champagne-gold body is painted and marked. The remaining work is the electrical installation. That distinction matters more than the color, because an attractive assembled photograph can easily suggest a complete ready-to-run package to a first-time buyer.",
+        "This is the small SW-01 vehicle, not the familiar larger CW-01 Lunch Box. Tamiya's US dimensions are 190mm long, 150mm wide and 140mm tall, with a 92mm wheelbase. Those proportions explain the appeal: a short, tall van with oversized-looking tires and a wheelie bar. They also explain why a parking-space-sized course is a more sensible starting point than a rough field. Compactness changes which ground features become obstacles.",
+        "Our assessment is research-led. We have not driven this van, measured its wheelies or established a runtime. Tamiya's package information, SW-01 chassis documentation and exact-model retailer listing establish what it is; independent launch coverage supplies context rather than our own test results. The buying judgment is straightforward: consider it when choosing and fitting electronics sounds enjoyable. If that sounds like an inconvenient delay, a complete RTR deserves priority."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "In the box",
+      "heading": "X-SA saves assembly and paint, not the shopping list",
+      "paragraphs": [
+        "The exact Gold Edition instruction sheet describes a finished model without radio-control equipment. The retailer likewise requires a transmitter and receiver, steering servo, electronic speed controller, drive battery and charger. The installed brushed motor is part of the vehicle. Neither the steering system nor the throttle system becomes operational merely because that motor is already in place. Treat every missing item as a compatibility decision rather than an interchangeable accessory.",
+        "Make a written equipment list before ordering. The receiver must work with the transmitter; the servo must fit the chassis and steering installation; the ESC must support the supplied brushed motor and the chosen battery chemistry and voltage. The power source must physically fit and connect correctly, and its charger must support that exact pack. Tamiya's mirrored package sheet depicts its LF1100 6.6V Racing Pack. That is a documented example, not permission to substitute an arbitrary lithium pack or charging program.",
+        "An experienced owner may already have suitable equipment, which improves this package's appeal. A newcomer should not count an old drawer of electronics as a free solution until each component has been checked. Ask a knowledgeable retailer to identify the exact compatible basket against item 46706 and its supplied instructions. Keep the box, instruction sheets and parts bag together during installation. The finished body removes a painting task; it does not remove the need to follow the assembly and electrical documentation."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "4WD is documented; the motor-size label needs confirmation",
+      "paragraphs": [
+        "The SW-01 uses a monocoque chassis and gear-driven four-wheel drive. That arrangement puts drive at both axles in a very short package. It does not turn the Gold Edition into a dedicated rock crawler or imply the traction control of a larger trail truck. Here, the four-wheel-drive layout supports the small novelty-truck concept. Tamiya's chassis description also places the battery high to encourage the wheelie character for which the vehicle is marketed.",
+        "There is an important source conflict. Tamiya USA's indexed exact-model listing and Horizon's exact product data describe a 380 brushed motor. Tamiya's SW-01 chassis guide describes a Type 370 motor. We can establish that an installed brushed motor is supplied, but these sources do not let us confidently resolve the size designation inside every Gold Edition box. We therefore preserve the disagreement instead of presenting one figure as a verified correction to the other.",
+        "Before selecting a controller or replacement motor, have the actual supplied motor and model instructions confirmed. Size names alone would not establish a safe electrical match anyway. The dated retailer listing describes fixed gearing, so this is not a review promising easy gearing-based speed tuning. Begin with the supplied mechanical arrangement and a documented electrical setup. No verified speed or battery-specific runtime is available from our research, and neither has been estimated from the tiny footprint or the motor label."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Setup & controls",
+      "heading": "Make installation and the first function check separate jobs",
+      "paragraphs": [
+        "Start with the package instructions and the manuals for the actual radio, servo, ESC and battery system you select. Position electronics where the model documentation permits, with secure mounting and wiring clear of the drivetrain and steering. Do not pull a wiring recipe from a larger Lunch Box or assume a random SW-01 modification video describes your exact components. A shared chassis name does not make two aftermarket electrical installations equivalent.",
+        "Once the mechanical installation is complete, use the selected radio and ESC instructions for binding, neutral positions, direction checks and calibration where required. Check steering with the vehicle safely supported as the instructions specify, and make sure the linkage does not bind at either end. Adjust travel using the controls your actual radio provides. There is no supplied transmitter here whose buttons or calibration sequence we can describe as a universal Gold Edition procedure.",
+        "For the first drive, use a clear, level, dry hard surface with room to stop and recover the van. Apply small inputs while checking that straight-ahead steering and throttle response make sense. Stop promptly if the steering strains, wiring moves or the drivetrain sounds abnormal. Do not continue driving to see whether a setup problem will resolve itself. These are installation checks, not a claim that we performed a test or found a particular fault rate in this model."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension",
+      "heading": "Keep the chassis explanation honest",
+      "paragraphs": [
+        "Tamiya's source labels disagree about suspension as well as motor size. The US listing and retailer data call it fully independent double wishbone suspension. The manufacturer's SW-01 guide describes a strut-type four-wheel independent system with coil springs and linked upper arms that work with steering to reduce roll. Both accounts support independent suspension, but they are not identical technical descriptions. The specification table keeps that uncertainty visible rather than silently harmonizing the terminology.",
+        "For a buyer, the useful distinction is that this little van is not simply a rigid toy chassis underneath its painted shell. Its suspension and steering geometry are part of the SW-01 design. However, the exact retailer data lists friction dampers rather than oil-filled shocks and plastic bushings rather than a full ball-bearing specification. Those are appropriate facts for explaining the basic package; they do not justify invented judgments about how smoothly our sample handled bumps.",
+        "A tall body, short wheelbase and wheelie-oriented layout suggest choosing gentle, predictable inputs while learning the vehicle. That is a geometry-based recommendation, not a measured rollover threshold. Avoid ordering suspension or steering changes before you know whether the stock setup suits your course. First establish correct linkage movement, secure mounting and a suitable surface. Those checks address the actual installation you own, whereas an online upgrade list may assume different electronics or a different version of the Lunch Box."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Think little hard-surface course, not miniature lawn mower",
+      "paragraphs": [
+        "The natural starting venue is a small, clean, dry hard-surface course. Indoors, protect furniture and keep the vehicle away from stairs, pets and feet. Outdoors, choose smooth pavement away from traffic and pedestrians, with enough separation to stop safely. Tamiya describes 70mm tires for the SW-01 family, but that does not make loose landscaping stone, tall grass or deep ruts proportionally small. On a compact vehicle, ordinary ground debris can be a substantial obstacle.",
+        "The wheelie bar is part of the model's identity, not an invitation to make furniture edges into launch ramps. Begin with a simple route and space to retrieve the vehicle. We would choose broad turns and low-consequence obstacles before a cluttered course because that makes installation and control issues easier to identify. We have not established a safe jump height, climb angle or impact tolerance, and this review does not recommend one.",
+        "Keep the first setup dry. The vehicle is supplied without the radio, servo and ESC, so any claim about the electrical installation's water resistance would depend on equipment that is not even included. Dust and hair are ownership concerns on a small indoor vehicle too: inspect the wheels and exposed moving areas after use, and clean according to the model and component instructions. The goal is a repeatable little driving space, not a theoretical terrain list based solely on four driven wheels."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & access",
+      "heading": "The Gold finish is a real part of the package",
+      "paragraphs": [
+        "The champagne-gold, already marked body is a meaningful difference from an unpainted kit. If body preparation and painting are the part of an RC project you do not want, this version removes them. The yellow chassis and dark tires contrast with the shell in the official photographs, while the wheelie bar reinforces the cartoon-van proportions. The product images in this review depict the actual 46706 package rather than a generic Lunch Box or an imagined custom build.",
+        "The packaging photograph is also useful evidence: its semi-assembled labeling helps set expectations before the first screw is touched. Our separate contents diagram is an original explanatory graphic, not a Tamiya wiring illustration. It distinguishes the finished model from the equipment you supply. Neither image proves that a pictured vehicle has operational radio gear installed, and neither should be read as a guarantee about what a separate seller bundles with its listing.",
+        "Keep the supplied body instructions available when accessing the chassis. After installing electronics, check that the body fits without pressing on wires, the receiver or the battery arrangement. A finished shell is worth protecting while you learn the small platform; set it aside safely during installation rather than working around it. We cannot attach a crash-resistance score to the finish or a durability claim to the body from product photography. Its verified benefit is that the visual finishing work is already done."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Price the finished electrical system before calling it inexpensive",
+      "paragraphs": [
+        "On 21 October 2026, the exact Horizon Hobby US listing for TAM46706 provides a USD144.20 vehicle reference. That is a dated retailer figure, not a manufacturer-direct offer, Amazon price or guarantee of availability. Tamiya USA's indexed MSRP is a different reference and should not be presented as a live discount calculation. The site's price filter uses the dated retailer basis; your complete first-drive cost includes considerably more than that vehicle line.",
+        "The complete basket is the 46706 vehicle, compatible transmitter and receiver, suitable steering servo, a correctly rated brushed ESC, supported drive power and its appropriate charger. Add any transmitter batteries and installation supplies required by the equipment you choose. We have not priced those items as a matched current bundle, so there is no defensible all-in dollar total here. Existing compatible equipment can reduce the cash outlay, but it does not remove the compatibility checks.",
+        "For ongoing ownership, expect ordinary inspection and cleaning, and use the exact documentation when identifying service parts. This review covers a complete body-inclusive vehicle, not a recommended spare-parts shopping cart. A low vehicle reference becomes poor value if you buy a mismatched controller or battery first and correct it later. Conversely, a hobbyist who already has a documented compatible system may find the semi-assembled format efficient. The buyer's inventory and willingness to install equipment decide which calculation applies."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose which part of the hobby you want to do",
+      "paragraphs": [
+        "The larger Tamiya Lunch Box CW-01 kit, item 58347, is the obvious visual relative in our full-review archive. It is a different, larger, two-wheel-drive vehicle rather than this tiny four-wheel-drive SW-01. Choose between them using available driving space, desired assembly work and the exact equipment basket. Do not treat a part, motor recommendation or handling claim from the CW-01 as automatically applicable to the Mini merely because both carry the Lunch Box name.",
+        "ARRMA's Mojave GROM RTA, ARA2104KT1, offers a different project balance. Its body-inclusive assembly package includes a matched brushed radio-and-power system, while chassis assembly and body finishing remain part of the job. Our full review explains the paint and compatible USB supply requirements. That can make sense if you would rather assemble a small desert truck than select the Gold Mini's separate electrical system. It is not a promise that one vehicle is universally better value.",
+        "For someone whose priority is immediate small-course driving, the Losi Micro-T LOS-1392T2 is a complete RTR alternative in the archive with its own radio and power package. Its lower stadium-truck form pursues a different indoor-course experience from this tall, wheelie-minded van. Read the complete reviews against the same checklist: venue, supplied equipment, missing equipment and desired workshop time. Those questions create a useful comparison without inventing a physical shootout between three vehicles we have not tested together."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A good fit when the installation is part of the appeal",
+      "paragraphs": [
+        "Buy the X-SA Lunch Box Mini Gold Edition when you want the small SW-01 proportions and finished gold shell, and you are comfortable selecting a compatible electrical system. The factory assembly and painting save real project steps. The short footprint also gives it a distinct place beside a full-size RC truck. That is enough to justify interest without claiming a speed figure, extraordinary toughness or a level of all-terrain capability the evidence does not establish.",
+        "Skip it when the gift or first-car brief is a complete matched RTR. The missing radio, servo, ESC, battery and charger are not minor footnotes for that buyer. Also pause if you need a precisely documented motor designation before ordering electronics: the 370/380 conflict remains unresolved in the public sources we checked. Ask for confirmation against the actual 46706 package rather than treating our disclosure as a substitute for a component manufacturer's limits.",
+        "Our five equally weighted scores assess this installation-project buyer's fit: accessibility, completeness, small-course suitability, documentation and complete-start value. They are editorial judgments supported by the documented package, not physical performance results or customer stars. The affiliate button preserves an exact historically matched product identity and offers a place to check current terms; no current Amazon price or stock is asserted. Finish the compatibility plan first, then decide whether this miniature gold van earns space in your garage."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "tamiya-lunch-box-mini-gold-2.jpg",
+      "alt": "Tamiya 46706 Expert Semi Assembled Gold Edition retail box",
+      "caption": "Official package photograph. X-SA includes the finished vehicle; radio equipment and drive power are separate.",
+      "source": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html"
+    },
+    {
+      "image": "tamiya-lunch-box-mini-gold-package.png",
+      "alt": "RC Car King diagram separating the supplied Gold Mini vehicle from required radio and power equipment",
+      "caption": "Original RC Car King package diagram based on Tamiya and Horizon 46706 documentation. This is a contents map, not a wiring guide.",
+      "source": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html"
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer item",
+      "46706 · retailer TAM46706"
+    ],
+    [
+      "Chassis",
+      "SW-01"
+    ],
+    [
+      "Format",
+      "Expert semi-assembled, body-inclusive"
+    ],
+    [
+      "Body",
+      "Champagne Gold · painted and marked"
+    ],
+    [
+      "Drive",
+      "Gear-driven 4WD"
+    ],
+    [
+      "Motor",
+      "Installed brushed; US listing says 380, SW-01 guide says Type 370"
+    ],
+    [
+      "Length × width × height",
+      "190 × 150 × 140mm · Tamiya US"
+    ],
+    [
+      "Wheelbase",
+      "92mm · Tamiya US"
+    ],
+    [
+      "Suspension",
+      "Independent coil-spring system; strut/double-wishbone source terminology conflicts"
+    ],
+    [
+      "Damping / bearings",
+      "Friction dampers / plastic bushings · exact retailer data"
+    ],
+    [
+      "Gearing",
+      "Fixed · exact retailer data"
+    ],
+    [
+      "Wheelie bar",
+      "Included"
+    ],
+    [
+      "Radio / servo / ESC",
+      "Required separately"
+    ],
+    [
+      "Drive power / charger",
+      "Required separately; follow actual pack and ESC documentation"
+    ],
+    [
+      "Reference price",
+      "USD144.20 · Horizon Hobby retailer · 21 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the Lunch Box Mini Gold Edition ready to run?",
+      "answer": "No. Item 46706 has an assembled chassis and painted body with a brushed motor, but needs radio equipment, a compatible servo, ESC, drive power and charger."
+    },
+    {
+      "question": "Is this the same vehicle as the larger Lunch Box?",
+      "answer": "No. This is the compact 4WD SW-01 Gold X-SA, item 46706. The larger 58347 Lunch Box uses the 2WD CW-01 chassis."
+    },
+    {
+      "question": "Does it include a 370 or a 380 motor?",
+      "answer": "The exact US product listing and retailer data say 380; Tamiya’s SW-01 guide says Type 370. We verified the supplied motor is brushed but could not resolve the size conflict. Confirm the actual package before selecting electrical equipment."
+    },
+    {
+      "question": "Can I use any 2S lithium battery?",
+      "answer": "No universal compatibility is established. The package sheet depicts a Tamiya LF1100 6.6V Racing Pack; use the actual model, battery, ESC and charger instructions to select a supported installation."
+    },
+    {
+      "question": "What does the reference price include?",
+      "answer": "The USD144.20 dated Horizon Hobby reference is for the vehicle, not a complete first-drive basket. Separate radio, servo, ESC, drive power and charging equipment are not included."
+    },
+    {
+      "question": "Have you tested its speed or wheelies?",
+      "answer": "No. This is a research-led buying assessment, with no invented driving results, speed, runtime or crash measurements."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby — exact Tamiya TAM46706 package and USD retailer reference",
+      "url": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html",
+      "checked": "2026-10-21",
+      "kind": "Exact-model hobby-retailer listing"
+    },
+    {
+      "name": "Tamiya USA — 46706 Gold X-SA, indexed product specifications",
+      "url": "https://www.tamiyausa.com/shop/110-trucks/rc-x-sa-lunch-box-2/",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer product information, indexed; direct page uses bot detection"
+    },
+    {
+      "name": "Tamiya — SW-01 chassis architecture and Type 370 description",
+      "url": "https://tamiya.com/english/products/product_info_ex.html?category=e_20&genre_item=e_7301",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Tamiya — Gold X-SA instruction sheet 11057535, mirrored by ManualsLib",
+      "url": "https://www.manualslib.de/manual/1368968/Tamiya-X-Sa-Lunch-Box-Mini-Gold-Edition-Sw-01.html",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer instruction sheet, third-party mirror"
+    },
+    {
+      "name": "TamiyaBlog — 21 May 2022 Gold X-SA introduction citing RC Driver",
+      "url": "https://tamiyablog.com/2022/05/tamiya-lunch-box-mini-xsa-gold-edition-video-review/",
+      "checked": "2026-10-21",
+      "kind": "Independent curated launch coverage; not our physical test"
+    }
+  ],
+  "evidenceNote": "Manufacturer package/chassis documentation and current exact retailer data checked 21 October 2026. Motor 370/380 and suspension terminology conflicts are retained explicitly. Independent coverage is attributed; no physical testing or fresh Amazon verification is claimed.",
+  "revisionNote": "Initial publication with separate electronics basket, documented source conflicts and attributed official photographs.",
+  "seo": {
+    "title": "Tamiya Lunch Box Mini Gold X-SA Review | RC Car King",
+    "description": "Tamiya 46706 Gold X-SA review: what is included, missing radio and power equipment, SW-01 source conflicts, small-course fit and complete startup planning."
+  },
+  "published": "2026-10-21",
+  "updated": "2026-10-21",
+  "publishedAt": "2026-10-21T07:17:39.799Z",
+  "updatedAt": "2026-10-21T07:17:39.799Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

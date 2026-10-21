@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-21T07:20:23.619Z",
+  "review": "kyosho-mini-z-awd-skyline-1972-15-blue",
+  "coreWords": 2265,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "32643BL",
+  "amazon": {
+    "asin": "B0D32GLY2C",
+    "brand": "Kyosho",
+    "manufacturerPart": "32643BL",
+    "model": "32643BL",
+    "title": "Kyosho America 32643BL Mini-Z Awd 1972 Nissan Skyline 2000gt-R Blue",
+    "originalIdentityVerifiedAt": "2026-10-15T11:16:21.342Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0D32GLY2C?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Kyosho — exact 32643BL Readyset specifications and package",
+      "url": "https://rc.kyosho.com/en/32643bl.html",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Kyosho — current English MZW711 compatibility chart, including 32643BL",
+      "url": "https://www.kyosho.com/rc/en/support/mini-z/Compatible_with_MZW711_en_3.pdf",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Nitro Hobbies — exact KYO32643BL USD list reference and out-of-stock label",
+      "url": "https://nitrohobbies.com/kyo32643bl/",
+      "checked": "2026-10-21",
+      "kind": "Exact-model hobby-retailer listing"
+    },
+    {
+      "name": "Big Squid RC — Tim Mohr, KPGC10 Racing 1972 MINI-Z launch coverage, 26 June 2024",
+      "url": "https://www.bigsquidrc.com/kyosho-nissan-skyline-2000gt-r-kpgc10-racing-1972-mini-z/",
+      "checked": "2026-10-21",
+      "kind": "Independent launch coverage; not a physical test"
+    }
+  ],
+  "notes": [
+    "Exact blue/white #15 racing KPGC10 body, not Initial D or body-only.",
+    "Manufacturer product copy includes old MZW446 and newer MZW711 references; current official chart explicitly lists 32643BL.",
+    "USD189.99 exact retailer reference is out of stock, not current purchasable Amazon pricing."
+  ]
+}

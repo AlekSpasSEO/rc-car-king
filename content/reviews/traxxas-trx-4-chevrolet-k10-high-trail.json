@@ -1,0 +1,449 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "TRX-4 Chevrolet K10 High Trail Edition",
+  "modelSlug": "trx-4-chevrolet-k10-high-trail",
+  "sku": "92056-4",
+  "headlineLines": [
+    "LIFTED CHEVY.",
+    "CHOOSE YOUR LINE."
+  ],
+  "title": "Traxxas K10 High Trail review: clearance, controls and trade-offs",
+  "dek": "The full-size 92056-4 combines a lifted K10, portal axles, two-speed transmission and remote diff locks. Budget for power and respect the taller trail-truck brief.",
+  "type": "Scale trail truck",
+  "use": "Trail driving",
+  "terrain": [
+    "Dry dirt trails",
+    "Rocky paths",
+    "Controlled crawling obstacles"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run vehicle; drive battery and charger separate",
+  "skill": "Beginner trail driver willing to learn transmission and differential controls",
+  "price": {
+    "amount": 549.95,
+    "basis": "Traxxas US exact-model manufacturer vehicle reference · 92056-4",
+    "source": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+    "currency": "USD",
+    "checked": "2026-10-21"
+  },
+  "purchaseNote": "Dated USD manufacturer vehicle reference, not an Amazon offer or complete startup total. Drive battery, compatible charger and four AA transmitter cells are separate. Optional working LED lighting and Link module are not included.",
+  "image": "traxxas-k10-high-trail-black-front.jpg",
+  "imageAlt": "Official black 1/10 Traxxas TRX-4 Chevrolet K10 High Trail 92056-4 with lifted suspension and chrome wheels",
+  "imageCaption": "Black full-size 92056-4 High Trail. This is the 1/10 TRX-4 with portal axles, not the smaller TRX-4M. Working LED lighting is optional.",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+    "kind": "Official product photography"
+  },
+  "overview": "A deliberately lifted scale pickup with useful remote drivetrain choices. It suits a buyer who wants the K10 stance and varied trail driving, and accepts the size, power-equipment cost and taller geometry rather than treating clearance as a universal crawling advantage.",
+  "verdict": "Choose the lifted trail truck for the job it actually suits",
+  "verdictText": "The K10 makes a strong documented case for scale trail variety: low and high gears, selectable differential locks, portals and a finished licensed pickup body. For a buyer focused on tight technical sidehills, compare lower alternatives before paying for the stance.",
+  "pros": [
+    "Factory High Trail lift and 2.2-inch wheels establish the intended lifted-pickup package",
+    "Remote two-speed transmission and front/rear diff locks offer distinct driving choices",
+    "Titan 550 21T motor, XL-5 HV ESC and matching TQi radio supplied",
+    "Licensed K10 clipless body and long 336mm wheelbase distinguish it from shorter TRX-4 variants"
+  ],
+  "cons": [
+    "Drive battery and charger are separate from the vehicle reference price",
+    "Raised body and longer wheelbase bring terrain and storage trade-offs",
+    "More drivetrain controls require learning rather than treating every switch as an upgrade",
+    "Manufacturer length table has inconsistent inch/mm values that need confirmation"
+  ],
+  "bestFor": [
+    "Scale trail drives with room for a full-size lifted pickup",
+    "A buyer who wants remote gear and differential control",
+    "A K10 enthusiast prepared for power-equipment and maintenance costs"
+  ],
+  "avoidIf": [
+    "Your priority is the lowest body position for technical sidehills",
+    "You need a battery-and-charger-included package",
+    "You intended to buy the small 1/18 TRX-4M K10"
+  ],
+  "quickSpecs": [
+    [
+      "Exact vehicle",
+      "92056-4 · black High Trail"
+    ],
+    [
+      "Motor / ESC",
+      "Titan 550 21T brushed · XL-5 HV"
+    ],
+    [
+      "Drivetrain",
+      "4WD portals · remote 2-speed"
+    ],
+    [
+      "Differentials",
+      "Remote front and rear locks"
+    ],
+    [
+      "Wheelbase / wheels",
+      "336mm · 2.2-inch"
+    ],
+    [
+      "Drive power needed",
+      "6–7 cell NiMH or 2S–3S LiPo · follow manual"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "A scale-trail buyer who deliberately wants the lifted K10 stance and remote drivetrain choices",
+    "disclosure": "Five equally weighted research-led buyer-fit scores. No physical climbing, rollover, speed, runtime, crash or reliability test is claimed.",
+    "dimensions": [
+      {
+        "label": "Trail equipment",
+        "score": 9,
+        "reason": "Portal axles, two speeds and remote differential locks provide documented choices for varied trail conditions."
+      },
+      {
+        "label": "Control accessibility",
+        "score": 8,
+        "reason": "Matching TQi radio and manual instructions are supplied, but the transmission, locks and ESC profiles take learning."
+      },
+      {
+        "label": "Scale package",
+        "score": 9,
+        "reason": "The finished licensed K10, factory lift and clipless body form a coherent lifted-pickup vehicle."
+      },
+      {
+        "label": "Terrain flexibility",
+        "score": 7.5,
+        "reason": "Low gear and selectable traction suit trails, while raised geometry and 336mm wheelbase require appropriate line and venue choices."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7,
+        "reason": "The USD549.95 vehicle reference excludes power equipment, and optional lighting or connectivity should not be counted as supplied."
+      }
+    ]
+  },
+  "amazon": {
+    "variant": "Black complete 1/10 TRX-4 Chevrolet K10 High Trail Edition 92056-4; drive battery and charger separate",
+    "identityNote": "Archived title identifies the black complete K10 and manufacturer part 92056-4. The archived model field is generic TRX4; exact identity relies on the explicit manufacturer part and matching black-vehicle title, not an invented model-field match. Exact ASIN, brand and manufacturer part were recorded on 2026-10-12. This historical public identity evidence is reused without a new API call or current offer/stock verification.",
+    "asin": "B0BPJ5VC5Y",
+    "marketplace": "www.amazon.com",
+    "sku": "92056-4",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BPJ5VC5Y?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T22:12:24.062Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "A lifted pickup with more than one way to drive it",
+      "paragraphs": [
+        "The Traxxas TRX-4 Chevrolet K10 High Trail Edition is a deliberate style and terrain choice. Its tall stance, large-looking tires and long pickup body are the appeal. Underneath, model 92056-4 supplies portal axles, a two-speed transmission and remotely locking front and rear differentials. That makes it a configurable scale trail truck, but it does not prove that adding height automatically improves every kind of crawling. The route you want to drive still has the deciding vote.",
+        "This review concerns the full-size 1/10 TRX-4 in black, not the much smaller TRX-4M K10 and not a different standard-height Chevy release. The wheelbase is 336mm and the listed weight is 3.35kg. Those figures affect course choice, carrying and storage before you touch the transmitter. If your reference point is a small indoor crawler, verify the physical footprint instead of buying by body shape and expecting a similar ownership experience.",
+        "Our assessment is based on the exact Traxxas product page and 92056-4 R01 manual, with limited attributable independent context. We have not driven the K10, measured its rollover angle or tested its electronics. The editorial case is strongest for someone who wants this lifted scale pickup and will use its drivetrain controls thoughtfully on varied trails. A buyer concentrating on narrow technical lines and low body position should compare other complete trucks before choosing the extra height."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "In the box",
+      "heading": "RTR means assembled; the power basket remains yours",
+      "paragraphs": [
+        "Traxxas supplies the completed truck, Titan 550 21-turn brushed motor, XL-5 HV speed controller, TQi radio system and installed steering and drivetrain-control servos. The licensed body is finished and the High Trail lift is already fitted. You are not buying a bare chassis or a replacement shell. You are also not buying a battery-and-charger-complete bundle just because the vehicle is described as ready to run.",
+        "The drive battery, an appropriate charger and four AA alkaline transmitter cells are separate requirements. Traxxas specifies support for six- or seven-cell NiMH packs or two- to three-cell LiPo packs under the actual model and ESC instructions. Voltage compatibility alone does not establish a complete match: check physical fit, retention, connector, charging requirements and the correct low-voltage-detection setting. The listed battery compartment is 159 × 47 × 23mm, so a pack that sounds electrically suitable may still be the wrong physical purchase.",
+        "Optional equipment needs the same clarity. Working Pro Scale LED lighting and the wireless Traxxas Link module are separate additions, not benefits silently included in the base vehicle reference. The official black photographs identify the complete vehicle and its finish; they are not our unboxing or evidence that every seller includes an accessory bundle. Write down the exact supplied and required equipment before comparing this K10 with an RTR whose box includes drive power and charging."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Low gear and diff locks are choices, not decoration",
+      "paragraphs": [
+        "The Titan 550 21T reverse-rotation brushed motor and XL-5 HV ESC form the documented stock electrical system. The transmission provides remotely selected low and high gears, while the axle differentials can be opened or locked from the radio. Portal reductions place the axle centerline above the wheel centers. Those are meaningful design distinctions, but they do not let us invent wheel torque, motor temperature, runtime or a battery-specific maximum speed.",
+        "Use the manual's operating guidance. Low gear is the appropriate starting point for crawling and climbing. Traxxas advises reducing speed before changing from high into low to reduce transmission strain. Its manual also explains why low gear belongs in low-speed work rather than assuming the motor's ability to pull in high gear makes that the best long-term choice. Learn the switch operation and the actual selected gear on a clear course before approaching a difficult obstacle.",
+        "Differential locks provide another conditional tool. The manual describes open differentials as useful for steering and ordinary driving, with locking available when traction calls for it. If the truck is stuck with a single wheel spinning, release the throttle and let the wheels stop before locking; then apply throttle gently while the mechanism engages. Avoid treating every lock switch position as a permanent improvement. Steering and drivetrain load change with the selection, so the right setting depends on the line you are attempting."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & setup",
+      "heading": "Learn the stock profiles before adding connectivity",
+      "paragraphs": [
+        "The supplied TQi four-channel transmitter and 6533 receiver support the functions that distinguish this package. The red rocker controls the transmission and the top switch operates the differential locks as described in the manual. Cruise control is also documented through the multi-function control. It can maintain a selected driving command, but it is not obstacle detection or an autonomous climbing aid. Keep direct control and an escape route while learning the truck.",
+        "The XL-5 HV offers Sport, Race, Training, Trail and Crawl profiles. Those names describe different throttle, braking and reverse behavior; Crawl's hill-hold and immediate reverse response should not be assumed identical to another mode. Training limits forward and reverse power while retaining braking according to the manual. Use the exact selection instructions if changing profiles, and confirm behavior on clear level ground. This review does not replace the controller's programming sequence or recommend an undocumented custom setting.",
+        "Check the steering, trim, battery selection and correct low-voltage protection before a drive. The stock metal-gear 2075X steering servo is documented, but that alone does not establish a measured steering-force result on every surface. If something binds or fails to respond, stop and diagnose the setup rather than leaning on the throttle. Wireless app connectivity requires the separate Link module. The truck's main appeal should make sense with the supplied radio before optional electronics become part of the purchase justification."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Lift & geometry",
+      "heading": "Clearance changes the obstacle problem, not the laws of balance",
+      "paragraphs": [
+        "The factory Long Arm Lift Kit, extended steel links, revised servo mounting and 110mm GTS aluminum shocks create the High Trail stance. Traxxas markets the lift as adding more than an inch of clearance versus a standard TRX-4 arrangement. The product table lists 102mm center ground clearance. These are manufacturer figures and claims, not our measurements. Neither figure guarantees that a particular rock, log or ledge can be crossed without contact.",
+        "The 336mm wheelbase also matters. It creates a different breakover and turning problem from a shorter truck, while the taller body position changes the balance considerations on side slopes. Our practical inference is to choose lines deliberately and begin on low-consequence obstacles. We have not measured a maximum sidehill angle or conducted a rollover comparison. It would be misleading to translate the attractive stance into a numerical stability verdict from photographs alone.",
+        "Remote differential control can help you decide how much traction to request while preserving steering where possible, but it does not cancel geometry. Begin with a simple route, observe the truck's actual behavior and adjust the driving line before changing hardware. The stock 2.2-inch wheels are part of this package; that figure is wheel diameter, not a quoted overall tire diameter. No unverified tire measurement or universal suspension recipe is needed to explain why this is a lifted trail pickup rather than a low competition crawler."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain & water",
+      "heading": "Dry trails first; read the wet-use limits literally",
+      "paragraphs": [
+        "Dry dirt paths, rocky trail sections and deliberately chosen crawling obstacles are a sensible starting brief. Leave room around the full-size truck and avoid routes where a mistake sends it toward people, animals, traffic or an unrecoverable drop. Low gear and careful inputs are more useful starting tools than using high gear to charge at an obstacle. The truck's mass and size make recovery and carrying part of the route plan, not an afterthought.",
+        "Water resistance needs precise language. The exact R01 manual says the vehicle must not be treated as submersible or completely waterproof, and the transmitter is not water resistant. Its wet-running precautions also explicitly prohibit LiPo use in wet conditions and require additional care and maintenance. Follow that limit even though the stock ESC supports LiPo for appropriate operation. Electrical voltage compatibility is not permission to ignore the manual's separate environmental restrictions.",
+        "Do not turn mud or water photographs into a universal capability claim. The manual also excludes saltwater and contaminated-water exposure and explains the maintenance burden after wet running. We recommend a dry first venue because it lets you learn the drivetrain without adding those variables. If you later choose an environment allowed by the actual instructions, follow all battery, vehicle and component limits together. We have not performed immersion tests, established sealing reliability or verified an aftermarket wet-use workaround."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & dimensions",
+      "heading": "Check the black variant and the storage measurements",
+      "paragraphs": [
+        "The finished licensed 1979 Chevrolet K10 Cheyenne body gives this truck its identity. Clipless mounting keeps conventional body clips out of the exterior presentation while allowing access according to the model instructions. The black front, side and rear photographs used here come from Traxxas and match the historically identified black complete vehicle. They are product photographs, not evidence of our ownership, a trail test or installed optional working lights.",
+        "There is a dimensional conflict worth catching before buying a storage box. The current manufacturer's text table lists overall length as 22.20 inches with 526mm in parentheses. Those values are inconsistent: converting 22.20 inches gives roughly 564mm, but a mathematical conversion does not verify the truck's actual length. We retain both published values and recommend confirming overall length with Traxxas or the actual vehicle before making a tight storage or transport decision.",
+        "The same table's 270mm width, 277mm height, 336mm wheelbase and 3.35kg weight establish the broader footprint without resolving that length error. Allow room to lift the body and access the chassis as well as simply park the truck. After maintenance, refit the body correctly and check that wiring and battery retention remain clear. No body-finish durability score or crash-resistance claim is inferred from the polished studio photographs. Its documented benefit is a finished, identifiable scale pickup body."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "USD549.95 is the vehicle line, not the first outing total",
+      "paragraphs": [
+        "Traxxas's exact 92056-4 page provides a USD549.95 manufacturer vehicle reference checked on 21 October 2026. That is the static basis used in this review and its price filter. It is not a live Amazon offer, current seller inventory or a discount claim. The preserved affiliate button leads to the historically matched black complete truck; shoppers must check the present package and terms before ordering.",
+        "A complete first-drive basket adds a supported drive battery, its compatible charger and four AA alkaline transmitter cells. Confirm physical fit and the actual electrical instructions as part of that purchase. Optional lighting, the Link module and cosmetic additions belong in a separate optional column rather than being required to complete the standard truck. We have not priced the whole power basket as a current matched bundle, so no invented all-in total appears beside the vehicle reference.",
+        "Ownership also includes cleaning, inspection and time. Traxxas advises checking hardware and keeping the drivetrain free of binding; wet operation adds a specifically documented maintenance burden. Two-speed shifting and differential-lock mechanisms provide useful functions but also make the truck more involved than a mechanically simpler fixed setup. That is a reason to learn and maintain the equipment, not an unsupported reliability penalty. Choose the K10 because you want those documented controls and the lifted body, not because the first vehicle-only price looks complete."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Compare complete trucks against the terrain you actually use",
+      "paragraphs": [
+        "The Traxxas TRX-4 Sport, 82224-4, is a relevant complete-truck alternative in our archive if you prefer a simpler drivetrain arrangement. Its single-speed transmission and fixed locked differential arrangement remove the K10's remote gear and differential selections. That comparison is about the functions you want to manage, not a claim that simpler hardware wins every trail or has a measured reliability advantage. Compare its separate power requirements and complete startup basket in the full review.",
+        "The TRX-4 1988 Nissan Pathfinder, 110056-4, offers another body and a shorter 312mm wheelbase while keeping the broader configurable TRX-4 trail concept described in its review. If transport space, body preference or wheelbase drives your decision, read that record before paying specifically for the K10 High Trail stance. Do not import one truck's dimensions, lights or included equipment into the other because both share the TRX-4 family name.",
+        "A smaller complete crawler is a different answer again when your only venue is an indoor obstacle area. The full-size K10 should not be compared with a miniature truck as though the body artwork were the only change. Establish course dimensions and carrying expectations first, then use the complete reviews to compare controls, power equipment and cost basis. We have not run a physical comparison test, so these alternatives are conditional ways to solve different ownership briefs rather than a ranked performance podium."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the height deliberately",
+      "paragraphs": [
+        "The K10 High Trail is a convincing documented package for a buyer who wants a lifted scale pickup and varied trail driving. Portals, low and high gears, remote differential locks, the finished licensed body and the factory lift form a coherent brief. A careful first setup and a dry route give you room to learn those controls. That is a stronger reason to choose it than a blanket claim that taller trucks crawl better.",
+        "Pause if your priority is tight technical sidehills, minimum body height or the smallest complete startup bill. The raised geometry and long wheelbase deserve consideration, and the vehicle reference excludes drive power and charging. Resolve the conflicting length units if storage is tight. Also make sure the listing is the full-size black 92056-4 rather than a small TRX-4M, another K10 generation or an accessory that shares the name.",
+        "Our five equally weighted scores assess trail equipment, control accessibility, scale completion, conditional terrain fit and complete-start value for this buyer. They do not claim measured climbing, speed, runtime or durability. RC Car Action's accessible historical sample supplies only body-history context; its subscriber-only test findings have not been used. The affiliate identity remains dated historical evidence, with no fresh verification or invented Amazon price. Choose the lifted truck because its appearance and controls match your route, then drive within the actual manual's limits."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-k10-high-trail-black-rear.jpg",
+      "alt": "Official rear three-quarter view of the black full-size Traxxas K10 High Trail pickup",
+      "caption": "Official black 92056-4 rear view. Finished licensed body and factory lift shown; optional working lighting is not part of the base package.",
+      "source": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4"
+    },
+    {
+      "image": "traxxas-k10-high-trail-black-side.jpg",
+      "alt": "Official side profile of the black Traxxas TRX-4 K10 High Trail with long pickup bed and 2.2-inch wheels",
+      "caption": "The 336mm wheelbase and lifted stance distinguish this full-size High Trail. Manufacturer length units conflict; confirm overall length for tight storage.",
+      "source": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4"
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU / variant",
+      "92056-4 · black full-size High Trail"
+    ],
+    [
+      "Scale / drive",
+      "1/10 · 4WD"
+    ],
+    [
+      "Motor",
+      "Titan 550 21T reverse-rotation brushed"
+    ],
+    [
+      "ESC",
+      "XL-5 HV"
+    ],
+    [
+      "Transmission",
+      "Remote high / low 2-speed"
+    ],
+    [
+      "Differentials",
+      "Remote front and rear locking"
+    ],
+    [
+      "Axles",
+      "Portal"
+    ],
+    [
+      "Wheelbase",
+      "336mm"
+    ],
+    [
+      "Width / height",
+      "270mm / 277mm"
+    ],
+    [
+      "Length source conflict",
+      "Traxxas lists 22.20in (526mm); units disagree. Actual overall length needs confirmation."
+    ],
+    [
+      "Listed weight",
+      "3.35kg · manufacturer figure"
+    ],
+    [
+      "Listed center clearance",
+      "102mm · not an obstacle guarantee"
+    ],
+    [
+      "Wheels / tires",
+      "2.2-inch chrome 8-hole wheels / Canyon Trail S1"
+    ],
+    [
+      "Shocks",
+      "110mm GTS aluminum"
+    ],
+    [
+      "Radio",
+      "TQi 4-channel / 6533 receiver"
+    ],
+    [
+      "Steering servo",
+      "2075X metal gear"
+    ],
+    [
+      "Battery compartment",
+      "159 × 47 × 23mm; verify actual pack retention"
+    ],
+    [
+      "Drive battery required",
+      "6–7 cell NiMH or 2S–3S LiPo under model/ESC instructions; separate wet-use limits apply"
+    ],
+    [
+      "Transmitter batteries",
+      "4 AA alkaline · required separately"
+    ],
+    [
+      "Optional equipment",
+      "Working Pro Scale LED lighting / wireless Link module"
+    ],
+    [
+      "Reference price",
+      "USD549.95 · Traxxas manufacturer vehicle reference · 21 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the small TRX-4M K10?",
+      "answer": "No. Model 92056-4 is the full-size 1/10 TRX-4 High Trail with 336mm wheelbase, portal axles, remote two-speed transmission and remote differential locks."
+    },
+    {
+      "question": "Are a battery and charger included?",
+      "answer": "No. The stock vehicle includes the motor, ESC and TQi radio, but needs supported drive power, a compatible charger and four AA alkaline transmitter cells."
+    },
+    {
+      "question": "Can I leave it in high gear for crawling?",
+      "answer": "The exact manual directs low gear for climbing and crawling and advises slowing before shifting from high to low. Learn and follow its transmission instructions."
+    },
+    {
+      "question": "Should I lock both differentials all the time?",
+      "answer": "No universal setting is best. The manual describes open diffs for ordinary steering and locks when traction requires them. Release the throttle and stop a spinning wheel before locking when stuck, then apply throttle gently."
+    },
+    {
+      "question": "Can I run a LiPo through wet terrain?",
+      "answer": "The exact R01 manual’s wet-use section says not to use LiPo batteries in wet conditions. It also says the vehicle is not submersible or completely waterproof, the transmitter is not water resistant, and extra maintenance is required."
+    },
+    {
+      "question": "What is the truck’s overall length?",
+      "answer": "The current Traxxas text table lists 22.20 inches and 526mm, which do not agree. We have not independently measured it. Confirm actual overall length before buying close-fitting storage."
+    },
+    {
+      "question": "Is your rating based on a trail test?",
+      "answer": "No. It is a research-led editorial buyer-fit assessment with five equally weighted, reasoned categories. No physical climbing, rollover, speed, crash or runtime result is claimed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — exact 92056-4 K10 High Trail package, specs and USD vehicle reference",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas — exact 92056-4 owner manual R01, including printed pages 21–22",
+      "url": "https://traxxas.com/media/productattach/C-92056-4/2/92056-4-OM-EN-R01.pdf",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "RC Car Action — Riding High, November 2022 issue; publicly accessible introductory sample only",
+      "url": "https://www.rccaraction.com/articles/riding-high-traxxas-trx-4-chevrolet-k10-high-trail-edition",
+      "checked": "2026-10-21",
+      "kind": "Independent historical context; subscriber-only test findings not accessed"
+    }
+  ],
+  "evidenceNote": "Exact Traxxas product page and R01 owner manual checked 21 October 2026. Length-unit conflict preserved. Wet-use limits come from printed page 22. Independent sample contributes historical body context only, with no paywall bypass or borrowed test results. No hands-on or fresh Amazon verification claimed.",
+  "revisionNote": "Initial black full-size K10 review with complete power basket, manual-specific control limits and unresolved length units.",
+  "seo": {
+    "title": "Traxxas K10 High Trail 92056-4 Review | RC Car King",
+    "description": "Traxxas K10 High Trail 92056-4 review: lifted geometry, portal axles, two-speed controls, diff locks, battery needs, manual limits and complete startup cost."
+  },
+  "published": "2026-10-21",
+  "updated": "2026-10-21",
+  "publishedAt": "2026-10-21T07:23:56.374Z",
+  "updatedAt": "2026-10-21T07:23:56.374Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

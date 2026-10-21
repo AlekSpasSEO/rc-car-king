@@ -1,0 +1,70 @@
+{
+  "checked": "2026-10-21",
+  "scope": "Eight official exact-variant product photographs and one original explanatory diagram; all visually inspected. No community media or test photography.",
+  "assets": [
+    {
+      "file": "tamiya-lunch-box-mini-gold-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw8286afb8/Images/TAM/TAM46706_A00_RW69UU6L.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Tamiya / Horizon Hobby",
+      "bytes": 71757,
+      "sha256": "4d0f6076fd3ccff97783232293597d94d46309d0471717ed59cffd840489bde7"
+    },
+    {
+      "file": "tamiya-lunch-box-mini-gold-2.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbd0a6bb0/Images/TAM/TAM46706_A01_RW69UU6L.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Tamiya / Horizon Hobby",
+      "bytes": 64044,
+      "sha256": "3a446ecd412144978db6d0c847d4391e8f7e7b80fa96e40fe14cf331db06d17f"
+    },
+    {
+      "file": "kyosho-skyline-1972-blue-body.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32643/32643BL_600_1.jpg",
+      "credit": "Kyosho",
+      "bytes": 138179,
+      "sha256": "24b2a1321de55b38f38c227f2736798e93fe4e9ec5b375372f2f667bd407d917"
+    },
+    {
+      "file": "kyosho-skyline-1972-blue-radio.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32643/32643BL_600_2.jpg",
+      "credit": "Kyosho",
+      "bytes": 106796,
+      "sha256": "0515698251902f291f0c91397e53651fc841221170d8187fee2a12d07805d573"
+    },
+    {
+      "file": "kyosho-skyline-1972-blue-rear.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32643bl_900_3.jpg",
+      "credit": "Kyosho",
+      "bytes": 19594,
+      "sha256": "887929677360651c1ed2df7f29dc2891887b7349216499124c39bc777da0df54"
+    },
+    {
+      "file": "traxxas-k10-high-trail-black-front.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/2/92056-4-TRX4-K10-3qtr-Front-BLK_54126636.jpg",
+      "credit": "Traxxas",
+      "bytes": 237016,
+      "sha256": "dd9808cdf4d1268034a1002b85047334e960fc7f74c1fd7c7f2fdcc22759832b"
+    },
+    {
+      "file": "traxxas-k10-high-trail-black-rear.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/2/92056-4-TRX4-K10-3qtr-Rear-BLK_54126637.jpg",
+      "credit": "Traxxas",
+      "bytes": 215192,
+      "sha256": "422123c7b57bfe6a346c9ce8f16351133a2b043f48d1bf75c51b31498144c4a0"
+    },
+    {
+      "file": "traxxas-k10-high-trail-black-side.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/2/92056-4-TRX4-K10-Side-BLK_54126638.jpg",
+      "credit": "Traxxas",
+      "bytes": 166197,
+      "sha256": "ff2c91b5450d95af6ad7ac9707e73d6ff651beff92d41d35c36ea93368e281bf"
+    },
+    {
+      "file": "tamiya-lunch-box-mini-gold-package.png",
+      "credit": "RC Car King original explanatory diagram",
+      "url": "https://www.horizonhobby.com/product/1-24-lunch-box-mini-sw-01-4x4-monster-truck-kit-gold/TAM46706.html",
+      "bytes": 57484,
+      "sha256": "559355c62688a239febe4d08ca4b4e04c733a204ef7d65a40cd21b66b177337a",
+      "kind": "Original package contents diagram; not a manufacturer wiring illustration or driving demonstration"
+    }
+  ]
+}

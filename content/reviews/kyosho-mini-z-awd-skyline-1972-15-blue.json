@@ -1,0 +1,435 @@
+{
+  "brand": "Kyosho",
+  "brandSlug": "kyosho",
+  "model": "MINI-Z AWD Skyline 2000GT-R Racing 1972 #15",
+  "modelSlug": "mini-z-awd-skyline-1972-15-blue",
+  "sku": "32643BL",
+  "headlineLines": [
+    "RACE LIVERY.",
+    "DRIFT INTENT."
+  ],
+  "title": "Kyosho MINI-Z Skyline 1972 #15 review: race clothes, drift tires",
+  "dek": "The blue 32643BL brings a finished KPGC10 body, MA-020-N AWD chassis and KT-531P radio. Its stock drift tires make the driving venue the real decision.",
+  "type": "Mini drift car",
+  "use": "Drifting",
+  "terrain": [
+    "Clean smooth indoor floors",
+    "Prepared hard-surface drift course"
+  ],
+  "motor": "Brushed",
+  "drive": "AWD",
+  "scale": "1/27",
+  "format": "Readyset",
+  "skill": "Beginner indoor drifter willing to learn proportional control",
+  "price": {
+    "amount": 189.99,
+    "basis": "Nitro Hobbies exact-model USD list reference · KYO32643BL · retailer marks out of stock",
+    "source": "https://nitrohobbies.com/kyo32643bl/",
+    "currency": "USD",
+    "checked": "2026-10-21"
+  },
+  "purchaseNote": "Dated USD retailer list reference, not an available Amazon offer. Retailer showed out of stock when checked. Add four approved AAA cells for the chassis and four AAA alkaline transmitter cells; appropriate charging is separate if using rechargeable drive cells.",
+  "image": "kyosho-skyline-1972-blue-body.jpg",
+  "imageAlt": "Official blue and white Kyosho 32643BL Nissan Skyline 2000GT-R KPGC10 Racing 1972 number 15",
+  "imageCaption": "The exact blue/white #15 KPGC10 body supplied with 32643BL. Race graphics do not change the stock Readyset’s drift-tire specification.",
+  "imageCredit": {
+    "name": "Kyosho",
+    "url": "https://rc.kyosho.com/en/32643bl.html",
+    "kind": "Official product photography"
+  },
+  "overview": "A compact, finished Skyline for controlled sliding on a suitable indoor hard surface. The body is the reason to pick this particular Readyset; the MA-020-N package and your available floor decide whether it is the right kind of car.",
+  "verdict": "Buy for the body and a real indoor drift space",
+  "verdictText": "32643BL is a coherent small AWD drift package with the transmitter included. Choose it for the documented blue #15 Skyline and a clean hard-surface course. Skip it for grip racing, carpet obstacles or a guaranteed gyro-equipped bundle.",
+  "pros": [
+    "Finished licensed KPGC10 #15 body makes the exact variant easy to identify",
+    "MA-020-N AWD chassis, drift tires and KT-531P radio supplied",
+    "14 ball bearings and VCS front suspension documented by Kyosho",
+    "Small 163mm body length makes a compact indoor course feasible"
+  ],
+  "cons": [
+    "Eight AAA cells are needed across vehicle and transmitter",
+    "Gyro is optional, with old and current product text needing careful compatibility reading",
+    "Drift tires do not make it a stock grip-racing package",
+    "Low body and small wheels demand a clean, suitable surface"
+  ],
+  "bestFor": [
+    "A Skyline fan with a clean indoor hard floor",
+    "Learning small AWD drift control with a supplied proportional radio",
+    "A buyer prioritizing this exact 1972 #15 livery"
+  ],
+  "avoidIf": [
+    "You want lawn or rough-pavement driving",
+    "You expect a gyro or rechargeable battery set in the box",
+    "You need a stock grip-racing car or larger RWD drift behavior"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "32643BL · blue/white #15"
+    ],
+    [
+      "Chassis / drive",
+      "MA-020-N · shaft AWD"
+    ],
+    [
+      "Motor / tires",
+      "Brushed · drift tires"
+    ],
+    [
+      "Size",
+      "163 × 67 × 51mm"
+    ],
+    [
+      "Wheelbase",
+      "94mm · L"
+    ],
+    [
+      "Power needed",
+      "4 AAA chassis + 4 AAA transmitter"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "An indoor drift beginner who specifically wants the blue #15 KPGC10",
+    "disclosure": "Five equally weighted research-led fit scores. No measured drift performance, runtime, durability or customer rating is claimed.",
+    "dimensions": [
+      {
+        "label": "Package coherence",
+        "score": 8.5,
+        "reason": "Chassis, finished body, drift tires and matching transmitter make a coherent starting package, with cells separate."
+      },
+      {
+        "label": "Indoor venue fit",
+        "score": 8,
+        "reason": "The compact footprint suits a defined smooth-floor course, but debris, carpet and outdoor roughness limit the choice."
+      },
+      {
+        "label": "Control accessibility",
+        "score": 8,
+        "reason": "Proportional controls, trim, steering dual rate and factory training mode support a deliberate learning start."
+      },
+      {
+        "label": "Variant documentation",
+        "score": 7.5,
+        "reason": "Exact body and dimensions are clear; optional gyro references differ between older product copy and the current compatibility chart."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7.5,
+        "reason": "The dated retailer list reference excludes cells and optional charging, and that retailer marks the model out of stock."
+      }
+    ]
+  },
+  "amazon": {
+    "variant": "32643BL blue/white Nissan Skyline 2000GT-R KPGC10 Racing 1972 #15 MINI-Z AWD Readyset; not body-only or Initial D",
+    "asin": "B0D32GLY2C",
+    "marketplace": "www.amazon.com",
+    "sku": "32643BL",
+    "detailPageUrl": "https://www.amazon.com/dp/B0D32GLY2C?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-15T11:16:21.342Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Exact ASIN, brand and manufacturer part were recorded on 2026-10-15. This historical public identity evidence is reused without a new API call or current offer/stock verification."
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "The number on the door does not tell you the tire compound",
+      "paragraphs": [
+        "Kyosho's blue and white number 15 Skyline looks ready for a miniature touring-car grid. The exact 32643BL Readyset instead arrives with drift tires on an MA-020-N all-wheel-drive chassis. That is the first useful buying fact. Choose it for small-scale sliding on an appropriate indoor surface, rather than assuming the racing livery means a supplied grip-racing setup. A beautiful shell cannot make the wrong floor into the right driving venue.",
+        "The finished body represents the Nissan Skyline 2000GT-R KPGC10 Racing 1972. This is the blue #15 version, not a generic Skyline listing, the differently colored alternative or an Initial D AE86. The exact model identity matters both for the body you receive and for the affiliate link we preserve from historical product evidence. This review concerns a complete body-inclusive Readyset, not an interchangeable display body or spare shell.",
+        "Our assessment uses Kyosho's exact product documentation, its current gyro compatibility chart and attributable independent launch coverage. We have not driven this example or compared its lap times with another MINI-Z. The editorial question is whether its documented package makes sense for your space and priorities. If you want this particular Skyline and have a clean hard floor, the answer is promising. If you need lawn driving, a supplied gyro or stock grip racing, this exact package leaves a different job to do."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "In the box",
+      "heading": "A Readyset with radio, but no AAA cells",
+      "paragraphs": [
+        "Kyosho supplies the assembled chassis, completed body, KT-531P transmitter and the drift tires already fitted. The listed small items include a miniature pylon, wheel wrench, pinion remover, spare nut and alternate gears. This is substantially more complete than a body set or a chassis kit. It still needs batteries before the first session, and any rechargeable-drive-cell plan brings its own compatible charging equipment into the startup basket.",
+        "The manufacturer specifies four AAA alkaline or NiMH cells for the chassis and four AAA alkaline cells for the transmitter. Keep those two requirements distinct. A rechargeable chassis option does not mean a lithium conversion is supported, nor does it turn the transmitter instruction into permission for any chemistry that fits the holder. Follow the actual cell and charger instructions, use correctly matched cells, and do not improvise wiring or substitute a lithium pack based on the car's small size.",
+        "Check the exact package number when comparing sellers. The supplied blue/white #15 body, MA-020-N chassis and KT-531P are the relevant combination. Photographs of a body beside a transmitter help illustrate the package but do not demonstrate that batteries or a gyro have been added. Our current retailer price basis is explicitly an out-of-stock list reference. The preserved affiliate identity is historical, not a fresh claim that the same bundle is available for immediate delivery."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "AWD drift is its own brief",
+      "paragraphs": [
+        "The shaft-driven AWD layout sends power to both axles. That distinguishes the Readyset from a rear-wheel-drive drift platform even when both can be used for sliding on a hard surface. It is sensible to choose the control style and space first, then the body. We do not present AWD as a guaranteed shortcut to a particular drift angle or claim that this chassis duplicates the behavior of a full-size rear-drive drift car.",
+        "Kyosho identifies the electric brushed platform but the exact product information we used does not establish a motor winding we can confidently quote for this individual package. We therefore label the motor as brushed without borrowing a turn count or performance figure from another MINI-Z. Fourteen ball bearings are documented. That is a hardware specification, not evidence of a measured runtime improvement or a promise about the maintenance life of every vehicle.",
+        "The included gearing list contains 15, 17, 19 and 21-tooth pinions and 27, 29 and 31-tooth spur gears. Inclusion does not make every possible combination valid or equally suitable. Keep the factory arrangement while learning and consult the applicable chassis instructions before any gearing change. Correct mesh and the documented installation matter more than selecting the biggest pinion because it looks faster. This review supplies no speed estimate, gearing-based runtime claim or claim that we tested those combinations."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & gyro",
+      "heading": "Start with the supplied radio; read optional gyro evidence carefully",
+      "paragraphs": [
+        "The KT-531P provides proportional control, steering and throttle trim, steering dual rate and a factory training mode. Those are practical tools for making a small course manageable. Begin with the supplied instructions and modest control inputs, establish straight tracking, then use the documented radio adjustments to suit the space. We are describing the available controls, not prescribing an unverified button sequence or assuming that every MINI-Z transmitter has identical menus.",
+        "Radio compatibility is specific. Kyosho excludes older systems such as KT-18, KT-19 and the listed ASF transmitters from this Readyset's compatibility. Its product page also says ICS is not supported. Do not purchase it on the assumption that an older MINI-Z transmitter in your collection will bind, or that a familiar computer setup cable will expose adjustments. The included matching radio is the uncomplicated starting point unless you have separately verified another supported system.",
+        "The optional gyro needs a careful reading. Older opening text names MZW446, while updated product text also names MZW711. Kyosho's current English MZW711 compatibility chart explicitly includes 32643BL. That supports checking the newer accessory against this exact model, but it does not put a gyro in the Readyset. Confirm the current production version and installation instructions before any optional purchase. Learn the stock car first; this is not a review claiming a gyro-assisted driving test or guaranteed improvement."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Chassis & steering",
+      "heading": "Small adjustments deserve a repeatable course",
+      "paragraphs": [
+        "Kyosho documents VCS front suspension, which changes camber through suspension movement, with strut-type rear suspension. The front and rear track are listed as 56.5mm, and the wheelbase is 94mm in the L configuration. The narrow wheels use a stated 0.0mm offset front and rear. Those details help distinguish the actual body/chassis arrangement from a generic MINI-Z specification table, especially when comparing bodies or reading someone else's setup notes.",
+        "They do not establish how our example corners, because we have not driven one. The sensible editorial inference is that a tiny vehicle rewards a consistent test area when you make control adjustments. Lay out a simple route with soft markers and enough room for recovery. Practice repeating a turn and returning toward neutral without adding a new radio change every few seconds. If behavior changes abruptly, check the surface and the vehicle before deciding it needs an upgrade.",
+        "Steering travel should follow the actual transmitter and chassis instructions. Avoid forcing the linkage or using maximum steering merely because a larger drift build uses a dramatic lock angle. This particular AWD Readyset has its own geometry, body clearance and intended hardware. When a problem appears, separate persistent steering bias from a slippery patch or debris under a tire. That is a useful diagnostic approach, not an invented report that we observed steering trouble on a tested 32643BL."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Surface choice",
+      "heading": "The floor is part of the purchase",
+      "paragraphs": [
+        "A clean, smooth, dry indoor hard surface is the right starting assumption for the stock drift-tire package. Allow enough room to stop and keep the course away from stairs, pets and people walking through it. Surface material and cleanliness influence sliding, so a polished-looking photograph cannot tell us how the tires will behave on your floor. We do not promise scratch-free use on every finish; protect the room and check that the chosen area is suitable.",
+        "Carpet, coarse asphalt, gravel and lawn are poor substitutes for that indoor brief. The car is only 163mm long and its low body is part of the scale appeal. Features that are insignificant to a large truck can dominate its path. Buying it for an outdoor driveway simply because an AWD label sounds versatile risks solving the wrong problem. No documented outdoor ruggedness or weather rating is used here to stretch its intended job.",
+        "Start with open space rather than a narrow furniture maze. A small footprint reduces the room needed for a course, but it does not eliminate the need for boundaries and safe recovery access. Remove hair and loose debris from the driving area and inspect the car afterward according to its instructions. If you cannot dedicate a suitable surface, change the vehicle choice before changing the tires or planning a conversion. The complete stock package should make sense before optional work becomes the justification for buying it."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & ownership",
+      "heading": "Pick this Skyline because you want this Skyline",
+      "paragraphs": [
+        "The KPGC10's blue-and-white race finish and number 15 are the main reasons to choose 32643BL over another body on the same AWD family. Kyosho's official front, rear and radio-package images show the actual livery used here. A listing that calls it an Initial D car or shows a different numbered body deserves scrutiny. The exact historical product identity matched the blue #15 Readyset; we have not replaced it with a roughly similar keyword result.",
+        "A completed licensed body removes painting and decal work from the initial project. It also gives you something worth protecting while learning the controls. Take the body off and refit it using the correct instructions, and make sure it sits properly before driving. We have not measured its impact tolerance or tested how the finish survives repeated collisions. The body score is therefore about supplied completion and documented identity, not a durability verdict disguised as appreciation for the appearance.",
+        "For ownership, keep small tools and supplied gears organized, and work over a clear surface when accessing the chassis. Inspect for debris and follow the applicable maintenance documentation rather than importing a procedure from a larger RC car. Avoid treating body swaps as automatically compatible: wheelbase, track, offset and mounts matter. This review remains focused on the complete vehicle you can identify, not a speculative parts collection assembled from visually similar miniature Skylines."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "A dated list reference is not an available offer",
+      "paragraphs": [
+        "The exact Nitro Hobbies KYO32643BL page showed a USD189.99 list reference when checked on 21 October 2026, and it marked the product out of stock. We use that labeled retailer reference for the vehicle price field because a current exact-model manufacturer USD product offer was not established. It is not an Amazon price, an availability claim or evidence of a discount from another number. A buyer must check current seller terms separately.",
+        "The complete startup basket adds four approved AAA drive cells and four AAA alkaline transmitter cells. If you choose NiMH for the chassis, add a charger appropriate for those cells and follow its instructions. Optional gyro equipment is not required to define the stock Readyset and is not silently included in our price comparison. Because those additional items have not been priced as a matched current basket, we do not fabricate an all-in dollar total.",
+        "Ongoing cost depends partly on your chosen supported battery approach and the driving space you actually use. The responsible first purchase is enough compatible power equipment and a suitable course, not an automatic tuning order. A different MINI-Z body may be available at different terms, but that only helps if you are happy to own that exact car. Preserve model identity when comparing prices, and resist substituting a body-only listing because it appears cheaper beside a complete Readyset."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Separate body preference from chassis preference",
+      "paragraphs": [
+        "The Kyosho MINI-Z AWD Skyline R32 and Initial D Toyota AE86 in our review archive are relevant if you like the compact AWD drift idea but do not specifically need this 1972 number 15 body. Read their exact records for the supplied livery, dimensions and package. A related chassis family does not make every wheelbase, body fit or radio detail interchangeable. Choose the vehicle you actually want, rather than carrying a price or included accessory from one variant into another.",
+        "For a larger rear-wheel-drive drift direction, the Kyosho Fazer D2 Toyota 86 GT Readyset, 34502T1, is a separate complete-car choice covered in the archive. It requires a different venue and startup assessment. The point is the change in scale and drivetrain brief, not a claim that we tested both and found one easier. If you are seeking the feel of a larger RWD platform, the tiny AWD Skyline should not be sold to you as an equivalent substitute.",
+        "Traxxas's 4-Tec Drift Nissan 240SX is another complete larger-car review worth reading before committing to the indoor miniature route. Compare the space, radio assistance, supported power and supplied-versus-required equipment described in each full review. If you only have a clean small room, the MINI-Z's footprint may settle the choice. If you have a larger dedicated drift area, a different complete car may align better with your intended driving style. That is a conditional buying decision rather than a universal ranking."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A coherent indoor package with a specific identity",
+      "paragraphs": [
+        "Choose the blue #15 Skyline when its finished KPGC10 body is the one you want and a clean indoor drift course is already part of the plan. The documented package is coherent: MA-020-N AWD, fitted drift tires, finished body and a matching KT-531P transmitter. Budget for the correct cells and spend the first sessions learning controlled inputs. You do not need to turn an optional gyro or a gearing experiment into a prerequisite for enjoying the stock vehicle.",
+        "Skip it when the real brief is a carpet truck, outdoor all-terrain car or supplied grip-racing setup. Also skip any listing whose exact body, package or product number cannot be reconciled with 32643BL. The current MZW711 compatibility evidence is useful, but the Readyset should not be advertised as gyro-equipped. Our own score rewards package coherence, venue fit, accessible controls, documentation and startup planning, with reservations reflecting the limits we can actually establish.",
+        "This is a research-led editorial buying rating with five equally weighted categories, not a measured handling result or customer-star average. Big Squid RC's June 2024 article is attributed launch coverage, not a test we conducted or borrowed. The affiliate link preserves an exact historically matched product identity without claiming a fresh API check or current offer. The strongest reason to buy remains simple: you want this little Skyline, and you have a floor where its stock drift package makes sense."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "kyosho-skyline-1972-blue-radio.jpg",
+      "alt": "Official Kyosho blue number 15 Skyline MINI-Z beside the KT-531P transmitter",
+      "caption": "Official Readyset illustration with the matching transmitter. Required AAA cells and optional gyro are not shown as included equipment.",
+      "source": "https://rc.kyosho.com/en/32643bl.html"
+    },
+    {
+      "image": "kyosho-skyline-1972-blue-rear.jpg",
+      "alt": "Rear view of the blue and white Kyosho 32643BL KPGC10 Skyline body",
+      "caption": "Exact 32643BL rear body detail. Manufacturer photograph, not an RC Car King driving demonstration.",
+      "source": "https://rc.kyosho.com/en/32643bl.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU / body",
+      "32643BL · Nissan Skyline 2000GT-R KPGC10 Racing 1972 #15 blue/white"
+    ],
+    [
+      "Chassis",
+      "MA-020-N"
+    ],
+    [
+      "Scale / drive",
+      "1/27 · shaft AWD"
+    ],
+    [
+      "Motor",
+      "Brushed; exact winding not established here"
+    ],
+    [
+      "Length × width × height",
+      "163 × 67 × 51mm"
+    ],
+    [
+      "Wheelbase",
+      "94mm · L"
+    ],
+    [
+      "Track",
+      "56.5mm front / rear"
+    ],
+    [
+      "Wheel offset",
+      "Narrow 0.0mm front / rear"
+    ],
+    [
+      "Bearings",
+      "14 ball bearings"
+    ],
+    [
+      "Suspension",
+      "VCS front / strut rear"
+    ],
+    [
+      "Stock tires",
+      "Drift tires"
+    ],
+    [
+      "Radio",
+      "KT-531P 2.4GHz · supplied"
+    ],
+    [
+      "Drive cells required",
+      "4 AAA alkaline or NiMH"
+    ],
+    [
+      "Transmitter cells required",
+      "4 AAA alkaline"
+    ],
+    [
+      "Gyro",
+      "Optional; current MZW711 chart lists 32643BL; confirm actual production version"
+    ],
+    [
+      "ICS",
+      "Not compatible"
+    ],
+    [
+      "Included gearing",
+      "Pinions 15/17/19/21; spurs 27/29/31 · follow valid installation combinations"
+    ],
+    [
+      "Reference price",
+      "USD189.99 · Nitro Hobbies out-of-stock retailer list · 21 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is 32643BL a complete car or a body set?",
+      "answer": "It is a complete body-inclusive MA-020-N AWD Readyset with the blue/white #15 Skyline body and KT-531P transmitter. AAA cells are required separately."
+    },
+    {
+      "question": "Does the racing body mean it comes with grip tires?",
+      "answer": "No. Kyosho specifies stock drift tires. The race livery does not change the Readyset’s intended hard-surface sliding setup."
+    },
+    {
+      "question": "Which batteries does it need?",
+      "answer": "Kyosho lists four AAA alkaline or NiMH chassis cells and four AAA alkaline transmitter cells. Rechargeable chassis cells need appropriate separate charging equipment; no lithium substitution is established."
+    },
+    {
+      "question": "Is a gyro included?",
+      "answer": "No. A gyro is optional. Older product text names MZW446; updated copy and the current MZW711 compatibility chart support checking MZW711 against exact SKU 32643BL and the actual production version."
+    },
+    {
+      "question": "Can my old MINI-Z transmitter control it?",
+      "answer": "Do not assume compatibility. Kyosho excludes several older systems, including KT-18 and KT-19; the matching KT-531P is supplied. Check the exact radio documentation before using another system."
+    },
+    {
+      "question": "Is the USD189.99 figure a live Amazon price?",
+      "answer": "No. It is a dated exact-model Nitro Hobbies retailer list reference from 21 October 2026, with that retailer marking the item out of stock. No current Amazon price or availability is claimed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyosho — exact 32643BL Readyset specifications and package",
+      "url": "https://rc.kyosho.com/en/32643bl.html",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Kyosho — current English MZW711 compatibility chart, including 32643BL",
+      "url": "https://www.kyosho.com/rc/en/support/mini-z/Compatible_with_MZW711_en_3.pdf",
+      "checked": "2026-10-21",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Nitro Hobbies — exact KYO32643BL USD list reference and out-of-stock label",
+      "url": "https://nitrohobbies.com/kyo32643bl/",
+      "checked": "2026-10-21",
+      "kind": "Exact-model hobby-retailer listing"
+    },
+    {
+      "name": "Big Squid RC — Tim Mohr, KPGC10 Racing 1972 MINI-Z launch coverage, 26 June 2024",
+      "url": "https://www.bigsquidrc.com/kyosho-nissan-skyline-2000gt-r-kpgc10-racing-1972-mini-z/",
+      "checked": "2026-10-21",
+      "kind": "Independent launch coverage; not a physical test"
+    }
+  ],
+  "evidenceNote": "Exact manufacturer package and current gyro compatibility chart checked 21 October 2026. Retailer USD reference is labeled out of stock. Older MZW446 and updated MZW711 text are distinguished. No hands-on, fresh Amazon, availability or customer-rating claim.",
+  "revisionNote": "Initial publication of the blue #15 complete Readyset with exact body identity and separate AAA requirements.",
+  "seo": {
+    "title": "Kyosho MINI-Z Skyline 1972 #15 Review | RC Car King",
+    "description": "Kyosho 32643BL blue Skyline MINI-Z review: AWD drift tires, AAA battery needs, optional gyro compatibility, indoor surfaces and complete startup planning."
+  },
+  "published": "2026-10-21",
+  "updated": "2026-10-21",
+  "publishedAt": "2026-10-21T07:20:23.619Z",
+  "updatedAt": "2026-10-21T07:20:23.619Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-21T07:28:51.564Z",
+  "reviews": [
+    {
+      "route": "/kyosho/mini-z-awd-skyline-1972-15-blue/",
+      "coreWords": 2265,
+      "amazonAsin": "B0D32GLY2C",
+      "originalIdentityVerifiedAt": "2026-10-15T11:16:21.342Z"
+    },
+    {
+      "route": "/tamiya/x-sa-lunch-box-mini-gold/",
+      "coreWords": 2254,
+      "amazonAsin": "B0BDBLV18K",
+      "originalIdentityVerifiedAt": "2026-10-15T11:16:20.142Z"
+    },
+    {
+      "route": "/traxxas/trx-4-chevrolet-k10-high-trail/",
+      "coreWords": 2249,
+      "amazonAsin": "B0BPJ5VC5Y",
+      "originalIdentityVerifiedAt": "2026-10-12T22:12:24.062Z"
+    }
+  ],
+  "quota": {
+    "timezone": "Europe/Skopje",
+    "date": "2026-10-21",
+    "publishedReviews": 3
+  },
+  "builds": {
+    "production": "npm run build && npm run check passed; 60 reviews, 5 articles, 82 pages and 81 sitemap URLs",
+    "githubPreview": "npm run build && npm run check passed; committed default /rc-car-king profile"
+  },
+  "browser": {
+    "viewports": [
+      "1280x900",
+      "390x844"
+    ],
+    "findings": "All three product boxes inspected at desktop/mobile widths; no horizontal document overflow. Actual official hero images load. Mobile specification tables fit their containers; FAQ disclosures expand with matching model-specific answers. Affiliate links retain coffeedant03-20 and sponsored/nofollow. Amazon prices absent; check-price fallback displayed. Desktop Tamiya/K10 and mobile Kyosho screenshots visually inspected. All eight official photos and original diagram inspected separately.",
+    "screenshots": "Browser screenshot capture working in this run. No physical demonstrations or tests claimed."
+  },
+  "commercial": "No Amazon API, credentials, token, refresh or workflow used. Historical sanitized identities reused with original dates; existing offer snapshot unchanged."
+}
