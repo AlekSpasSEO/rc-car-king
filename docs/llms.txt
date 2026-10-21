@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [RC car steers but won’t move: what to check first](https://alekspasseo.github.io/rc-car-king/guides/rc-car-steers-but-wont-move/): RC car steers but will not drive? Follow a safe diagnostic sequence, distinguish cutoff from setup faults, and read exact-model LED codes before replacing parts.
 - [5 small RC cars for home and compact outdoor spaces](https://alekspasseo.github.io/rc-car-king/listicles/small-rc-cars-home-compact-outdoor-spaces/): Compare five small RC cars by driving space: indoor racing, hard-floor drifting, crawling and compact dirt. Exact SKUs, equipment gaps and dated costs.
 - [Brushed vs brushless RC cars: what actually changes?](https://alekspasseo.github.io/rc-car-king/guides/brushed-vs-brushless-rc-cars/): Learn brushed vs brushless RC motor basics, Kv and sensored control. Compare exact complete-car examples, maintenance needs and compatibility questions.
 - [RTR vs kit RC cars: what is actually included?](https://alekspasseo.github.io/rc-car-king/guides/rtr-vs-kit-rc-car-whats-included/): Understand RTR, Readyset and body-inclusive RC kits. Check radios, batteries, chargers, paint and total startup needs with four exact-model examples.

@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-21T09:07:03.819Z",
+  "article": "guides/rc-car-steers-but-wont-move/",
+  "intentKey": "diagnose-electric-rc-steering-responds-no-drive-without-bypassing-protection",
+  "coreWords": 1526,
+  "quota": {
+    "date": "2026-10-21",
+    "timezone": "Europe/Skopje",
+    "guideCountBefore": 0,
+    "guideCountAfter": 1
+  },
+  "sources": [
+    {
+      "name": "Axial / Horizon — original AXI00007 model manual and installed-equipment identification",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI00007_MANUAL_EN.pdf",
+      "kind": "Manufacturer vehicle manual",
+      "checked": "2026-10-21"
+    },
+    {
+      "name": "Spektrum — SPMXSE2425RX operating states, alarms and troubleshooting",
+      "url": "https://www.spektrumrc.com/on/demandware.static/-/Sites-horizon-master/default/dw14169664/Manuals/SPMXSE2425RX_MANUAL_MULTI.pdf",
+      "kind": "Manufacturer controller manual",
+      "checked": "2026-10-21"
+    },
+    {
+      "name": "Traxxas — exact K10 92056-4 R01 owner manual; XL-5 HV indicators and operating precautions",
+      "url": "https://traxxas.com/media/productattach/C-92056-4/2/92056-4-OM-EN-R01.pdf",
+      "kind": "Manufacturer vehicle/controller manual",
+      "checked": "2026-10-21"
+    },
+    {
+      "name": "Traxxas — glossary; BEC, receiver, ESC and failsafe terminology",
+      "url": "https://traxxas.com/support/glossary/",
+      "kind": "Manufacturer technical definitions",
+      "checked": "2026-10-21"
+    }
+  ],
+  "scope": "A beginner’s observation and decision guide for an electric hobby RC car that previously drove, or a completed RTR whose steering responds to new transmitter commands. It covers power-off visual inspection and matching symptoms to exact manufacturer instructions. It does not provide charging settings, controller programming, direct-battery motor tests, electrical measurements or repair procedures. Modified cars require the installed equipment’s documentation, not just the original vehicle manual. No hands-on fault finding or repair success rate is claimed.",
+  "media": "Original accessible four-stage HTML/CSS observation route; no new photographs or physical demonstration.",
+  "notes": [
+    "Only exact XL-5 HV and SPMXSE2425RX indicator examples are given. No general voltage threshold, button sequence, charging setting or protection bypass.",
+    "No Amazon API, credentials, authentication, offer refresh or workflow used. No direct buying links needed.",
+    "Separate guide quota; no additional vehicle reviews or listicle. Owner policy edits remain separate.",
+    "Axial model manual p3 identifies SPMXSE2425RX; p10 parts list omits the E in its abbreviation. Exact controller manual uses SPMXSE2425RX. Indicators checked against that document, not the abbreviated parts row."
+  ],
+  "validation": {
+    "checkedAt": "2026-10-21T09:09:47.677Z",
+    "production": "npm run build && npm run check passed: 60 reviews, 6 articles, 83 pages and 82 sitemap URLs",
+    "preview": "Default /rc-car-king build/check passed; actual article metadata, matching visible FAQs, identities, dates and discovery links checked",
+    "schema": "Article, WebPage, BreadcrumbList and FAQPage present; Product, Review and HowTo absent",
+    "responsive": "1280x900 and 390x844 layouts inspected. Desktop and mobile screenshots visually checked. No document overflow. Mobile tables scroll within 335px containers with 530px content. Six ordered steps, eight checklist entries, relevant full-review links and expanded matching LED FAQ verified.",
+    "quota": "Exactly one newly published guide for 21 October 2026; three prior vehicle reviews preserved",
+    "commercial": "No Amazon API, credentials, authentication, offer refresh or workflow used; no direct buying links or new price values needed."
+  },
+  "documents": [
+    {
+      "localResearchFile": "axial-model.pdf",
+      "bytes": 20083754,
+      "sha256": "8f92448c40abaf0325baedcbe41a7371f759bdc77779ca2f686d65275758e403"
+    },
+    {
+      "localResearchFile": "spektrum-2425.pdf",
+      "bytes": 331670,
+      "sha256": "8db82f44907e9e0516eda81d0852dd8ddd18cacbbf87f40c67ef68d5780865d5"
+    },
+    {
+      "localResearchFile": "k10.pdf",
+      "bytes": 13921278,
+      "sha256": "4ba0d81a18e948f960410c072ed9c546f31488bee49abe2884ce79bf14ffb238"
+    }
+  ]
+}

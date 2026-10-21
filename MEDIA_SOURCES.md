@@ -73,3 +73,7 @@ The five-pick shortlist reuses the visually inspected official archive assets `l
 ## Weekday reviews · 21 October 2026
 
 Tamiya Gold X-SA 46706, Kyosho blue/white #15 Skyline 32643BL and black Traxxas K10 High Trail 92056-4 use eight visually inspected official product photographs. The [dated media manifest](content/evidence/2026-10-21-review-media.json) records their original URLs, credits, byte sizes and SHA-256 hashes. Tamiya media is supplied through the exact Horizon Hobby product page and credited to Tamiya / Horizon Hobby; Kyosho and Traxxas photographs come from their official sites. The ninth asset is an original RC Car King PNG contents diagram explaining the Tamiya’s supplied and required equipment; it is not a manufacturer wiring guide or physical demonstration. K10 captions distinguish optional working lights. No community or independent-publication photographs are reused. Source conflicts and historical affiliate identities are recorded separately in each review’s evidence file.
+
+## Daily guide · 21 October 2026 · Steering responds, no drive
+
+The guide uses an original accessible HTML/CSS four-stage observation route: observe, identify, inspect, decide. It is a conceptual troubleshooting aid, not a wiring diagram, powered test procedure or fabricated repair demonstration. No new photographs, community media or product illustrations are reused. See the [dated guide evidence](content/evidence/2026-10-21-no-drive-guide.json) for exact Axial/Spektrum and Traxxas manuals, source hashes and model-specific limits.
