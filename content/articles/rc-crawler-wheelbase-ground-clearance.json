@@ -1,0 +1,279 @@
+{
+  "kind": "guide",
+  "slug": "rc-crawler-wheelbase-ground-clearance",
+  "intentKey": "understand-crawler-approach-breakover-departure-clearance-and-plan-obstacle-lines",
+  "status": "published",
+  "title": "RC crawler geometry: wheelbase, clearance and obstacle lines",
+  "dek": "A tall stance is only one part of crawling. Learn which part of the vehicle meets an obstacle first, and why the route under all four tires matters.",
+  "seo": {
+    "title": "RC Crawler Wheelbase & Ground Clearance | RC Car King",
+    "description": "Understand RC crawler wheelbase, approach, breakover and ground clearance. Read exact TRX-4M Defender and K10 examples, then plan a sensible obstacle line."
+  },
+  "published": "2026-10-22",
+  "updated": "2026-10-22",
+  "publishedAt": "2026-10-22T11:36:22.398Z",
+  "updatedAt": "2026-10-22T11:36:22.398Z",
+  "answer": "Wheelbase is the distance between the front and rear wheel centers; ground clearance describes space beneath a specified part of the vehicle. Neither alone tells you whether a crawler will cross an obstacle. The front bumper can stop the approach, the middle can hang on a crest, and the rear can catch on the exit. Read the whole route, including tire paths and side slope, rather than treat a clearance figure as a guaranteed obstacle height.",
+  "scope": "An explanation and course-planning guide for stock electric RC crawlers on dry, low-consequence obstacles. The exact-model examples are the Traxxas TRX-4M Defender 97054-1 and full-size TRX-4 K10 High Trail 92056-4. Dimensions are manufacturer listings, not our measurements or a comparison test. This guide does not prescribe suspension modifications, maximum slope angles, electrical settings or recovery equipment.",
+  "prerequisites": [
+    "The exact vehicle SKU and current operating manual; identify any changes to tires, suspension or body mounting",
+    "A dry, clear driving area with a recovery route, away from stairs, traffic, people and pets",
+    "A notebook or phone to sketch tire paths; an optional ruler for identifying dimensions with drive power disconnected",
+    "Familiarity with the vehicle’s normal controls and its shutdown, battery-disconnection and stuck-vehicle instructions"
+  ],
+  "conceptCaption": "Three contact questions to ask along the route; not a scale drawing or a capability test",
+  "concepts": [
+    {
+      "name": "ENTRY",
+      "description": "Can the front tires reach the obstacle before the bumper or body catches?"
+    },
+    {
+      "name": "CREST",
+      "description": "What passes under the middle while the front and rear tires sit on different surfaces?"
+    },
+    {
+      "name": "EXIT",
+      "description": "Will the rear bumper clear, and where will each tire land afterward?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "read-dimensions",
+      "heading": "Read the measurement before comparing the number",
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "paragraphs": [
+        "Wheelbase runs between the front and rear wheel centers, not from the nose to the tail. Overall length includes the body and its overhangs. Two trucks can therefore have similar wheelbases but different bumper contact points. For a course planner, those are separate questions: how far apart the axles sit, and how much vehicle extends beyond them. A body that looks short in a photograph is not enough evidence to answer either.",
+        "Clearance needs a location. A product table may give center ground clearance, while another passage discusses clearance under the axle’s central housing. Those values describe different places. Trace the underside from front to rear in the actual documentation or inspect it with drive power disconnected as directed. The differential housing, links, skid area and body edges do not all occupy the same height or follow the same path over a rock.",
+        "A listed dimension is a starting reference for the documented configuration. Tire deformation, suspension position, load and modifications can change the geometry encountered on a course. Do not convert a nominal 29mm center-clearance listing into permission to drive over every 29mm object. Shape, tire placement and which part contacts the object still decide the problem. Keep the measurement’s label beside the number in your notes."
+      ],
+      "table": {
+        "caption": "Dimensions answer different questions",
+        "columns": [
+          "Term",
+          "What to inspect",
+          "What it cannot establish alone"
+        ],
+        "rows": [
+          [
+            "Wheelbase",
+            "Front-to-rear wheel-center distance",
+            "A guaranteed climbing or turning result"
+          ],
+          [
+            "Center ground clearance",
+            "Gap beneath the specified central area",
+            "Clearance under every axle, link or bumper"
+          ],
+          [
+            "Front/rear overhang",
+            "Body or bumper beyond the tire contact area",
+            "A measured approach or departure angle"
+          ],
+          [
+            "Track / width",
+            "Wheel-center spacing versus the vehicle’s overall width",
+            "A safe sidehill angle"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "approach-departure",
+      "heading": "Entry and exit: the tires need a useful route",
+      "sourceIndexes": [
+        0,
+        2
+      ],
+      "paragraphs": [
+        "Approach angle describes the front-end geometry that allows the vehicle to meet a slope or obstacle without the bumper contacting first. It is not the steepest slope the motor can climb. A ledge can stop a low front bumper even when there appears to be plenty of room under the middle. Look at the front tire’s route and the lowest forward bodywork together, rather than judge the obstacle from the roofline.",
+        "Departure is the corresponding rear-end question as the vehicle leaves the obstacle. The front tires reaching level ground does not mean the crossing is finished. A rear bumper or body corner can still catch while the rear wheels descend. Keep watching until the entire vehicle is clear. On a small course, leave enough exit space to straighten or recover the car without immediately meeting another hard edge.",
+        "Changing the approach can change which tire meets an edge first, but diagonal is not automatically better. An angled route may introduce lateral lean, reduce support or place a tire beside a drop. The Defender manual suggests considering a different angle after an unsuccessful obstacle attempt; it does not supply a universal diagonal recipe. Choose a route with visible support and a simple exit, and decline one whose consequences you cannot manage."
+      ]
+    },
+    {
+      "id": "wheelbase-breakover",
+      "heading": "The crest is where wheelbase becomes obvious",
+      "sourceIndexes": [
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "Breakover concerns the vehicle’s ability to pass over a crest between its axles without the underside hanging on it. Imagine the front tires descending while the rear tires are still climbing. The raised ground between them may now meet the chassis. That is why an obstacle that looked approachable from the front can stop the vehicle halfway across. The relevant picture includes the crest’s shape and the underside, not just its highest point.",
+        "With other geometry held equal, separating the axles farther changes the space required over a sharp crest. A longer wheelbase can also span a gap that presents a different problem for a shorter vehicle. These are competing geometric effects, not a rule that long or short always wins. Real trucks also differ in tire size, clearance, body position and weight distribution, so a wheelbase-only ranking discards too much information.",
+        "A high-centered vehicle is supported by something beneath it rather than having the tire loading needed to continue normally. More trigger does not create extra geometric space. The TRX-4M manual specifically says not to keep running the motor when the model is stuck against an object. Stop, follow the model’s shutdown and handling precautions, and remove the obstruction or recover it as appropriate. Record the contact point before trying to solve a different problem."
+      ]
+    },
+    {
+      "id": "exact-examples",
+      "heading": "Two Traxxas examples show why the labels matter",
+      "sourceIndexes": [
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "Traxxas lists the stock TRX-4M Defender 97054-1 with a 155mm wheelbase and 29mm center ground clearance. Those are dimensions for the small 1/18 truck, not the full-size TRX-4. Its standard axles are not the full-size truck’s portal arrangement. Use its own manual and physical footprint when planning a small rock garden or indoor course; a shared family name does not establish shared obstacle capability.",
+        "The full-size K10 High Trail 92056-4 has a listed 336mm wheelbase and 102mm center ground clearance. Its manufacturer page separately discusses more than two inches under the center axle housing. The latter is a different location from the 102mm center figure. The K10 also has portal axles, a factory lift and different tires. Comparing only its wheelbase with the Defender would ignore most of the configuration.",
+        "Portal gearing places the axle housing higher relative to the wheel centers than a conventional straight-axle layout. That can help axle clearance, but it does not remove bumper overhang, a central contact point or the need to consider lateral balance. Nor does a lift establish a safe sidehill angle. We have not measured either truck’s breakover, grip or rollover threshold, and these examples are not an obstacle-performance ranking."
+      ],
+      "table": {
+        "caption": "Manufacturer dimensions checked 22 October 2026; distinct complete vehicles",
+        "columns": [
+          "Exact stock vehicle",
+          "Wheelbase",
+          "Center ground clearance",
+          "Keep in mind"
+        ],
+        "rows": [
+          [
+            "TRX-4M Defender 97054-1",
+            "155mm",
+            "29mm",
+            "Small stock crawler; standard axles"
+          ],
+          [
+            "TRX-4 K10 High Trail 92056-4",
+            "336mm",
+            "102mm",
+            "Full-size lifted portal truck; axle-housing clearance is a separate figure"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "plan-route",
+      "heading": "Plan the whole crossing in five passes",
+      "sourceIndexes": [
+        2
+      ],
+      "paragraphs": [
+        "This is an observation routine for a modest course, not a challenge to find the vehicle’s limit. Start with low, stable obstacles and room to stop. Do the planning before driving onto the feature; keep hands and tools away from a powered drivetrain."
+      ],
+      "steps": [
+        {
+          "heading": "Identify the entry contact",
+          "paragraphs": [
+            "Look along the intended front tire paths. Check whether the bumper or body reaches an edge before the tires can begin climbing. If the edge is too abrupt, choose another feature or route instead of planning to hit it harder."
+          ]
+        },
+        {
+          "heading": "Trace the center passage",
+          "paragraphs": [
+            "Consider where the front tires will be when the rear tires reach the obstacle. Look for a crest under the central skid area, a rock beneath an axle housing or a link that could meet an edge. You need a route for the underside as well as the tires."
+          ]
+        },
+        {
+          "heading": "Check support and lateral lean",
+          "paragraphs": [
+            "Follow all four tire paths and identify any hole or drop on either side. An angled entry that improves front clearance may create a worse side-slope problem. Avoid routes requiring a guessed maximum lean angle or a person to catch the moving truck."
+          ]
+        },
+        {
+          "heading": "Check the exit and recovery area",
+          "paragraphs": [
+            "Allow for the rear bumper, body corners and the rear tires’ descent. Keep a clear stopping area beyond the obstacle. If recovery would require reaching into moving parts or entering an unsafe location, change the course before starting."
+          ]
+        },
+        {
+          "heading": "Observe one attempt and reassess",
+          "paragraphs": [
+            "Use the vehicle’s documented operating precautions and controlled inputs. If it snags or becomes stuck, stop rather than repeat throttle attempts. After safe recovery, identify the actual contact point. Change the route or obstacle before making unrelated radio or suspension adjustments."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "common-mistakes",
+      "heading": "Troubleshoot the contact, not the specification sheet",
+      "sourceIndexes": [
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "If the nose catches before a front tire can climb, investigate entry geometry first. If the front clears but the middle hangs, inspect the crest and central route. If it nearly finishes before the rear catches, consider the exit. Those observations are more specific than “needs more clearance.” They also explain why raising a number in a shopping comparison may not solve the contact you actually encountered.",
+        "A tire spinning beside a rock is not, by itself, proof of high-centering. You may have a traction or support problem instead. Likewise, poor turning on a cramped route is not an approach-angle measurement. Make a short note of what touched and where the wheels were. If the symptom is loss of drive rather than visible obstacle contact, stop course experiments and use the actual vehicle’s troubleshooting instructions.",
+        "Keep the first response proportionate. Select a different line, reduce the obstacle or choose a course that suits the stock vehicle. Do not begin by changing tire size, lifting the suspension or adding weight to compensate for an unidentified contact. Such changes affect more than one characteristic and require their own compatibility and setup checks. Understanding the standard vehicle gives you a useful baseline before any later decision."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Your route is ready to assess when…",
+    "items": [
+      "The actual stock or modified configuration is identified",
+      "Wheelbase, center clearance and axle clearance are kept distinct",
+      "Front, central and rear contact points have each been considered",
+      "All four tire paths, lateral support and the exit are visible",
+      "Obstacles are low, stable and have a safe recovery area",
+      "No maximum slope, obstacle height or rollover capability has been invented",
+      "A stuck vehicle will be stopped and handled according to its manual"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "traxxas/trx-4m-land-rover-defender/",
+      "title": "TRX-4M Land Rover Defender · 97054-1",
+      "note": "Small stock crawler: exact dimensions, supported power package, axle layout and course limitations."
+    },
+    {
+      "route": "traxxas/trx-4-chevrolet-k10-high-trail/",
+      "title": "TRX-4 K10 High Trail · 92056-4",
+      "note": "Full-size lifted portal truck: separate center-clearance figures, long wheelbase and ownership requirements."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does 29mm ground clearance mean a crawler can cross a 29mm rock?",
+      "answer": "No. The listed center dimension does not describe every point underneath the vehicle. Rock shape, tire position, axle clearance, suspension position and entry/exit geometry also matter."
+    },
+    {
+      "question": "Is a shorter wheelbase always better for crawling?",
+      "answer": "No. It changes crest and gap geometry, while real vehicles also differ in clearance, tires, overhang, balance and steering. Compare the complete configuration with the intended course."
+    },
+    {
+      "question": "Do portal axles prevent high-centering?",
+      "answer": "No. They can raise the axle housing relative to the wheel centers, but they do not eliminate other underside contact points or bumper interference."
+    },
+    {
+      "question": "Is approach angle the maximum climbing angle?",
+      "answer": "No. Approach angle concerns front-end clearance at entry. Traction, balance, surface shape and the actual vehicle determine whether a climb can be completed."
+    },
+    {
+      "question": "Should I keep applying throttle when the crawler hangs on a rock?",
+      "answer": "No. The TRX-4M manual says not to continue running the motor when stuck against an object. Follow the actual vehicle’s shutdown, handling and recovery precautions, then reassess the route."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — glossary: wheelbase, approach angle, ground clearance and portal axle definitions",
+      "url": "https://traxxas.com/support/glossary/",
+      "kind": "Manufacturer terminology; geometry explained in original editorial analysis",
+      "checked": "2026-10-22"
+    },
+    {
+      "name": "Traxxas — exact TRX-4M Defender 97054-1 specifications and stock configuration",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-10-22"
+    },
+    {
+      "name": "Traxxas — 97054-1 R01 manual, driving precautions and obstacle approach guidance",
+      "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer vehicle manual",
+      "checked": "2026-10-22"
+    },
+    {
+      "name": "Traxxas — exact K10 High Trail 92056-4 dimensions, lift and portal explanations",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-10-22"
+    }
+  ],
+  "evidenceNote": "Original research-led geometry explanation based on manufacturer terminology, current exact-model pages and the Defender R01 manual, checked 22 October 2026. General geometric implications and the route-planning routine are editorial explanations, not manufacturer-certified capability tests. Dimensions retain their stated measurement locations; no angles, grip results or rollover limits were measured or inferred from photographs. The three-stage map is original accessible HTML/CSS. No purchase links, commercial prices or hands-on demonstrations are needed.",
+  "revisionNote": "First published 22 October 2026. A distinct explanation of entry, crest and exit geometry, with exact complete-vehicle examples and a course-planning checklist."
+}

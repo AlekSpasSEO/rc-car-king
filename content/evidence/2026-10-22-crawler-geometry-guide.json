@@ -1,0 +1,87 @@
+{
+  "checkedAt": "2026-10-22T11:36:22.398Z",
+  "article": "rc-crawler-wheelbase-ground-clearance",
+  "kind": "guide",
+  "intentKey": "understand-crawler-approach-breakover-departure-clearance-and-plan-obstacle-lines",
+  "coreWords": 1421,
+  "quota": {
+    "date": "2026-10-22",
+    "timezone": "Europe/Skopje",
+    "guidesBefore": 0,
+    "guidesAfter": 1
+  },
+  "sources": [
+    {
+      "name": "Traxxas — glossary: wheelbase, approach angle, ground clearance and portal axle definitions",
+      "url": "https://traxxas.com/support/glossary/",
+      "kind": "Manufacturer terminology; geometry explained in original editorial analysis",
+      "checked": "2026-10-22"
+    },
+    {
+      "name": "Traxxas — exact TRX-4M Defender 97054-1 specifications and stock configuration",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-10-22"
+    },
+    {
+      "name": "Traxxas — 97054-1 R01 manual, driving precautions and obstacle approach guidance",
+      "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer vehicle manual",
+      "checked": "2026-10-22"
+    },
+    {
+      "name": "Traxxas — exact K10 High Trail 92056-4 dimensions, lift and portal explanations",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-10-22"
+    }
+  ],
+  "sourceHashes": [
+    {
+      "file": "glossary.html",
+      "url": "https://traxxas.com/support/glossary/",
+      "sha256": "0d70b24d069fcf1bb5bfb1a8be0fedd4d75ecec3b3b58fe4e59bb7c8d9220f03"
+    },
+    {
+      "file": "defender.html",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "sha256": "3fe01e1f4c19501be8209685ac8eef9a616633e75fb74e165f13075a36b7f0f3"
+    },
+    {
+      "file": "k10.html",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "sha256": "92cb8214f16e2386a9b2547f4e714341933be74e3a106e9cc0dd93597d37053f"
+    }
+  ],
+  "manual": {
+    "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+    "sha256": "18fdccd38c2d97d2776698f3989bd1321fa1e10bd0afeb619820ce514f55cbf7",
+    "evidence": "Exact R01 document read during the same calendar-day vehicle research; obstacle/stuck-vehicle instructions reread for this guide."
+  },
+  "boundaries": [
+    "No numerical approach, departure, breakover, climb or rollover claims",
+    "Center clearance and axle housing clearance explicitly separated",
+    "No electrical settings, suspension modifications or unsupported recovery procedure",
+    "No Amazon API, credentials, commercial lookup or direct purchase links"
+  ],
+  "diagram": "Original accessible HTML/CSS entry/crest/exit concept map; no new image assets",
+  "scope": "Complete vehicle examples; no spare-part buying content or test claims",
+  "validation": {
+    "checkedAt": "2026-10-22T11:37:25.877Z",
+    "production": "npm run build && npm run check passed",
+    "preview": "npm run build && npm run check passed; default preview docs retained",
+    "counts": {
+      "reviews": 63,
+      "articles": 7,
+      "htmlPages": 87,
+      "sitemapUrls": 86
+    },
+    "browser": {
+      "desktop": "1280x900: heading, direct answer, concept map and article layout inspected; document width1265 within1280",
+      "mobile": "390x844: readable exact-model text and FAQ expansion inspected; document width375 within390; tables scroll within335px containers rather than overflowing page",
+      "faq": "Approach angle versus maximum climbing angle opens and matches visible/schema answer"
+    },
+    "commercial": "No API, credentials, price refresh or purchase links",
+    "discovery": "Generator/checker verifies homepage, guide archive, HTML/XML sitemaps, RSS and llms.txt"
+  }
+}
