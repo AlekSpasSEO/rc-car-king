@@ -1,0 +1,442 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "TRX-4M Land Rover Defender",
+  "modelSlug": "trx-4m-land-rover-defender",
+  "sku": "97054-1",
+  "headlineLines": [
+    "LITTLE DEFENDER.",
+    "PICK A REAL LINE."
+  ],
+  "title": "Traxxas TRX-4M Defender review: small trails, complete power",
+  "dek": "The tan 97054-1 package brings an ABS Defender body, brushed 4WD, a supplied 750mAh 2S pack and matched charger. AA cells and suitable USB input remain separate.",
+  "type": "Scale crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Indoor crawling obstacles",
+    "Dry rock gardens",
+    "Small dirt trails"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/18",
+  "format": "Ready-to-run; drive battery and charger supplied",
+  "skill": "Beginner crawler with responsible LiPo operation",
+  "price": {
+    "amount": 179.95,
+    "basis": "Traxxas US manufacturer vehicle reference · 97054-1 · current product page",
+    "source": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+    "currency": "USD",
+    "checked": "2026-10-22"
+  },
+  "purchaseNote": "Dated USD manufacturer reference, not an Amazon offer. Includes the supported 750mAh 2S iD drive pack and matched USB charger; add four AA alkaline transmitter cells and a suitable USB-A input source. Exact manual recommends at least 2A at 5V DC.",
+  "image": "traxxas-trx4m-defender-tan-1.jpg",
+  "imageAlt": "Official tan Traxxas TRX-4M Land Rover Defender 97054-1 with hard body, roof cage and illuminated bumper lights",
+  "imageCaption": "Exact tan Defender variant. Bumper LEDs are supplied; an expanded Pro Scale body-light installation is separate. Official Traxxas product photograph.",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+    "kind": "Official product photography"
+  },
+  "overview": "A compact, detailed Defender with the most important drive-power choices supplied. It suits deliberate small-course crawling and light trail exploration. Its locked spools, single speed and brushed electronics should be understood on their own terms, without importing full-size TRX-4 features.",
+  "verdict": "Buy the small scale-trail package before buying upgrades",
+  "verdictText": "The Defender makes a coherent first crawler when the hard body, course size and supplied power system match your plans. Budget for the missing AA cells and USB source, retain the supported battery/charger pairing and learn the stock profiles before changing hardware.",
+  "pros": [
+    "Supplied matched 750mAh 2S iD pack and charger reduce completion choices",
+    "Licensed molded-color ABS body, roof cage and clipless mounting give a finished scale package",
+    "Steel frame rails, four-link suspension and oil-filled GTM shocks documented",
+    "ECM-2.5 provides three drive profiles and built-in battery protection"
+  ],
+  "cons": [
+    "Four transmitter AA cells and suitable USB input source are separate",
+    "Standard self-lubricating bushings are not a full ball-bearing specification",
+    "Single-speed locked-spool drivetrain lacks full-size TRX-4 remote gear and differential controls",
+    "Tall scale body and small wheels place limits on technical lines and rough ground"
+  ],
+  "bestFor": [
+    "A first small crawler whose body is part of the appeal",
+    "A dry indoor obstacle course or small outdoor trail",
+    "A buyer who wants supplied drive power without building a kit"
+  ],
+  "avoidIf": [
+    "You need a high-speed basher or thick-grass truck",
+    "You expect a two-speed gearbox, remote diff locks or stock portal axles",
+    "You specifically want a brushless or fully ball-bearing stock package"
+  ],
+  "quickSpecs": [
+    [
+      "Exact vehicle",
+      "97054-1 · tan Defender"
+    ],
+    [
+      "Motor",
+      "Titan 180 · 87T brushed"
+    ],
+    [
+      "Drivetrain",
+      "4WD · single speed · locked spools"
+    ],
+    [
+      "Electronics",
+      "ECM-2.5 · TQ two-channel radio"
+    ],
+    [
+      "Power supplied",
+      "750mAh 2S iD LiPo + matched USB charger"
+    ],
+    [
+      "Size / wheelbase",
+      "279 × 124 × 135mm · 155mm"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "A beginner who wants a complete-drive-power small crawler with the licensed Defender body",
+    "disclosure": "Five equally weighted research-led buying scores. No measured climb angle, runtime, waterproofing, rollover or reliability test is claimed.",
+    "dimensions": [
+      {
+        "label": "Startup package",
+        "score": 8.5,
+        "reason": "Drive battery and matched charger are supplied; transmitter AA cells and USB source are still needed."
+      },
+      {
+        "label": "Crawling controls",
+        "score": 8,
+        "reason": "Three documented drive profiles support different braking/reverse choices, without remote transmission or differential functions."
+      },
+      {
+        "label": "Scale completion",
+        "score": 9,
+        "reason": "The licensed molded-color hard body, cage, details, bumper LEDs and clipless mounting form a finished scale vehicle."
+      },
+      {
+        "label": "Course fit",
+        "score": 7.5,
+        "reason": "The small footprint suits deliberate courses, while body height and small wheels constrain rough terrain and line choice."
+      },
+      {
+        "label": "Ownership value",
+        "score": 8,
+        "reason": "The USD179.95 reference includes drive power, but bushings and proprietary supported power equipment belong in the assessment."
+      }
+    ]
+  },
+  "amazon": {
+    "apiSku": "97054-1-TAN",
+    "variant": "Tan complete TRX-4M Land Rover Defender 97054-1 RTR with supplied battery and charger",
+    "identityNote": "Official base SKU 97054-1 maps to archived exact color-qualified manufacturer part 97054-1-TAN. The matching tan manufacturer photographs and product configuration are used; suffix is retained exactly for identity, not stripped during verification. Exact ASIN, brand and manufacturer part were recorded on 2026-10-12. This historical public identity evidence is reused without a new API call or current offer/stock verification.",
+    "asin": "B0C4YTM78M",
+    "marketplace": "www.amazon.com",
+    "sku": "97054-1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0C4YTM78M?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T22:12:24.062Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "The little Defender should have a small, deliberate job",
+      "paragraphs": [
+        "The TRX-4M Land Rover Defender makes most sense as a compact scale-trail vehicle whose body you actually want to look at while choosing a line. Traxxas supplies the assembled truck, radio, supported drive battery and matching charger. That gives a beginner a clearer starting point than a small crawler assembled from unrelated electrical purchases. You still need transmitter cells, suitable USB input power and a course that fits the vehicle's proportions.",
+        "This is the tan complete 97054-1 package at 1/18 scale. The manufacturer lists 279mm length, 124mm width, 135mm height and a 155mm wheelbase. It fits a different kind of trip from a full-size TRX-4: a small rock garden, an indoor obstacle route or an easy dry trail. Those dimensions do not make every obstacle in a furnished room safe, and they do not turn ordinary long grass into scale trail vegetation.",
+        "We have not driven this Defender or measured its climbing ability, runtime or rollover limits. The assessment uses the exact current product page and 97054-1 R01 instructions. A related Big Squid RC video article concerns an upgraded Defender, so its hardware and recovery performance are not treated as stock evidence. Our recommendation is to understand the supplied vehicle first. If the first plan is to replace nearly everything, compare the complete car you really want before buying this one."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "In the box",
+      "heading": "The supplied battery matters more than the RTR label",
+      "paragraphs": [
+        "The standard package includes the completed TRX-4M, licensed ABS body, Titan 180 brushed motor, ECM-2.5 electronic control module, TQ transmitter, 7.4V 750mAh two-cell LiPo and matching USB iD charger. Basic maintenance tools are also listed. You are buying a complete body-inclusive vehicle with its drive-power equipment, not a spare Defender shell or a chassis that needs a separate motor/controller installation before it can move.",
+        "Four AA alkaline transmitter batteries remain separate. So does the USB-A input source for the included charger. The exact manual recommends a minimum 2A, 5V DC output. Check the actual supply rather than assuming any socket with a familiar shape is suitable. Retain the supported battery-and-charger combination and follow its inspection, charging and storage directions. A supplied charger reduces compatibility choices; it does not make charging unattended or eliminate the need to understand the instructions.",
+        "The product identity also needs care on a marketplace. The archived manufacturer part is 97054-1-TAN, which identifies the tan version of base model 97054-1. The linked historical identity belongs to the complete vehicle. It is not part 9712-TAN, a replacement body. Read the present seller's package description and current terms before ordering, and do not interpret our retained identity date as a fresh confirmation of stock, price or any seller-added bundle."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Simple spools and one speed are the stock proposition",
+      "paragraphs": [
+        "The documented motor is the Titan 180, an 87-turn brushed unit. It drives a single-speed shaft-driven four-wheel-drive system with locked spools in the axles. That is useful identity information: it explains a slow-placement trail platform rather than a miniature version of every full-size TRX-4 function. There is no supplied remote high/low shift or independently selected differential lock to learn. Optional ratio sets are separate equipment, not extra gears selected by the stock transmitter.",
+        "A locked spool keeps the associated axle wheels coupled rather than providing the left/right speed difference of an open differential. That helps explain why surface and line choice matter when turning. It is not proof of unlimited grip or an invitation to force a tire out of a tight gap. If the truck becomes trapped, back out where safe or recover it. Continuing to load a stalled drivetrain is a poor substitute for choosing a different approach.",
+        "Use the supplied, supported power arrangement. The exact manual restricts the ECM to its intended Traxxas two-cell iD battery system; the pack's small size is not permission to substitute a random higher-voltage battery or adapter. We have not measured wheel torque, motor temperature or battery-specific runtime. Neither the 87-turn label nor a video of a modified truck can fill those evidence gaps for an untested stock tan Defender."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls & first drive",
+      "heading": "Three profiles change the behavior, not the vehicle category",
+      "paragraphs": [
+        "The TQ transmitter supplies the two-channel control brief. The ECM-2.5 combines the controller, receiver and lighting functions, and offers Sport, Trail and Crawl profiles. Their braking, drag-brake and reverse behavior differ. Crawl mode's hill holding and immediate reverse are not the same operating response as the other profiles, so learn the actual selected mode before approaching an obstacle. Use the exact manual rather than a familiar button sequence from another Traxxas ESC.",
+        "Start with a clear, level, dry area and the manufacturer's prescribed control checks. Establish correct steering direction, neutral behavior and predictable throttle response. Make one documented adjustment at a time and stop if something strains or moves unexpectedly. There is no need to invent a custom programming recipe to explain the buying benefit: these are supplied choices for different driving preferences, and their proper use begins with reading the actual controller instructions.",
+        "The ECM includes low-voltage and motor-overload protection. A warning or loss of drive calls for the matching troubleshooting instructions, not repeated throttle attempts or an attempt to bypass protection. Working steering alone does not prove that the drive system is healthy. Our separate no-drive guide explains that distinction while preserving model-specific codes. Here, the important ownership point is that learning the stock indications is part of getting value from the complete package."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering & suspension",
+      "heading": "Oil-filled shocks and a direct steering arrangement",
+      "paragraphs": [
+        "Traxxas lists a triangulated four-link suspension, oil-filled GTM shocks and steel ladder-frame rails. The stock steering servo is the 2065T, with a metal main gear, and the steering is direct rather than using a servo saver. The manufacturer describes up to 45 degrees of steering angle. Those specifications make the layout concrete, but we have not measured its turning circle, servo authority or suspension response on a particular obstacle.",
+        "Direct steering is a reason to avoid holding a wheel against a physical stop or using the transmitter to fight a jammed tire. Inspect for binding and follow the actual adjustment instructions. “Metal main gear” should not be silently expanded into an all-metal servo claim. Similarly, the stock self-lubricating bushings are a different specification from a full ball-bearing drivetrain. The supplied vehicle should be assessed accurately before optional parts become an assumed cost of admission.",
+        "Begin with stock suspension settings and a forgiving course. Observe a specific problem before changing preload or geometry, and keep the course consistent when evaluating a documented adjustment. The Defender's body height and scale details remain part of the load and clearance problem, even when the underlying chassis is familiar from another TRX-4M. No universal shock recipe or measured sidehill limit follows from the hardware list, and this review does not claim either."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain & line choice",
+      "heading": "Small trails are still real terrain choices",
+      "paragraphs": [
+        "The sensible first venue is a dry, low-consequence obstacle area with a clear way to recover the truck. Indoors, protect furniture and keep the route away from stairs, pets and people. Outdoors, use a small dirt trail or rock garden where the obstacles make sense for the wheels and wheelbase. Start with gradual transitions rather than sharp crests that can strand the center of the truck before the rear axle reaches the top.",
+        "The manufacturer's 29mm nominal center ground clearance is useful context, not a guarantee that an obstacle of that height will clear. Tire placement, approach, breakover and the body all matter. The tall Defender shell may also influence which lines you choose. We recommend a cautious first course on geometric grounds, not because we measured a rollover angle or found a statistical tipping problem. A complete small crawler should be matched to the actual space before upgrades are used to justify the mismatch.",
+        "Keep the first sessions dry despite broad waterproof marketing. The exact R01 manual says the model is not submersible or completely waterproof, identifies the transmitter's separate limits and requires additional maintenance after allowed wet use. Read the actual vehicle and battery instructions together if considering another environment. Do not transfer a wet-use instruction from a K10, larger TRX-4 or an unrelated small crawler. This review has not tested sealing, corrosion resistance or an alternative electrical installation."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & access",
+      "heading": "The hard body is a reason to choose the Defender",
+      "paragraphs": [
+        "The licensed ABS Defender body uses molded-in color and incorporates its characteristic roof basket, external cage and scale details. The tan finish is the variant pictured and historically identified here. Clipless mounting gives access without conventional loose body clips. Those are tangible package details for a buyer who enjoys the appearance of a scale trail truck; they do not establish a measured scratch, impact or fatigue resistance from a manufacturer studio photograph.",
+        "The front bumper LEDs are included. An expanded Pro Scale body-light installation is a separate proposition, so the stock photograph should not be interpreted as a complete optional lighting package. The fuel cans, jack and rear spare-wheel presentation are scale details rather than equipment that makes a stuck truck self-recovering. A body with accessories can be enjoyable on the course without being used as evidence of more traction, stronger steering or additional remote functions.",
+        "Follow the manual when removing and refitting the shell, keeping wiring and battery retention clear. The gallery's body-off image is Traxxas's illustration of the stock layout, not an RC Car King teardown. It shows why access matters: motor, battery and combined electronics occupy a compact chassis. After a drive, inspect visible debris and hardware according to the instructions. The right first maintenance habit is a repeatable inspection, not treating every cosmetic detail as a compulsory replacement item."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup & ownership",
+      "heading": "Use today’s manufacturer reference, then finish the inventory",
+      "paragraphs": [
+        "The current Traxxas product page lists USD179.95 for the Defender when checked on 22 October 2026. That dated manufacturer vehicle reference is the basis used here. Older indexed pages may show other figures; they are not today's offer and are not used to manufacture a discount. The affiliate link is a separate historically matched product identity, without a claimed fresh Amazon price, seller or availability check.",
+        "The complete first-drive basket adds four AA alkaline transmitter cells and a compatible USB-A source to the supplied truck, pack and charger. If suitable input power is already available, that changes your cash outlay; verify its actual rating before calling it an existing solution. We have not priced those remaining items as a current matched bundle, so no invented all-in total appears. This distinction keeps a battery-included crawler comparison fair against a vehicle sold without drive power.",
+        "For ownership, account for cleaning, inspection and the exact manual's maintenance requirements. The stock bushings and proprietary supported power pairing are facts to understand, not automatic instructions to replace them. A buyer intending immediate brushless conversion and broad drivetrain changes may find a different complete vehicle more coherent. Start by deciding whether the stock Defender, its controls and its course fit are what you wanted. The value calculation should not depend on pretending the original purchase includes an imagined future build."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose body preference and driving purpose separately",
+      "paragraphs": [
+        "The TRX-4M Ford Bronco, 97074-1, is the closest complete-car comparison in our archive if the small Traxxas trail platform appeals but the Defender body does not. Read its exact body, dimensions and package record rather than assuming every measurement and accessory carries over. We have not run a stock Bronco-versus-Defender climbing test. A body choice is worth making for its appearance and footprint without inventing a universal handling winner.",
+        "The original green Axial SCX24 Power Wagon, AXI00007T2, offers a different small complete crawler package and a different scale-body preference. Its full review explains the supplied radio and power equipment, USB requirements and source conflicts. Compare course dimensions and control arrangements before treating scale labels as a precise size comparison. Neither the vehicle name nor an older forum setup establishes which current electronics are fitted to a used or modified example.",
+        "For someone who really wants a large trail truck with remote high/low and selectable differential locks, the full-size TRX-4 K10 High Trail 92056-4 is a different complete-vehicle direction. It changes carrying, storage, terrain and startup-power requirements. The little Defender should not be sold as the same equipment in a smaller shell. Compare those full reviews against the same list: activity, physical venue, actual controls, supplied power and remaining equipment. That provides a conditional choice without a fictional physical shootout."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A good small crawler when the stock brief is enough",
+      "paragraphs": [
+        "Choose the TRX-4M Defender when its hard-body appearance and small trail footprint are the reason to buy. The supplied drive battery and matched charger make a first setup easier to inventory, and the documented suspension and three profiles provide a meaningful hobby platform. Add the correct transmitter cells and USB source, read the actual instructions and start on a forgiving dry course. None of that requires an immediate tuning order.",
+        "Choose another complete car if the real brief is rough-field speed, a stock brushless system, remote gear changes or minimum body height for a specialized course. Also pause on an unclear marketplace listing: a tan replacement body and the complete tan RTR are different products. The preserved 97054-1-TAN identity belongs to the vehicle. We have not claimed that a newly changed seller bundle or current offer has been verified today.",
+        "Our five equally weighted scores assess startup completeness, usable crawling controls, scale finishing, conditional course fit and ownership value for the stated beginner. They are transparent research-led judgments rather than measured runtime, climbing, waterproofing or durability results. The independent upgraded-video context is labeled as such, with no modified-truck performance transferred to stock. Buy the Defender because the original package and your intended route already make sense together, then learn what you actually own."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-trx4m-defender-tan-2.jpg",
+      "alt": "Official rear view of tan TRX-4M Defender with spare-wheel cover, molded fuel cans, jack and roof cage",
+      "caption": "Tan Defender scale details in manufacturer photography. The body accessories do not establish self-recovery capability or added stock radio functions.",
+      "source": "https://traxxas.com/trx-4m-land-rover-defender-97054-1"
+    },
+    {
+      "image": "traxxas-trx4m-defender-tan-3.jpg",
+      "alt": "Official stock TRX-4M Defender chassis layout showing Titan 180 motor, supplied battery and ECM-2.5",
+      "caption": "Official body-off layout of the 97054-1 platform, with supplied 2S iD power equipment. This is not an RC Car King teardown or powered test.",
+      "source": "https://traxxas.com/trx-4m-land-rover-defender-97054-1"
+    }
+  ],
+  "specs": [
+    [
+      "Official base SKU / exact color identity",
+      "97054-1 / archived 97054-1-TAN complete RTR"
+    ],
+    [
+      "Scale / drive",
+      "1/18 · shaft 4WD"
+    ],
+    [
+      "Motor",
+      "Titan 180 · 87-turn brushed"
+    ],
+    [
+      "Electronics",
+      "ECM-2.5 integrated ESC, receiver and LED control"
+    ],
+    [
+      "Transmission / axles",
+      "Single speed / locked spools; standard axles, not stock portals"
+    ],
+    [
+      "Steering",
+      "2065T · metal main gear · direct, no servo saver"
+    ],
+    [
+      "Suspension",
+      "Triangulated 4-link · oil-filled GTM shocks"
+    ],
+    [
+      "Bearings / bushings",
+      "Standard self-lubricating bushings"
+    ],
+    [
+      "Body",
+      "Licensed ABS molded-color Defender · clipless mounting"
+    ],
+    [
+      "Included lighting",
+      "Front bumper LEDs; expanded body lighting separate"
+    ],
+    [
+      "Length × width × height",
+      "279 × 124 × 135mm"
+    ],
+    [
+      "Wheelbase / nominal center clearance",
+      "155mm / 29mm · manufacturer figures"
+    ],
+    [
+      "Listed weight",
+      "483g · manufacturer product figure"
+    ],
+    [
+      "Wheels / tires",
+      "1-inch wheels / Canyon AT tires"
+    ],
+    [
+      "Drive battery",
+      "750mAh 7.4V 2S Traxxas iD LiPo · supplied"
+    ],
+    [
+      "Charger",
+      "Matched USB iD charger · supplied"
+    ],
+    [
+      "USB input",
+      "USB-A · at least 2A, 5V DC recommended in exact manual"
+    ],
+    [
+      "Radio power required",
+      "Four AA alkaline cells"
+    ],
+    [
+      "Drive profiles",
+      "Sport / Trail / Crawl · follow exact ECM instructions"
+    ],
+    [
+      "Reference price",
+      "USD179.95 · current Traxxas product page · 22 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does the Defender include its battery and charger?",
+      "answer": "Yes. The standard 97054-1 supplies a 750mAh 2S iD drive pack and matching USB charger. Four AA alkaline transmitter cells and a suitable USB-A input source are separate."
+    },
+    {
+      "question": "Which USB input source is specified?",
+      "answer": "The exact R01 manual recommends at least 2A at 5V DC for the supplied charger. Follow the actual charger and supplied battery instructions rather than substituting an arbitrary pack or charger."
+    },
+    {
+      "question": "Does it have remote diff locks and a two-speed transmission?",
+      "answer": "No. The stock TRX-4M Defender uses one speed and locked spools. Full-size TRX-4 features should not be transferred to this 1/18 vehicle."
+    },
+    {
+      "question": "Are portal axles and full ball bearings standard?",
+      "answer": "No. This standard package uses its documented non-portal axle layout and self-lubricating bushings. Optional hardware is not counted as factory equipment."
+    },
+    {
+      "question": "Are working lights included?",
+      "answer": "Front bumper LEDs are included. An expanded Pro Scale body-light setup is separate; the stock photo does not mean every optional light is supplied."
+    },
+    {
+      "question": "What exact variant does the affiliate link identify?",
+      "answer": "The historical manufacturer part is 97054-1-TAN, the tan complete RTR version of base 97054-1. It is not replacement body 9712-TAN. No fresh Amazon offer verification is claimed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — exact 97054-1 Defender package, current USD reference and tan photographs",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas — exact 97054-1 owner manual R01",
+      "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Big Squid RC — Tim Gluth, 20 August 2025 upgraded Defender recovery-video context",
+      "url": "https://www.bigsquidrc.com/rescue-ranger-watch-a-traxxas-trx-4m-defender-perform-an-on-trail-recovery-video/",
+      "checked": "2026-10-22",
+      "kind": "Independent video coverage of a modified vehicle; not stock performance evidence"
+    }
+  ],
+  "evidenceNote": "Current exact manufacturer package and R01 instructions checked 22 October 2026. Base model 97054-1 and archived color-qualified 97054-1-TAN are distinguished from replacement-body parts. Supplied bumper LEDs, optional body lights, standard bushings and single-speed spools are labeled. Modified-video results are not transferred to stock; no hands-on or new Amazon verification claimed.",
+  "revisionNote": "Initial publication with tan identity, complete startup inventory and exact TRX-4M operating scope.",
+  "seo": {
+    "title": "Traxxas TRX-4M Defender 97054-1 Review | RC Car King",
+    "description": "Traxxas TRX-4M Defender review: tan 97054-1 package, supplied 2S battery and charger, USB needs, stock controls, bushings and small-course limits."
+  },
+  "published": "2026-10-22",
+  "updated": "2026-10-22",
+  "publishedAt": "2026-10-22T11:16:28.868Z",
+  "updatedAt": "2026-10-22T11:16:28.868Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

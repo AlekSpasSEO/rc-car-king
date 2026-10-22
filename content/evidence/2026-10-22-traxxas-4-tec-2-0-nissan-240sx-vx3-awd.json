@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-22T11:19:34.889Z",
+  "review": "traxxas-4-tec-2-0-nissan-240sx-vx3-awd",
+  "coreWords": 2208,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "93424-4",
+  "amazon": {
+    "asin": "B0HBFZLZGD",
+    "brand": "Traxxas",
+    "manufacturerPart": "93424-4-BLUE",
+    "model": null,
+    "title": "Traxxas 4-Tec 2.0 Nissan 240SX Brushless",
+    "originalIdentityVerifiedAt": "2026-10-12T22:12:24.062Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0HBFZLZGD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Traxxas — exact 93424-4 VX3/V3300 AWD package, current USD reference and blue media",
+      "url": "https://traxxas.com/4-tec-20-nissan-240sx-brushless-93424-4",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas — exact 93424-4 owner manual R00",
+      "url": "https://traxxas.com/media/productattach/C-93424-4/2/93424-4-OM-EN-R00.pdf",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Car Action — 1 July 2026 93424-4 product-news article and specifications",
+      "url": "https://www.rccaraction.com/pit-lane/traxxas-rtr-4-tec-2-0-nissan-240sx-brushless-video",
+      "checked": "2026-10-22",
+      "kind": "Independent publication of product news; not an independent road test"
+    }
+  ],
+  "notes": [
+    "Base93424-4 maps to exact historical color part93424-4-BLUE. Manufacturer establishes current VX3/V3300; no BL-2s assumption or fresh marketplace verification.",
+    "Mass units2.28lb/1.30kg and shaft3mm/5mm conflict within current manufacturer page; unresolved values are explicitly flagged.",
+    "USD349.95 current manufacturer reference; drive power/charger/AA cells separate. No Amazon offer or road test claimed."
+  ]
+}

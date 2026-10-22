@@ -1,0 +1,435 @@
+{
+  "brand": "Losi",
+  "brandSlug": "losi",
+  "model": "Mini LMT Megalodon",
+  "modelSlug": "mini-lmt-megalodon",
+  "sku": "LOS01026T3",
+  "headlineLines": [
+    "SHARK BODY.",
+    "REAL MONSTER HARDWARE."
+  ],
+  "title": "Losi Mini LMT Megalodon review: a small Monster Jam package",
+  "dek": "LOS01026T3 pairs a molded shark body with solid-axle 4WD, a 25T brushed motor and supplied 2S power equipment. Choose the course before planning the stunts.",
+  "type": "Solid-axle monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Packed dirt",
+    "Smooth pavement",
+    "Controlled low-consequence obstacles"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/18",
+  "format": "Ready-to-run; battery and charger included",
+  "skill": "Beginner with responsible LiPo supervision; manufacturer age recommendation 14+",
+  "price": {
+    "amount": 249.99,
+    "basis": "Losi US manufacturer listed reference · exact LOS01026T3 · product page marks unavailable",
+    "source": "https://www.losi.com/product/losi-1-18-mini-lmt-megalodon-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included-blue/LOS01026T3.html",
+    "currency": "USD",
+    "checked": "2026-10-22"
+  },
+  "purchaseNote": "Dated manufacturer reference, not a live Amazon price or stock claim. Vehicle, radio, 810mAh 2S pack, S10 charger, cable and transmitter cells are supplied. A suitable USB input source remains part of the startup check; exact manual specifies 5V with at least 1A output.",
+  "image": "losi-mini-lmt-megalodon-2.jpg",
+  "imageAlt": "Official Losi Mini LMT Megalodon complete package with shark truck, SLT2 transmitter, 810mAh battery, S10 USB charger and cable",
+  "imageCaption": "Official LOS01026T3 package photograph. A compatible USB power source is required; the illustrated charger and drive battery are supplied.",
+  "imageCredit": {
+    "name": "Losi / Horizon Hobby",
+    "url": "https://www.losi.com/product/losi-1-18-mini-lmt-megalodon-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included-blue/LOS01026T3.html",
+    "kind": "Official product photography"
+  },
+  "overview": "A compact solid-axle monster truck for a Megalodon fan who wants proportional hobby controls and a matched battery/charger package. The molded shark body is a real variant distinction; it does not establish better crash resistance or turn this into a larger brushless LMT.",
+  "verdict": "Choose the shark and a course suited to a small monster truck",
+  "verdictText": "The complete power package, throttle limits and accessible cage make a clear buying case for compact Monster Jam-style play. The manual recommends age 14+, the USB source needs checking, and the current manufacturer listing is unavailable. No stunt durability or runtime has been measured here.",
+  "pros": [
+    "Complete radio and matched 2S drive battery/charger package supplied",
+    "Distinct licensed injection-molded Megalodon body with rubber fins",
+    "Solid axles, metal differentials, aluminum links and oil-filled shocks documented",
+    "SLT2 throttle limiting and removable twist-lock cage support a deliberate first setup"
+  ],
+  "cons": [
+    "Manufacturer page currently marks this exact model unavailable",
+    "USB input supply compatibility still needs checking despite the complete-RTR language",
+    "Tall body and monster-truck proportions require room and sensible obstacles",
+    "Small wheels relative to full-size bashers limit rough terrain and thick grass"
+  ],
+  "bestFor": [
+    "A Megalodon fan seeking a complete hobby-grade package",
+    "Dry compact dirt or paved courses with recovery room",
+    "Learning monster-truck control with a reduced throttle limit"
+  ],
+  "avoidIf": [
+    "You need an immediately available manufacturer-direct purchase",
+    "You expect a young child to manage LiPo operation unsupervised",
+    "Your priority is rough-field speed or a low touring-car stance"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "LOS01026T3 · blue Megalodon"
+    ],
+    [
+      "Motor",
+      "25T 380 brushed"
+    ],
+    [
+      "Drive / suspension",
+      "Solid-axle 4WD · 4-link"
+    ],
+    [
+      "Power included",
+      "810mAh 2S Smart G2 · IC2"
+    ],
+    [
+      "Radio / control",
+      "SLT2 · 50/75/100% throttle limits"
+    ],
+    [
+      "Size / wheelbase",
+      "295 × 208 × 180mm · 173mm"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "A supervised beginner or established hobbyist who specifically wants a compact Megalodon monster truck",
+    "disclosure": "Five equally weighted research-led buying scores, not measured stunt performance, crash resistance, speed, runtime or customer stars.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 8.5,
+        "reason": "Radio, matched drive power and transmitter cells are supplied; a suitable USB input source still needs checking."
+      },
+      {
+        "label": "Control accessibility",
+        "score": 8.5,
+        "reason": "The SLT2 provides throttle limits and ordinary proportional adjustments, with LiPo responsibilities and age guidance retained."
+      },
+      {
+        "label": "Monster-truck equipment",
+        "score": 8.5,
+        "reason": "Solid axles, center spool, metal axle differentials, links and oil-filled shocks form a documented monster platform."
+      },
+      {
+        "label": "Body and service access",
+        "score": 8,
+        "reason": "The shark body and rubber fins are distinctive, and the twist-lock cage opens access; no impact-life advantage is asserted."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7,
+        "reason": "The dated USD249.99 reference includes power equipment, but the exact manufacturer listing is unavailable and venue limits matter."
+      }
+    ]
+  },
+  "amazon": {
+    "variant": "LOS01026T3 blue Mini LMT Megalodon complete RTR with battery and charger; not a spare body or larger LMT",
+    "asin": "B0DVGY78P1",
+    "marketplace": "www.amazon.com",
+    "sku": "LOS01026T3",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DVGY78P1?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-15T11:15:59.668Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Exact ASIN, brand and manufacturer part were recorded on 2026-10-15. This historical public identity evidence is reused without a new API call or current offer/stock verification."
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "Choose the monster-truck experience, not just the shark",
+      "paragraphs": [
+        "The Mini LMT Megalodon is the small monster truck to consider when the shark body is the reason you want to go driving. Losi supplies a finished, licensed body over a genuine solid-axle four-wheel-drive platform, with radio and drive power equipment in the package. It is a different proposition from a decorative toy or a replacement shell. It is also a different proposition from a larger brushless basher bought primarily for covering rough ground quickly.",
+        "This review covers blue LOS01026T3. The manufacturer lists a 295mm length, 208mm width, 180mm height and 173mm wheelbase. Those dimensions make a compact course possible, but the body is still tall and the truck needs stopping and recovery space. Think about a clear dirt or paved area before imagining furniture-sized jumps. We have not driven it, established a safe landing height or measured how the molded body behaves in a rollover.",
+        "Our buying assessment comes from the exact Losi product page and Megalodon-specific manual. Greg Vogel's February 2025 RC Driver coverage identifies the actual T3 truck and shows his own running material; none of that becomes an RC Car King test result. There is also a current commercial caveat: Losi's page marks the model unavailable. Its listed USD reference is useful for context, but it is not evidence that you can order one there today."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package contents",
+      "heading": "A strong equipment basket with one USB check left",
+      "paragraphs": [
+        "The standard box includes the assembled Megalodon, SLT2 transmitter, SX108 steering servo, a combined 25A ESC/receiver, 25T 380 brushed motor and an 810mAh 2S Smart G2 LiPo with IC2 connection. The S10 Smart G2 USB-C charger, cable, four AA transmitter cells and basic tools complete the documented contents. That is a useful reduction in first-car shopping decisions compared with a vehicle that leaves the drive battery and charging system to the buyer.",
+        "The remaining input-power question is easy to miss. The exact manual describes a compatible 5V USB source with at least 1A output for the supplied charger. The manufacturer's own completion illustration also identifies a USB power supply. Check what you actually have available rather than assuming that every old USB socket is adequate. Keep the supplied battery and charger together and follow their charging, inspection and storage instructions; inclusion does not remove supervision or battery-care responsibilities.",
+        "Age guidance matters more than the cheerful shark suggests. The manual recommends age 14+ and explains the need for adult supervision where appropriate. We would not describe it as an unattended young-child toy or rely on the marketing phrase “all ages” to override that document. A gift plan should include a responsible operator, a suitable charging location and a real driving venue. The attractive complete package helps with compatibility, not with automatically teaching those habits."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drivetrain",
+      "heading": "Solid axles and a center spool set the brief",
+      "paragraphs": [
+        "Losi documents a solid-axle four-wheel-drive system with a center spool and geared front and rear differentials. A center spool couples the front and rear drive path; it is not an extra center differential with independent front/rear speed variation. The axle differentials perform a different job, allowing left and right wheel speeds to differ. That distinction explains the hardware without turning the words “4WD” into an unsupported claim that the truck can traverse every surface.",
+        "The stock motor is a 25-turn 380-size brushed unit operated by the supplied 25A combined ESC/receiver. The supported package is 2S, and the included pack is the relevant starting point. Do not transfer a 3S recommendation from a different Losi, assume a larger LMT's motor specifications apply or interpret the truck's name as a shared electrical limit. This review supplies no speed estimate, battery-specific runtime or measured comparison against the Grave Digger body variant.",
+        "Aluminum chassis plates, metal driveline yokes and full ball bearings are documented equipment. They establish what is fitted, not how many crashes an owner can expect it to survive. Keep the stock gearing and power arrangement while establishing a baseline. If movement becomes strained or abnormal, stop and use the exact troubleshooting instructions. Applying more throttle to a trapped wheel tells you little about whether a motor, connector or mechanical obstruction is responsible for the resistance."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & first setup",
+      "heading": "Use the learning controls before chasing freestyle moves",
+      "paragraphs": [
+        "The SLT2 includes steering trim, steering rate, steering reversing and a 50/75/100 percent throttle-limit switch. That gives a beginner a documented way to start with a reduced command range. It does not provide automatic braking distance, collision avoidance or a guarantee that every indoor space is suitable. Choose the lower learning setting as the manual permits, check direction and neutral behavior using its prescribed precautions, and begin with broad turns on a clear course.",
+        "Losi also describes a freestyle throttle profile with immediate brake and reverse behavior. Treat it as a distinct operating choice, not a compulsory first modification. Read the exact controller instructions before changing a jumper and understand the resulting behavior before driving. We are not reproducing a generic jumper sequence or claiming that instant reverse makes a particular stunt safe. The stock radio and electronics must first behave predictably in the configuration you actually intend to use.",
+        "Set up away from other people and loose objects. Follow the model's control-check and vehicle-securing instructions, and stop if the wheels or steering move unexpectedly. Work through one change at a time so that a correction has an understandable cause. Our recommendation is to learn steering, throttle release and recovery before creating a show course. That is an editorial learning sequence, not a report of sessions we conducted with this truck."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & steering",
+      "heading": "Adjustable hardware is useful after a baseline exists",
+      "paragraphs": [
+        "The four-link solid-axle suspension, aluminum links, sway bars and threaded oil-filled shocks distinguish this from an independent-suspension stadium truck. The manufacturer describes tapered links and adjustable shock hardware. Those features give the platform a defined mechanical character and service route, but we cannot score its actual landing composure or cornering grip without a test. A list of metal parts is not a substitute for observing an individual truck on its intended course.",
+        "The SX108 steering servo is paired with a servo saver. The saver helps manage sudden steering loads as part of the documented system; it does not promise immunity from damage or establish a measured steering-torque result in this review. Check that steering travel is free and that the tires are not caught against an obstacle. Avoid using the steering wheel as a way to force a wedged truck out of a position where it should simply be recovered.",
+        "Begin with the factory arrangement before altering shock position, preload or other hardware. Record a specific behavior you want to change and use the applicable tuning guidance. Changing several settings while also changing the obstacle course makes any result hard to interpret. The goal is to understand the truck you have, rather than copy a setup list from a different body, larger LMT or heavily modified video vehicle. None of those examples establishes an ideal universal setup for LOS01026T3."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain & course",
+      "heading": "Small monster trucks still need proportionate obstacles",
+      "paragraphs": [
+        "A dry, clear patch of compacted dirt or smooth pavement is the sensible first venue. Low-consequence obstacles can be added after the driver understands the controls and has room to recover the vehicle. The BKT-pattern tires are officially licensed and use a monster-truck tread design. That is not evidence that thick grass, deep loose stones or every improvised ramp is appropriate simply because a full-size Monster Jam truck appears in the branding.",
+        "Keep jumps out of the initial buying justification. Losi's action photographs show manufacturer demonstrations; our gallery explicitly credits them. They do not supply a safe height, repeatable landing load or guarantee about how a different driver will land. Build a course with a clear run-out and remove hard edges and fragile objects. If the only available area is a narrow furnished room, a lower micro vehicle or slow crawler may solve the space problem more comfortably.",
+        "Water resistance also has conditions. The exact manual distinguishes water-resistant operation from complete waterproofing and describes extra wet-use maintenance, battery compatibility checks and limits for the radio equipment. Start dry and use that document if later considering another environment. We do not recommend immersion, saltwater, a generic cleaning spray or a battery workaround. Keeping the first course simple helps separate normal learning from avoidable contamination and makes post-run inspection a manageable part of ownership."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & access",
+      "heading": "Megalodon is a genuine body choice, not a new motor class",
+      "paragraphs": [
+        "The injection-molded shark body with rubber fins is the particular reason to choose this variant. Its jaws, eyes and tail create a very different appearance from the van-like Grave Digger shell. Losi documents those materials, but we have not established a comparative impact advantage. Do not turn the word “rubber” into a claim that the fins cannot tear, or assume the molded body makes repeated hard landings consequence-free.",
+        "The twist-lock composite cage is fully removable, which helps provide access for the battery and ordinary inspection. The elastomer battery retention is part of the supplied layout. Use the actual access instructions, secure the battery properly and check that wiring is clear when refitting the cage. The cage, body and driver details form a scale presentation around the chassis; a manufacturer studio photograph is not evidence that we dismantled one or timed a battery change.",
+        "This is also where comparisons with the Mini LMT Grave Digger need restraint. Both belong to the compact solid-axle Mini LMT family, and the body preference may settle the purchase. We have not invented a separate power advantage for Megalodon to make that choice sound more technical. Choose the exact truck you want, verify the package and availability, and use the full reviews to identify genuine hardware differences rather than infer them from the shape of the shell."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup & ownership cost",
+      "heading": "Separate the listed reference from current stock",
+      "paragraphs": [
+        "Losi lists USD249.99 for exact LOS01026T3 when checked on 22 October 2026, while the same page marks the product unavailable. We preserve that manufacturer reference with its date and status. It is not a live Amazon offer, a guaranteed orderable price or proof of a specific lifecycle decision. Greg Vogel's older launch coverage used a different historical price; that figure has not been repackaged as today's discount or current selling price.",
+        "The practical first-drive basket is the truck package plus a compatible USB input source if you do not already own one. The supplied transmitter cells, drive battery and charger should not be charged again as missing equipment in a comparison. Conversely, do not call a random USB supply free or compatible without checking it. We have not costed a current matched source-and-vehicle bundle, so an invented all-in dollar figure would be less useful than this explicit inventory.",
+        "Ownership includes cleaning, checking hardware, inspecting the drivetrain and following the model's maintenance instructions. Wet use adds work and rough impacts can create repair needs; there is no measured repair budget or reliability rate available here. Start with the complete stock package and a suitable course before ordering optional tuning equipment. The value case depends on enjoying the monster-truck format and this body, not on pretending that every possible future modification is required to make the original truck usable."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Change the body, scale or activity deliberately",
+      "paragraphs": [
+        "The Mini LMT Grave Digger LOS01026T1 in our archive is the closest complete-vehicle comparison. It makes sense when the compact solid-axle monster format is right but the green Grave Digger is the body you actually want. Read its exact package record and compare current terms separately. A shared family does not justify borrowing another variant's seller availability, review stars, price or physical test results. Body preference is a legitimate decision when it is labeled honestly.",
+        "The Team Associated Rival MT10 V2, 20518, is a larger 1/10 four-wheel-drive brushless alternative covered in a full review. It asks a different question about space, terrain and required power equipment. Consider it when the intended venue is beyond a compact monster truck's brief, rather than treating it as a direct same-size performance rival. We have not driven the two side by side or measured a durability advantage for either.",
+        "For a tight indoor obstacle course where slow placement matters more than freestyle, the original Axial SCX24 Power Wagon AXI00007T2 is another complete package in the archive. It changes the driving activity rather than improving the Megalodon at its own job. Establish whether you want crawling, a compact monster show or a larger outdoor basher, then compare the complete startup baskets. That route is more useful than ranking every small RC truck solely by its body or motor label."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A coherent compact package for the right fan",
+      "paragraphs": [
+        "Shortlist the Mini LMT Megalodon when you specifically want its shark body, a genuine solid-axle monster chassis and a supplied radio-and-power system. The throttle limit, accessible cage and documented equipment make it easier to plan a first setup without selecting every electrical component separately. Give it a clear, dry course and learn the stock controls. Its strongest buying case is the complete compact monster experience, not an unverified claim about spectacular stunts.",
+        "Skip or postpone the purchase if the exact package cannot be sourced clearly, the venue is mostly thick lawn or the intention is unsupervised young-child operation. The unavailable manufacturer listing deserves a current seller check; the manual's age guidance and LiPo instructions deserve reading. A shark shape does not remove the responsibilities of a hobby vehicle. Nor does it turn a small truck into the full-size Monster Jam machine represented by the license.",
+        "Our five equally weighted category scores assess the supplied package, learning controls, documented monster hardware, body/access arrangement and complete-start value. They are original research-led judgments for the stated buyer. They are not customer stars, measured handling, crash testing or ownership statistics. The affiliate button retains an exact historically recorded complete-product identity with its original date; no new Amazon verification, stock or price is asserted. Decide on the venue and the actual available package before deciding on the first jump."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "losi-mini-lmt-megalodon-1.jpg",
+      "alt": "Official Losi Mini LMT Megalodon manufacturer action photograph on dirt",
+      "caption": "Manufacturer action photograph of the exact Megalodon. This is not an RC Car King test or a guarantee of stunt or wet-use capability.",
+      "source": "https://www.losi.com/product/losi-1-18-mini-lmt-megalodon-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included-blue/LOS01026T3.html"
+    },
+    {
+      "image": "losi-mini-lmt-megalodon-3.jpg",
+      "alt": "Official Losi completion illustration identifying a separate USB power supply",
+      "caption": "Losi’s completion illustration identifies the USB input source. The exact T3 manual specifies a compatible 5V source with at least 1A output.",
+      "source": "https://www.losi.com/product/losi-1-18-mini-lmt-megalodon-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included-blue/LOS01026T3.html"
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU",
+      "LOS01026T3 · blue Megalodon"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/18 · solid-axle 4WD"
+    ],
+    [
+      "Motor",
+      "25T 380-size brushed"
+    ],
+    [
+      "ESC / receiver",
+      "Spektrum 25A SLT 2-in-1"
+    ],
+    [
+      "Steering",
+      "SX108 metal-gear servo with servo saver"
+    ],
+    [
+      "Axle differentials / center",
+      "Metal geared axle differentials / center spool"
+    ],
+    [
+      "Chassis",
+      "1.5mm 6061-T6 aluminum plates · manufacturer description"
+    ],
+    [
+      "Suspension",
+      "4-link solid axles, aluminum links, sway bars, threaded oil-filled shocks"
+    ],
+    [
+      "Body",
+      "Licensed injection-molded Megalodon with rubber fins"
+    ],
+    [
+      "Drive battery",
+      "Smart G2 810mAh 2S 50C LiPo · IC2 · supplied"
+    ],
+    [
+      "Charger",
+      "S10 Smart G2 USB-C · supplied"
+    ],
+    [
+      "USB input",
+      "Compatible 5V source with at least 1A output · exact manual"
+    ],
+    [
+      "Transmitter",
+      "SLT2 · four AA cells supplied"
+    ],
+    [
+      "Length × width × height",
+      "295 × 208 × 180mm · manufacturer product table"
+    ],
+    [
+      "Wheelbase / listed weight",
+      "173mm / 899g with battery · manufacturer product table"
+    ],
+    [
+      "Wheelie bar",
+      "Two positions · included"
+    ],
+    [
+      "Age recommendation",
+      "14+ in exact manual; appropriate adult supervision required"
+    ],
+    [
+      "Reference / availability",
+      "USD249.99 · manufacturer page marked unavailable · 22 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the Mini LMT Megalodon a complete RC truck?",
+      "answer": "Yes. LOS01026T3 is a body-inclusive RTR with radio, motor, ESC/receiver, drive battery, charger, cable and four transmitter AA cells. Check a suitable USB input source separately."
+    },
+    {
+      "question": "Does it need a 3S battery?",
+      "answer": "No. The documented stock package is 2S and includes an 810mAh Smart G2 pack. Do not transfer a higher-voltage recommendation from another LMT."
+    },
+    {
+      "question": "What USB supply does the exact manual specify?",
+      "answer": "The supplied charger uses a compatible 5V USB source with at least 1A output. Follow the included charger and battery instructions; the USB source is not automatically supplied just because the charger is."
+    },
+    {
+      "question": "Is it suitable for an unsupervised young child?",
+      "answer": "The exact manual recommends age 14+ and appropriate adult supervision. Hobby vehicle and LiPo responsibilities take priority over broad all-ages marketing."
+    },
+    {
+      "question": "Is the USD249.99 price currently orderable from Losi?",
+      "answer": "The manufacturer page lists that reference but marks the exact product unavailable when checked on 22 October 2026. No current Amazon price or stock is claimed."
+    },
+    {
+      "question": "Is Megalodon proven tougher than Grave Digger?",
+      "answer": "Not by this review. Losi documents a molded shark body and rubber fins; RC Car King has not performed a body-impact comparison or crash test."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Losi — exact LOS01026T3 package, listed USD reference and unavailable label",
+      "url": "https://www.losi.com/product/losi-1-18-mini-lmt-megalodon-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included-blue/LOS01026T3.html",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Losi — Megalodon-specific LOS01026T3 manual, created November 2024",
+      "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw6093db6d/Manuals/LOS01026T3_MANUAL_EN.pdf",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, exact Megalodon introduction and video, 4 February 2025",
+      "url": "https://www.rcdriver.com/losi-megalodon-mini-lmt/",
+      "checked": "2026-10-22",
+      "kind": "Independent exact-model coverage; running material belongs to its author"
+    }
+  ],
+  "evidenceNote": "Exact T3 manufacturer listing and manual checked 22 October 2026. Current unavailable status is disclosed without inferring permanent discontinuation. USB source requirement and manual age recommendation qualify broad complete-RTR/all-ages marketing. Official media only; no physical testing or fresh commercial verification claimed.",
+  "revisionNote": "Initial publication of the exact Megalodon package, body distinction, startup equipment and dated source limitations.",
+  "seo": {
+    "title": "Losi Mini LMT Megalodon Review | RC Car King",
+    "description": "Losi LOS01026T3 Megalodon review: solid-axle 4WD, supplied 2S power, shark body, USB input needs, course limits and dated availability caveats."
+  },
+  "published": "2026-10-22",
+  "updated": "2026-10-22",
+  "publishedAt": "2026-10-22T11:13:36.648Z",
+  "updatedAt": "2026-10-22T11:13:36.648Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

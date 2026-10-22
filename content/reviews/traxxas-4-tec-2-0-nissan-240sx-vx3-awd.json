@@ -1,0 +1,434 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "4-Tec 2.0 Nissan 240SX VX3 AWD",
+  "modelSlug": "4-tec-2-0-nissan-240sx-vx3-awd",
+  "sku": "93424-4",
+  "headlineLines": [
+    "S13 STREET CAR.",
+    "FOUR WHEELS DRIVEN."
+  ],
+  "title": "Traxxas Nissan 240SX VX3 AWD review: choose the street version",
+  "dek": "93424-4 combines shaft AWD, a V3300 sensorless brushless motor and VX3 controller. This blue complete car has a different driving brief from the RWD 4-Tec Drift.",
+  "type": "On-road sport car",
+  "use": "Racing",
+  "terrain": [
+    "Smooth pavement",
+    "Prepared on-road course"
+  ],
+  "motor": "Brushless",
+  "drive": "AWD",
+  "scale": "1/10",
+  "format": "Ready-to-run vehicle; drive battery and charger separate",
+  "skill": "Beginner on-road driver with a large clear venue and restrained starting setup",
+  "price": {
+    "amount": 349.95,
+    "basis": "Traxxas US exact-model manufacturer vehicle reference · 93424-4",
+    "source": "https://traxxas.com/4-tec-20-nissan-240sx-brushless-93424-4",
+    "currency": "USD",
+    "checked": "2026-10-22"
+  },
+  "purchaseNote": "Dated manufacturer vehicle reference, not an Amazon offer or complete-start total. Add a supported 2S or 3S LiPo, compatible charger and four AA alkaline transmitter cells. VX3 does not support NiMH. Confirm the actual pack fit and complete operating instructions.",
+  "image": "traxxas-240sx-vx3-blue-1.jpg",
+  "imageAlt": "Official blue Traxxas 93424-4 Nissan 240SX 4-Tec 2.0 VX3 AWD complete on-road car",
+  "imageCaption": "Blue complete 93424-4 AWD street car in official Traxxas photography. Similar S13 body styling does not make it the RWD 105247-4 Drift package.",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/4-tec-20-nissan-240sx-brushless-93424-4",
+    "kind": "Official product photography"
+  },
+  "overview": "An assembled AWD street-car package for someone who wants the S13 appearance and a suitable paved driving area. Its brushless system and TSM provide documented equipment, while required LiPo power, low clearance and contradictory manufacturer measurements need attention.",
+  "verdict": "Choose AWD road driving deliberately",
+  "verdictText": "The 93424-4 fits a clear on-road brief: V3300/VX3 brushless power, TSM, shaft AWD and a finished clipless Nissan body. Start with supported power and the learning controls in a suitable space. Choose the RWD Drift instead when learning that dedicated drift format is the actual goal.",
+  "pros": [
+    "Exact V3300 sensorless brushless motor and VX3 2S/3S controller supplied",
+    "Shaft AWD, sealed steel-gear differentials and oil-filled shocks documented",
+    "TQi Sport radio includes TSM steering assistance and VX3 offers Training mode",
+    "Finished licensed S13 body uses clipless mounting with molded details"
+  ],
+  "cons": [
+    "Drive battery, compatible charger and four AA transmitter cells are extra",
+    "Nominal 12mm center clearance restricts rough pavement and debris",
+    "Manufacturer mass units and motor shaft-size descriptions conflict",
+    "Road-car and Drift versions share styling but have materially different drivetrain and setup briefs"
+  ],
+  "bestFor": [
+    "An S13 fan seeking AWD paved-course driving",
+    "A buyer with clear smooth pavement and stopping room",
+    "Learning on-road controls before exploring the supported higher-power configuration"
+  ],
+  "avoidIf": [
+    "You specifically want the dedicated RWD Drift package",
+    "Your only venue is gravel, lawn or broken asphalt",
+    "You need a battery-and-charger-included or NiMH-compatible package"
+  ],
+  "quickSpecs": [
+    [
+      "Exact vehicle",
+      "93424-4 · blue AWD"
+    ],
+    [
+      "Motor",
+      "Velineon V3300 · 3300Kv sensorless"
+    ],
+    [
+      "Controller",
+      "VX3 · 2S/3S LiPo only"
+    ],
+    [
+      "Radio / assistance",
+      "TQi Sport · TSM"
+    ],
+    [
+      "Size / wheelbase",
+      "467 × 216 × 131mm · 257mm"
+    ],
+    [
+      "Nominal center clearance",
+      "12mm · on-road brief"
+    ]
+  ],
+  "rating": {
+    "basis": "Editorial buying assessment",
+    "audience": "A paved-course beginner who wants the blue S13 with AWD and will budget for compatible LiPo equipment",
+    "disclosure": "Five equally weighted research-led buyer-fit scores. No measured road speed, braking distance, drift performance, runtime or crash test is claimed.",
+    "dimensions": [
+      {
+        "label": "On-road equipment",
+        "score": 8.5,
+        "reason": "Documented AWD, oil-filled shocks, steel-gear differentials and a matched brushless system form a coherent street package."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8.5,
+        "reason": "TSM and a Training profile are supplied, with appropriate space and manual-specific setup still essential."
+      },
+      {
+        "label": "Body and access",
+        "score": 8.5,
+        "reason": "The finished licensed Nissan and clipless mounts reduce preparation; manufacturer body-off views establish the accessible layout."
+      },
+      {
+        "label": "Specification clarity",
+        "score": 6.5,
+        "reason": "Exact motor/controller and power support are clear, but mass units and 3mm/5mm shaft descriptions conflict within the product page."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7.5,
+        "reason": "The USD349.95 vehicle reference excludes drive power and charging, and low-clearance pavement use narrows the available venue."
+      }
+    ]
+  },
+  "amazon": {
+    "apiSku": "93424-4-BLUE",
+    "variant": "Blue complete 93424-4 Nissan 240SX 4-Tec 2.0 AWD brushless RTR with VX3/V3300; battery and charger separate",
+    "identityNote": "Official base SKU93424-4 maps to archived exact manufacturer color part93424-4-BLUE. Archived title identifies the complete brushless Nissan, and current manufacturer documentation establishes VX3/V3300. No claim that the archived generic model field names that hardware is made. Exact ASIN, brand and manufacturer part were recorded on 2026-10-12. This historical public identity evidence is reused without a new API call or current offer/stock verification.",
+    "asin": "B0HBFZLZGD",
+    "marketplace": "www.amazon.com",
+    "sku": "93424-4",
+    "detailPageUrl": "https://www.amazon.com/dp/B0HBFZLZGD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T22:12:24.062Z",
+    "partnerTag": "coffeedant03-20"
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "A familiar Nissan body with a different job underneath",
+      "paragraphs": [
+        "Traxxas offers two very different reasons to buy a Nissan 240SX-shaped RC car. The 93424-4 reviewed here is the 4-Tec 2.0 AWD street version with a Velineon V3300 sensorless brushless motor and VX3 speed controller. The dedicated 105247-4 Drift car already in our archive uses a different rear-drive brief. Start with that distinction. A similar S13 silhouette does not make their stock tires, drivetrain purpose or learning experience interchangeable.",
+        "This article covers the blue complete 93424-4 vehicle. The manufacturer lists 467mm length, 216mm width, 131mm height and a 257mm wheelbase. Nominal center ground clearance is only 12mm. It belongs on a clear, smooth paved area with room to stop, rather than a rough driveway chosen because an AWD label sounds versatile. The Racing filter describes the on-road activity here; it is not a promise of eligibility for a particular organized racing class.",
+        "Our assessment uses the exact current product page and 93424-4 R00 manual. RC Car Action's July 2026 article provides attributable product-news context, not an independent test we conducted. We have not measured speed, braking, tire wear or handling. The buying case is the finished Nissan street package and its documented controls. Its power-equipment cost and source inconsistencies are part of that case, not footnotes to hide beneath the body photograph."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package contents",
+      "heading": "Assembled electronics, separate LiPo equipment",
+      "paragraphs": [
+        "The supplied car includes the V3300 motor, VX3 controller, TQi Sport radio system and finished clipless Nissan body. Maintenance tools are listed, but the drive battery, charger and four AA alkaline transmitter cells are separate. That makes the complete first-drive inventory more involved than the assembled appearance suggests. It is still a complete body-inclusive vehicle, not the separately marketed bodyless 4-Tec chassis or a spare Nissan shell.",
+        "VX3 supports the documented two- or three-cell LiPo configuration and does not support NiMH. Do not borrow an old brushed 4-Tec's battery advice or assume a pack is suitable because it fits the connector. Check the actual vehicle, battery and charger instructions together, including the permitted connector arrangement, physical fit and retention. The manufacturer lists a 174 × 48mm battery area with 23mm or 26mm height arrangements; that is a fit check, not approval for every pack within those dimensions.",
+        "A supported 2S starting setup is a sensible editorial choice for learning, rather than treating the highest supported cell count as a requirement. The exact pack and charger still need selecting, and this review does not supply charging settings or a shortcut around low-voltage protection. Retain the manual and equipment information with the car. If buying through a marketplace, check that the current listing describes the complete blue 93424-4 package rather than the similarly styled RWD Drift, a body or another power-system generation."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & AWD",
+      "heading": "V3300 and VX3 identify the current configuration",
+      "paragraphs": [
+        "The current manufacturer identifies a 3300Kv V3300 sensorless brushless motor paired with VX3. That is the equipment this review describes, not a BL-2s setup inferred from the related Drift car. Kv is a motor speed-per-volt label, not a measured vehicle speed or a guarantee of available grip. The actual car adds its gearing, tires, supported battery configuration and driving surface. Those details must remain connected when interpreting any performance claim.",
+        "The steel center driveshaft sends power to both axles, with sealed steel-gear differentials. The stock on-road tires and low chassis position make it a street-car proposition. AWD does not eliminate understeer, tire limits or the need to brake before an obstacle, and we have no physical handling data to turn those mechanisms into a universal grip ranking. It is also not evidence that the vehicle will behave like the dedicated rear-drive drift version on its own specialist tires.",
+        "Traxxas advertises different speed potential on 2S and 3S without requiring a gearing change. Those are manufacturer claims, not RC Car King measurements, and they do not determine a suitable first venue. Use the factory gearing and an appropriate supported setup while learning. A speed headline is a poor reason to choose an obstructed parking area or to ignore a temperature warning. We have not timed a pass, logged temperatures or estimated a runtime from the included motor rating."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & learning",
+      "heading": "TSM helps with steering; it does not choose the route",
+      "paragraphs": [
+        "The TQi Sport radio provides the control system, and Traxxas Stability Management supplies documented steering assistance. TSM responds to the vehicle's motion to help with directional control; it does not see pedestrians, identify a curb or create additional stopping distance. Learn how to enable and disable it from the exact radio instructions and understand its effect in a clear area. We are not describing a measured correction angle or claiming that it prevents crashes.",
+        "VX3's Sport, Race and Training profiles provide different operating responses. Training limits forward and reverse output while retaining braking according to the manual. Race omits reverse. Those distinctions are useful for planning a beginner setup and interpreting behavior, but they are not a universal button sequence for every Traxxas controller. Read the actual selection and control-check instructions before changing the profile, and check direction and neutral behavior using the prescribed precautions.",
+        "Start with gentle inputs, generous separation and an uncomplicated route. Stop if steering strains, throttle response is abnormal or a protection indication appears. Make one documented change at a time rather than resetting several controls until the car moves. A useful first session establishes predictable steering, braking and recovery at the selected configuration. It does not require exploring full supported power, recording a speed run or proving that the body styling looks convincing in a powerslide photograph."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Chassis & suspension",
+      "heading": "Adjustability is a reason to learn a baseline",
+      "paragraphs": [
+        "The platform uses oil-filled Ultra Shocks, captured suspension links, a low-CG chassis and a 2057 metal-gear steering servo with an integrated saver. The modular chassis arrangement and adjustable battery retention are documented features. They help explain the equipment and access layout, not a measured claim about damping quality or steering precision. We have not compared shock settings, cornering speeds or tire compounds on a physical test car.",
+        "Choose a repeatable paved route before changing suspension settings. If the car behaves unexpectedly, check the surface, tires, free movement and the actual controls before ordering tuning parts. A stone caught in the chassis or a tire fouling a body is not a suspension setup problem. Keep steering travel within the applicable instructions and do not hold it against binding. The presence of a servo saver is not permission to use the steering system as a lever against a curb.",
+        "An organized race class introduces additional questions: dimensions, tires, power rules and permissible assistance. The Ready-To-Race trademark and our on-road category label do not answer those rules. Ask the local organizer before buying the car for a specific class. For recreational use, the stronger comparison is whether the documented chassis, controls and course fit meet your intended activity. Avoid turning a list of adjustable hardware into a promise that the stock package suits every track."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain & power",
+      "heading": "Pavement quality is part of the specification",
+      "paragraphs": [
+        "With a manufacturer-listed 12mm center ground clearance, the 240SX needs a much cleaner surface than a trail truck. Broken asphalt, gravel, tall grass and abrupt driveway transitions are poor starting assumptions. Walk the proposed driving area first, identify a clear run-out and keep traffic and pedestrians separate. Small debris can reach the chassis even when it appears insignificant beside a parked full-size car. AWD changes the driven wheels, not the height of the underside.",
+        "Begin with a broad route and the documented learning controls. Do not use a public-road speed figure as a venue recommendation or assume a large battery makes braking space less important. A supported lower-power configuration still requires enough room to stop and recover the vehicle. If the available paved area is cramped, a smaller complete on-road car or a different activity may be a better purchase than a large street car that is rarely driven comfortably.",
+        "Wet-operation claims have conditions too. The exact R00 manual distinguishes water-resistant equipment from a submersible or completely waterproof vehicle and sets separate transmitter, battery and maintenance limits. Start dry, and consult those exact instructions before any other environment. We do not transplant a K10 battery rule, give an immersion recommendation or invent an aftermarket sealing solution. A simple dry venue makes early control checks and post-run inspection easier to interpret without adding weather and contamination variables."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & specifications",
+      "heading": "A finished S13, with two unresolved data conflicts",
+      "paragraphs": [
+        "The licensed Nissan body is finished and uses clipless mounts integrated with molded details. Its grille, mirrors, splitter, spoiler and brake-disc presentation supply the S13 appearance without a painting job. The official blue front and rear photographs show the actual variant used here. The chassis gallery image is manufacturer media with the body removed and battery tray empty; it illustrates the layout rather than documenting an RC Car King teardown or a supplied drive battery.",
+        "Two current manufacturer inconsistencies deserve a visible note. The vehicle weight is printed as 2.28 pounds with 1.30kg alongside it, which does not agree. The motor specification table lists a 3mm shaft while a feature paragraph describes a 5mm output shaft. We have not weighed the car or measured the shaft. Neither value is silently corrected using a conversion or a different vehicle's motor listing.",
+        "Those conflicts need not prevent understanding the stock buying brief, but they matter before tight shipping/storage decisions or selecting replacement gearing. Confirm the actual equipment with Traxxas when a decision depends on either measurement. The press-release version also uses different motor dimensions and mass from the current product table, so this review avoids inventing certainty from repeated syndicated copy. The exact V3300/VX3 identity and AWD layout are clear; disputed physical figures remain disputed."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup & service",
+      "heading": "USD349.95 buys the vehicle, not the power basket",
+      "paragraphs": [
+        "The exact manufacturer page lists USD349.95 for 93424-4 when checked on 22 October 2026. That is our dated static vehicle reference. It is not a live Amazon price, availability claim or a complete first-drive total. The historical affiliate record identifies the blue complete brushless vehicle through manufacturer part 93424-4-BLUE. It does not establish current seller terms or supply a fresh inspection of the marketplace package.",
+        "The complete startup basket includes a supported LiPo, its compatible charger and four AA alkaline transmitter cells. Verify the pack, connector, retention and charging requirements rather than comparing capacity numbers alone. We have not costed a current matched basket, so we do not manufacture an all-in sum. A buyer who already owns suitable documented equipment faces a different outlay from a first-time owner; neither should count unspecified drawer contents as automatically compatible.",
+        "Routine ownership involves inspecting tires, wiring, hardware, steering and the drivetrain according to the manual. Keep the car clean enough to identify damage and stop on unexplained heat, binding or loss of drive. This review does not estimate tire life, crash repair frequency or long-term reliability. If the main plan is a drift conversion, compare the actual dedicated Drift vehicle and its complete package first. The more useful purchase is the car whose stock purpose matches your venue, rather than a project justified by unpriced future changes."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose the driving format before the body shape",
+      "paragraphs": [
+        "The first alternative is the dedicated Traxxas 4-Tec Drift Nissan 240SX, 105247-4, already covered in our archive. It serves a rear-drive drift brief rather than this AWD street-car brief. Choose between them using the driving style and available surface, not the similarity of the body. We have not run a physical comparison, and a video of one version does not establish the stock performance or controls of the other.",
+        "Kyosho's Fazer Mk2 Skyline 2000GT-R KPGC10, 34425T1C, is another complete larger on-road car in the archive. It offers a different licensed body and package to assess against the same paved-course requirement. Read the full review for its actual supplied electronics and remaining equipment rather than treating every Fazer or 4-Tec as interchangeable. A preference for an older Skyline shell is a valid reason to compare, without inventing a measured handling winner.",
+        "The Team Associated Reflex 14R Hoonicorn, 20178, takes the complete-car comparison into a smaller format. It may be worth reading when carrying size or the course footprint is the real restriction. Smaller still requires a suitable surface and clear space; it is not an automatic license for rough pavement or indoor crowding. Compare the complete equipment baskets and intended courses in the full reviews. These alternatives are conditional buying routes, not a speed podium or competition-class recommendation."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "The AWD street Nissan makes sense on the right pavement",
+      "paragraphs": [
+        "Buy the blue 93424-4 when the finished S13 appearance, documented AWD platform and VX3/V3300 brushless system fit a real paved driving plan. The supplied TSM and learning profile add useful control choices, and the clipless body removes finishing work. Budget for compatible LiPo equipment and choose a conservative initial configuration. A clear course and a predictable first setup matter more than exploring the manufacturer's maximum speed claim immediately.",
+        "Skip it when the intended job is dedicated rear-drive drifting, rough-field bashing or a battery-included first purchase. Also resolve the manufacturer's contradictory mass and shaft figures if your planned decision depends on them. We have not hidden those discrepancies behind an exact-looking specification table. Likewise, the historical blue affiliate identity is not a claim of fresh API verification, current inventory or a newly measured relationship between this car and the related Drift model.",
+        "The five equally weighted scores assess documented street equipment, learning controls, body/access, specification clarity and complete-start value for the stated buyer. They are transparent research-led editorial judgments, not customer stars, measured braking, lap times or crash results. RC Car Action's product-news context is attributed without adopting it as our test. Choose the actual AWD road-car package because it fits the surface and style you want, then use the exact manual to learn its operation."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "image": "traxxas-240sx-vx3-blue-2.jpg",
+      "alt": "Official rear three-quarter view of blue Traxxas 93424-4 Nissan 240SX with spoiler and street tires",
+      "caption": "Official blue AWD street-car body detail. Shared Nissan styling does not make the 93424-4 the dedicated RWD Drift variant.",
+      "source": "https://traxxas.com/4-tec-20-nissan-240sx-brushless-93424-4"
+    },
+    {
+      "image": "traxxas-240sx-vx3-blue-3.jpg",
+      "alt": "Official 93424-4 AWD chassis overhead with VX3 ESC, V3300 motor and empty drive-battery tray",
+      "caption": "Manufacturer stock chassis photograph. The drive battery and charger are separate; this body-off image is not our teardown or test.",
+      "source": "https://traxxas.com/4-tec-20-nissan-240sx-brushless-93424-4"
+    }
+  ],
+  "specs": [
+    [
+      "Official SKU / exact identity",
+      "93424-4 / archived 93424-4-BLUE complete RTR"
+    ],
+    [
+      "Scale / drive",
+      "1/10 · shaft AWD"
+    ],
+    [
+      "Motor",
+      "Velineon V3300 · 3300Kv sensorless brushless"
+    ],
+    [
+      "Controller",
+      "VX3 · 2S/3S LiPo; NiMH not supported"
+    ],
+    [
+      "Radio / steering assistance",
+      "TQi Sport two-channel transmitter / TSM"
+    ],
+    [
+      "Steering servo",
+      "2057 metal gear · integrated servo saver"
+    ],
+    [
+      "Differentials",
+      "Sealed, steel bevel gears; manufacturer describes limited slip"
+    ],
+    [
+      "Suspension",
+      "Oil-filled Ultra Shocks · captured links"
+    ],
+    [
+      "Body",
+      "Licensed painted clipless Nissan 240SX"
+    ],
+    [
+      "Length × width × height",
+      "467 × 216 × 131mm"
+    ],
+    [
+      "Wheelbase / front-rear track",
+      "257mm / 200mm both axles"
+    ],
+    [
+      "Nominal center clearance",
+      "12mm"
+    ],
+    [
+      "Vehicle mass conflict",
+      "Manufacturer lists 2.28lb and 1.30kg inconsistently; not independently resolved"
+    ],
+    [
+      "Motor shaft conflict",
+      "3mm in specification table; 5mm in feature copy; confirm actual motor before selecting parts"
+    ],
+    [
+      "Battery fit envelope",
+      "174 × 48 × 23mm or 26mm height configuration · verify actual retention"
+    ],
+    [
+      "Required equipment",
+      "Supported LiPo, compatible charger, four AA alkaline transmitter cells"
+    ],
+    [
+      "Drive profiles",
+      "Sport / Race / Training · manual-specific operation"
+    ],
+    [
+      "Reference price",
+      "USD349.95 · Traxxas manufacturer vehicle reference · 22 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the same car as the 4-Tec Drift Nissan 240SX?",
+      "answer": "No. This 93424-4 is the shaft-AWD street car with V3300 motor and VX3 controller. The 105247-4 Drift package has a different rear-drive brief despite similar body styling."
+    },
+    {
+      "question": "Does the 93424-4 include a battery and charger?",
+      "answer": "No. Add a supported 2S or 3S LiPo, compatible charger and four AA alkaline transmitter batteries. Check physical fit, retention and the actual equipment instructions."
+    },
+    {
+      "question": "Can the VX3 use NiMH batteries?",
+      "answer": "The exact current product documentation specifies 2S or 3S LiPo and says NiMH is not supported. Advice for an older brushed 4-Tec does not establish compatibility here."
+    },
+    {
+      "question": "Does TSM prevent crashes?",
+      "answer": "No. It is steering assistance, not obstacle detection or an automatic braking system. A suitable clear venue and driver control remain necessary."
+    },
+    {
+      "question": "What is the car’s verified weight and motor shaft size?",
+      "answer": "They are not independently verified here. Traxxas lists conflicting 2.28lb/1.30kg weight values and 3mm/5mm shaft descriptions. Confirm the actual vehicle and motor where those measurements affect a decision."
+    },
+    {
+      "question": "Has RC Car King measured its speed or compared it on a track?",
+      "answer": "No. Advertised speed potential belongs to the manufacturer. This is a research-led buying assessment, with no measured speed, braking, lap-time, runtime or competition-class claim."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — exact 93424-4 VX3/V3300 AWD package, current USD reference and blue media",
+      "url": "https://traxxas.com/4-tec-20-nissan-240sx-brushless-93424-4",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas — exact 93424-4 owner manual R00",
+      "url": "https://traxxas.com/media/productattach/C-93424-4/2/93424-4-OM-EN-R00.pdf",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Car Action — 1 July 2026 93424-4 product-news article and specifications",
+      "url": "https://www.rccaraction.com/pit-lane/traxxas-rtr-4-tec-2-0-nissan-240sx-brushless-video",
+      "checked": "2026-10-22",
+      "kind": "Independent publication of product news; not an independent road test"
+    }
+  ],
+  "evidenceNote": "Current exact product page and R00 manual checked 22 October 2026. Current VX3/V3300 and 2S/3S LiPo-only support established independently of the historical generic marketplace title. Manufacturer 2.28lb/1.30kg and 3mm/5mm shaft conflicts retained, with no physical measurement substituted. Official blue/body-off media only; no hands-on or fresh commercial verification.",
+  "revisionNote": "Initial exact blue AWD street-car review, distinct from the existing RWD Drift article, with complete startup basket and visible source conflicts.",
+  "seo": {
+    "title": "Traxxas 240SX VX3 AWD 93424-4 Review | RC Car King",
+    "description": "Traxxas 93424-4 Nissan 240SX review: VX3 and V3300 brushless AWD, LiPo requirements, street-course fit, Drift differences and conflicting specifications."
+  },
+  "published": "2026-10-22",
+  "updated": "2026-10-22",
+  "publishedAt": "2026-10-22T11:19:34.889Z",
+  "updatedAt": "2026-10-22T11:19:34.889Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

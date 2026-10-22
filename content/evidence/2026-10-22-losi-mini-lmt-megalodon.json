@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-22T11:13:36.648Z",
+  "review": "losi-mini-lmt-megalodon",
+  "coreWords": 2235,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "LOS01026T3",
+  "amazon": {
+    "asin": "B0DVGY78P1",
+    "brand": "Losi",
+    "manufacturerPart": "LOS01026T3",
+    "model": "LOS01026T3",
+    "title": "Losi 1/18 Mini LMT Megalodon 2S 4X4 RTR Brushed Monster Truck Battery & Charger Included Blue LOS01026T3",
+    "originalIdentityVerifiedAt": "2026-10-15T11:15:59.668Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DVGY78P1?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Losi — exact LOS01026T3 package, listed USD reference and unavailable label",
+      "url": "https://www.losi.com/product/losi-1-18-mini-lmt-megalodon-2s-4x4-rtr-brushed-monster-truck-battery-and-charger-included-blue/LOS01026T3.html",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Losi — Megalodon-specific LOS01026T3 manual, created November 2024",
+      "url": "https://www.losi.com/on/demandware.static/-/Sites-horizon-master/default/dw6093db6d/Manuals/LOS01026T3_MANUAL_EN.pdf",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, exact Megalodon introduction and video, 4 February 2025",
+      "url": "https://www.rcdriver.com/losi-megalodon-mini-lmt/",
+      "checked": "2026-10-22",
+      "kind": "Independent exact-model coverage; running material belongs to its author"
+    }
+  ],
+  "notes": [
+    "Exact brand, SKU and complete Megalodon title matched in historical public record dated 15 October; no API call.",
+    "Losi lists USD249.99 but marks product unavailable; no claim of current orderability or permanent discontinuation.",
+    "Manual is Megalodon-specific, not the original Grave Digger manual. Age14+ and USB5V1A requirements retained."
+  ]
+}

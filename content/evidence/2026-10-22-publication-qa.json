@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-22T11:25:26.184Z",
+  "reviews": [
+    {
+      "route": "/losi/mini-lmt-megalodon/",
+      "coreWords": 2235,
+      "amazonAsin": "B0DVGY78P1",
+      "originalIdentityVerifiedAt": "2026-10-15T11:15:59.668Z"
+    },
+    {
+      "route": "/traxxas/trx-4m-land-rover-defender/",
+      "coreWords": 2192,
+      "amazonAsin": "B0C4YTM78M",
+      "originalIdentityVerifiedAt": "2026-10-12T22:12:24.062Z"
+    },
+    {
+      "route": "/traxxas/4-tec-2-0-nissan-240sx-vx3-awd/",
+      "coreWords": 2208,
+      "amazonAsin": "B0HBFZLZGD",
+      "originalIdentityVerifiedAt": "2026-10-12T22:12:24.062Z"
+    }
+  ],
+  "quota": {
+    "timezone": "Europe/Skopje",
+    "date": "2026-10-22",
+    "publishedReviews": 3
+  },
+  "builds": {
+    "production": "npm run build && npm run check passed; 63 reviews, 6 articles, 86 pages, 85 sitemap URLs",
+    "githubPreview": "npm run build && npm run check passed; default /rc-car-king profile retained for committed docs"
+  },
+  "browser": {
+    "viewports": [
+      "1280x900",
+      "390x844"
+    ],
+    "findings": "All three review pages inspected at desktop/mobile dimensions; no horizontal document overflow. Mobile tables measured 335.2px within 375px content area. Official hero photographs load; all nine source photographs individually inspected. Model-specific FAQs expand; Nissan source conflicts and Megalodon unavailable-reference explanation match visible source notes. Amazon offer boxes display check-price fallback without numeric offers. Affiliate tag coffeedant03-20 and sponsored/nofollow confirmed.",
+    "screenshots": "Desktop Megalodon/Nissan product boxes, mobile Megalodon/Defender product boxes, desktop Defender article layout, mobile FAQ answers visually inspected."
+  },
+  "commercial": "No Amazon API, credentials, tokens, refresh or workflow used. Historical sanitized identities reused with original verification dates; existing offer data unchanged."
+}

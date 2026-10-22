@@ -15,12 +15,12 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Publication feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
+- [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
-- [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 
@@ -35,6 +35,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [Losi Mini LMT Megalodon](https://alekspasseo.github.io/rc-car-king/losi/mini-lmt-megalodon/): Losi LOS01026T3 Megalodon review: solid-axle 4WD, supplied 2S power, shark body, USB input needs, course limits and dated availability caveats.
+- [Traxxas 4-Tec 2.0 Nissan 240SX VX3 AWD](https://alekspasseo.github.io/rc-car-king/traxxas/4-tec-2-0-nissan-240sx-vx3-awd/): Traxxas 93424-4 Nissan 240SX review: VX3 and V3300 brushless AWD, LiPo requirements, street-course fit, Drift differences and conflicting specifications.
+- [Traxxas TRX-4M Land Rover Defender](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4m-land-rover-defender/): Traxxas TRX-4M Defender review: tan 97054-1 package, supplied 2S battery and charger, USB needs, stock controls, bushings and small-course limits.
 - [Kyosho MINI-Z AWD Skyline 2000GT-R Racing 1972 #15](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-awd-skyline-1972-15-blue/): Kyosho 32643BL blue Skyline MINI-Z review: AWD drift tires, AAA battery needs, optional gyro compatibility, indoor surfaces and complete startup planning.
 - [Tamiya X-SA Lunch Box Mini Gold Edition](https://alekspasseo.github.io/rc-car-king/tamiya/x-sa-lunch-box-mini-gold/): Tamiya 46706 Gold X-SA review: what is included, missing radio and power equipment, SW-01 source conflicts, small-course fit and complete startup planning.
 - [Traxxas TRX-4 Chevrolet K10 High Trail Edition](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-chevrolet-k10-high-trail/): Traxxas K10 High Trail 92056-4 review: lifted geometry, portal axles, two-speed controls, diff locks, battery needs, manual limits and complete startup cost.

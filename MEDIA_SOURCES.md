@@ -77,3 +77,7 @@ Tamiya Gold X-SA 46706, Kyosho blue/white #15 Skyline 32643BL and black Traxxas 
 ## Daily guide · 21 October 2026 · Steering responds, no drive
 
 The guide uses an original accessible HTML/CSS four-stage observation route: observe, identify, inspect, decide. It is a conceptual troubleshooting aid, not a wiring diagram, powered test procedure or fabricated repair demonstration. No new photographs, community media or product illustrations are reused. See the [dated guide evidence](content/evidence/2026-10-21-no-drive-guide.json) for exact Axial/Spektrum and Traxxas manuals, source hashes and model-specific limits.
+
+## Weekday reviews · 22 October 2026
+
+Losi Mini LMT Megalodon LOS01026T3, tan Traxxas TRX-4M Defender 97054-1-TAN and blue AWD Nissan 240SX 93424-4-BLUE use nine individually inspected official assets. The [dated media manifest](content/evidence/2026-10-22-review-media.json) records original full-resolution URLs, credits, sizes, SHA-256 hashes and exact-manual hashes. The Megalodon package image distinguishes supplied power equipment from the required USB source; its action photograph is explicitly a manufacturer demonstration. Traxxas body-off photographs show documented stock layouts, not RC Car King teardown work. Defender captions separate included bumper LEDs from optional body lights. No community or independent-publication photography is reused.

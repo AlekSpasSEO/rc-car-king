@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-22T11:16:28.868Z",
+  "review": "traxxas-trx-4m-land-rover-defender",
+  "coreWords": 2192,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "97054-1",
+  "amazon": {
+    "asin": "B0C4YTM78M",
+    "brand": "Traxxas",
+    "manufacturerPart": "97054-1-TAN",
+    "model": "97054-1",
+    "title": "Traxxas TRX-4M 4X4 Crawler with Land Rover Defender Body",
+    "originalIdentityVerifiedAt": "2026-10-12T22:12:24.062Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0C4YTM78M?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Traxxas — exact 97054-1 Defender package, current USD reference and tan photographs",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Traxxas — exact 97054-1 owner manual R01",
+      "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+      "checked": "2026-10-22",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "Big Squid RC — Tim Gluth, 20 August 2025 upgraded Defender recovery-video context",
+      "url": "https://www.bigsquidrc.com/rescue-ranger-watch-a-traxxas-trx-4m-defender-perform-an-on-trail-recovery-video/",
+      "checked": "2026-10-22",
+      "kind": "Independent video coverage of a modified vehicle; not stock performance evidence"
+    }
+  ],
+  "notes": [
+    "Base97054-1 maps exactly to cached color part97054-1-TAN; use apiSku suffix without stripping. Historical title is complete crawler; body-only9712-TAN rejected.",
+    "USD179.95 is current manufacturer page, replacing older indexed159.95 reference only for this new article.",
+    "R01 USB5V2A recommendation and proprietary supplied battery/charger instructions respected. Independent context is an upgraded vehicle, not a stock test."
+  ]
+}

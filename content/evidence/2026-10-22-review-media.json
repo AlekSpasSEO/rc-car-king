@@ -1,0 +1,86 @@
+{
+  "checked": "2026-10-22",
+  "scope": "Nine official exact-product photographs, individually visually inspected. Tan Defender and blue AWD Nissan body-off images are manufacturer stock layout illustrations, not RC Car King teardown photography. Megalodon hero depicts supplied package; manufacturer action photo is not our test and USB completion graphic qualifies supplied-charger language.",
+  "assets": [
+    {
+      "file": "traxxas-trx4m-defender-tan-1.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/7/97054-1-TRX-4M-Defender-3qtr-Front-TAN_53399737.jpg",
+      "credit": "Traxxas",
+      "bytes": 195479,
+      "sha256": "49d243fb300bea2d801f4100cb3c856bb08c251ce17b5507bb4b935dbe67d54b"
+    },
+    {
+      "file": "traxxas-trx4m-defender-tan-2.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/7/97054-1-TRX-4M-Defender-3qtr-Rear-TAN_53399336.jpg",
+      "credit": "Traxxas",
+      "bytes": 168168,
+      "sha256": "41e672333770077cd17669358d2f0aefd6890c184d65864620bc5fe95e281e08"
+    },
+    {
+      "file": "traxxas-trx4m-defender-tan-3.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/7/97054-1-1-18th-Defender-Chassis-Overhead_53399384.jpg",
+      "credit": "Traxxas",
+      "bytes": 221956,
+      "sha256": "04703f9b2f21ad19f54a6614e0d4a15ef339b6b82f78785305df0055521a73d5"
+    },
+    {
+      "file": "traxxas-240sx-vx3-blue-1.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/3/93424-4-Nissan-240-VX3-3Qrtr-Front-BLUE_66044223.jpg",
+      "credit": "Traxxas",
+      "bytes": 154754,
+      "sha256": "d0b8d5419dd717d22dec3d243506678315615f053f35c9331e69a17e3c25fa80"
+    },
+    {
+      "file": "traxxas-240sx-vx3-blue-2.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/3/93424-4-Nissan-240-VX3-3Qrtr-Rear-BLUE_66044227.jpg",
+      "credit": "Traxxas",
+      "bytes": 175584,
+      "sha256": "a8413dcbf49b59a85a42c41e06035b3b9a9018cc018b6e8321db0d923eae0f32"
+    },
+    {
+      "file": "traxxas-240sx-vx3-blue-3.jpg",
+      "url": "https://traxxas.com/media/catalog/product/9/3/93424-4-Nissan-240-VX3-Chassis-Overhead_66044239.jpg",
+      "credit": "Traxxas",
+      "bytes": 189342,
+      "sha256": "dee1f1d5d51fd06ca2f18bea4b17e79e1bc3edfb7c44316c9b8d59f670d911f3"
+    },
+    {
+      "file": "losi-mini-lmt-megalodon-1.jpg",
+      "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw8df0fd8a/Images/LOS/LOS01026T3_A22_FYRNP73P.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Losi / Horizon Hobby",
+      "bytes": 112953,
+      "sha256": "76846c114333e4b7f1bc10209748f028ec5a17b47f0020e6c3c4d301f8a5b9cb"
+    },
+    {
+      "file": "losi-mini-lmt-megalodon-2.jpg",
+      "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw5a1e506f/Images/LOS/LOS01026T3_A93_FYRNP73P.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Losi / Horizon Hobby",
+      "bytes": 48248,
+      "sha256": "9cdb22594e7fbfa8c3c3777becb09178dcce224cbdb7a4c19525bf4724057aee"
+    },
+    {
+      "file": "losi-mini-lmt-megalodon-3.jpg",
+      "url": "https://www.losi.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw7e73395e/Images/LOS/LOS01026T3_A92_FYRNP73P.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Losi / Horizon Hobby",
+      "bytes": 15452,
+      "sha256": "8e9759286e4ff64bab37c187ffd2b7e59acd1fd83b67f280d088573bfd459640"
+    }
+  ],
+  "documents": [
+    {
+      "file": "defender-manual.pdf",
+      "bytes": 5459318,
+      "sha256": "18fdccd38c2d97d2776698f3989bd1321fa1e10bd0afeb619820ce514f55cbf7"
+    },
+    {
+      "file": "nissan-manual.pdf",
+      "bytes": 9283856,
+      "sha256": "1b42e95c9c0b38518bd8e35ad5b4654a6003525cda6bfe1e84c471150d6381fd"
+    },
+    {
+      "file": "megalodon-manual.pdf",
+      "bytes": 22554487,
+      "sha256": "c56390b41623183f295021eee0957c308946d74d2301169ba94c7ecb2e3924dd"
+    }
+  ]
+}
