@@ -1,0 +1,425 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Gorgon 223S 2WD Brushless",
+  "modelSlug": "gorgon-223s-2wd",
+  "sku": "ARA3530T1",
+  "headlineLines": [
+    "TWO DRIVEN WHEELS.",
+    "CHOOSE YOUR POWER."
+  ],
+  "title": "ARRMA Gorgon 223S review: brushless 2WD with a clear shopping list",
+  "dek": "Blue/black ARA3530T1 supplies the 4000Kv motor, 45A combined controller and DSC. Drive power is separate, and published size figures conflict.",
+  "type": "Independent-suspension monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Dry packed dirt",
+    "Open paved areas",
+    "Low-cut firm outdoor ground"
+  ],
+  "motor": "Brushless",
+  "drive": "2WD",
+  "scale": "1/10",
+  "format": "Ready-to-run; drive battery and charger separate",
+  "skill": "Learning 2WD control with reduced throttle; responsible LiPo use",
+  "price": {
+    "amount": 259.99,
+    "basis": "Horizon Hobby US manufacturer vehicle reference · ARA3530T1",
+    "source": "https://www.horizonhobby.com/product/arrma-1-10-gorgon-223s-2wd-rtr-brushless-monster-truck-blue-black/ARA3530.html",
+    "currency": "USD",
+    "checked": "2026-10-26"
+  },
+  "purchaseNote": "Dated USD vehicle reference, not a complete-start total or Amazon offer. Add a supported 2S/3S hardcase LiPo, compatible charger and required battery safety equipment. The supplied four AA cells are for the transmitter. Do not import the pink T3 battery/charger bundle into this blue T1 package.",
+  "image": "arrma-gorgon-223s-blue-1.jpg",
+  "imageAlt": "Official blue and black ARRMA Gorgon 223S ARA3530T1 complete brushless monster truck",
+  "imageCaption": "Official ARA3530T1 photograph. This blue/black package does not include the pink T3 variant’s drive battery and charger.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/product/arrma-1-10-gorgon-223s-2wd-rtr-brushless-monster-truck-blue-black/ARA3530.html",
+    "kind": "Official product photography"
+  },
+  "overview": "A straightforward rear-drive monster-truck format with factory brushless power and adjustable steering assistance. It suits a buyer with an open outdoor venue who wants to learn throttle discipline, rather than assume DSC turns it into 4WD or makes every power setting appropriate.",
+  "verdict": "Buy the brushless 2WD brief, not a headline speed",
+  "verdictText": "The installed motor, DSC modes and throttle limit make a coherent outdoor package. Add the missing power equipment, start conservatively and resolve conflicting size figures if storage matters. No speed, crash resistance or runtime has been measured here.",
+  "pros": [
+    "Factory 4000Kv brushless motor and cooling fan",
+    "Four DSC settings plus separate 50/75/100% throttle limit",
+    "Metal drivetrain, oil-filled shocks and wheelie bar documented",
+    "Body-on bottom battery access; four transmitter AA cells supplied"
+  ],
+  "cons": [
+    "Blue T1 requires drive battery, charger and battery safety equipment",
+    "2WD traction and a high stance still require measured driver inputs",
+    "Manual and showcase disagree on dimensions, wheelbase and weight",
+    "Combined ESC/receiver links two functions in one assembly"
+  ],
+  "bestFor": [
+    "A driver specifically seeking an outdoor 2WD monster truck",
+    "Starting with supported 2S power and learning broad turns",
+    "A buyer prepared to select a compatible hardcase LiPo and charger"
+  ],
+  "avoidIf": [
+    "You expect a complete drive-power bundle in blue T1",
+    "You want four driven wheels or crawler-style placement",
+    "Your venue cannot provide clear braking and recovery space"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "ARA3530T1 · blue/black"
+    ],
+    [
+      "Motor",
+      "Spektrum 4000Kv brushless"
+    ],
+    [
+      "Controller",
+      "SLT DSC 45A 2-in-1"
+    ],
+    [
+      "Drive",
+      "Rear 2WD · one differential"
+    ],
+    [
+      "Supported drive power",
+      "2S/3S hardcase LiPo · separate"
+    ],
+    [
+      "Controls",
+      "SLT2 · four DSC modes · throttle limit"
+    ]
+  ],
+  "rating": {
+    "audience": "An outdoor basher buyer who specifically wants brushless 2WD and will budget for drive power",
+    "disclosure": "Five equally weighted research-led buying scores. No physical performance, crash or reliability test is represented.",
+    "dimensions": [
+      {
+        "label": "Installed power package",
+        "score": 8.5,
+        "reason": "Motor, cooling fan, controller and radio are supplied; drive power is not."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8.5,
+        "reason": "Separate throttle limits and four DSC states support a deliberate learning plan."
+      },
+      {
+        "label": "Mechanical brief",
+        "score": 8,
+        "reason": "Metal drive gearing, oil shocks and rear-drive layout establish a clear monster-truck format."
+      },
+      {
+        "label": "Ownership clarity",
+        "score": 7,
+        "reason": "Accessible battery arrangement helps, but conflicting size data needs confirmation."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7.5,
+        "reason": "The USD259.99 vehicle reference requires a separate compatible battery and charger."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "Know which Gorgon you are considering",
+      "paragraphs": [
+        "The Gorgon 223S is worth considering if you want a traditional two-wheel-drive monster truck with the brushless installation already done. Its appeal is the complete mechanical and radio platform, not the idea that the word brushless automatically makes the purchase suitable for every beginner. Choose a clear outdoor area and an equipment budget first. If the available space is a busy sidewalk or furnished room, the power system is answering the wrong question.",
+        "This review concerns blue/black ARA3530T1. It is not the brushed Gorgon MEGA 550 already covered in our archive, a GROM four-wheel-drive model, or the pink T3 special package. Those distinctions change both the hardware and what remains on the shopping list. The T1 includes the assembled truck and installed electronics, but it leaves the drive battery and charger to the buyer. Four supplied AA cells power the transmitter, not the motor.",
+        "Our assessment draws on the exact brushless manual and current manufacturer material. Greg Vogel’s June 2026 RC Driver article features the pink ARA3530T3, so its completion requirements and running material are not presented as a test of this blue package. We have not driven either truck. The category scores below assess documented equipment and buyer fit, while source disagreements and missing startup equipment remain visible rather than disappear behind the attractive studio photographs."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package contents",
+      "heading": "Separate the radio package from drive power",
+      "paragraphs": [
+        "The blue T1 has its Spektrum 4000Kv motor, cooling fan, SLT DSC 45A combined ESC/receiver, S681 metal-gear steering servo and SLT2 transmitter installed or supplied. The manual lists four AA transmitter batteries. That is a finished body-inclusive hobby vehicle, with the assembly and radio selection already handled. It is not a roller, replacement body or electronics bundle. It still needs the correct drive-power system before a first run can be planned.",
+        "The manufacturer specifies a 2S or 3S hardcase LiPo and lists a 140 × 50 × 35mm battery envelope. Confirm physical fit, secure retention, connector compatibility and the actual battery instructions together. A capacity number or the phrase “3S compatible” alone does not establish that a pack fits or that its charging arrangement is correct. The controller has an IC5 connection, with EC5 compatibility described by the manufacturer. We do not suggest an improvised adapter chain.",
+        "The pink T3 promotion is a separate package and can include a Smart battery and USB charger. Do not assume those items travel with every color because a shared product page illustrates them. Read the T1 box description and seller package again at purchase. Include the compatible charger and required battery safety equipment in the startup basket, rather than compare a bare vehicle reference with another truck’s complete powered bundle and call the cheaper headline a complete saving."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Brushless power reaches the rear wheels",
+      "paragraphs": [
+        "The supplied brushless motor is a 4000Kv Spektrum unit. Kv describes a motor characteristic; it is not a road-speed measurement and cannot be used by itself to calculate what this truck will do across your field. The controller supports the documented 2S/3S LiPo arrangement. Begin with a suitable supported 2S setup and conservative controls while learning the vehicle, rather than make the highest permitted cell count the automatic first purchase.",
+        "This is rear-wheel drive with a single differential. The front wheels steer and roll; they do not gain drive because DSC is fitted. Rear traction, steering input and throttle application therefore remain central to the experience. We would choose it for someone who wants to learn that rear-drive behavior on an appropriate open course. A buyer wanting drive at both axles should compare a genuine 4WD truck instead of expecting electronic assistance to change the mechanical layout.",
+        "ARRMA markets a high top-speed capability, but this review does not supply a measured speed, acceleration time or battery-specific runtime. Metal gearing is documented equipment, not proof of an impact-life advantage. Keep the original installation as a baseline and follow the manual’s checks for unusual sound, resistance or heat. Repeated throttle against a restriction is not a meaningful durability test and will not tell a new owner which component caused the problem."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & DSC",
+      "heading": "Throttle limiting and DSC do different jobs",
+      "paragraphs": [
+        "The SLT2 provides a 50/75/100 percent throttle-limit selection. That limits the available command range; it does not automatically choose a safe speed for the space, detect obstacles or alter the truck into a slow crawler. Start in a clear area with reduced output and verify the prescribed control behavior before progressing. Leave room to release throttle, brake and recover without an immediate hard boundary. A small driving area is not made spacious by a transmitter switch.",
+        "DSC senses yaw-rate change and adds steering correction. The exact manual identifies four states: off, low, medium and high assistance. Those are steering-assistance choices, separate from the throttle limit. They do not add front-wheel drive, guarantee grip or prevent a rollover. Record which setting is active before judging the truck. Changing assistance, battery power and driving surface together makes it difficult to understand which change affected the behavior you observed.",
+        "Use the complete manual for operating and adjusting the system, including its stationary-vehicle precautions. We do not reproduce a shortened button sequence or transfer one from another ARRMA radio. Learn broad turns, neutral behavior and controlled braking before trying to copy a dramatic video. RC Driver’s featured T3 provides attributable coverage of the family, but its author’s running experience stays with that author. Our recommendation is a learning order based on the controls actually supplied."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & stance",
+      "heading": "A monster stance is a choice with consequences",
+      "paragraphs": [
+        "Oil-filled shocks, the independent suspension layout, large chevron-pattern tires and an integrated wheelie bar establish the monster-truck brief. The S681 is described as a metal-geared servo. Those items give the buyer a useful equipment inventory, but they do not establish measured landing quality, steering precision under load or a guaranteed repair-free season. Our score is for the documented package, not a crash comparison that has not taken place.",
+        "A tall truck needs sensible turning inputs and a course suited to its proportions. The wheelie bar is part of the supplied arrangement; it is not a rollover-prevention device or permission to drive toward people. Establish a stock baseline before changing suspension settings. If a particular behavior needs attention, describe it precisely, read the applicable adjustment instructions and change one justified variable. A collection of settings copied from a different truck may be less useful than a short note about this one.",
+        "Pay special attention to the source disagreement on size. The showcase lists a 295mm wheelbase, whereas the manual’s component table prints 286mm. Its length, width, height and weight entries differ too. We retain both sets in the specification sheet and do not claim that one has been independently measured. Ask the manufacturer to confirm the actual vehicle if a tight storage space or course dimension makes the distinction important."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain & first course",
+      "heading": "Give a rear-drive truck a readable surface",
+      "paragraphs": [
+        "An open, dry area with firm packed dirt or smooth pavement gives a new owner a more readable starting point than deep loose material. Keep the first route broad and simple. Separate bumps, turns and stopping space so that a change in behavior has an understandable cause. The manufacturer’s all-terrain tire description is not evidence that thick grass, deep sand or every improvised ramp is equally suitable for this particular vehicle and operator.",
+        "Do not make jumps the first justification for buying it. The photos here are official studio images, and no safe jump height, landing result or impact tolerance has been established by RC Car King. Begin at ground level with predictable run-out space. Remove loose objects that could obstruct steering or the drivetrain, and avoid public traffic and crowded areas. A visible course you can stop and recover on is more useful than an impressive-looking feature with nowhere to go afterward.",
+        "The manual distinguishes a water-resistant vehicle from unrestricted waterproof operation and sets out additional wet-condition maintenance. That document qualifies the broad marketing language about waterproof electronics. Start dry, read the actual component limits and do not treat sealed electronics as permission for immersion or neglected cleaning. We have not tested sealing or corrosion resistance. The battery and transmitter have their own requirements, so the truck’s headline feature cannot substitute for reading those instructions together."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & access",
+      "heading": "Useful access still needs an inspection habit",
+      "paragraphs": [
+        "The blue/black body has an iridescent finish documented by the manufacturer and visible in the official close-up. Hidden retention keeps the outside tidy, while the bottom-loading battery arrangement allows body-on battery access. Those are practical ownership details worth checking before buying. They explain the supplied layout; they do not mean we timed a pack change, tested the paint or established that a hidden latch can never loosen after an impact.",
+        "Read the body-removal and battery-retention instructions before the first outing. With power disconnected as directed, make sure wiring is clear, the pack is secured correctly and the retention arrangement is fully engaged. After a run, look for obvious damage or trapped debris before charging and storing the vehicle. Good access is valuable because it makes ordinary inspection feasible, rather than because it removes the need to inspect the battery, leads and moving parts.",
+        "The physical footprint remains unresolved across the manufacturer documents. The showcase gives 465 × 345 × 230mm and 2.73kg without battery; manual page 12 gives 456 × 325 × 170mm and 2.51kg without clarifying that weight basis. These are material differences, not rounding we can silently tidy. We do not infer a new generation or correct a suspected copied table. The exact SKU and installed equipment are clearer than those conflicting measurements."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup & ownership",
+      "heading": "Budget from the exact blue package",
+      "paragraphs": [
+        "The dated manufacturer vehicle reference is USD259.99, checked on 26 October 2026. It is not an Amazon offer or a promise about stock. For this blue T1, add the supported hardcase LiPo, compatible charger and required battery safety equipment. Four transmitter AA cells are supplied. Your actual first-drive total depends on whether you already own genuinely compatible equipment; we have not invented a universal dollar allowance for everything that might be missing.",
+        "Ownership also includes ordinary inspection and maintenance. The manual’s schedule covers fasteners, tires, suspension and drivetrain condition, while wet operation adds work. A metal-gear description does not remove wear or accident risk. We have no measured repair frequency, battery-life result or long-term cost record to price into the article. Establish a baseline with the stock truck before treating optional upgrades as compulsory items that every buyer must order immediately.",
+        "The combined ESC/receiver is another ownership consideration. It packages motor control, receiving and DSC-related functionality together rather than presenting each as a separate replaceable box. That is not automatically good or bad; it means future changes need a compatible system plan. Keep the actual equipment identities and instructions with the car. If a fault occurs, interpret its documented indicators before turning a symptom into an unnecessary motor, radio or controller purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Compare the activity before comparing the motor label",
+      "paragraphs": [
+        "The brushed Gorgon MEGA 550 ARA3230ST2 in our archive is the direct family alternative when a simpler included-power package matters more than a factory brushless installation. Read its exact completion record rather than transfer this T1’s missing equipment into that comparison. It remains a two-wheel-drive monster concept, so the decision is about the supplied system and buying basket, not a claim that either truck has been physically proven tougher by this publication.",
+        "The Granite 223S 4X4 ARA4302V4T2 is the more relevant complete-car comparison if four driven wheels are the priority. It changes the driveline and ownership package, not merely the body. Compare its current reference and required drive power separately. We have not conducted a shared-surface test or measured a traction advantage. The useful distinction is that the Granite actually supplies a four-wheel-drive system, whereas this Gorgon’s DSC supplies steering correction.",
+        "The Team Associated Rival MT10 V2, 20518, is another full 1/10 brushless 4WD alternative covered in our archive. Compare it when the driving activity and outdoor venue favor a different complete monster platform. Its own dimensions and required power equipment matter; it is not a compact substitute chosen just because it has a familiar motor label. We have not run the two together or measured a durability advantage, so the comparison stays with documented packages and buyer needs."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Shortlist it when rear-drive learning is the point",
+      "paragraphs": [
+        "The Gorgon 223S offers a clear reason to buy: a completed two-wheel-drive monster platform with its brushless motor, cooling fan, radio and adjustable steering assistance already selected. It makes sense for someone with an open outdoor venue who specifically wants that driving format. Start with a conservative supported power arrangement, learn the separate controls and assess the stock truck before chasing the most dramatic setting in the feature list.",
+        "Skip it when the budget assumes a drive battery and charger are inside every Gorgon box, when front-axle drive is essential, or when the only usable space is too confined for controlled stopping. Clarify the contradictory dimensions if the purchase depends on fitting a narrow shelf or vehicle compartment. Neither DSC nor a wheelie bar compensates for a mismatched venue. Those reservations explain our score without inventing a failure rate or claiming the truck cannot do something we have never tested.",
+        "The five category scores are equally weighted editorial judgments about installed equipment, learning controls, mechanical purpose, ownership clarity and complete-start value. They are not Amazon customer stars, speed results or a crash verdict. The affiliate link retains an exact historically recorded complete-product identity and its original verification date; it has not been freshly checked for price or inventory. Buy the actual blue T1 package you have verified with the seller, not an imagined combination of several variants."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact variant",
+      "ARA3530T1 · blue/black complete RTR"
+    ],
+    [
+      "Motor",
+      "Spektrum Firma 4000Kv brushless · fan supplied"
+    ],
+    [
+      "ESC / receiver",
+      "SLT DSC 45A 2-in-1 · SPMXSE4510RX manual identity"
+    ],
+    [
+      "Radio / servo",
+      "SLT2 / S681 metal-gear"
+    ],
+    [
+      "Drive / differentials",
+      "Rear 2WD / one"
+    ],
+    [
+      "Drive power",
+      "2S or 3S hardcase LiPo · separate"
+    ],
+    [
+      "Battery envelope / connector",
+      "140 × 50 × 35mm / IC5, manufacturer EC5-compatible description"
+    ],
+    [
+      "AA cells",
+      "Four supplied for transmitter"
+    ],
+    [
+      "Showcase dimensions",
+      "465 × 345 × 230mm · conflicts with manual"
+    ],
+    [
+      "Manual page 12 dimensions",
+      "456 × 325 × 170mm · not independently measured"
+    ],
+    [
+      "Wheelbase conflict",
+      "Showcase 295mm / manual 286mm"
+    ],
+    [
+      "Weight conflict",
+      "Showcase 2.73kg without battery / manual 2.51kg basis unspecified"
+    ],
+    [
+      "Reference",
+      "USD259.99 manufacturer vehicle reference · 26 October 2026"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does blue ARA3530T1 include a drive battery and charger?",
+      "answer": "No. Those are separate for blue T1. Four AA transmitter cells are supplied; the pink T3 promotion is a different package."
+    },
+    {
+      "question": "Is the Gorgon 223S four-wheel drive?",
+      "answer": "No. It is rear 2WD with one differential. DSC applies steering correction and does not power the front wheels."
+    },
+    {
+      "question": "What battery format is documented?",
+      "answer": "A supported 2S/3S hardcase LiPo within the stated 140 × 50 × 35mm envelope. Confirm actual fit, retention, connector and charging compatibility."
+    },
+    {
+      "question": "Are DSC and throttle limiting the same adjustment?",
+      "answer": "No. The manual lists off/low/medium/high DSC steering-assistance states and a separate 50/75/100percent throttle limit."
+    },
+    {
+      "question": "Which published dimensions are correct?",
+      "answer": "The showcase and exact brushless manual disagree on dimensions, wheelbase and weight. Both are flagged here; confirm the actual truck with the manufacturer where fit matters."
+    },
+    {
+      "question": "Has RC Car King measured its speed or crash resistance?",
+      "answer": "No. This is a research-led buying assessment. No hands-on speed, runtime, impact or reliability results are claimed."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "arrma-gorgon-223s-blue-2.jpg",
+      "alt": "Official ARRMA blue black Gorgon 223S ARA3530T1 side and front studio view",
+      "caption": "Exact blue/black T1 studio view. DSC does not change the rear-drive layout.",
+      "source": "https://www.horizonhobby.com/product/arrma-1-10-gorgon-223s-2wd-rtr-brushless-monster-truck-blue-black/ARA3530.html",
+      "credit": "ARRMA / Horizon Hobby",
+      "afterSection": "drivetrain"
+    },
+    {
+      "image": "arrma-gorgon-223s-blue-3.jpg",
+      "alt": "Official close-up of iridescent blue and black Gorgon 223S hood and body graphics",
+      "caption": "Manufacturer body-finish close-up, not a paint durability or impact test.",
+      "source": "https://www.horizonhobby.com/product/arrma-1-10-gorgon-223s-2wd-rtr-brushless-monster-truck-blue-black/ARA3530.html",
+      "credit": "ARRMA / Horizon Hobby",
+      "afterSection": "body"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — exact blue T1 package and USD vehicle reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-10-gorgon-223s-2wd-rtr-brushless-monster-truck-blue-black/ARA3530.html",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA — exact ARA3530 brushless manual; pages 12–24 and wet-use precautions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4490367e/Manuals/ARA3530-MANUAL-ML.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 26 June 2026 Gorgon 223S coverage featuring pink T3",
+      "url": "https://www.rcdriver.com/arrma-gorgon-223s-blx/",
+      "checked": "2026-10-26",
+      "kind": "Independent related-variant coverage; no T1 test or package transfer"
+    },
+    {
+      "name": "ARRMA — indexed product showcase; dimensions conflict with linked manual",
+      "url": "https://www.arrma-rc.com/en/product-showcase?pid=ARA3530",
+      "checked": "2026-10-26",
+      "kind": "Indexed manufacturer specifications; live route redirects to brand landing page"
+    }
+  ],
+  "evidenceNote": "Current exact-product page and image-based brushless manual checked 26 October 2026. Manual pages 12–24 visually inspected. Indexed showcase dimensions conflict with manual page 12 and remain unresolved. RC Driver features T3, not this blue T1; no author test results are borrowed. Historical public Amazon identity reused with original date; no current offer claimed.",
+  "revisionNote": "Initial complete blue T1 review with package distinction, DSC explanation and documented measurement conflicts.",
+  "seo": {
+    "title": "ARRMA Gorgon 223S 2WD Review | RC Car King",
+    "description": "ARRMA ARA3530T1 Gorgon 223S review: 4000Kv brushless power, rear 2WD, DSC modes, battery needs, startup costs and conflicting manufacturer dimensions."
+  },
+  "published": "2026-10-26",
+  "updated": "2026-10-26",
+  "publishedAt": "2026-10-26T13:27:35.381Z",
+  "updatedAt": "2026-10-26T13:48:21.905Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  },
+  "amazon": {
+    "asin": "B0H2LQJ2XG",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA3530T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0H2LQJ2XG?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:05:04.794Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Exact ASIN, brand and manufacturer part were recorded on 2026-10-12. This historical public identity evidence is reused without a new API call or current offer/stock verification.",
+    "variant": "Blue/black ARA3530T1 complete Gorgon 223S 2WD RTR; drive battery and charger separate"
+  }
+}

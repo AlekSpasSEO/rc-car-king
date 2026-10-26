@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-26T13:48:21.991Z",
+  "reviews": [
+    {
+      "route": "arrma/gorgon-223s-2wd/",
+      "coreWords": 2201,
+      "asin": "B0H2LQJ2XG",
+      "identityVerifiedAt": "2026-10-12T23:05:04.794Z"
+    },
+    {
+      "route": "team-associated/reflex-14mt-blue-purple/",
+      "coreWords": 2260,
+      "asin": "B0CX72Q57X",
+      "identityVerifiedAt": "2026-10-12T23:05:33.572Z"
+    },
+    {
+      "route": "kyosho/fazer-mk2-mazda-savanna-gt/",
+      "coreWords": 2243,
+      "asin": "B0D34HQRCH",
+      "identityVerifiedAt": "2026-10-12T23:07:12.341Z"
+    }
+  ],
+  "quota": {
+    "date": "2026-10-26",
+    "timezone": "Europe/Skopje",
+    "publishedReviews": 3,
+    "backdated": false
+  },
+  "builds": {
+    "production": "Passed:66reviews,7articles,90pages,89sitemapURLs",
+    "preview": "Passed default GitHub profile"
+  },
+  "browser": {
+    "viewports": [
+      "1280x900",
+      "390x844"
+    ],
+    "findings": "Official heroes load; all nine source photos individually inspected. No horizontal document overflow at either width. Mobile specification tables fit335.2px. Product boxes, check-price fallback and model-specific FAQ disclosures inspected. Desktop Gorgon/Mazda product boxes, desktop Reflex article and mobile Reflex product/FAQ views visually checked. Affiliate tag and sponsored/nofollow attributes retained."
+  },
+  "commercial": "No Amazon API, credentials, authentication, offer refresh or API workflow used. Existing sanitized historical identities and original verification dates reused. Offers not changed."
+}

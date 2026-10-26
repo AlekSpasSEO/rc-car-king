@@ -1,0 +1,78 @@
+{
+  "checked": "2026-10-26",
+  "media": [
+    {
+      "file": "arrma-gorgon-223s-blue-1.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1bb6eadf/Images/ARA/ARA3530T1_A14_JR4X3VN1.jpg",
+      "bytes": 218069,
+      "sha256": "ee7dd1bb004132592adb272c22e0f011cd2901ff5227dc5aea9b4a7028f6b5a4"
+    },
+    {
+      "file": "arrma-gorgon-223s-blue-2.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwceff204a/Images/ARA/ARA3530T1_A2_JR4X3VN1.jpg",
+      "bytes": 266415,
+      "sha256": "407a2bfa06e4a0528520ed444682680fcc51c73bc9ad67eccf38acce702f92a8"
+    },
+    {
+      "file": "arrma-gorgon-223s-blue-3.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1da468d0/Images/ARA/ARA3530T1_A3_JR4X3VN1.jpg",
+      "bytes": 414743,
+      "sha256": "ed4a836d500155b7518a7181c6f609e6366324d05538c3e225a5bb2e31c1f0d7"
+    },
+    {
+      "file": "associated-reflex-14mt-20190-1.jpg",
+      "url": "https://img2c.associatedelectrics.com/pictures/news/articles/2788/supporting_photos/20190_R14MT_3Q_High_Edited_lg.jpg?v=1699649609",
+      "bytes": 90992,
+      "sha256": "5d44d0f0d993e06c71e743579a8db677871a51eadb018dda670c9779ae07f645"
+    },
+    {
+      "file": "associated-reflex-14mt-20190-2.jpg",
+      "url": "https://img2c.associatedelectrics.com/pictures/news/articles/2788/supporting_photos/20190_R14MT_SidePro_IMG_3199_lg.jpg?v=1699649572",
+      "bytes": 88432,
+      "sha256": "dc4f623609991a47555ad82691ed4b4d6fcba6a9193758e8c2551259e1f1866c"
+    },
+    {
+      "file": "associated-reflex-14mt-20190-3.jpg",
+      "url": "https://img2c.associatedelectrics.com/pictures/news/articles/2788/supporting_photos/20174_R14MTnb_FTDriveSteer_IMG_2642_lg.jpg?v=1699649573",
+      "bytes": 134134,
+      "sha256": "ab0d89f94970f4af82110d2f709b9886c4ff89b8fcff68d83c1c4d4668588725"
+    },
+    {
+      "file": "kyosho-mazda-savanna-34428-1.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/3/4/34428t1_900_im1.jpg",
+      "bytes": 154017,
+      "sha256": "44660bf95880192826daa7e4261bc447420b5f20c52940ae404b5e44ab5a096e"
+    },
+    {
+      "file": "kyosho-mazda-savanna-34428-2.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/3/4/34428t1_900_im2.jpg",
+      "bytes": 151615,
+      "sha256": "e16f337ae6d13bba4ac8f7881d3ffa917a21259a63f88c1da3014f55168ff411"
+    },
+    {
+      "file": "kyosho-mazda-savanna-34428-3.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/34428/34428T1_600_1.jpg",
+      "bytes": 120032,
+      "sha256": "3a9d3f0fe84d13ddd12e80d084077ee6b340879b330801e469e11ea808bc80b7"
+    }
+  ],
+  "manuals": [
+    {
+      "name": "ARA3530 brushless manual",
+      "sha256": "91a8cced0860e14926661c3b8e559de8b83e8c5c5e70dbf4e9b17fdd40a9683a"
+    },
+    {
+      "name": "Reflex14MT platform manual",
+      "sha256": "3a636fcdd4ff71bc963a749b0543e9929604c4a585023b7ce3b9c1d0748cb394"
+    },
+    {
+      "name": "ReedySC300-BL manual",
+      "sha256": "47053973d5e77c0417491bf2875e359b8f50e4623af212dc1673e5e333a71caa"
+    },
+    {
+      "name": "FZ02/FZ02L manual",
+      "sha256": "c7a9ec0200575c5298ff9689d43f83255eb2cf11266d43cc9607b40124abc9cd"
+    }
+  ],
+  "notes": "All nine official images individually inspected. Reflex platform technical image identifies20174; its optional battery and shared-platform scope are qualified. Mazda chassis image shows a separate battery; manufacturer staged venue is not our test. Gorgon manual image pages12–24 and Mazda safety/service pages visually inspected."
+}

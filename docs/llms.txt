@@ -15,14 +15,14 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Publication feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
+- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
+- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
+- [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
-- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
-- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
-- [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
@@ -36,6 +36,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Gorgon 223S 2WD Brushless](https://alekspasseo.github.io/rc-car-king/arrma/gorgon-223s-2wd/): ARRMA ARA3530T1 Gorgon 223S review: 4000Kv brushless power, rear 2WD, DSC modes, battery needs, startup costs and conflicting manufacturer dimensions.
+- [Kyosho Fazer Mk2 1972 Mazda Savanna GT Green](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-mazda-savanna-gt/): Kyosho 34428T1 Savanna GT review: brushed FZ02 touring 4WD, finished green body, battery needs, optional LEDs, pavement fit and conflicting height data.
+- [Team Associated Reflex 14MT Blue/Purple](https://alekspasseo.github.io/rc-car-king/team-associated/reflex-14mt-blue-purple/): Team Associated 20190 Reflex 14MT review: compact 2S battery fit, brushless 4WD, three differentials, missing equipment, terrain fit and source conflicts.
 - [Losi Mini LMT Megalodon](https://alekspasseo.github.io/rc-car-king/losi/mini-lmt-megalodon/): Losi LOS01026T3 Megalodon review: solid-axle 4WD, supplied 2S power, shark body, USB input needs, course limits and dated availability caveats.
 - [Traxxas 4-Tec 2.0 Nissan 240SX VX3 AWD](https://alekspasseo.github.io/rc-car-king/traxxas/4-tec-2-0-nissan-240sx-vx3-awd/): Traxxas 93424-4 Nissan 240SX review: VX3 and V3300 brushless AWD, LiPo requirements, street-course fit, Drift differences and conflicting specifications.
 - [Traxxas TRX-4M Land Rover Defender](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4m-land-rover-defender/): Traxxas TRX-4M Defender review: tan 97054-1 package, supplied 2S battery and charger, USB needs, stock controls, bushings and small-course limits.

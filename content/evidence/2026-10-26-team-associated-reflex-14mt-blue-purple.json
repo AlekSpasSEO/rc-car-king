@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-26T13:31:39.171Z",
+  "review": "team-associated-reflex-14mt-blue-purple",
+  "coreWords": 2260,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "20190",
+  "amazon": {
+    "asin": "B0CX72Q57X",
+    "brand": "Team Associated",
+    "manufacturerPart": "ASC20190",
+    "model": "ASC20190",
+    "title": "Team Associated Reflex 14MT RTR, Blue & Purple, ASC20190",
+    "originalIdentityVerifiedAt": "2026-10-12T23:05:33.572Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CX72Q57X?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Associated Electrics — exact 20190 listing, completion chart, specifications and USD reference",
+      "url": "https://60years.associatedelectrics.com/reflex-14mt-monster-truck-ready-to-run/",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Team Associated — linked Reflex 14MT platform manual; compact 2S requirement",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14MT/Reflex-14MT-manual.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer vehicle manual; original 20174 artwork, linked by 20190 page"
+    },
+    {
+      "name": "Team Associated —13 December 2023 blue/purple 20190 and 20190C announcement",
+      "url": "https://www.associatedelectrics.com/news/latest_products/2788-new-reflex-14mt-monster-truck-rtr-blue-amp-purple/",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Big Squid RC —Tim Mohr,20 June 2023 earlier 20174 launch coverage",
+      "url": "https://www.bigsquidrc.com/team-associated-1-14-reflex-14mt-rtr-monster-truck/",
+      "checked": "2026-10-26",
+      "kind": "Independent earlier-variant news; not a 20190 driving test"
+    },
+    {
+      "name": "Horizon Hobby —ASC20190 distributor listing; scale/power fields conflict",
+      "url": "https://www.horizonhobby.com/product/reflex-14mt-rtr-blue-purple/ASC20190.html",
+      "checked": "2026-10-26",
+      "kind": "Distributor source conflict; manufacturer vehicle guidance takes priority"
+    },
+    {
+      "name": "Reedy — linked SC300-BL controller troubleshooting document",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14MT/Reedy_ESC_SC300BL_Manual.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer controller instructions"
+    }
+  ],
+  "notes": [
+    "Archived ASC20190 maps to exact manufacturer20190, not20190C.",
+    "Current manufacturer listing confirms compact2S requirement; conflicting distributor fields rejected."
+  ]
+}

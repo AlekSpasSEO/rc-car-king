@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-26T13:44:05.573Z",
+  "review": "kyosho-fazer-mk2-mazda-savanna-gt",
+  "coreWords": 2243,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "34428T1",
+  "amazon": {
+    "asin": "B0D34HQRCH",
+    "brand": "Kyosho",
+    "manufacturerPart": "34428T1",
+    "model": "34428T1",
+    "title": "Kyosho America 34428T1 Fazer 1972 Mazda Savanna Rx-3 Mk2 Rally 4WD Green",
+    "originalIdentityVerifiedAt": "2026-10-12T23:07:12.341Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0D34HQRCH?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "Kyosho — exact English 34428T1 specifications and completion list",
+      "url": "https://rc.kyosho.com/en/34428t1.html",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Kyosho — Japanese 34428T1 table;146mm height and battery examples",
+      "url": "https://rc.kyosho.com/ja/34428t1.html",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Kyosho — linked FZ02 / FZ02L chassis manual; operation and maintenance",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/pureten_fazer/pdf/FZ02_FZ02L-T03.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer chassis manual; select FZ02 provisions"
+    },
+    {
+      "name": "Skunks Hobbies — exactKYO34428T1 USD vehicle reference; page sold out",
+      "url": "https://www.skunkshobbies.com/products/kyosho-fazer-mk2-fz02-72-mazda-savanna-rx-3-electric-4wd-1-10-rtr-touring-car?currency=USD",
+      "checked": "2026-10-26",
+      "kind": "Independent hobby-retailer commercial reference, not a driving test"
+    },
+    {
+      "name": "Kyosho — Savanna GT model feature page and optional lighting",
+      "url": "https://rc.kyosho.com/en/savanna-rx-3-fazer",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    }
+  ],
+  "notes": [
+    "Exact34428T1 identity is completeFZ02 touring Readyset despite archived title saying rally.",
+    "Height136mm English versus146mm Japanese flagged.",
+    "RetailerUSD reference confirmed with currency=USD; sold-out label disclosed."
+  ]
+}

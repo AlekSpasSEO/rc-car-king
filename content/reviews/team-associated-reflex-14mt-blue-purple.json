@@ -1,0 +1,455 @@
+{
+  "brand": "Team Associated",
+  "brandSlug": "team-associated",
+  "model": "Reflex 14MT Blue/Purple",
+  "modelSlug": "reflex-14mt-blue-purple",
+  "sku": "20190",
+  "amazon": {
+    "apiSku": "ASC20190",
+    "identityNote": "ASC20190 is the archived distributor-prefixed part for manufacturer model 20190, blue/purple standard RTR. It is not the 20190C battery/charger combo. Exact ASIN, brand and manufacturer part were recorded on 2026-10-12. This historical public identity evidence is reused without a new API call or current offer/stock verification.",
+    "asin": "B0CX72Q57X",
+    "marketplace": "www.amazon.com",
+    "sku": "20190",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CX72Q57X?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:05:33.572Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "Blue/purple 20190 standard complete Reflex 14MT RTR; compact 2S battery and charger separate"
+  },
+  "headlineLines": [
+    "COMPACT MONSTER.",
+    "CHECK THE COMPACT PACK."
+  ],
+  "title": "Team Associated Reflex 14MT review: small 4WD, real completion choices",
+  "dek": "Blue/purple 20190 combines a 4500kV brushless motor, three sealed differentials and an adjustable wheelie bar. The compact 2S battery and charger remain separate.",
+  "type": "Compact independent-suspension monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Dry packed dirt",
+    "Smooth pavement",
+    "Modest off-road courses"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/14",
+  "format": "Ready-to-run; standard 20190 without drive battery or charger",
+  "skill": "A careful hobby beginner or established driver planning compact outdoor use",
+  "price": {
+    "amount": 215.99,
+    "basis": "Associated Electrics US manufacturer standard 20190 vehicle reference",
+    "source": "https://60years.associatedelectrics.com/reflex-14mt-monster-truck-ready-to-run/",
+    "currency": "USD",
+    "checked": "2026-10-26"
+  },
+  "purchaseNote": "Dated USD standard-RTR vehicle reference. Add the supported compact 2S LiPo, suitable charger and four AA radio batteries. The manual warns that a standard-size 2S pack does not fit. 20190C is a separate powered combo; no current Amazon offer or stock is asserted.",
+  "image": "associated-reflex-14mt-20190-1.jpg",
+  "imageAlt": "Official Team Associated Reflex 14MT 20190 blue and purple complete 1/14 monster truck",
+  "imageCaption": "Exact blue/purple 20190 body in manufacturer photography. Drive battery and charger belong to the separate 20190C combo.",
+  "imageCredit": {
+    "name": "Team Associated / Associated Electrics",
+    "url": "https://www.associatedelectrics.com/news/latest_products/2788-new-reflex-14mt-monster-truck-rtr-blue-amp-purple/",
+    "kind": "Official product photography"
+  },
+  "overview": "A compact brushless 4WD monster truck with a surprisingly substantial adjustment and driveline inventory. It is most convincing for a modest outdoor course where its smaller footprint is useful, provided the buyer understands the compact battery requirement and the distinction between standard RTR and LiPo Combo.",
+  "verdict": "A compact monster package with a specific power requirement",
+  "verdictText": "Shortlist the 20190 for its four-wheel drive, documented driveline and adjustable chassis. Budget for the correct compact 2S pack, charger and radio cells. Do not use a distributor’s 3S suggestion or a larger truck’s battery fit as a shortcut.",
+  "pros": [
+    "4500kV brushless motor and complete radio installation supplied",
+    "Three sealed differentials with metal ring and pinion gears",
+    "Adjustable links, wheelie bar and threaded coil-over shocks",
+    "Front bumper LEDs, aluminum steering rack and front universal driveshafts documented"
+  ],
+  "cons": [
+    "Standard 20190 lacks drive battery, charger and radio AA cells",
+    "Compact battery fit is essential; ordinary full-size 2S packs are not assumed compatible",
+    "Manufacturer lists wheelbase and weight as varies",
+    "Distributor listing conflicts with manufacturer scale and battery guidance"
+  ],
+  "bestFor": [
+    "A driver seeking compact outdoor 4WD monster-truck play",
+    "Someone prepared to choose the exact supported compact 2S battery",
+    "An owner who wants documented mechanical adjustability after learning a baseline"
+  ],
+  "avoidIf": [
+    "You assume RTR means battery and charger included",
+    "You need a truck for deep grass or large rough-field obstacles",
+    "You want a 3S recommendation based only on a distributor completion box"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "20190 · blue/purple standard RTR"
+    ],
+    [
+      "Motor",
+      "Reedy 4500kV brushless"
+    ],
+    [
+      "Drive / differentials",
+      "4WD / three sealed"
+    ],
+    [
+      "Supported battery",
+      "Compact 2S LiPo · separate"
+    ],
+    [
+      "Size",
+      "312mm long ×237mm wide · manufacturer"
+    ],
+    [
+      "Equipment",
+      "LED bumper · wheelie bar · oil shocks"
+    ]
+  ],
+  "rating": {
+    "audience": "A buyer wanting a compact outdoor brushless monster truck who will select its exact supported power equipment",
+    "disclosure": "Five equally weighted research-led equipment and buying-fit scores. No hands-on speed, handling, crash or reliability results.",
+    "dimensions": [
+      {
+        "label": "Compact vehicle brief",
+        "score": 8.5,
+        "reason": "Listed 312mm length and 237mm width establish a compact off-road package, without promising lawn capability."
+      },
+      {
+        "label": "Driveline equipment",
+        "score": 8.5,
+        "reason": "Three sealed differentials, metal ring/pinion gears and aluminum center shaft are documented."
+      },
+      {
+        "label": "Adjustment and access",
+        "score": 8,
+        "reason": "Links, inserts and threaded shocks provide a serviceable baseline for deliberate later tuning."
+      },
+      {
+        "label": "First-drive completeness",
+        "score": 6.5,
+        "reason": "Battery, charger and four AA radio cells are separate; battery format needs particular care."
+      },
+      {
+        "label": "Value and documentation",
+        "score": 7.5,
+        "reason": "The datedUSD215.99 reference is clear, while variable dimensions and conflicting distributor data need attention."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "Small enough to plan differently, not small enough to ignore the venue",
+      "paragraphs": [
+        "The Reflex 14MT makes sense when you want an actual brushless four-wheel-drive monster truck in a more compact outdoor package. It arrives assembled, with its body, radio installation and Reedy power system already chosen. That reduces the work of building a vehicle from components, but it does not settle the venue or the remaining power purchases. A modest course with room to brake and retrieve the truck is a better starting point than a promise about everything a monster tire might climb.",
+        "This review covers blue/purple standard RTR model 20190. The manufacturer lists 312mm length and 237mm width for the package. It is not the blue/green 20174, and it is not 20190C, which adds a drive battery and charger. The archived distributor part ASC20190 maps to this exact standard vehicle. Treat the suffix and body color as useful identity checks rather than let a generic Reflex title determine what you expect to find in the box.",
+        "The analysis uses the current exact manufacturer listing, its linked vehicle manual and the blue/purple announcement. Big Squid RC’s June 2023 launch coverage concerns the earlier 20174, so it provides family context rather than a test of this body or seller package. No driving, speed run or crash test was performed by RC Car King. Our editorial score concerns the documented equipment and completion decisions, including places where the public data leaves a question unresolved."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "In the box",
+      "heading": "RTR and LiPo Combo are different baskets",
+      "paragraphs": [
+        "Standard 20190 includes the completed truck, painted body, brushless motor, speed control, steering servo and two-channel 2.4 GHz radio system. The exact manufacturer comparison distinguishes it from 20190C: the standard vehicle has no drive battery and no charger. FourAA transmitter batteries are also required. Those distinctions matter more than a photograph showing a battery already sitting in the chassis. The manufacturer specifically warns that combo photography can illustrate equipment absent from the standard RTR.",
+        "The linked vehicle manual calls for a compact 2S LiPo and warns that an ordinary standard-size 2S pack does not fit the chassis. Confirm the actual supported pack format, connector and retention rather than select a battery by voltage alone. A full-size pack that powers another hobby car is not automatically suitable because both labels say 2S. The manual’s original example is a compact Reedy pack; it is a fit reference, not evidence that we purchased or tested a modern substitute.",
+        "Choose a charger compatible with the actual battery and follow both sets of instructions. We do not provide a generic charge current, connector workaround or unsupported pack recommendation. If you want all drive-power choices supplied, compare the correctly identified combo instead of assembling an imagined one from mixed listings. The standard vehicle can still be a coherent purchase for someone who already owns genuinely compatible equipment, but that compatibility needs checking rather than assuming."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor &4WD",
+      "heading": "Three differentials deserve a useful explanation",
+      "paragraphs": [
+        "A Reedy 4500kV brushless motor supplies the drive through the installed brushless control system. The vehicle’s completion guidance specifies 2S power. A kV figure is not a measured vehicle speed, and this article does not convert it into one. The useful purchase question is whether you want this compact brushless setup on a suitable course, not whether its number is larger than a motor fitted to a different scale or gearing arrangement.",
+        "The three sealed differentials distribute drive at the front, center and rear. The axle differentials allow wheel-speed differences across their axle; the center differential serves the front-to-rear drive path. That is a different system from a locked-spool crawler or a rear-drive truck with one differential. The manufacturer documents metal differential ring and pinion gears, an aluminum center driveshaft and front universal driveshafts. These identify hardware, without establishing a measured traction result on your particular surface.",
+        "A major source trap is the distributor page: its heading calls this a 1/24 truck and its completion box suggests 7.4–11.1V. The manufacturer describes a 1/14 vehicle and specifies a 2S completion pack. We follow that vehicle-specific requirement and do not recommend 3S merely because a sales page offers the voltage. If your actual electronics have been replaced, identify those parts and obtain their instructions separately. A conflicting retailer field is not a safe upgrade path."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & setup",
+      "heading": "Start with predictable commands and space",
+      "paragraphs": [
+        "The installed radio is described as a two-channel 2.4 GHz system, with a digital steering servo and spring-style servo saver. Those are the basic throttle-and-steering functions a driver needs for this assembled vehicle. Do not import the DSC modes of an ARRMA transmitter or a drift-specific gyro setup into it because both packages have a pistol-grip radio. Check the label and the actual supplied instructions before changing a setting or interpreting a switch.",
+        "For the first setup, follow the manual’s quick-start and control-check precautions in a clear area. Confirm that neutral, steering direction and the braking/reverse behavior are understood before building a course. Keep the initial route simple enough to stop and inspect without reaching into a moving drivetrain. If the response is unexpected, stop and resolve it through the matching instructions rather than hold the trigger while trying several adjustments at once.",
+        "The controller’s linked troubleshooting document distinguishes signal, voltage, neutral-point and thermal problems. That is useful because a drive interruption has several possible causes. A servo that still moves does not establish that the drive battery can supply normal load or that motor output is permitted. Record the actual indication and circumstances first. We are not diagnosing a reader’s vehicle here, reproducing a calibration shortcut or claiming that a replacement motor is the first answer to every loss of drive."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & adjustment",
+      "heading": "Keep a baseline before exploring the hardware",
+      "paragraphs": [
+        "The Reflex 14MT includes threaded coil-over shock absorbers, adjustable turnbuckles and inserts for caster blocks and rear hubs. The aluminum steering rack and front universal driveshafts are also listed. That is a substantial adjustment inventory for a compact RTR, and it makes the manual worth keeping after the first charge. Adjustability is useful when it answers a specific observed behavior; it is not evidence that every setting needs changing before the first drive.",
+        "Begin with the factory arrangement and record a reason before altering it. Suspension height, link length and steering geometry affect different aspects of the vehicle, and changing them together can hide the original cause. The spring-style servo saver is a documented part of the steering system, not a guarantee against gear damage. Check for free movement using the model’s precautions and avoid forcing steering against an obstruction simply because the truck is physically small.",
+        "The adjustable wheelie bar is another supplied feature with a defined purpose. It does not stop every rollover, create braking space or establish a safe jump height. We have not measured wheelie balance, cornering grip or landing composure. Its value in this assessment is that the complete vehicle includes a documented adjustment route. Learn the standard controls and ground-level behavior before deciding that the wheelie bar or suspension should be used to chase a video demonstration."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain & course",
+      "heading": "Scale fractions do not shrink every obstacle",
+      "paragraphs": [
+        "The manufacturer calls this an off-road monster truck with all-terrain tires. An open patch of dry packed dirt or smooth pavement is a sensible place to learn its control behavior. Keep bumps low and the route visible, with space beyond each turn. The 312mm vehicle length is a planning reference, not evidence that it belongs in a narrow furnished room. Outdoor use can still require a surprisingly large clear area once stopping and recovery are included.",
+        "Long grass, deep loose stones and sharp edges are different problems from a modest compacted course. Tire size, ground clearance, surface resistance and wheel placement all matter. Do not translate “all terrain” into a claim that this smaller truck can cross the same field as a larger monster without additional load or interruption. We have not tested a grass-height limit, rock size or runtime penalty, so those measurements are deliberately absent from the recommendation.",
+        "Water-resistant speed-control language also needs restraint. It does not make the whole vehicle, radio or battery an unrestricted waterproof system. Use the actual equipment instructions for environmental limits and subsequent care; keep early sessions dry while learning inspection and maintenance. A low-consequence route helps distinguish normal driving adjustments from problems caused by contamination or impact. If an obstacle traps the truck, stop and recover appropriately rather than use repeated throttle to turn a course mismatch into a repair question."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & service access",
+      "heading": "The blue/purple body does not change the package suffix",
+      "paragraphs": [
+        "The 20190 body uses blue and purple graphics over a dark monster-truck pickup shape. Manufacturer photographs show the exact finished appearance, while the front bumper includes LEDs. That is distinct from simply finding a replacement body with Reflex branding. The actual product in this review is the complete assembled standard vehicle. Its lights and finished shell are worthwhile details, but neither changes which drive-power items belong in 20190 versus 20190C.",
+        "The gallery’s chassis close-up comes from the manufacturer’s blue/purple announcement and depicts shared Reflex platform hardware; its filename identifies the earlier 20174 illustration. We label it as such rather than pretend every photographed accessory is exclusive to 20190. The battery visible in that technical image is not evidence of inclusion in the standard box. The manufacturer’s own comparison chart and required-equipment list remain the better source for the package inventory.",
+        "The tub chassis covers the center driveshaft, while the manual shows access to the battery, suspension and drivetrain assemblies. Good access means the owner can follow inspection and service instructions; it does not make the vehicle maintenance-free. Keep leads clear, secure the correct pack and refit the body properly after access. We have not timed a battery change or scored repair speed from a studio photograph. Allow enough working space around the truck, as well as room to store it."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup & ownership",
+      "heading": "Use a compact-power budget, not the headline price alone",
+      "paragraphs": [
+        "Associated Electrics lists a USD215.99 standard 20190 vehicle reference when checked on 26 October 2026. It is a dated manufacturer reference, not a live Amazon price or an availability guarantee. Add the compatible compact 2S pack, a suitable charger and four radio AA batteries. An owner with an appropriate existing charging setup has a different first-drive basket from a completely new buyer; no invented universal all-in dollar total can accurately represent both situations.",
+        "The manufacturer also offers a separate 20190C combo, so compare the exact included equipment and current terms if completion simplicity is the priority. Do not calculate a discount by taking another color’s old MSRP or a distributor’s discontinued flag as evidence of a present offer. The current manufacturer page describes the product as active, while the Horizon distributor page marks its listing discontinued. Those labels refer to different listings; we do not infer universal production or stock status from them.",
+        "Longer-term costs depend on actual use, maintenance and accidents. The technical documents give a route for servicing shocks, differentials and drive components, but we have no ownership dataset establishing a repair interval or reliability percentage. Keep the supplied configuration as the reference before adding optional hardware. A small vehicle can still require careful work, and a compact battery requirement is an ongoing compatibility consideration rather than a one-time detail to overlook after checkout."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose a change in size or activity deliberately",
+      "paragraphs": [
+        "The Losi Mini LMT Grave Digger LOS01026T1 is a useful compact monster comparison when a solid-axle Monster Jam-style truck and a supplied drive-power package are more attractive than the Reflex’s independent-suspension format. That is a change in mechanical character and presentation. Read its exact completion list and course limitations rather than assume all compact RTRs share the same battery or charging arrangement. Neither review claims a shared-surface handling or durability contest.",
+        "The Team Associated Rival MT10 V2, 20518, stays with a four-wheel-drive brushless monster concept at a larger 1/10 size. Consider it when the intended outdoor area and transport space justify moving up. It is not simply the same Reflex with a bigger motor, and its power requirements need a separate basket. Our archive explains that exact package without turning scale into an unsupported guarantee that every obstacle or grass surface will become easier.",
+        "If the available venue is primarily a smooth paved route and the body style is part of the appeal, the Reflex 14R Hoonicorn 20178 offers a different activity within a similarly compact family. It is a complete car, not a set of tires proposed as a shortcut conversion. Read that review for its on-road brief. Pick between compact monster play, a larger outdoor truck and a small road car before comparing power labels that describe different vehicles doing different jobs."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A good fit when you have chosen the compact outdoor job",
+      "paragraphs": [
+        "Shortlist the Reflex 14MT20190 when its smaller footprint fits the course and you want assembled brushless 4WD with three differentials, adjustable suspension hardware and a finished monster body. The equipment has a clear purpose, and the manufacturer provides a useful linked service manual. The strongest reason to choose it is a specific compact outdoor driving plan, not the assumption that “monster truck” makes a vehicle equally happy on every surface a buyer can find.",
+        "Pause if the purchase assumes a full-size battery will fit, a charger is included, or a distributor’s 3S line overrides the manufacturer’s 2S requirement. Also recognize what the specification table leaves open: wheelbase and weight are listed as varying, so this review does not fill those boxes with guesses. If a carrying limit or particular course depends on an exact figure, obtain confirmation for the delivered configuration rather than treat a plausible number from another Reflex as proof.",
+        "Our five equally weighted category scores concern the compact brief, documented driveline, adjustment/access, first-drive completeness and value/documentation. They are editorial buying judgments with visible reasons. No Amazon customer stars, measured speed, crash results or long-term reliability claim is being substituted for evidence. The affiliate link retains the historical ASC20190 identity and original verification date, without a fresh offer or inventory check. Make the battery fit and complete shopping list concrete before treating the standard RTR as ready for its first outing."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact model",
+      "20190 blue/purple standard RTR · archived distributor partASC20190"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/14 /4WD"
+    ],
+    [
+      "Motor",
+      "Reedy 4500kV brushless"
+    ],
+    [
+      "Speed control",
+      "Reedy brushless; linked SC300-BL instructions"
+    ],
+    [
+      "Power required",
+      "Supported compact 2S LiPo; charger separate"
+    ],
+    [
+      "Connector",
+      "T-plug"
+    ],
+    [
+      "Radio batteries",
+      "FourAA separate"
+    ],
+    [
+      "Differentials",
+      "Three sealed; metal ring and pinion gears"
+    ],
+    [
+      "Steering",
+      "Digital servo with spring-style saver; aluminum rack"
+    ],
+    [
+      "Suspension",
+      "Threaded coil-over shocks; adjustable links and inserts"
+    ],
+    [
+      "Center / front drive",
+      "Aluminum center shaft / front universal driveshafts"
+    ],
+    [
+      "Bumper / bar",
+      "FrontLEDs / adjustable wheelie bar"
+    ],
+    [
+      "Length / width",
+      "312 /237mm · manufacturer"
+    ],
+    [
+      "Wheelbase / weight",
+      "Manufacturer lists varies; no exact figure invented"
+    ],
+    [
+      "Reference",
+      "USD215.99 manufacturer standard RTR ·26 October 2026"
+    ],
+    [
+      "Source conflict",
+      "Distributor 1/24 and 7.4–11.1V fields rejected in favor of manufacturer 1/14 and 2S"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does 20190 include a battery and charger?",
+      "answer": "No. Standard 20190 needs a compact 2S pack, suitable charger and four AA radio cells. 20190C is the separate LiPo Combo."
+    },
+    {
+      "question": "Will a full-size 2S pack fit?",
+      "answer": "Do not assume so. The linked vehicle manual specifically requires a compact pack and warns that a standard-size 2S battery does not fit."
+    },
+    {
+      "question": "Is 3S recommended because a distributor lists 11.1V?",
+      "answer": "No. The exact manufacturer vehicle requirement is 2S. The conflicting distributor field is not used as compatibility advice."
+    },
+    {
+      "question": "Is this a 1/24 truck?",
+      "answer": "No. Team Associated identifies the Reflex 14MT as 1/14. A distributor heading conflicts with that manufacturer information."
+    },
+    {
+      "question": "What are the exact wheelbase and weight?",
+      "answer": "The current manufacturer table lists both as varies. They are not replaced here with guesses from another Reflex model."
+    },
+    {
+      "question": "Has RC Car King tested its handling or reliability?",
+      "answer": "No. This is an original research-led assessment based on the documented vehicle, package and instructions."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "associated-reflex-14mt-20190-2.jpg",
+      "alt": "Official side profile of blue and purple Team Associated Reflex 14MT20190",
+      "caption": "Exact 20190 body profile.312mm length and 237mm width are manufacturer specifications, not our measurements.",
+      "source": "https://www.associatedelectrics.com/news/latest_products/2788-new-reflex-14mt-monster-truck-rtr-blue-amp-purple/",
+      "credit": "Team Associated",
+      "afterSection": "drivetrain"
+    },
+    {
+      "image": "associated-reflex-14mt-20190-3.jpg",
+      "alt": "Manufacturer Reflex 14MT shared platform steering and front drivetrain close-up with optional battery visible",
+      "caption": "Shared-platform technical illustration published with the 20190 announcement; source file identifies 20174 hardware. A visible battery is not supplied in standard 20190.",
+      "source": "https://www.associatedelectrics.com/news/latest_products/2788-new-reflex-14mt-monster-truck-rtr-blue-amp-purple/",
+      "credit": "Team Associated",
+      "afterSection": "steering"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Associated Electrics — exact 20190 listing, completion chart, specifications and USD reference",
+      "url": "https://60years.associatedelectrics.com/reflex-14mt-monster-truck-ready-to-run/",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Team Associated — linked Reflex 14MT platform manual; compact 2S requirement",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14MT/Reflex-14MT-manual.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer vehicle manual; original 20174 artwork, linked by 20190 page"
+    },
+    {
+      "name": "Team Associated —13 December 2023 blue/purple 20190 and 20190C announcement",
+      "url": "https://www.associatedelectrics.com/news/latest_products/2788-new-reflex-14mt-monster-truck-rtr-blue-amp-purple/",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "Big Squid RC —Tim Mohr,20 June 2023 earlier 20174 launch coverage",
+      "url": "https://www.bigsquidrc.com/team-associated-1-14-reflex-14mt-rtr-monster-truck/",
+      "checked": "2026-10-26",
+      "kind": "Independent earlier-variant news; not a 20190 driving test"
+    },
+    {
+      "name": "Horizon Hobby —ASC20190 distributor listing; scale/power fields conflict",
+      "url": "https://www.horizonhobby.com/product/reflex-14mt-rtr-blue-purple/ASC20190.html",
+      "checked": "2026-10-26",
+      "kind": "Distributor source conflict; manufacturer vehicle guidance takes priority"
+    },
+    {
+      "name": "Reedy — linked SC300-BL controller troubleshooting document",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14MT/Reedy_ESC_SC300BL_Manual.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer controller instructions"
+    }
+  ],
+  "evidenceNote": "Exact 20190 manufacturer listing and linked platform documents checked 26 October 2026. Manufacturer 2S requirement and 1/14 identity take priority over distributor 7.4–11.1V and 1/24 fields. Wheelbase/weight remain varies. Earlier 20174 manual/news and technical photo are qualified. No physical testing, new Amazon offer, discount or stock assertion.",
+  "revisionNote": "First publication of exact standard 20190 with compact battery guidance and explicit package/source distinctions.",
+  "seo": {
+    "title": "Team Associated Reflex 14MT 20190 Review | RC Car King",
+    "description": "Team Associated 20190 Reflex 14MT review: compact 2S battery fit, brushless 4WD, three differentials, missing equipment, terrain fit and source conflicts."
+  },
+  "published": "2026-10-26",
+  "updated": "2026-10-26",
+  "publishedAt": "2026-10-26T13:31:39.171Z",
+  "updatedAt": "2026-10-26T13:48:21.912Z",
+  "status": "published",
+  "reviewType": "Research-led review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original research-led buying analysis. No physical test or ownership experience is claimed."
+  }
+}

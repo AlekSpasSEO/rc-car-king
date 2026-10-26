@@ -81,3 +81,7 @@ The guide uses an original accessible HTML/CSS four-stage observation route: obs
 ## Weekday reviews · 22 October 2026
 
 Losi Mini LMT Megalodon LOS01026T3, tan Traxxas TRX-4M Defender 97054-1-TAN and blue AWD Nissan 240SX 93424-4-BLUE use nine individually inspected official assets. The [dated media manifest](content/evidence/2026-10-22-review-media.json) records original full-resolution URLs, credits, sizes, SHA-256 hashes and exact-manual hashes. The Megalodon package image distinguishes supplied power equipment from the required USB source; its action photograph is explicitly a manufacturer demonstration. Traxxas body-off photographs show documented stock layouts, not RC Car King teardown work. Defender captions separate included bumper LEDs from optional body lights. No community or independent-publication photography is reused.
+
+## 26 October 2026 — three complete-vehicle reviews
+
+Official ARRMA/Horizon ARA3530T1 photos, Team Associated20190 body photos plus the credited shared20174 platform detail, and Kyosho34428T1 staged body/platform photos: nine assets. Exact URLs, file hashes and manual hashes are recorded in `content/evidence/2026-10-26-review-media.json`. Each review links its source. Visible batteries in technical photos are not implied inclusions; no community images or fabricated demonstrations used.

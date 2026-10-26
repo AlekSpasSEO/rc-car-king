@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-26T13:27:35.381Z",
+  "review": "arrma-gorgon-223s-2wd",
+  "coreWords": 2201,
+  "scope": "Research-led buying assessment; no physical testing",
+  "manufacturerSku": "ARA3530T1",
+  "amazon": {
+    "asin": "B0H2LQJ2XG",
+    "brand": "ARRMA",
+    "manufacturerPart": "ARA3530T1",
+    "model": "ARA3530T1",
+    "title": "ARRMA Gorgon 223S 1/10 2WD Brushless Monster Truck RTR, Blue/Black",
+    "originalIdentityVerifiedAt": "2026-10-12T23:05:04.794Z",
+    "detailPageUrl": "https://www.amazon.com/dp/B0H2LQJ2XG?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "verification": "Historical sanitized public evidence; exact ASIN, brand and part asserted. No new API/authentication, price refresh or customer ratings used."
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — exact blue T1 package and USD vehicle reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-10-gorgon-223s-2wd-rtr-brushless-monster-truck-blue-black/ARA3530.html",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "name": "ARRMA — exact ARA3530 brushless manual; pages 12–24 and wet-use precautions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4490367e/Manuals/ARA3530-MANUAL-ML.pdf",
+      "checked": "2026-10-26",
+      "kind": "Manufacturer manual"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 26 June 2026 Gorgon 223S coverage featuring pink T3",
+      "url": "https://www.rcdriver.com/arrma-gorgon-223s-blx/",
+      "checked": "2026-10-26",
+      "kind": "Independent related-variant coverage; no T1 test or package transfer"
+    },
+    {
+      "name": "ARRMA — indexed product showcase; dimensions conflict with linked manual",
+      "url": "https://www.arrma-rc.com/en/product-showcase?pid=ARA3530",
+      "checked": "2026-10-26",
+      "kind": "Indexed manufacturer specifications; live route redirects to brand landing page"
+    }
+  ],
+  "notes": [
+    "Exact T1 identity; T3 independent coverage kept separate.",
+    "Manual page12 measurements conflict with indexed showcase; no silent correction."
+  ]
+}
