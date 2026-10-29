@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-29T11:38:06.068Z",
+  "commit": "24fc56d83999844191ea239e2c8b6511b9c9607e",
+  "deployment": "067452b6-6824-4222-8c81-4715ca435c9a",
+  "checks": [
+    {
+      "route": "/arrma/gorgon-223s-2wd/",
+      "status": 200,
+      "canonical": true,
+      "schema": true,
+      "affiliate": true
+    },
+    {
+      "route": "/team-associated/reflex-14mt-blue-purple/",
+      "status": 200,
+      "canonical": true,
+      "schema": true,
+      "affiliate": true
+    },
+    {
+      "route": "/kyosho/fazer-mk2-mazda-savanna-gt/",
+      "status": 200,
+      "canonical": true,
+      "schema": true,
+      "affiliate": true
+    }
+  ],
+  "verifiedAt": "2026-10-29T12:44:13.866Z",
+  "production": "All three pending review pages return200 with production canonicals, expected schema timestamps, exactSKU/ASIN/tag/affiliate attributes and official hero images.",
+  "discovery": [
+    "Homepage",
+    "Brand archives",
+    "HTML sitemap",
+    "pages-sitemap.xml",
+    "RSS",
+    "llms.txt"
+  ],
+  "preview": "All three GitHub preview URLs return200 with their own canonical and noindex/follow.",
+  "validation": [
+    "Production build and checker passed:66reviews,7articles,90HTMLpages,89sitemapURLs",
+    "Preview build and checker passed",
+    "npm run check:live -- --date2026-10-26 passed",
+    "npm run check:live -- --date2026-10-26 --preview passed"
+  ],
+  "schedules": [
+    {
+      "id": "publish-rc-car-king-daily-review",
+      "status": "ACTIVE",
+      "cadence": "Three reviews each weekday at09:00 Europe/Skopje"
+    },
+    {
+      "id": "rc-car-king-weekly-listicle",
+      "status": "ACTIVE",
+      "cadence": "One listicle each Monday at10:00 Europe/Skopje"
+    },
+    {
+      "id": "rc-car-king-daily-guide",
+      "status": "ACTIVE",
+      "cadence": "One guide daily at11:00 Europe/Skopje"
+    }
+  ],
+  "recovery": "Each existing task now uses the explicit repository directory, recovers committed pending batches before new work, immediately falls back to a Git-branch main deployment if no matching push deployment exists, retries once after accepted connector authentication, and verifies production plus preview before notifying.",
+  "limitation": "The current GitHub authentication received403 when attempting to modify existing Cloudflare app installation access. Native GitHub push-trigger reconnection is not claimed; the existing authorized Cloudflare Pages Git-branch publishing path is tested successfully.",
+  "commercial": "No Amazon API, credential lookup, token request, offer refresh or Amazon workflow was used. The existing API pause remains in all tasks."
+}
