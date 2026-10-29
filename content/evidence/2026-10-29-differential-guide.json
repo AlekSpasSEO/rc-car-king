@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-29",
+  "kind": "guide",
+  "route": "guides/rc-car-differentials-open-locked-center/",
+  "intentKey": "identify-open-locked-and-center-differentials-and-separate-normal-action-from-drive-faults",
+  "coreWords": 1555,
+  "researchedAt": "2026-10-29T12:56:29.709Z",
+  "sources": [
+    {
+      "name": "Traxxas — glossary: differential, locking differential and slipper-clutch terminology",
+      "url": "https://traxxas.com/support/glossary/",
+      "kind": "Manufacturer terminology; mechanisms explained in original editorial language",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Eaton — open differential explanation",
+      "url": "https://www.eaton.com/gb/en-gb/products/differentials-traction-control/open-differential.html",
+      "kind": "Differential manufacturer; general cornering and uneven-grip principles only, not RC operating instructions",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — TRX-4M Defender 97054-1 product specifications and spool-equipped axles",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "kind": "Exact complete-vehicle manufacturer documentation",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — 97054-1 R01 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer manual; shutdown, driving precautions and separate drive profiles",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — K10 High Trail 92056-4 specifications",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "kind": "Exact complete-vehicle manufacturer documentation",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — 92056-4 R01 manual, page 21: operating the T-Lock differentials",
+      "url": "https://traxxas.com/media/productattach/C-92056-4/2/92056-4-OM-EN-R01.pdf",
+      "kind": "Exact-model manufacturer operating instructions",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Team Associated — Reflex 14MT 20190 blue/purple product page",
+      "url": "https://60years.associatedelectrics.com/reflex-14mt-monster-truck-ready-to-run/",
+      "kind": "Manufacturer: three sealed differentials and exact package identity",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Team Associated — linked Reflex 14MT platform manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14MT/Reflex-14MT-manual.pdf",
+      "kind": "Manufacturer assembly drawings; older body artwork, linked by the current 20190 page",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Team Associated — RC8B3.1 tuning guide: differential fluid",
+      "url": "https://apps.associatedelectrics.com/ateamapps/vehicle_tuning/rc8b3tune/index.html",
+      "kind": "Manufacturer explanation of location-dependent tuning tradeoffs; its numeric setup is not transferred to other cars",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "ARRMA — Gorgon 223S ARA3530 manufacturer showcase",
+      "url": "https://www.arrma-rc.com/en/product-showcase?pid=ARA3530",
+      "kind": "Exact ARA3530T1 rear-drive vehicle, one differential and slipper hub",
+      "checked": "2026-10-29"
+    }
+  ],
+  "checks": {
+    "archive": "No guide for 2026-10-29; intent compared with six earlier guides and the existing listicle.",
+    "productionBaseline": "1739d7420b54b3ada7f7f8366dcaaccbd767890f matched successful Cloudflare deployment 1e8ea4f1-735b-495b-a125-bf868f9e0bb9 before authoring.",
+    "sourceAccess": "Both exact Traxxas pages returned HTTP 200 directly; web text extraction cache missed them. Manufacturer PDF bytes fetched again and matched the previously read files.",
+    "manualHashes": {
+      "92056-4-OM-EN-R01.pdf": "4ba0d81a18e948f960410c072ed9c546f31488bee49abe2884ce79bf14ffb238",
+      "97054-1-OM-EN-R01.pdf": "18fdccd38c2d97d2776698f3989bd1321fa1e10bd0afeb619820ce514f55cbf7",
+      "Reflex-14MT-manual.pdf": "3a636fcdd4ff71bc963a749b0543e9929604c4a585023b7ce3b9c1d0748cb394"
+    },
+    "boundaries": "No vehicle-operation or oil recipe transferred between models. Eaton cited only for general mechanics. Reflex manual is current-page-linked platform documentation with original body artwork. No invented test, prices, torque split or traction capability.",
+    "media": "Original accessible concept map in the existing HTML/CSS renderer; no external photograph or community license required.",
+    "commercial": "No direct buying links. No Amazon API, credentials, authentication, offers or workflows accessed.",
+    "validation": {
+      "production": "npm run build and npm run check passed; 66 reviews, 8 articles, 91 pages and 90 sitemap URLs.",
+      "preview": "Same build/check passed with default GitHub origin/base path.",
+      "desktop": "1440×900 IAB: title, byline, direct answer and original three-panel concept map visually inspected; no page overflow.",
+      "mobile": "390×844 IAB: title/answer, stacked concept map, body copy and comparison table visually inspected. Page width 375px; 530px table stays in 335px overflow:auto wrapper. Section navigation and FAQ expansion work. Viewport override reset.",
+      "finalEditorial": "Removed internal publication/verification details from visible method notes and tightened center-differential heading before final rebuild.",
+      "live": "After push, require a matching successful Cloudflare deployment plus npm run check:live -- --date 2026-10-29 and the same command with --preview. Outcome is reported by the publication run, not presumed by this pre-release ledger."
+    }
+  }
+}

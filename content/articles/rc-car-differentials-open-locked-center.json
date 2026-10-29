@@ -1,0 +1,316 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-differentials-open-locked-center",
+  "intentKey": "identify-open-locked-and-center-differentials-and-separate-normal-action-from-drive-faults",
+  "status": "published",
+  "title": "RC car differentials: open, locked and center explained",
+  "dek": "Why one wheel spins, why a crawler scrubs in a turn, and what a three-differential 4WD actually gives you.",
+  "seo": {
+    "title": "RC Car Differentials: Open, Locked & Center | RC Car King",
+    "description": "Understand open, locked and center RC differentials, with exact vehicle examples, a drivetrain audit and practical checks before changing your setup."
+  },
+  "published": "2026-10-29",
+  "updated": "2026-10-29",
+  "publishedAt": "2026-10-29T12:56:29.709Z",
+  "updatedAt": "2026-10-29T12:56:29.709Z",
+  "answer": "An axle differential lets the left and right driven wheels rotate at different speeds. A locked axle or spool keeps those outputs turning together. A center differential allows a speed difference between the front and rear drivetrains. These solve different problems: turning freedom, maintaining drive across uneven grip, and managing front-to-rear drive. Start by identifying what your exact car contains before treating wheelspin or tire scrub as a fault.",
+  "scope": "This is a beginner explanation and document-checking routine for stock electric RC vehicles. It uses complete cars already in our review archive, with separate manufacturer evidence for each. It is not a differential rebuild, oil-selection chart or locker-conversion tutorial. No physical comparison, traction measurement or driving test is claimed.",
+  "prerequisites": [
+    "The exact model number, current owner’s manual and exploded drivetrain drawings",
+    "A note of any previous-owner drivetrain changes; an RTR label does not prove the car is still stock",
+    "The model’s shutdown and battery-disconnection instructions before any hands-on inspection",
+    "A notebook to record driven axles, differential locations and the symptom you are trying to understand"
+  ],
+  "conceptCaption": "Follow the two outputs: an original concept map, not an exploded assembly or a torque-ratio diagram",
+  "concepts": [
+    {
+      "name": "AXLE DIFF",
+      "description": "Left wheel ↔ right wheel: permits different rotational speeds."
+    },
+    {
+      "name": "LOCK / SPOOL",
+      "description": "Left wheel + right wheel: outputs are mechanically tied together."
+    },
+    {
+      "name": "CENTER DIFF",
+      "description": "Front drivetrain ↔ rear drivetrain: permits different output speeds."
+    }
+  ],
+  "sections": [
+    {
+      "id": "why-differentials",
+      "heading": "A corner asks the wheels to do different jobs",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "paragraphs": [
+        "Picture two tire tracks around a bend. The outside track is longer than the inside track. With similar tire sizes and rolling grip, the outside wheel therefore needs to turn faster. A differential accommodates that difference inside the drivetrain. Without that freedom, something else must give: a tire can scrub across the surface, or the driveline can carry additional load. The useful question is which behavior suits the vehicle’s job.",
+        "An open gear differential allows that left-to-right speed difference. This helps a car negotiate corners without forcing the two driven tires to cover different distances at the same rotational speed. It does not steer the wheels; the steering system does that. Nor is it an electronic driving mode. When reading a specification sheet, keep the mechanical differential, steering geometry and radio assistance in separate boxes.",
+        "The compromise appears when one tire has much less grip. An open differential can allow that wheel to spin while the vehicle makes little useful progress. Seeing one wheel rotate faster is therefore not automatically proof of stripped gears. Equally, a differential cannot create grip where a tire has no useful contact. First describe the surface, wheel loading and movement before deciding which component needs attention."
+      ]
+    },
+    {
+      "id": "locked-spool",
+      "heading": "A spool keeps the outputs together; it does not guarantee grip",
+      "sourceIndexes": [
+        2,
+        3
+      ],
+      "paragraphs": [
+        "A spool provides a fixed connection between the two axle outputs. A selectable locking differential can operate open and then mechanically tie those outputs together when its lock engages. The locked state prevents one side simply freewheeling independently of the other. For a crawler crossing uneven ground, that can preserve useful drive at a supported tire when its partner is lightly loaded.",
+        "The turning compromise remains. The tires still trace different paths around a corner, but the connected outputs cannot freely choose different speeds. On a grippy surface, scrub or a wider-feeling turn can be part of that layout. How obvious it becomes depends on the whole vehicle and surface. A locked axle does not make every steering complaint normal: new binding, rubbing or damage still needs investigation.",
+        "The stock Traxxas TRX-4M Land Rover Defender 97054-1 is a clear example. Its manufacturer identifies shaft-driven 4WD and locked front and rear spools. It does not have the larger TRX-4’s remote differential-lock selection. Changing the small Defender’s electronic drive profile does not add a mechanical open-differential mode. If you want different behavior, understand the stock arrangement before reaching for a transmitter setting."
+      ]
+    },
+    {
+      "id": "selectable-locks",
+      "heading": "Selectable locks are a model-specific control",
+      "sourceIndexes": [
+        4,
+        5
+      ],
+      "paragraphs": [
+        "The full-size TRX-4 Chevrolet K10 High Trail 92056-4 uses remote-locking front and rear differentials. Its manual describes three T-Lock switch positions: back for both open, middle for front locked, and forward for both locked. Those positions belong to this documented system. They are not universal instructions for every crawler, every TRX-family truck or a vehicle with an aftermarket transmitter.",
+        "Traxxas recommends open differentials for most driving in this manual, citing steering performance and reduced drivetrain strain. The locks are available when loose ground or an obstacle makes the open arrangement struggle. This gives the driver a choice between useful behaviors. It is a reason to learn the control, rather than assume the most locked setting is the correct setting for an entire outing.",
+        "The same manual gives an important engagement precaution: if the truck is stuck with a wheel freewheeling, release the throttle and let the wheels stop before locking. Then apply throttle slowly as the mechanism engages or disengages. Read the current manual before operating the actual truck. A spinning wheel is not an invitation to snap a lock into place under load, and a reluctant mechanism should not be forced."
+      ]
+    },
+    {
+      "id": "center-differential",
+      "heading": "A center differential separates front and rear drive",
+      "sourceIndexes": [
+        6,
+        7
+      ],
+      "paragraphs": [
+        "A typical three-differential 4WD layout has a front axle differential, a rear axle differential and a center differential between the two drivetrains. The axle units address left-to-right differences. The center addresses front-to-rear differences. Team Associated lists three sealed differentials for the Reflex 14MT 20190 blue/purple RTR, and its linked platform manual shows the corresponding assemblies. The third unit is the front-to-rear connection within that four-wheel-drive layout.",
+        "That center connection matters because front and rear loading can change as the car accelerates or crosses uneven ground. Allowing different output speeds gives another way for the drivetrain to respond. It also adds another place whose setup affects the car. A center differential is not a promise that all four tires always rotate identically, or that every tire receives a fixed percentage of useful drive in every situation.",
+        "Do not read “shaft-driven 4WD” as proof of a center differential. A shaft describes a way of transmitting rotation, not every mechanism attached to it. Likewise, counting visible housings from a body-off photograph is a poor substitute for the exploded drawing. Find the actual center assembly in the documentation and establish whether it is a differential, a fixed drive arrangement or something else before comparing vehicles."
+      ]
+    },
+    {
+      "id": "oil-slipper",
+      "heading": "Diff oil and a slipper clutch answer different questions",
+      "sourceIndexes": [
+        0,
+        8,
+        9
+      ],
+      "paragraphs": [
+        "In a suitable sealed gear differential, silicone fluid can resist the relative motion of the outputs. Higher-viscosity fluid generally resists that motion more than thinner fluid. It is a tuning variable, not a conversion into a positive mechanical lock. “Sealed” also does not mean maintenance-free, and it does not establish a universal fill level, fluid type or service interval for every differential.",
+        "Team Associated’s RC8B3.1 tuning guide describes different front, center and rear effects, including a tradeoff between center-diff acceleration response and behavior on bumps. Those are useful examples of why location matters. They are not a recipe for a Reflex 14MT. We are deliberately not copying the race buggy’s viscosity numbers into a different car, or suggesting that thicker everywhere is an improvement.",
+        "A slipper clutch is another mechanism again. It permits controlled slip in the drive path to moderate load; it is not the left-to-right speed accommodation of an axle differential. ARRMA’s Gorgon 223S ARA3530T1, for example, combines rear 2WD, one differential and a slipper assembly. An adjustment intended for the slipper should not be confused with differential setup. Use the exact assembly drawing and manual to identify which part is being discussed."
+      ],
+      "table": {
+        "caption": "Stock complete-vehicle examples checked 29 October 2026; this is a layout comparison, not a performance ranking",
+        "columns": [
+          "Exact vehicle",
+          "Documented arrangement",
+          "What to remember"
+        ],
+        "rows": [
+          [
+            "TRX-4M Defender 97054-1",
+            "Front/rear locked spools; shaft-driven 4WD",
+            "No remote open/locked selection"
+          ],
+          [
+            "TRX-4 K10 High Trail 92056-4",
+            "Front/rear remote-locking differentials",
+            "Follow its T-Lock operating instructions"
+          ],
+          [
+            "Reflex 14MT 20190 blue/purple",
+            "4WD with three sealed differentials",
+            "The center unit acts between front and rear drivetrains"
+          ],
+          [
+            "Gorgon 223S ARA3530T1 blue/black",
+            "Rear 2WD; one differential and slipper assembly",
+            "A slipper is a separate function"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "drivetrain-audit",
+      "heading": "Identify your drivetrain before changing anything",
+      "sourceIndexes": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "paragraphs": [
+        "This four-pass audit requires documentation rather than a powered wheels-in-the-air experiment. Keep hands away from moving parts. Before touching the vehicle, shut it down and disconnect its battery in the order its manufacturer specifies. You do not need to dismantle a differential to understand the stock layout."
+      ],
+      "steps": [
+        {
+          "heading": "Match the model, not just the family name",
+          "paragraphs": [
+            "Record the SKU from the car’s documentation and compare the manual’s title and revision. A TRX-4M Defender and a TRX-4 K10 High Trail share a brand and crawling purpose but use different axle arrangements and controls. Note any previous-owner changes; a stock drawing cannot confirm what has been installed later."
+          ]
+        },
+        {
+          "heading": "Trace the driven wheels and the center connection",
+          "paragraphs": [
+            "Use the drivetrain drawing to mark which wheels receive motor drive. Label front and rear differentials or spools, then inspect the documented center connection. A 2WD car does not need a center differential to divide drive between front and rear. Write down unknowns instead of filling them with assumptions from a similar-looking model."
+          ]
+        },
+        {
+          "heading": "Separate operating controls from service adjustments",
+          "paragraphs": [
+            "Identify any manufacturer-provided lock control and read its engagement precautions. Keep drive profiles, steering trim, stability assistance, slipper adjustment and differential fluid in distinct notes. A control that changes throttle or steering behavior cannot be assumed to alter mechanical axle locking. If the manual does not describe an adjustment, do not invent a procedure for it."
+          ]
+        },
+        {
+          "heading": "Record the symptom before selecting a remedy",
+          "paragraphs": [
+            "Describe whether the issue occurs turning or going straight, on one surface or several, and whether it began suddenly. Record noise, visible damage and any recent maintenance. Compare that description with the actual model’s troubleshooting section. A useful report names the condition and change; “bad diff” jumps to a diagnosis before establishing the evidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "troubleshooting",
+      "heading": "Use the symptom to choose the next check",
+      "sourceIndexes": [
+        1,
+        3,
+        5,
+        7,
+        8
+      ],
+      "paragraphs": [
+        "For a crawler that resists a tight turn, first establish whether the axles are permanently spooled or selectable locks are engaged. Then check the documented steering system and look for tire/body interference with drive power safely disconnected. A known locked layout explains one source of scrub; it does not rule out a loose linkage, restricted steering travel or a tire rubbing after a change.",
+        "For one spinning wheel with little forward progress, note which wheels still have support and whether the differential is open. On a selectable-lock vehicle, follow its own operating procedure rather than force the mechanism. On any car, a sudden change from previous behavior, grinding, lost drive or visible leakage warrants stopping and consulting the manufacturer’s inspection instructions. Wheelspin by itself cannot identify damaged internal gears.",
+        "Keep the response proportionate. Re-establish the documented baseline and solve interference or damage before tuning around it. Do not glue a differential, defeat protection settings or transplant another model’s oil chart to make the symptom disappear. If the documentation and installed hardware disagree, ask the manufacturer or an experienced model-specific technician to identify the assembly. A clear drivetrain map is a more useful first upgrade than an unsupported adjustment."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "You have a useful drivetrain baseline when…",
+    "items": [
+      "The exact SKU, manual revision and any known modifications are recorded",
+      "Driven wheels and front/rear differential or spool locations are identified",
+      "The center connection is confirmed rather than inferred from “4WD”",
+      "A slipper clutch, radio assistance and mechanical differential action remain distinct",
+      "Any selectable lock’s actual engagement instructions have been read",
+      "Symptoms are recorded without declaring an unverified internal failure",
+      "No fluid recipe, disassembly procedure or modification has been borrowed from another model"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "traxxas/trx-4m-land-rover-defender/",
+      "title": "TRX-4M Land Rover Defender · 97054-1",
+      "note": "Small crawler with stock locked spools and a separate electronic drive-profile system."
+    },
+    {
+      "route": "traxxas/trx-4-chevrolet-k10-high-trail/",
+      "title": "TRX-4 K10 High Trail · 92056-4",
+      "note": "Full-size crawler with remote T-Lock selection and its own operating precautions."
+    },
+    {
+      "route": "team-associated/reflex-14mt-blue-purple/",
+      "title": "Team Associated Reflex 14MT · 20190",
+      "note": "Compact brushless 4WD example with three sealed differentials."
+    },
+    {
+      "route": "arrma/gorgon-223s-2wd/",
+      "title": "ARRMA Gorgon 223S · ARA3530T1",
+      "note": "Rear-drive monster truck with one differential and a distinct slipper assembly."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does 4WD mean all four wheels must always turn at the same speed?",
+      "answer": "No. Four-wheel drive identifies the driven wheels. Differential and fixed-drive arrangements determine where rotational speed differences are permitted. Confirm the actual layout in the exact model’s documentation."
+    },
+    {
+      "question": "Is a locked differential always better for an RC crawler?",
+      "answer": "It can maintain useful drive across uneven grip, but tying the outputs together affects turning. Some crawlers use permanent spools; others provide selectable locks. Terrain and the exact vehicle determine which behavior is useful."
+    },
+    {
+      "question": "Does thicker differential oil make a mechanical locker?",
+      "answer": "No. In a compatible sealed gear differential it can increase resistance to relative output motion, but that is different from a positive mechanical lock. Use model-specific fluid and service guidance."
+    },
+    {
+      "question": "Are a center differential and a slipper clutch the same thing?",
+      "answer": "No. A center differential accommodates different front/rear drivetrain output speeds. A slipper clutch permits controlled slip along the drive path. Confirm which assembly the actual vehicle has."
+    },
+    {
+      "question": "Can I unlock the stock TRX-4M Defender with a drive-mode setting?",
+      "answer": "No. The stock 97054-1 has locked axle spools. Its electronic drive profiles do not provide the larger TRX-4’s mechanical remote differential-lock system."
+    },
+    {
+      "question": "Does one spinning wheel prove that a differential is broken?",
+      "answer": "No. An open differential can allow wheelspin where grip is uneven. A new loss of drive, grinding or other changed behavior still needs model-specific inspection; wheelspin alone is not a diagnosis."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — glossary: differential, locking differential and slipper-clutch terminology",
+      "url": "https://traxxas.com/support/glossary/",
+      "kind": "Manufacturer terminology; mechanisms explained in original editorial language",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Eaton — open differential explanation",
+      "url": "https://www.eaton.com/gb/en-gb/products/differentials-traction-control/open-differential.html",
+      "kind": "Differential manufacturer; general cornering and uneven-grip principles only, not RC operating instructions",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — TRX-4M Defender 97054-1 product specifications and spool-equipped axles",
+      "url": "https://traxxas.com/trx-4m-land-rover-defender-97054-1",
+      "kind": "Exact complete-vehicle manufacturer documentation",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — 97054-1 R01 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-97054-1/2/97054-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer manual; shutdown, driving precautions and separate drive profiles",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — K10 High Trail 92056-4 specifications",
+      "url": "https://traxxas.com/trx-4-chevrolet-k10-high-trail-edition-92056-4",
+      "kind": "Exact complete-vehicle manufacturer documentation",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Traxxas — 92056-4 R01 manual, page 21: operating the T-Lock differentials",
+      "url": "https://traxxas.com/media/productattach/C-92056-4/2/92056-4-OM-EN-R01.pdf",
+      "kind": "Exact-model manufacturer operating instructions",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Team Associated — Reflex 14MT 20190 blue/purple product page",
+      "url": "https://60years.associatedelectrics.com/reflex-14mt-monster-truck-ready-to-run/",
+      "kind": "Manufacturer: three sealed differentials and exact package identity",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Team Associated — linked Reflex 14MT platform manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14MT/Reflex-14MT-manual.pdf",
+      "kind": "Manufacturer assembly drawings; older body artwork, linked by the current 20190 page",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "Team Associated — RC8B3.1 tuning guide: differential fluid",
+      "url": "https://apps.associatedelectrics.com/ateamapps/vehicle_tuning/rc8b3tune/index.html",
+      "kind": "Manufacturer explanation of location-dependent tuning tradeoffs; its numeric setup is not transferred to other cars",
+      "checked": "2026-10-29"
+    },
+    {
+      "name": "ARRMA — Gorgon 223S ARA3530 manufacturer showcase",
+      "url": "https://www.arrma-rc.com/en/product-showcase?pid=ARA3530",
+      "kind": "Exact ARA3530T1 rear-drive vehicle, one differential and slipper hub",
+      "checked": "2026-10-29"
+    }
+  ],
+  "evidenceNote": "Research-led explanation based on dated manufacturer documentation, with general differential principles cross-checked against Eaton. The audit and diagnostic questions are editorial guidance, not a physical test or a universal repair procedure. The original concept map illustrates output relationships without assigning torque ratios. Model-specific operating instructions and tuning examples stay with the vehicles they document.",
+  "revisionNote": "First published 29 October 2026. Covers differential layouts, model-specific locking controls and a practical document-checking routine before changing drivetrain setup."
+}
