@@ -1,0 +1,532 @@
+{
+  "brand": "Axial",
+  "brandSlug": "axial",
+  "model": "SCX10 III Jeep CJ-7 V2",
+  "modelSlug": "scx10-iii-jeep-cj-7-v2",
+  "sku": "AXI03008V2T1",
+  "headlineLines": [
+    "STRAIGHT AXLES.",
+    "DIG INTO THE LINE."
+  ],
+  "title": "Axial SCX10 III Jeep CJ-7 V2 review: trail detail with useful DIG control",
+  "dek": "Red AXI03008V2T1 combines AR45 straight axles, a 35T brushed motor, separate electronics and installed DIG. Battery selection and body access still deserve a plan.",
+  "type": "Scale trail crawler",
+  "use": "Trail driving",
+  "terrain": [
+    "Controlled rock courses",
+    "Dry uneven trails",
+    "Low-speed dirt obstacles"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Ready-to-run; drive battery and charger separate",
+  "skill": "Beginner trail driver willing to learn DIG; intermediate scale enthusiast",
+  "price": {
+    "amount": 499.99,
+    "currency": "USD",
+    "basis": "Horizon Hobby US manufacturer vehicle reference · red AXI03008V2T1",
+    "source": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+    "checked": "2026-10-30"
+  },
+  "purchaseNote": "Vehicle-only USD reference. The dated power example adds a supported manufacturer-recommended 3S pack, compatible AC charger and separate safety-equipment allowance. The stock radio operates DIG; do not assume remote two-speed shifting is included.",
+  "overview": "A considered choice for scale trail driving when detailed Jeep presentation and factory DIG are both part of the attraction. V2’s separate ESC and receiver improve component choice, while straight axles and body-mounted lighting make route planning and access real ownership considerations.",
+  "verdict": "Choose the scale-trail brief and learn the DIG",
+  "verdictText": "The red CJ-7 V2 supplies a substantial crawler platform with useful installed controls and separate electronics. Its full equipment budget and body-access routine should be accepted before buying; this is not a portal-axle speed truck or an RTR with every transmission option radio-controlled.",
+  "pros": [
+    "Factory-installed DIG servo and third-channel control",
+    "35T brushed motor with separate 40A ESC and SR515 receiver",
+    "AR45 straight axles, metal transmission gears and full bearings",
+    "Licensed body details, beadlock wheels and R30 Baja Boss tires"
+  ],
+  "cons": [
+    "Battery and compatible charger are additional purchases",
+    "Body removal must respect connected lighting wires",
+    "Radio-controlled two-speed shifting is not part of the supplied control package",
+    "Published low-gear ratio differs between product page and manual"
+  ],
+  "bestFor": [
+    "A driver seeking deliberate scale trail driving and Jeep detail",
+    "Learning when rear-axle DIG helps a tight route",
+    "An owner who values separate controller and receiver assemblies"
+  ],
+  "avoidIf": [
+    "You specifically require portal axles or high-speed bashing",
+    "You expect a drive battery and charger in the box",
+    "You want to avoid removing a wired body during ownership"
+  ],
+  "quickSpecs": [
+    [
+      "Exact vehicle",
+      "AXI03008V2T1 · red V2"
+    ],
+    [
+      "Motor",
+      "Axial Slickrock 35T · 540 brushed"
+    ],
+    [
+      "Electronics",
+      "40A ESC + separate SR515 receiver"
+    ],
+    [
+      "Axles",
+      "AR45 standard straight · locked"
+    ],
+    [
+      "Extra control",
+      "Installed SX108 DIG servo"
+    ],
+    [
+      "Power needed",
+      "2S/3S LiPo · EC3/IC3 · separate"
+    ]
+  ],
+  "rating": {
+    "audience": "A scale-trail driver who wants Jeep detail and installed DIG with separate electronics",
+    "disclosure": "Five equally weighted research-led equipment and ownership scores; not measured climbing, traction or durability results.",
+    "dimensions": [
+      {
+        "label": "Factory trail equipment",
+        "score": 8.5,
+        "reason": "Installed DIG, straight axles, metal transmission gears and bearings form a clear crawling package."
+      },
+      {
+        "label": "Electronics flexibility",
+        "score": 8.5,
+        "reason": "Separate 40A controller and dual-protocol SR515 receiver offer more distinct replacement choices."
+      },
+      {
+        "label": "Scale presentation",
+        "score": 9,
+        "reason": "Licensed body, interior and wheel/tire details are substantial documented features."
+      },
+      {
+        "label": "Ownership clarity",
+        "score": 7,
+        "reason": "Body wiring and conflicting ratio figures require care, despite a detailed manual."
+      },
+      {
+        "label": "Complete-purchase value",
+        "score": 7.5,
+        "reason": "The USD499.99 vehicle reference needs a separate supported battery and charger."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "A scale trail truck with a specific set of controls",
+      "paragraphs": [
+        "The SCX10 III Jeep CJ-7 V2 is worth considering when a slow route through uneven ground is the main attraction. The detailed body and interior supply the scale character, while the drivetrain gives the driver a reason to think about tire placement and turning space. I would put it on the list for deliberate trail sessions, rather than choose it as a general replacement for a fast independent-suspension basher.",
+        "Our exact vehicle is red AXI03008V2T1. The copper T2 has its own finish and Laredo-themed presentation, and the earlier CJ-7 electronics package is another version again. V2 matters here: it uses a separate brushed ESC and receiver, plus the S683 steering servo. Do not read a used-car advertisement or an older review as proof that those components are installed. Check the SKU and the actual hardware when the vehicle is not a new standard example.",
+        "The review is based on current Axial/Horizon material, the English V2 manual and relevant independent coverage. Greg Vogel’s April 2026 RC Driver review identifies the copper V2T2, so its observations are attributed as coverage of that version rather than a test we performed on this red truck. Our five scores assess the documented equipment, scale presentation and ownership requirements. No measured climbing angle, grip result, runtime or reliability history is claimed."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package contents",
+      "heading": "The radio and DIG are supplied; drive power is separate",
+      "paragraphs": [
+        "The manufacturer lists the assembled truck, Slickrock 35T 540 brushed motor, Spektrum 40A brushed ESC, SR515 five-channel receiver, S683 steering servo, SX108 micro servo for DIG, SLT3 transmitter and four AA cells. The installed DIG servo is a meaningful package distinction. You are not buying a bare chassis and planning all of the control hardware before driving, although learning what that extra channel does remains part of getting started.",
+        "The current product page requests a 2S or 3S LiPo with an EC3 or IC3 connection and a compatible charger. The manual additionally documents other battery chemistry provisions, but the example budget here stays with a supported LiPo installation. Do not transfer the IC5 hardcase requirement from an ARRMA stadium truck into this purchase. Voltage, connector, physical fit, battery condition and charger compatibility must all match the actual model and selected pack.",
+        "Axial provides adjustable battery trays, with instructions distinguishing a standard-size pack in the rear position from a shorty-style pack in the side position. That flexibility is useful, but it is not a claim that any battery can be restrained safely under the body. Follow the adjustment and retention instructions, check lead routing and body clearance, and choose the location appropriate to the real pack. The AA cells in the box power the transmitter, not the vehicle."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Straight axles and a brushed motor define the job",
+      "paragraphs": [
+        "AR45 standard straight axles establish an important difference from portal-equipped crawlers. The axle housing does not receive the same wheel-end clearance arrangement as a portal design, so line selection still needs attention around the central housing and underside. That is a layout distinction, not proof of an overall winner on rocks. Tire size, route shape, body contact and the complete vehicle all contribute to what can be crossed.",
+        "The Slickrock 35T brushed motor works with the separate 40A ESC, while the transmission is documented with metal gears and ball bearings. A turn-count label is not a speed test or a guarantee of smoothness in every situation. For trail use, the relevant buying question is whether the supplied power and control package suits deliberate low-speed placement. We have not measured startup response or used motor specifications to invent a towing or climbing capacity.",
+        "There is a specification conflict worth retaining. Horizon lists a 40.49:1 low final-drive figure, while the English manual’s standard-axle chart shows 41.71 at the column marked stock 14T; high figures are approximately 27.7. We do not silently choose a number or calculate a performance result from it. The manual identifies an LCX two-speed transmission chart, but the supplied third-channel control is DIG. Confirm exact installed gearing with Axial before any gearing-dependent purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "Manufacturer ratio discrepancy, checked 30 October 2026",
+        "columns": [
+          "Source",
+          "Published low figure",
+          "How to use it"
+        ],
+        "rows": [
+          [
+            "Current product specification",
+            "40.49:1 final drive",
+            "Retained as the product-page statement"
+          ],
+          [
+            "V2 English manual, page 10",
+            "41.71:1 at standard axle / stock 14T column",
+            "Conflicts with product summary; confirm before a gearing-dependent decision"
+          ],
+          [
+            "Supplied radio package",
+            "Third channel operates DIG",
+            "Do not assume remote high/low shifting is included"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "controls",
+      "nav": "Controls & setup",
+      "heading": "DIG locks the rear drive for a tighter maneuver",
+      "paragraphs": [
+        "With normal four-wheel drive, the truck drives both axles. The installed DIG arrangement can hold the rear axle while the front wheels continue driving, giving another way to turn in restricted space. That is different from simply selecting an open or locked axle differential on a T-Lock-equipped Traxxas. Learn the actual mechanism’s purpose rather than treat every extra transmitter switch as a general traction or speed setting.",
+        "The V2 manual describes the third-channel A/B control and a specific DIG endpoint-programming procedure. Correct endpoints matter because the mechanism needs to reach its intended positions without being forced beyond them. The procedure also includes returning steering trim and rate to their default positions afterward. We are not reproducing a partial programming shortcut here: use the full exact manual if a correction is required, and investigate a reluctant mechanism rather than holding it under load.",
+        "The stock SLT3 has three control channels, while the SR515 is described as a dual-protocol five-channel receiver. More receiver sockets do not supply extra independent controls on the included transmitter. RC Driver notes that activating radio-controlled two-speed shifting needs additional equipment; it is not part of this RTR’s provided control brief. If that future function is important, obtain model-specific compatibility and installation guidance before treating an unspecified conversion as part of today’s purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "list": {
+        "title": "Control checks for a stock starting point",
+        "items": [
+          "Identify normal 4WD and the supplied DIG control before driving",
+          "Read the exact V2 startup and range-check procedure",
+          "Confirm steering/throttle direction and neutral without improvising calibration",
+          "Follow complete endpoint instructions only when adjustment is required",
+          "Keep DIG control separate from an assumed remote two-speed function"
+        ]
+      }
+    },
+    {
+      "id": "steering",
+      "nav": "Steering & suspension",
+      "heading": "Useful hardware still needs a mechanical baseline",
+      "paragraphs": [
+        "The S683 steering servo has steel gears and a 25T spline, and the chassis uses multi-link solid-axle suspension with 6mm stainless links and metal pivot balls. Oil-filled shocks have threaded aluminum bodies. These are substantial documented components, but component names cannot establish measured steering force or suspension performance for our review. The factory arrangement is the baseline to understand before changing springs, wheel weight or electronics.",
+        "The standard-axle layout, suspension movement and steering linkage all affect the space the tires occupy. With drive power disconnected, inspect for interference and trapped material before explaining every steering complaint through servo strength. A shifted trim setting after a roll is a symptom to investigate. Raising steering travel without checking the physical limits can create another problem instead of correcting the original cause. Use the actual V2 manual and drawings for access and adjustment.",
+        "DIG is useful to learn on a modest clear route where you can observe what the rear axle and front tires are doing. It does not eliminate the vehicle’s width, body overhang or the consequences of a poor approach. Normal steering and slow placement remain the foundation. We have not measured a turning-radius improvement, and a course that requires guessing a safe side-slope or catching the moving vehicle is not a sensible first exercise."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires & terrain",
+      "heading": "The route includes the body as well as the tires",
+      "paragraphs": [
+        "Axial lists a 312mm wheelbase and overall dimensions of 480 × 235 × 248mm, with a published weight of 3.12kg. Those figures help plan carrying and course space, but the product weight’s stated basis is not detailed enough to invent a ready-to-drive total with a chosen pack. A scale Jeep also has body corners, bumpers and an underside to account for. The front tires reaching an obstacle does not establish a route for the whole truck.",
+        "The licensed Mickey Thompson Baja Boss tires use the listed R30 compound and mount on Raceline Daytona beadlock wheels. Their tread and wheel construction are part of the stock trail package. The compound designation is not a measured grip score, and beadlocks are not permission to ignore assembly or wheel checks. Read the complete vehicle documentation before changing tire diameter or wheel configuration; those changes can affect more than the single clearance number that first attracts attention.",
+        "For an initial baseline, choose dry, stable low obstacles and a visible exit. Stop if the vehicle becomes trapped instead of trying to solve a contact problem with sustained throttle. The manual describes a highly water-resistant vehicle with waterproof electronics and explicitly says it is not completely waterproof. Wet use brings additional care requirements, and the transmitter has its own limitations. Decide whether you are prepared for that cleanup before turning a creek into a planned route."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership & access",
+      "heading": "The scale details create an access routine",
+      "paragraphs": [
+        "The red Renegade-style body includes the licensed Jeep appearance, interior, roll cage and GenRight-related body hardware described by Axial. The manufacturer lists polycarbonate for the body; do not confuse its detailed construction with a claim that it is an ABS hard shell. The copper T2’s chrome grille and Laredo presentation should not be silently imported into the red T1 description. Exact visual identity matters when comparing product photographs and checkout listings.",
+        "The manual’s battery-installation sequence includes removing four body clips and lifting the body gently because lighting wires connect it to the chassis electronics. That instruction is more useful to ownership planning than saying simply that the body comes off. Support it without straining the wires, and follow the documented procedure for access and handling. Do not pull the shell away as though no connection exists underneath it.",
+        "After running, disconnect the drive battery and inspect the links, driveshaft fasteners, wheel attachment and wiring according to the manual. Separate ESC and receiver assemblies make those functions easier to identify and replace independently, but they do not guarantee that every future upgrade is compatible. Avoid adding weight and accessories before understanding the standard vehicle’s access and route behavior. We have not timed maintenance or assigned an invented annual repair allowance."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete startup cost",
+      "heading": "A dated example puts the complete equipment above the truck price",
+      "paragraphs": [
+        "Horizon’s US vehicle reference on 30 October 2026 is $499.99. A manufacturer-recommended power example on the vehicle page is the SPMX-1047 3400mAh 3S IC3 Trail Pro pack at $67.99. Its published dimensions are 96 × 26 × 47mm. The chosen pack still needs the manual’s appropriate tray position, secure restraint, lead routing and body-clearance check; a recommendation is not a reason to skip installation checks.",
+        "The S155 G2 AC charger, SPMXC2050, is listed at $54.99, includes its power cord and supports the relevant Smart charging system and IC3 output. Those references total $622.97 before tax and shipping. Adding a separately labeled $20 planning allowance for the charging/storage safety arrangement produces a $642.97 working budget. The allowance is an editorial placeholder, not a quoted price or a promise that a single accessory provides every safety requirement.",
+        "This is one supported 3S purchasing example, not a requirement to choose 3S or a statement of current Amazon pricing. A 2S choice can be appropriate, but it needs its own fit and checkout calculation. Existing owners should subtract equipment only after confirming compatibility and condition. Budget for carrying the vehicle and ordinary workshop needs separately, and follow the battery/charger manufacturers’ instructions. No runtime or cost-per-hour figure is inferred from the battery capacity."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "table": {
+        "caption": "USD power example checked 30 October 2026; tax/shipping excluded",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Red AXI03008V2T1 crawler",
+            "Manufacturer vehicle reference",
+            "499.99"
+          ],
+          [
+            "SPMX-1047 3400mAh 3S IC3 pack",
+            "Manufacturer-recommended example; verify installation",
+            "67.99"
+          ],
+          [
+            "SPMXC2050 S155 G2 AC charger",
+            "Manufacturer reference; power cord supplied",
+            "54.99"
+          ],
+          [
+            "Charging/storage safety arrangement",
+            "Editorial planning allowance; replace with actual choice",
+            "20.00"
+          ],
+          [
+            "Working equipment budget",
+            "Dated references plus stated allowance",
+            "642.97"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose the axle and control brief you actually want",
+      "paragraphs": [
+        "The TRX-4 Chevrolet K10 High Trail in our archive is an alternative for someone specifically interested in portal axles, a lifted stance and remote-locking differentials. It presents a different combination of clearance geometry and controls. That does not establish a climbing winner against the CJ-7. Compare the exact manuals, body dimensions and complete power budget, then decide which features solve the problems on the route you actually intend to drive.",
+        "Axial’s SCX10 III Coyote is another complete vehicle worth comparing within the brand, but the shared SCX10 III name is not a guarantee of identical axles, electronics or transmission functions. Read the exact review and package before assuming it supplies this CJ-7’s DIG hardware. Buyers who mainly want a recognizable Jeep body may still prefer the CJ-7 even when another platform offers a different mechanical emphasis. Scale presentation is a legitimate preference when it is budgeted honestly.",
+        "If storage, transport and small indoor obstacles dominate the decision, the TRX-4M Defender offers a much smaller complete-crawler direction. It has its own locked-spool layout and control package rather than being a scaled copy of this Axial. Conversely, a fast 2WD stadium truck such as the Vorteks addresses a different kind of outing entirely. The CJ-7’s value rests on combining a detailed trail body with the installed low-speed control brief, not on being suitable for every RC use."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The verdict",
+      "heading": "Accept the ownership details along with the Jeep character",
+      "paragraphs": [
+        "I would shortlist the red V2 for a scale enthusiast who wants factory DIG and is prepared to learn its normal operation. Separate electronics and documented service information strengthen the practical case behind the body detail. Its straight axles are a deliberate part of the purchase rather than a hidden omission to discover after comparing portal-truck photographs. The strongest fit is a manageable trail route with room to observe and place the vehicle.",
+        "I would not choose it for high-speed jumps, an assumed all-in-one battery package or an expectation that every transmission option is radio-controlled out of the box. Body access around the lighting leads and a complete equipment budget above the vehicle reference are recurring realities. The ratio discrepancy also deserves a manufacturer check before a gearing-dependent change. These are specific limitations a buyer can evaluate, rather than an unsupported prediction about failures or repair bills.",
+        "Our score rewards the supplied trail equipment, separate electronics and documented scale finish, while accounting for access and purchasing complexity. It does not grade measured climbing, tire grip, crash survival or ownership reliability. The check-price link retains the archived exact red-V2 identity and original verification date without claiming a current offer. If the route, body preference and full budget fit, the CJ-7 V2 offers a coherent reason to slow down and learn a line."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer SKU",
+      "AXI03008V2T1 · red V2"
+    ],
+    [
+      "Scale / format",
+      "1/10 assembled complete trail crawler"
+    ],
+    [
+      "Motor",
+      "Axial Slickrock 35T 540 brushed · AXI-1376"
+    ],
+    [
+      "ESC",
+      "Spektrum Firma 40A brushed · SPMXSE1040 · IC3"
+    ],
+    [
+      "Receiver",
+      "Spektrum SR515 · dual SLT/DSMR protocol · 5 channels"
+    ],
+    [
+      "Transmitter",
+      "SLT3 · 3 channels; third channel for DIG"
+    ],
+    [
+      "Steering servo",
+      "Spektrum S683 · steel gears · 25T spline"
+    ],
+    [
+      "DIG servo",
+      "Spektrum SX108 · installed"
+    ],
+    [
+      "Axles",
+      "AR45 standard straight axles · locked"
+    ],
+    [
+      "Transmission",
+      "Metal gears; DIG supplied; remote two-speed shifting not supplied"
+    ],
+    [
+      "Low final ratio conflict",
+      "Product page 40.49:1; manual page 10 standard/stock14T column 41.71:1"
+    ],
+    [
+      "Stock listed spur / pinion",
+      "52T / 14T; confirm actual assembly before gearing changes"
+    ],
+    [
+      "Suspension",
+      "Multi-link solid axle; oil-filled aluminum threaded shocks"
+    ],
+    [
+      "Wheels / tires",
+      "Raceline Daytona beadlocks / Mickey Thompson Baja Boss R30"
+    ],
+    [
+      "Dimensions / wheelbase",
+      "480 × 235 × 248mm / 312mm"
+    ],
+    [
+      "Published weight",
+      "3.12kg; do not infer a chosen ready-to-drive weight"
+    ],
+    [
+      "Drive power",
+      "2S/3S LiPo EC3/IC3 per current product requirement · separate"
+    ],
+    [
+      "Battery mounting",
+      "Adjustable rear standard-pack and side shorty trays; follow manual"
+    ],
+    [
+      "Body / radio cells",
+      "Polycarbonate; wired lighting / four AA supplied"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does this V2 have portal axles?",
+      "answer": "No. AXI03008V2T1 uses AR45 standard straight axles. Do not transfer portal features from another SCX10 III variant."
+    },
+    {
+      "question": "What does the included DIG do?",
+      "answer": "The documented DIG transmission can hold the rear axle while the front wheels drive, providing another turning technique. Use the exact V2 operating and endpoint guidance."
+    },
+    {
+      "question": "Are battery and charger included?",
+      "answer": "No drive battery or charger is supplied. The product requirement is a supported 2S/3S LiPo with EC3/IC3 connection and a compatible charger. Four transmitter AA cells are supplied."
+    },
+    {
+      "question": "Is remote two-speed shifting included?",
+      "answer": "Do not assume so. The supplied third channel operates installed DIG. Independent V2 coverage identifies additional equipment for radio-controlled two-speed shifting; confirm any conversion with Axial."
+    },
+    {
+      "question": "Why are there two low-gear ratio figures?",
+      "answer": "The current product page lists 40.49:1, while the V2 English manual’s standard-axle chart lists 41.71 at the stock 14T column. We retain the disagreement and recommend manufacturer confirmation before a gearing-dependent decision."
+    },
+    {
+      "question": "Can I pull the body off without checking for wires?",
+      "answer": "No. The manual says to lift it gently because lighting leads connect body and chassis. Follow the full access procedure without straining those connections."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Axial / Horizon Hobby — exact red V2 package, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — AXI03008V2 English operating manual; DIG, battery placement, access and gearing",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 3 April 2026 V2T2 review; variant identified",
+      "url": "https://www.rcdriver.com/axial-scx10-iii-jeep-cj-7-rtr-review-a-must-have-scale-crawler-returns/",
+      "kind": "Independent coverage of copper V2T2; observations attributed, not represented as our red-V2 test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1047 Trail Pro pack, dimensions and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1047.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXC2050 S155 G2 AC charger, included power cord and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXC2050.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — V2 exploded drawings and parts identification",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw41be9219/Manuals/AXI03008V2-EXPLODED-VIEW.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    }
+  ],
+  "seo": {
+    "title": "Axial SCX10 III Jeep CJ-7 V2 Review | RC Car King",
+    "description": "Red CJ-7 V2 AXI03008V2T1 review: straight axles, installed DIG, 35T brushed power, separate electronics, startup costs and a documented gearing conflict."
+  },
+  "published": "2026-10-30",
+  "updated": "2026-10-30",
+  "publishedAt": "2026-10-30T09:28:54.288Z",
+  "updatedAt": "2026-10-30T09:28:54.288Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "An original research-led buying assessment. We have not physically driven or owned this reviewed vehicle."
+  },
+  "amazon": {
+    "asin": "B0GY9Z7Z9F",
+    "marketplace": "www.amazon.com",
+    "sku": "AXI03008V2T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GY9Z7Z9F?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:26.877Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Archived public product identity from 2026-10-12: Axial, manufacturer part AXI03008V2T1. Reused without a fresh API call, offer or stock verification.",
+    "variant": "Red AXI03008V2T1 complete V2 brushed 4WD crawler; battery and charger separate; not copper T2 or original combined-electronics version"
+  },
+  "image": "axial-scx10-iii-cj7-v2-red-1.jpg",
+  "imageAlt": "Official red Axial SCX10 III Jeep CJ-7 V2 AXI03008V2T1 with supplied SLT3 radio and four AA cells. Drive battery and charger are separate.",
+  "imageCaption": "Official red Axial SCX10 III Jeep CJ-7 V2 AXI03008V2T1 with supplied SLT3 radio and four AA cells. Drive battery and charger are separate.",
+  "imageCredit": {
+    "name": "Axial / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62b66281/Images/AXI/AXI03008V2T1_A1_MYPWBJYE.jpg?sw=800&sh=800&sm=fit",
+    "kind": "Official manufacturer product photography"
+  },
+  "gallery": [
+    {
+      "image": "axial-scx10-iii-cj7-v2-red-2.jpg",
+      "alt": "Axial’s official completion diagram identifies the separately required battery and charger. It does not show a supplied power bundle.",
+      "caption": "Axial’s official completion diagram identifies the separately required battery and charger. It does not show a supplied power bundle.",
+      "credit": {
+        "name": "Axial / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc40a24e3/Images/AXI/AXI03008V2T1_A90_MYPWBJYE.jpg?sw=800&sh=800&sm=fit"
+      }
+    },
+    {
+      "image": "axial-scx10-iii-cj7-v2-red-3.jpg",
+      "alt": "Official Axial red-V2 trail photograph illustrating the straight-axle vehicle and body detail. This is manufacturer photography, not an RC Car King driving test.",
+      "caption": "Official Axial red-V2 trail photograph illustrating the straight-axle vehicle and body detail. This is manufacturer photography, not an RC Car King driving test.",
+      "credit": {
+        "name": "Axial / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc5966038/Images/AXI/AXI03008V2T1_A16_MYPWBJYE.jpg?sw=800&sh=800&sm=fit"
+      }
+    }
+  ],
+  "evidenceNote": "Original buying analysis based on dated exact-model manufacturer pages and manuals. Independent coverage is attributed and its scope identified. We have not measured speed, runtime, grip, crash resistance or long-term reliability. The five equally weighted scores assess the documented equipment and buyer fit. Official images retain their source credits; any pictured optional equipment is identified.",
+  "revisionNote": "First published 30 October 2026. Exact vehicle and package reviewed; archived affiliate identity retained without fresh commercial verification."
+}

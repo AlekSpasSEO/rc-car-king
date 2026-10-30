@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-30",
+  "sku": "20185",
+  "route": "team-associated/reflex-14b-ongaro-rtr/",
+  "words": 2192,
+  "createdAt": "2026-10-30T09:25:30.763Z",
+  "sources": [
+    {
+      "name": "Team Associated — exact 20185 package, compact battery requirement and USD references",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Team Associated — Reflex 14B Ongaro assembly and startup manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Reedy — SC300-BL battery-mode, calibration and protection instructions",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reedy_ESC_SC300BL_Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 23 February 2024 exact Ongaro RTR feature",
+      "url": "https://www.rcdriver.com/team-associated-reflex-14b-ongaro-rc-car/",
+      "kind": "Independent exact-model feature and linked track video; no results claimed as our testing",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Big Squid RC — Tim Mohr, 20 July 2023 model announcement",
+      "url": "https://www.bigsquidrc.com/team-associated-reflex-14b-ongaro-rtr/",
+      "kind": "Independent publication of model announcement; historical context",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Reedy — 27202 123-S AC charger manual and supported charging connection",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/shared/27202_123S_RTR_Charger_Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    }
+  ],
+  "identity": {
+    "historicalSource": "output/batch-horizon/associated-search.json",
+    "checkedAt": "2026-10-12T23:04:27.282Z",
+    "asin": "B0CN9PQ6MZ",
+    "brand": "Team Associated",
+    "part": "AS20185",
+    "model": "AS20185",
+    "note": "Archived public product identity from 2026-10-12: Team Associated, manufacturer part AS20185. The archived distributor-prefixed part AS20185 maps to manufacturer SKU 20185; exact model and package are cross-checked with manufacturer documentation. Reused without a fresh API call, offer or stock verification."
+  },
+  "media": [
+    {
+      "file": "team-associated-reflex-14b-ongaro-1.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3071/R14B_DO_3Q_Driver_IMG_2722_lg__90072.1725442145.jpg",
+      "model": "reflex",
+      "checked": "2026-10-30",
+      "credit": "Team Associated / Associated Electrics"
+    },
+    {
+      "file": "team-associated-reflex-14b-ongaro-2.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3075/R14B_DO_BO_TopDown_IMG_2734_lg__71011.1725442146.jpg",
+      "model": "reflex",
+      "checked": "2026-10-30",
+      "credit": "Team Associated / Associated Electrics"
+    },
+    {
+      "file": "team-associated-reflex-14b-ongaro-3.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3076/R14B_DO_BodyyOff_IMG_2730_lg__85587.1725442146.jpg",
+      "model": "reflex",
+      "checked": "2026-10-30",
+      "credit": "Team Associated / Associated Electrics"
+    }
+  ],
+  "boundaries": [
+    "No Amazon API or credentials accessed. No live offer or stock claim.",
+    "Research-led score, not a hands-on or customer rating.",
+    "Dated manufacturer USD reference prices; planning allowances explicitly separated."
+  ],
+  "validation": {
+    "production": "npm run build and npm run check passed: 69 published reviews, 8 articles, 94 HTML pages and 93 sitemap URLs.",
+    "preview": "Default GitHub preview build and check passed with noindex, separate origin and base path.",
+    "visual": "Each review inspected in IAB at 1440×1000 desktop and 390×844 mobile. Correct hero photos, complete product boxes, bylines, ratings and check-price links visible. No page-level horizontal overflow; comparison tables contained in overflow:auto wrappers. CJ7 full-spec anchor and ratio FAQ expansion verified; viewport override reset.",
+    "commerce": "Affiliate tag and sponsored/nofollow attributes verified. No displayed Amazon offer price; archived identities retain original verification dates. Manufacturer price references and editorial budget allowances remain distinct.",
+    "live": "Required after pushing: matching successful Cloudflare commit and check:live date 2026-10-30 for production and GitHub preview."
+  },
+  "packageBoundary": "Exact standard20185 excludes battery and charger shown in combo photos. Current exact-page compact2S requirement takes precedence over generic 14B/14T manual battery prose. AS20185 archived distributor-prefix mapping recorded explicitly."
+}

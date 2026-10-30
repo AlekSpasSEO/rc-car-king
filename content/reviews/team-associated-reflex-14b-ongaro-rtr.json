@@ -1,0 +1,504 @@
+{
+  "brand": "Team Associated",
+  "brandSlug": "team-associated",
+  "model": "Reflex 14B Ongaro RTR",
+  "modelSlug": "reflex-14b-ongaro-rtr",
+  "sku": "20185",
+  "headlineLines": [
+    "SMALL BUGGY.",
+    "REAL SETUP CHOICES."
+  ],
+  "title": "Team Associated Reflex 14B Ongaro review: a compact buggy for a prepared course",
+  "dek": "The 20185 supplies brushless 4WD, three sealed differentials and adjustable links. Its compact 2S battery requirements deserve as much attention as the race-inspired body.",
+  "type": "Off-road buggy",
+  "use": "Racing",
+  "terrain": [
+    "Prepared dirt course",
+    "Smooth hardpack",
+    "Clear compact outdoor circuits"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/14",
+  "format": "Ready-to-run; standard 20185 excludes drive battery and charger",
+  "skill": "Beginner with adult battery supervision; intermediate setup learner",
+  "price": {
+    "amount": 215.99,
+    "currency": "USD",
+    "basis": "Associated Electrics US manufacturer vehicle reference · standard 20185",
+    "source": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+    "checked": "2026-10-30"
+  },
+  "purchaseNote": "Standard 20185 vehicle reference. A dated example adds the specified compact 2S pack, compatible AC charger, transmitter AA cells and a separate safety-equipment allowance; it is not the 20185C combo price.",
+  "overview": "A useful bridge between a simple small RTR and a more adjustable hobby buggy, provided the driver has a prepared surface. Its 4WD and three-differential layout are substantial; the small battery compartment and standard-package omissions need deliberate planning.",
+  "verdict": "Buy it for a compact course and the setup learning",
+  "verdictText": "The Ongaro 20185 is compelling for a buyer who wants a small brushless 4WD buggy with documented adjustment and service drawings. Choose the correct compact 2S equipment and assess the course before buying the livery.",
+  "pros": [
+    "4500kV brushless motor with separate ESC and receiver",
+    "Three sealed differentials and covered center driveshaft",
+    "Turnbuckles, suspension inserts and threaded shocks",
+    "Finished Ongaro body and a detailed assembly manual"
+  ],
+  "cons": [
+    "Standard 20185 excludes drive battery, charger and transmitter cells",
+    "Compact 100 × 30 × 20mm battery space limits pack choice",
+    "Low buggy format is poorly matched to long grass or large obstacles",
+    "Race-inspired branding does not establish local race-class eligibility"
+  ],
+  "bestFor": [
+    "A driver with a smooth compact dirt course or suitable prepared venue",
+    "Learning alignment and suspension setup on a documented small chassis",
+    "A buyer who prefers the standard vehicle and will select compatible power equipment"
+  ],
+  "avoidIf": [
+    "The intended route is deep grass or broken large-scale terrain",
+    "You expect the 20185C battery/charger contents in standard 20185",
+    "Your goal is a guaranteed regulation-compliant competition package"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "20185 · Ongaro Edition RTR"
+    ],
+    [
+      "Power",
+      "Reedy 4500kV brushless"
+    ],
+    [
+      "Drivetrain",
+      "4WD · three sealed differentials"
+    ],
+    [
+      "Radio / servo",
+      "2.4GHz 2-channel · digital servo"
+    ],
+    [
+      "Drive battery",
+      "Compact 2S LiPo · T-plug · separate"
+    ],
+    [
+      "Size",
+      "304 × 202mm · nominal 1/14"
+    ]
+  ],
+  "rating": {
+    "audience": "A prepared-course driver seeking a small adjustable brushless 4WD buggy",
+    "disclosure": "Five equally weighted research-led buying scores. No lap time, grip, crash or long-term reliability testing is represented.",
+    "dimensions": [
+      {
+        "label": "Installed electronics",
+        "score": 8,
+        "reason": "Motor, separate controller/receiver and digital steering servo are included."
+      },
+      {
+        "label": "Adjustment and learning",
+        "score": 8.5,
+        "reason": "Turnbuckles, inserts and threaded shocks give documented setup choices."
+      },
+      {
+        "label": "Drivetrain specification",
+        "score": 8.5,
+        "reason": "Three sealed diffs, front universals and the covered center drive establish a substantial mini layout."
+      },
+      {
+        "label": "Ownership documentation",
+        "score": 8,
+        "reason": "Assembly drawings and separate electronics instructions support maintenance; exact package distinctions need attention."
+      },
+      {
+        "label": "Complete-course value",
+        "score": 7.5,
+        "reason": "The USD215.99 vehicle reference grows with compact power equipment and assumes a suitable prepared venue."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "Think about the course before the Ongaro paint scheme",
+      "paragraphs": [
+        "The Reflex 14B Ongaro RTR makes the most sense for a driver who wants to turn a modest prepared area into a repeatable driving course. A small brushless four-wheel-drive buggy can offer more setup interest than its footprint suggests. The condition is the surface: manageable dirt and clear sight lines make a different ownership proposition from trying to force a low buggy through the same lawn used by a larger monster truck.",
+        "This is manufacturer SKU 20185, the standard assembled Ongaro Edition, with the RC8B4e Gamma-style body. It is not the 20185C LiPo Combo or a Reflex kit. Team Associated’s exact page distinguishes the packages and warns that photographs may show the combo’s battery and charger. We retain that distinction throughout the review. The race-inspired finish is part of the appeal, but it is not evidence of a measured performance advantage over another body color.",
+        "The assessment uses the current manufacturer page, its linked assembly and electronics manuals, and attributable independent coverage. Greg Vogel’s February 2024 RC Driver page identifies the exact Ongaro RTR and links a track video; Tim Mohr’s Big Squid article is launch coverage. Neither supplies a failure-rate study or a lap-time comparison that we can adopt as our own. We have not physically driven this buggy, and the editorial score concerns its documented package and intended buyer."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package contents",
+      "heading": "20185 and 20185C are different shopping baskets",
+      "paragraphs": [
+        "Standard 20185 includes the assembled buggy with its painted body and wing, Reedy brushless motor and speed control, receiver, two-channel transmitter and digital steering servo. The manufacturer lists a multi-wrench in the assembly manual. That is a complete vehicle package rather than a replacement shell or bare chassis, but it still needs the equipment that makes it operational. The little battery pictured beneath an open body is not proof that a pack is supplied.",
+        "For 20185, Team Associated specifies a 2S LiPo with T-plug connector fitting a 100 × 30 × 20mm space, plus a compatible charger. Four AA transmitter batteries are needed for both the standard and combo versions. The manufacturer names its Reedy WolfPack 1600mAh 2S pack as the reference. A full-size 1/10 hardcase pack is not a sensible purchase based solely on voltage; the physical envelope and lead placement are restrictive here.",
+        "The shared assembly manual also contains generic battery language covering the broader 14B/14T family. For this exact purchasing decision, we use the current 20185 product requirement and its compact 2S reference rather than extend that wording into a new compatibility claim. Have the actual battery, charger and ESC instructions beside you during setup. No promise of a particular runtime follows from the capacity label, and no alternate voltage is recommended here."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "The small chassis contains three differentials",
+      "paragraphs": [
+        "The installed Reedy 4500kV brushless system drives all four wheels. A front differential, rear differential and center differential divide the mechanical jobs, with a lightweight aluminum center driveshaft and a molded cover over the center drive. The axle units accommodate left-to-right speed differences, while the center unit acts between front and rear. That is meaningful hardware in a small recreational buggy, although the number of differentials is not a complete measure of its performance.",
+        "The manufacturer also identifies front universal driveshafts and 12mm drive hexes. Those details help an owner understand the assembly drawings and distinguish the platform from a simple sealed toy. They do not mean every wheel or drivetrain option with a similar label will fit. Keep replacement and service decisions tied to the actual part references and geometry. The current review remains about the complete standard vehicle, rather than a shopping list of speculative upgrades.",
+        "A 4500kV motor label does not tell you the speed on your own course. Gearing, battery condition, surface and tire loading all affect the result, and we have no speed measurement to publish. Nor should the ESC’s broader capabilities, or another Reflex model’s setup, be used to justify a battery outside this car’s current stated requirement. For the intended compact course, the useful starting question is controllable placement and a supported power installation, rather than the largest possible voltage."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls & setup",
+      "heading": "Learn neutral, travel and battery mode separately",
+      "paragraphs": [
+        "The supplied two-channel radio handles steering and throttle/braking. The assembly guide shows steering trim and steering/throttle dual-rate controls, and it directs owners to the radio manual for the full explanation. Establish normal direction and neutral first. A rate control changes available travel; trim shifts a neutral reference. Moving both at random to disguise a mechanical problem makes it harder to return to a useful baseline.",
+        "The SC300-BL instructions explain that battery mode determines the relevant low-voltage protection. Follow that exact manual to confirm the appropriate LiPo mode for a LiPo installation. The manual’s LED guidance is specific to this controller and must not be borrowed from a Spektrum-equipped ARRMA or Axial. It also distinguishes throttle calibration from ordinary operation and notes that an RTR installation has already been calibrated. Do not turn calibration into a routine pre-run ritual without a documented need.",
+        "For a first outing, use the manufacturer’s startup order, a clear course and the documented radio checks. Keep hands and tools away from the powered drivetrain. If drive stops, consult the controller’s troubleshooting indications for power connection, throttle signal, low-voltage or temperature protection before declaring a dead motor. Let a hot system cool as instructed, and leave battery protection enabled. The goal is a correct stock baseline, not a workaround that forces the car to keep running."
+      ],
+      "sourceIndexes": [
+        1,
+        2
+      ],
+      "list": {
+        "title": "Before the first course session",
+        "items": [
+          "Confirm standard 20185 package and compact supported 2S pack",
+          "Secure the battery and route leads clear of the covered center drive",
+          "Read the SC300-BL battery-mode and calibration distinctions",
+          "Check steering and throttle direction with the manual’s precautions",
+          "Keep the first route simple enough to observe the car and stop safely"
+        ]
+      }
+    },
+    {
+      "id": "steering",
+      "nav": "Steering & suspension",
+      "heading": "Adjustment is useful when you can name the problem",
+      "paragraphs": [
+        "Turnbuckles, adjustable caster-block and rear-hub inserts, and threaded coil-over shocks give the owner several setup decisions. The aluminum steering rack and spring-style servo saver complete the documented steering arrangement. This is a reason to consider the car if learning the mechanics is part of the hobby. It is also a reason to keep notes. Changing several link lengths and suspension positions together can destroy a clear baseline without teaching which change mattered.",
+        "Begin with the factory arrangement and a consistent course. If steering changes suddenly after contact, inspect for a bent or disconnected link, trapped material and wheel interference with drive power disconnected. Do not start by adding more steering travel. Likewise, spring preload and shock damping answer different questions; moving a collar does not change the fluid viscosity. The manual’s assembly references are more useful than an unlabelled online recommendation for another small buggy.",
+        "A small chassis needs an orderly work surface. Keep clips and spacers contained, use correctly fitting tools and compare hardware against the manual’s actual-size references where appropriate. The existence of adjustment does not mean an immediate overhaul is necessary. For a beginner, learning repeatable braking and placement on the stock setup is a defensible first goal. For a more experienced owner, the same documented baseline makes later changes easier to reverse and understand."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires & terrain",
+      "heading": "Prepared ground lets the buggy’s size work for you",
+      "paragraphs": [
+        "The Reflex measures 304mm long and 202mm wide in the current manufacturer specification. It is an off-road buggy with comparatively small tires and a low body, rather than a miniature substitute for a tall trail truck. Firm, relatively smooth prepared dirt is a sensible intended venue. Walk the proposed course before buying: large loose stones, deep ruts and dense grass can occupy a substantial part of the car’s available clearance.",
+        "The stock tire format uses narrow fronts and wider rears with an off-road mini-pin tread. That establishes the intended character, but it does not supply a measured grip ranking across clay, carpet, asphalt and loose soil. Check venue rules and surface expectations before committing to a tire plan. A race-inspired body does not automatically make the car eligible for a local class, and an organizer’s actual scale and electronics rules matter more than the name on the shell.",
+        "The manufacturer’s broad terrain language should therefore be read with the physical vehicle in mind. A compact backyard circuit with visible edges is a better plan than an unspecified field. Keep jumps and obstacles modest while learning the stock setup, and avoid creating a route whose recovery requires reaching into traffic or powered wheels. This review contains no jump-height, crash-survival or water-use test. Water-resistant electronics should not be treated as blanket permission for immersion or neglected cleanup."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership & access",
+      "heading": "The photographs show access, not supplied battery contents",
+      "paragraphs": [
+        "The finished Ongaro body and white wing make the car visually distinctive, while removal exposes a conventional layout of motor, separate ESC, receiver, servo and battery restraint. The official top-down photograph below is useful for locating those assemblies. It also shows a battery, which the manufacturer explicitly says is not included in standard 20185. That caption matters: the visible equipment can otherwise make a vehicle-only purchase look more complete than it is.",
+        "Battery retention uses a strap secured by body clips, and the startup guide specifies lead orientation. Handle those small clips over a clear surface and check that the pack is restrained before running. During cleaning and inspection, disconnect drive power and follow the model’s instructions. A center-drive cover helps shield that portion of the mechanism, but it does not make dirt, wound grass or loose fittings irrelevant elsewhere in the drivetrain.",
+        "The assembly manual contains differential, suspension and chassis drawings rather than merely a quick-start card. That supports ownership when a specific component needs identifying. Sealed differentials and oil-filled shocks still have service requirements, and the manual should control fluid and reassembly choices. Do not interpret the included documentation as evidence that every service task is quick or easy for every owner. We have not timed a rebuild or established a repair-cost history."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete startup cost",
+      "heading": "The compact power package changes the total",
+      "paragraphs": [
+        "The manufacturer’s US reference on 30 October 2026 is $215.99 for standard 20185. Its current page also lists the specified Reedy WolfPack 27331 compact 2S pack at $28.99 and the Reedy 123-S 27202 AC charger at $32.99. The charger manual specifies 2S/3S LiPo charging through its XH balance connection; that charger capability is not permission to run a 3S pack in this car. Use the exact battery and charger instructions together.",
+        "Those three dated references total $277.97 before tax and shipping. For a first purchase, add a plainly labeled $6 allowance for four AA cells and a $20 planning allowance for the charging/storage safety arrangement. That produces a $303.97 working equipment budget. The allowances are editorial planning figures to replace with actual local choices, not live offers. They do not assign a price to all future tools, transport or routine wear.",
+        "If you already own suitable compact power equipment, the extra cost may be lower, but verify the pack’s envelope, connector, condition and charging compatibility rather than subtract every battery-related line automatically. Compare the 20185C combo separately if it is available, checking the actual included charger and regional power lead. A vehicle’s dated reference price can support a budget comparison; it cannot establish today’s checkout total or a current discount at another store."
+      ],
+      "sourceIndexes": [
+        0,
+        5
+      ],
+      "table": {
+        "caption": "USD standard-20185 startup example checked 30 October 2026; tax/shipping excluded",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "20185 Ongaro RTR",
+            "Manufacturer vehicle reference",
+            "215.99"
+          ],
+          [
+            "Reedy 27331 compact 2S pack",
+            "Current manufacturer-page reference",
+            "28.99"
+          ],
+          [
+            "Reedy 27202 123-S AC charger",
+            "Current manufacturer-page reference",
+            "32.99"
+          ],
+          [
+            "Four AA cells",
+            "Editorial planning allowance",
+            "6.00"
+          ],
+          [
+            "Charging/storage safety arrangement",
+            "Editorial planning allowance",
+            "20.00"
+          ],
+          [
+            "Working equipment budget",
+            "References plus stated allowances",
+            "303.97"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose a different complete car when the venue changes",
+      "paragraphs": [
+        "Team Associated’s Reflex 14MT 20190 in our archive is a useful comparison if the compact footprint appeals but a monster-truck format better fits the intended driving. It shares some family concepts, but its tires, body and stance change the purchase. Do not transplant our buggy terrain judgment into a claim that the truck can handle every lawn. Both standard packages still require their own carefully selected compact drive-power equipment.",
+        "The Losi Mini-B Brushless offers a different miniature-buggy direction with rear 2WD rather than this car’s four-driven-wheel layout. Compare the exact current package and course expectations before judging value. The practical distinction is whether you want to learn rear-drive behavior or prefer the Reflex’s four-wheel-drive arrangement. Neither choice establishes an automatic winner on a course we have not driven, and nominal scale alone is not enough to compare usable footprint.",
+        "If the actual interest is indoor scale-speed crawling, the TRX-4M Defender is an alternative complete vehicle with a fundamentally different pace and obstacle-planning brief. If the available space is a large rough field, a bigger off-road platform may be more appropriate than any compact buggy. These comparisons are deliberately conditional. The Ongaro makes sense when the course, battery envelope and desired setup learning line up, not simply because an alternative has a larger battery or taller tires."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The verdict",
+      "heading": "A documented small buggy with a specific home",
+      "paragraphs": [
+        "I would buy standard 20185 for a prepared compact course and an owner who wants to understand the car underneath the body. Brushless power, three differentials, adjustable links and separate electronics make a substantial equipment package. The detailed drawings are especially relevant if maintaining and learning setup are part of the appeal. The body provides the personality; the venue and practical ownership plan decide whether the purchase remains enjoyable.",
+        "I would pass if the budget assumes that the battery shown in the photographs is included, or if the intended ground is mostly long grass and large broken obstacles. Those mismatches will matter sooner than the finer setup possibilities. A local racing goal also needs a class-rules check before purchase. We have not certified competition eligibility, measured lap times or established the durability of a particular driving style, and the editorial rating makes none of those claims.",
+        "The score is a buying assessment for a prepared-course driver who values a small adjustable four-wheel-drive buggy. It rewards the documented hardware and service information while accounting for the compact power requirements and package omissions. The affiliate link retains the archived exact-product identity with its original check date; it is not a fresh availability statement. Confirm the chosen package at checkout, preserve the stock setup initially and let the actual course determine the next ownership decision."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer SKU",
+      "20185 · standard Ongaro RTR"
+    ],
+    [
+      "Separate combo",
+      "20185C includes battery/charger; not reviewed package"
+    ],
+    [
+      "Scale / format",
+      "1/14 off-road 4WD buggy · assembled body-inclusive RTR"
+    ],
+    [
+      "Motor",
+      "Reedy 4500kV brushless"
+    ],
+    [
+      "ESC",
+      "Reedy SC300-BL · separate receiver"
+    ],
+    [
+      "Radio",
+      "2.4GHz · two-channel"
+    ],
+    [
+      "Steering",
+      "Digital servo with spring-style saver; aluminum rack"
+    ],
+    [
+      "Differentials",
+      "Three sealed gear differentials"
+    ],
+    [
+      "Drive components",
+      "Aluminum center shaft with cover; front universal shafts"
+    ],
+    [
+      "Suspension",
+      "Independent; threaded coil-over shocks"
+    ],
+    [
+      "Geometry adjustment",
+      "Turnbuckles; caster-block and rear-hub inserts"
+    ],
+    [
+      "Length / width",
+      "304 × 202mm"
+    ],
+    [
+      "Wheelbase / weight",
+      "Manufacturer lists varies; no unverified fixed figure assigned"
+    ],
+    [
+      "Internal gear ratio",
+      "2.46:1 manufacturer listing; not a complete speed prediction"
+    ],
+    [
+      "Battery requirement",
+      "Compact 2S LiPo, T-plug; 100 × 30 × 20mm space"
+    ],
+    [
+      "Transmitter power",
+      "Four AA · separate"
+    ],
+    [
+      "Wheel hex",
+      "12mm; compatibility still requires full fit check"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does standard 20185 include a battery and charger?",
+      "answer": "No. The manufacturer distinguishes it from 20185C, the LiPo Combo. Official photos can show the combo battery even on the shared product page."
+    },
+    {
+      "question": "Which battery size is specified?",
+      "answer": "The current 20185 requirement is a 2S LiPo with T-plug fitting a 100 × 30 × 20mm space. The named reference is Reedy 27331 1600mAh 2S."
+    },
+    {
+      "question": "Can I run 3S because the charger supports it?",
+      "answer": "A charger’s capability does not establish vehicle compatibility. This review follows the exact current car’s 2S requirement and does not recommend 3S operation."
+    },
+    {
+      "question": "Is it automatically legal for a local racing class?",
+      "answer": "No. Check the organizer’s current scale, chassis, electronics, tire and power rules before buying for competition."
+    },
+    {
+      "question": "What do the three differentials do?",
+      "answer": "Front and rear units allow left/right wheel-speed differences; the center unit acts between front and rear drivetrains. Their presence is not a claim of equal traction in every condition."
+    },
+    {
+      "question": "Have you tested its speed or reliability?",
+      "answer": "No. This review evaluates documented equipment, setup choices, ownership requirements and buyer fit. Independent coverage remains attributed to its publisher."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Team Associated — exact 20185 package, compact battery requirement and USD references",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Team Associated — Reflex 14B Ongaro assembly and startup manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Reedy — SC300-BL battery-mode, calibration and protection instructions",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reedy_ESC_SC300BL_Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 23 February 2024 exact Ongaro RTR feature",
+      "url": "https://www.rcdriver.com/team-associated-reflex-14b-ongaro-rc-car/",
+      "kind": "Independent exact-model feature and linked track video; no results claimed as our testing",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Big Squid RC — Tim Mohr, 20 July 2023 model announcement",
+      "url": "https://www.bigsquidrc.com/team-associated-reflex-14b-ongaro-rtr/",
+      "kind": "Independent publication of model announcement; historical context",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Reedy — 27202 123-S AC charger manual and supported charging connection",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/shared/27202_123S_RTR_Charger_Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    }
+  ],
+  "seo": {
+    "title": "Team Associated Reflex 14B Ongaro Review | RC Car King",
+    "description": "Reflex 14B Ongaro 20185 review: brushless 4WD, three differentials, compact 2S battery fit, setup choices, full startup costs and prepared-course fit."
+  },
+  "published": "2026-10-30",
+  "updated": "2026-10-30",
+  "publishedAt": "2026-10-30T09:25:30.763Z",
+  "updatedAt": "2026-10-30T09:25:30.763Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "An original research-led buying assessment. We have not physically driven or owned this reviewed vehicle."
+  },
+  "amazon": {
+    "asin": "B0CN9PQ6MZ",
+    "marketplace": "www.amazon.com",
+    "sku": "20185",
+    "apiSku": "AS20185",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CN9PQ6MZ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.282Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Archived public product identity from 2026-10-12: Team Associated, manufacturer part AS20185. The archived distributor-prefixed part AS20185 maps to manufacturer SKU 20185; exact model and package are cross-checked with manufacturer documentation. Reused without a fresh API call, offer or stock verification.",
+    "variant": "20185 complete Reflex 14B Gamma Ongaro Edition brushless 4WD buggy; not 20185C LiPo Combo"
+  },
+  "image": "team-associated-reflex-14b-ongaro-1.jpg",
+  "imageAlt": "Official Team Associated Reflex 14B Ongaro 20185 complete buggy with its finished Gamma-style body.",
+  "imageCaption": "Official Team Associated Reflex 14B Ongaro 20185 complete buggy with its finished Gamma-style body.",
+  "imageCredit": {
+    "name": "Team Associated / Associated Electrics",
+    "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3071/R14B_DO_3Q_Driver_IMG_2722_lg__90072.1725442145.jpg",
+    "kind": "Official manufacturer product photography"
+  },
+  "gallery": [
+    {
+      "image": "team-associated-reflex-14b-ongaro-2.jpg",
+      "alt": "Official body-off top view showing the separate electronics and compact battery location. The pictured drive battery is not included in standard 20185.",
+      "caption": "Official body-off top view showing the separate electronics and compact battery location. The pictured drive battery is not included in standard 20185.",
+      "credit": {
+        "name": "Team Associated / Associated Electrics",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3075/R14B_DO_BO_TopDown_IMG_2734_lg__71011.1725442146.jpg"
+      }
+    },
+    {
+      "image": "team-associated-reflex-14b-ongaro-3.jpg",
+      "alt": "Official Ongaro body and exposed chassis photograph. Team Associated warns that shared images can show 20185C combo equipment absent from standard 20185.",
+      "caption": "Official Ongaro body and exposed chassis photograph. Team Associated warns that shared images can show 20185C combo equipment absent from standard 20185.",
+      "credit": {
+        "name": "Team Associated / Associated Electrics",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3076/R14B_DO_BodyyOff_IMG_2730_lg__85587.1725442146.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Original buying analysis based on dated exact-model manufacturer pages and manuals. Independent coverage is attributed and its scope identified. We have not measured speed, runtime, grip, crash resistance or long-term reliability. The five equally weighted scores assess the documented equipment and buyer fit. Official images retain their source credits; any pictured optional equipment is identified.",
+  "revisionNote": "First published 30 October 2026. Exact vehicle and package reviewed; archived affiliate identity retained without fresh commercial verification."
+}

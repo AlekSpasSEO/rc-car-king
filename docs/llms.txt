@@ -16,12 +16,12 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
-- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
+- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
+- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
-- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 
 ## Guides and listicles
@@ -37,6 +37,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Vorteks 223S DSC 2WD](https://alekspasseo.github.io/rc-car-king/arrma/vorteks-223s-dsc-2wd/): ARA3505T1 Vorteks 223S 2WD review: 4000Kv brushless power, DSC controls, battery fit, full startup budget, terrain choices and ownership tradeoffs.
+- [Axial SCX10 III Jeep CJ-7 V2](https://alekspasseo.github.io/rc-car-king/axial/scx10-iii-jeep-cj-7-v2/): Red CJ-7 V2 AXI03008V2T1 review: straight axles, installed DIG, 35T brushed power, separate electronics, startup costs and a documented gearing conflict.
+- [Team Associated Reflex 14B Ongaro RTR](https://alekspasseo.github.io/rc-car-king/team-associated/reflex-14b-ongaro-rtr/): Reflex 14B Ongaro 20185 review: brushless 4WD, three differentials, compact 2S battery fit, setup choices, full startup costs and prepared-course fit.
 - [ARRMA Gorgon 223S 2WD Brushless](https://alekspasseo.github.io/rc-car-king/arrma/gorgon-223s-2wd/): ARRMA ARA3530T1 Gorgon 223S review: 4000Kv brushless power, rear 2WD, DSC modes, battery needs, startup costs and conflicting manufacturer dimensions.
 - [Kyosho Fazer Mk2 1972 Mazda Savanna GT Green](https://alekspasseo.github.io/rc-car-king/kyosho/fazer-mk2-mazda-savanna-gt/): Kyosho 34428T1 Savanna GT review: brushed FZ02 touring 4WD, finished green body, battery needs, optional LEDs, pavement fit and conflicting height data.
 - [Team Associated Reflex 14MT Blue/Purple](https://alekspasseo.github.io/rc-car-king/team-associated/reflex-14mt-blue-purple/): Team Associated 20190 Reflex 14MT review: compact 2S battery fit, brushless 4WD, three differentials, missing equipment, terrain fit and source conflicts.

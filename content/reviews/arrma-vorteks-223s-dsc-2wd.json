@@ -1,0 +1,493 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Vorteks 223S DSC 2WD",
+  "modelSlug": "vorteks-223s-dsc-2wd",
+  "sku": "ARA3505T1",
+  "headlineLines": [
+    "REAR DRIVE.",
+    "LEARN THE TRIGGER."
+  ],
+  "title": "ARRMA Vorteks 223S 2WD review: a stadium truck with room to learn",
+  "dek": "Yellow ARA3505T1 puts a 4000Kv brushless motor and DSC in a rear-drive stadium truck. Budget for the battery, charger and a clear outdoor venue.",
+  "type": "Stadium truck",
+  "use": "Bashing",
+  "terrain": [
+    "Dry packed dirt",
+    "Open asphalt",
+    "Short firm grass"
+  ],
+  "motor": "Brushless",
+  "drive": "2WD",
+  "scale": "1/10",
+  "format": "Ready-to-run; battery and charger separate",
+  "skill": "Developing outdoor 2WD control; supervised LiPo setup",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "basis": "Horizon Hobby US manufacturer vehicle reference · ARA3505T1",
+    "source": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+    "checked": "2026-10-30"
+  },
+  "purchaseNote": "Vehicle reference only. A dated example adds a USD101.98 compatible 2S power bundle and a separate safety-equipment allowance; taxes, shipping and regional pricing are additional.",
+  "overview": "A good shortlist for someone who wants rear-drive stadium-truck control with factory brushless power. The radio has useful learning aids, but traction, stopping space and battery ownership remain the driver’s responsibility.",
+  "verdict": "Choose it for the rear-drive experience",
+  "verdictText": "ARA3505T1 makes sense when the venue and driver suit a 2WD stadium truck. The documented controls and accessible battery tray help ownership; missing drive power and a combined ESC/receiver are the main purchasing tradeoffs.",
+  "pros": [
+    "4000Kv brushless motor, 40mm fan and installed electronics",
+    "Separate throttle limit and four DSC settings",
+    "Oil-filled shocks and distinct front/rear dBoots tread",
+    "Clipless body, bottom-loading battery tray and basic tools"
+  ],
+  "cons": [
+    "Drive battery, charger and charging bag are separate",
+    "Rear 2WD needs throttle discipline on loose ground",
+    "Combined ESC/receiver couples two replacement decisions",
+    "Fixed links offer less alignment adjustment than turnbuckles"
+  ],
+  "bestFor": [
+    "An outdoor driver specifically choosing a 2WD stadium truck",
+    "Learning on supported 2S with reduced throttle",
+    "A buyer willing to complete and maintain a LiPo power package"
+  ],
+  "avoidIf": [
+    "You require four driven wheels for the intended venue",
+    "You expect a battery-and-charger bundle in the vehicle box",
+    "Your only driving area is cramped or shared with traffic"
+  ],
+  "quickSpecs": [
+    [
+      "Exact version",
+      "ARA3505T1 · yellow/black"
+    ],
+    [
+      "Motor",
+      "Spektrum 3660 4000Kv brushless"
+    ],
+    [
+      "ESC / receiver",
+      "SLT DSC 45A 2-in-1"
+    ],
+    [
+      "Drivetrain",
+      "Rear 2WD · gear differential"
+    ],
+    [
+      "Battery",
+      "2S/3S hardcase LiPo · IC5"
+    ],
+    [
+      "Radio",
+      "SLT2 · 50/75/100% throttle limit"
+    ]
+  ],
+  "rating": {
+    "audience": "An outdoor buyer who wants an affordable factory brushless rear-drive stadium truck",
+    "disclosure": "Five equally weighted research-led equipment and ownership scores; no measured handling or durability score.",
+    "dimensions": [
+      {
+        "label": "Factory power equipment",
+        "score": 8.5,
+        "reason": "The brushless system, fan, servo and radio are supplied."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8.5,
+        "reason": "Independent throttle limiting and DSC settings support a gradual learning plan."
+      },
+      {
+        "label": "Stadium-truck specification",
+        "score": 8,
+        "reason": "Oil shocks, appropriate tire pairing and wide independent suspension establish the format."
+      },
+      {
+        "label": "Routine access",
+        "score": 8,
+        "reason": "Bottom battery access and clipless retention simplify recurring tasks; electronics remain combined."
+      },
+      {
+        "label": "Complete-start value",
+        "score": 7.5,
+        "reason": "The vehicle reference is attractive, but a usable power system takes the example budget beyond USD350 before safety items."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Overview",
+      "heading": "The 2WD label changes the buying decision",
+      "paragraphs": [
+        "The Vorteks 223S DSC 2WD belongs on a shortlist for open outdoor driving where controlling the rear tires is part of the fun. Its factory brushless installation removes the need to plan a motor conversion before the first outing. That does not remove the need to choose a suitable surface. A truck with room to accelerate and turn has a much clearer purpose than the same purchase squeezed onto a crowded pavement.",
+        "This review covers yellow/black ARA3505T1. The Vorteks name also appears on four-wheel-drive models with different electronics, and the brushed 2WD versions are another purchase again. Do not borrow the 4WD truck’s controller rating, battery-tray assumptions or driving descriptions. The exact T1 package supplies the complete car and radio equipment, while its drive battery and charger remain separate purchases. The color code is recorded so the affiliate identity and official images refer to the same version.",
+        "Our conclusions come from the current manufacturer material and ARA3505 manual. Paul Onorato’s June 2025 RC Driver article documents the model’s announcement and equipment; it is not treated as an independent endurance test. We have not driven the truck. The rating therefore evaluates its supplied hardware, learning controls, access and purchasing requirements. We cannot turn a promotional speed claim or a dramatic photograph into a measured result."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Package contents",
+      "heading": "The truck is assembled; the power package is your decision",
+      "paragraphs": [
+        "The box includes the stadium truck, Spektrum 3660 4000Kv brushless motor, SLT 45A combined ESC/receiver with DSC, S681 metal-geared digital steering servo and SLT2 transmitter. ARRMA also lists four AA transmitter batteries, two hex drivers and a wheel wrench/shock tool. That is a useful starting collection for the vehicle’s normal fittings, although it is not a complete workshop or a substitute for checking tool sizes before maintenance.",
+        "The required drive supply is one supported 2S or 3S hardcase LiPo with an IC5 connector. The documented maximum battery space is 140 × 50 × 35mm. Case dimensions, connector position, lead routing and retention all need checking; matching the cell count alone does not establish a usable installation. A large pack left over from a different ARRMA may be the wrong shape even when its voltage and connector look familiar.",
+        "A compatible charger and appropriate charging arrangement complete the equipment list. The manufacturer explicitly lists a charging bag among the required items. Keep rechargeable drive packs separate from the supplied AA cells in your planning. Read both battery and charger instructions, and use their supported settings and connection method. Buying an RTR saves assembly and radio selection, but it does not make the remaining electrical choices automatic or remove routine battery care."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Brushless power drives the rear tires",
+      "paragraphs": [
+        "The motor is the Spektrum 3660 4000Kv unit, with a 40mm cooling fan, and the vehicle drives its rear wheels through a gear differential. The front tires steer rather than receive motor drive. That difference explains why throttle management matters on loose ground: the driven axle has to provide the useful forward grip. Four-wheel-drive reviews can help identify an alternative, but their traction behavior cannot be transferred to this layout.",
+        "The 223S designation means the standard power system supports the specified 2S and 3S LiPo choices. ARRMA advertises 35+ mph with 2S and 50+ mph with 3S. Those are manufacturer claims, not speeds we achieved or promises for a particular surface, battery condition or driver. Moving to a supported higher-voltage pack changes the demands of the driving space. It is a later equipment choice, not a required graduation exercise.",
+        "For the intended learner, I would begin with a correctly fitted 2S package and controlled inputs. A brushless motor’s Kv label is not a complete acceleration or speed measurement; gearing, load and available traction still matter. The chassis includes an adjustable slipper arrangement, and the manual supplies the relevant service reference. Leave the documented factory baseline intact until there is a specific reason to inspect or adjust it, rather than use random settings from another truck."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls & setup",
+      "heading": "Throttle limiting and DSC have separate jobs",
+      "paragraphs": [
+        "The SLT2 throttle limiter offers 50, 75 and 100 percent positions. That gives the driver a straightforward way to reduce available throttle while learning a clear route. It is not a guaranteed maximum road speed, and the lower position cannot make an unsuitable public area suitable. Start with stopping room, sight lines and a clear recovery area, then choose the control setting. The driving venue should set the first limit.",
+        "DSC applies steering correction. The manual identifies Mode 1 as off, Mode 2 as low, Mode 3 as medium and Mode 4 as high assistance, using the indicated beep/flash pattern. This is different from steering trim, which establishes the neutral direction, and steering rate, which limits travel. Learn those distinctions before changing several controls together. DSC cannot create tire grip or supply drive to the front wheels.",
+        "Before running, follow the exact manual’s startup, direction and radio checks. The controller is switched on before the car, with shutdown in the documented reverse order. Binding and throttle calibration have their own procedure; they are not routine experiments for every pack. If motor drive stops, the manual distinguishes red-LED low-voltage protection from blue-LED thermal protection. Stop and investigate the indicated cause, allow cooling where required and preserve the protection functions."
+      ],
+      "sourceIndexes": [
+        1
+      ],
+      "list": {
+        "title": "A useful first-run baseline",
+        "items": [
+          "Compatible hardcase 2S pack secured within the stated battery envelope",
+          "Steering centered and directions checked according to the manual",
+          "Throttle limiter deliberately selected before driving",
+          "DSC state understood and changed independently of steering trim",
+          "A clear stopping and recovery area with no people or traffic in the route"
+        ]
+      }
+    },
+    {
+      "id": "steering",
+      "nav": "Steering & suspension",
+      "heading": "A wide stance helps define the format",
+      "paragraphs": [
+        "Published dimensions are 456mm long, 325mm wide and 170mm high, with a 286mm wheelbase. The manual lists 2.51kg, while the manufacturer showcase describes the corresponding weight as without a battery. These figures help answer storage and transport questions. They do not establish a rollover limit, a safe jump height or an obstacle-size rating. Measure the intended carrying space with room for the wheels and body rather than rely on the nominal scale.",
+        "The S681 servo acts through the steering mechanism while the suspension uses oil-filled coil-over shocks. Spring preload changes ride-height setup; it does not give unlimited wheel travel or cure every handling complaint. The manufacturer showcase identifies fixed links, so do not assume the same alignment adjustment range as a buggy with turnbuckles. This is a relatively straightforward recreational platform, and that simplicity is useful if the buyer values getting started over extensive geometry tuning.",
+        "For routine inspection, follow the manual and disconnect drive power before reaching into the chassis. Look for tire interference, loose fittings, trapped debris and a changed neutral position before deciding a stronger servo is needed. A car that suddenly pulls after an impact deserves a mechanical check. Changing steering trim until it appears straight can hide damage or an obstruction, while changing DSC at the same time makes the original problem harder to identify."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires & terrain",
+      "heading": "Choose the surface before choosing 3S",
+      "paragraphs": [
+        "ARRMA names dirt, grass, parking lots and paved surfaces in its intended-use description. The documented tire pairing is dBoots Dirtrunner ST at the front and Katar at the rear. Treat that as a versatile recreational brief, not proof that every patch of grass or loose material is equally manageable. The physical height and density of vegetation matter more than a broad terrain label, especially when only the rear axle is driven.",
+        "Dry packed ground and an unobstructed paved area are sensible places to assess the stock vehicle at reduced throttle. Use broad turns, learn how much stopping room the actual surface demands and avoid planning a route around maximum acceleration. Long grass, wrapped stems and packed debris can add drag. If the car struggles to move normally, more trigger is not a diagnosis. Stop, shut down and inspect according to the manufacturer’s maintenance guidance.",
+        "The stadium body, rear wing and wide stance distinguish this purchase from a taller monster truck, but we have not measured their effects on handling. Nor does the electronics’ water-resistance description make the whole car maintenance-free after water exposure. Follow the manual’s restrictions and after-run instructions. For a first baseline, dry running removes one variable and makes it easier to learn the controls before adding wet-condition cleanup to the ownership routine."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership & access",
+      "heading": "Battery access is useful every time you run",
+      "paragraphs": [
+        "The bottom-loading battery tray is one of the practical details worth noticing before buying. It gives access to the drive pack without treating full body removal as an obligatory battery-change step. Still check retention and lead placement on the real installation. A convenient opening is valuable only when the pack is properly secured and the door and wires remain clear of moving parts. The official requirement diagram is included below to keep that separate equipment visible.",
+        "The body uses clipless retention, with roof protection and a molded rear wing. Those features simplify handling and establish the stadium-truck appearance, but they do not supply a measured crash-resistance rating. After a rough outing, inspect the body retention, wing, wheelie bar and surrounding fittings rather than assume protective pieces make damage irrelevant. The manual’s body-removal illustration is the right starting reference when access beyond the battery tray is required.",
+        "Maintenance includes checking wheel and tire attachment, loose fittings, debris around rotating parts and the documented gear/slipper area. Avoid copying an oil or adjustment recipe from a different vehicle. The combined ESC/receiver is also an ownership tradeoff: it reduces separate installed boxes but links two functions in one assembly. If future radio changes matter to you, understand the compatibility and replacement path before purchase; do not count an unspecified upgrade as an included feature."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete startup cost",
+      "heading": "Build a usable 2S budget, not a vehicle-only total",
+      "paragraphs": [
+        "On 30 October 2026, Horizon’s USD vehicle reference is $249.99. A specific manufacturer power example is the SPMXPSS200 bundle at $101.98, containing an S155 AC Smart charger and SPMX52S50H5 5000mAh 2S IC5 hardcase pack. The battery is listed at 138 × 46 × 25mm, within the truck’s stated battery envelope. Confirm routing and retention on installation. These are dated manufacturer references, not Amazon offers or a claim of continuing availability.",
+        "The two quoted references total $351.97 before tax and shipping. Adding a clearly labeled $20 planning allowance for the required charging bag/safety arrangement produces a $371.97 working budget. That allowance is an editorial placeholder to replace with an actual compliant choice, not a retailer quotation or a claim that a bag alone makes charging safe. The charger includes its power cord; the vehicle supplies transmitter AA cells and basic molded tools.",
+        "An owner who already has compatible power equipment should subtract only items genuinely covered by that equipment. A charger must support the chosen battery and its connection system, and an old pack must still meet condition, case and fit requirements. Include transport and ordinary upkeep in the longer-term budget without inventing a monthly repair rate. The useful comparison with another RTR is the complete supported setup you will actually use, rather than the larger speed number on a box."
+      ],
+      "sourceIndexes": [
+        0,
+        3,
+        4
+      ],
+      "table": {
+        "caption": "USD startup example checked 30 October 2026; tax and shipping excluded",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "ARA3505T1 truck",
+            "Manufacturer vehicle reference",
+            "249.99"
+          ],
+          [
+            "SPMXPSS200 2S battery + S155 AC charger",
+            "Dated manufacturer bundle reference",
+            "101.98"
+          ],
+          [
+            "Charging bag / safety-equipment allowance",
+            "Editorial planning allowance; replace with actual choice",
+            "20.00"
+          ],
+          [
+            "Working equipment budget",
+            "Quoted references plus stated allowance",
+            "371.97"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Match the alternative to the problem you want solved",
+      "paragraphs": [
+        "The Vorteks 223S 4X4 in our archive is the first alternative if the real priority is four driven wheels. It has its own motor, controller, transmitter and battery requirements, so compare the exact review rather than use the shared badge as a compatibility chart. Four-wheel drive changes the mechanical brief; it does not remove the need for an appropriate venue or measured throttle inputs. The 2WD remains the more deliberate choice when rear-drive control is the attraction.",
+        "ARRMA’s Gorgon 223S is a different body and stance around a rear-drive monster-truck brief. It is worth comparing when taller monster-truck presentation matters more than the stadium outline. Our Gorgon review also records conflicting manufacturer size data, which is a reminder to compare exact documentation rather than infer dimensions from photographs. Neither car receives an unmeasured rough-terrain victory here. Decide what kind of course and driving style you are trying to support.",
+        "The Traxxas Rustler 2WD XL-5 is another complete stadium-truck direction for someone comparing a brushed package and a different radio and battery ecosystem. Check the exact current package, especially supplied power equipment, rather than assume all Rustlers are the same generation. For compact prepared courses, a smaller buggy such as the Reflex 14B may suit the available footprint better. That is a venue decision, not evidence that a miniature buggy is a substitute for this truck in long grass."
+      ],
+      "sourceIndexes": [
+        0
+      ],
+      "list": {
+        "title": "Relevant full reviews",
+        "items": [
+          "Vorteks 223S 4X4: compare the different drivetrain and electronics",
+          "Gorgon 223S 2WD: compare the monster-truck stance and package",
+          "Rustler 2WD XL-5: compare the brushed stadium-truck ownership package"
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "The verdict",
+      "heading": "The value is in a coherent starting platform",
+      "paragraphs": [
+        "I would shortlist ARA3505T1 for a buyer who can explain why rear 2WD is the desired experience and has a clear outdoor place to learn it. The factory brushless installation, independent control aids and recurring battery access make sense together. That is a stronger reason to buy than expecting a first outing to reproduce the largest advertised speed. Choose the supported power package and driving space before deciding which color looks best.",
+        "I would skip it when the buyer really wants four-wheel-drive traction, a crawler’s pace or an all-in-one power bundle. Those are different requirements, and the low vehicle reference can distract from them. The example equipment budget makes the extra purchases visible, while the fixed links and combined electronics explain where simplicity becomes a limitation. These are purchasing reservations grounded in the specification, not predictions that particular components will fail.",
+        "The five category scores assess the documented package for an outdoor learner who wants brushless rear drive. They do not grade measured cornering, crash survival, radio range or long-term ownership. The archived affiliate identity is retained for the exact yellow T1, with a check-price link rather than an unverified current offer. If the car, venue and complete budget align, this Vorteks is a credible way to begin; the next useful step is learning the stock setup."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer SKU",
+      "ARA3505T1"
+    ],
+    [
+      "Exact version",
+      "Yellow/black Vorteks 223S DSC 2WD"
+    ],
+    [
+      "Motor",
+      "Spektrum Firma 3660 4000Kv brushless"
+    ],
+    [
+      "ESC / receiver",
+      "Spektrum SLT DSC 45A 2-in-1 · SPMXSE4510RX"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT2 · 2 channels"
+    ],
+    [
+      "Steering servo",
+      "Spektrum S681 · metal-geared digital · 25T"
+    ],
+    [
+      "Drive",
+      "Rear 2WD · gear differential"
+    ],
+    [
+      "Suspension",
+      "Independent · oil-filled coil-over shocks · fixed links"
+    ],
+    [
+      "Tires",
+      "dBoots Dirtrunner ST front / Katar rear"
+    ],
+    [
+      "Dimensions",
+      "456 × 325 × 170mm"
+    ],
+    [
+      "Wheelbase",
+      "286mm"
+    ],
+    [
+      "Listed weight",
+      "2.51kg; showcase identifies no battery"
+    ],
+    [
+      "Drive battery",
+      "2S/3S hardcase LiPo, IC5 · separate"
+    ],
+    [
+      "Maximum pack size",
+      "140 × 50 × 35mm"
+    ],
+    [
+      "Radio batteries",
+      "Four AA · supplied"
+    ],
+    [
+      "Body access",
+      "Clipless body; bottom-loading battery tray"
+    ],
+    [
+      "Speed statement",
+      "ARRMA claims 35+ mph 2S / 50+ mph 3S; not independently measured here"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is ARA3505T1 the four-wheel-drive Vorteks?",
+      "answer": "No. It is the rear-drive 2WD brushless stadium truck. The Vorteks 223S 4X4 is a different model with different electronics."
+    },
+    {
+      "question": "Does the yellow T1 include a battery and charger?",
+      "answer": "No drive battery or charger is included. Four supplied AA cells power the transmitter."
+    },
+    {
+      "question": "Which battery fits?",
+      "answer": "The manufacturer specifies a 2S/3S hardcase LiPo with IC5 connector within 140 × 50 × 35mm. Confirm lead routing and secure retention as well as case dimensions."
+    },
+    {
+      "question": "Does DSC limit the speed?",
+      "answer": "DSC corrects steering. The SLT2’s separate 50/75/100% throttle limiter reduces available throttle; neither guarantees a safe speed for a particular location."
+    },
+    {
+      "question": "Have you measured the advertised 50+ mph?",
+      "answer": "No. This is a research-led buying assessment. The 2S and 3S speed statements are attributed to ARRMA."
+    },
+    {
+      "question": "Why can the motor stop while steering still responds?",
+      "answer": "The manual identifies low-voltage and thermal protection indications. Stop and follow its troubleshooting instructions; do not bypass protections or assume a failed motor."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — exact ARA3505T1 product, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "ARRMA — ARA3505 operating manual, specifications and DSC controls",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Paul Onorato, 12 June 2025 model announcement",
+      "url": "https://www.rcdriver.com/arrma-vorteks-223s-blx-2wd-stadium-truck/",
+      "kind": "Independent publication; manufacturer announcement coverage, not a measured durability test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXPSS200 2S battery and S155 charger bundle",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXPSS200.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — exact SPMX52S50H5 dimensions and IC5 hardcase specification",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX52S50H5.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    }
+  ],
+  "seo": {
+    "title": "ARRMA Vorteks 223S 2WD Review | RC Car King",
+    "description": "ARA3505T1 Vorteks 223S 2WD review: 4000Kv brushless power, DSC controls, battery fit, full startup budget, terrain choices and ownership tradeoffs."
+  },
+  "published": "2026-10-30",
+  "updated": "2026-10-30",
+  "publishedAt": "2026-10-30T09:21:50.323Z",
+  "updatedAt": "2026-10-30T09:21:50.323Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "An original research-led buying assessment. We have not physically driven or owned this reviewed vehicle."
+  },
+  "amazon": {
+    "asin": "B0FDLF372L",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA3505T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0FDLF372L?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:54.107Z",
+    "partnerTag": "coffeedant03-20",
+    "identityNote": "Archived public product identity from 2026-10-12: ARRMA, manufacturer part ARA3505T1. Reused without a fresh API call, offer or stock verification.",
+    "variant": "Yellow/black ARA3505T1 complete brushless 2WD stadium truck; battery and charger separate"
+  },
+  "image": "arrma-vorteks-223s-2wd-1.jpg",
+  "imageAlt": "Official ARRMA ARA3505T1 yellow/black Vorteks 223S 2WD complete stadium truck.",
+  "imageCaption": "Official ARRMA ARA3505T1 yellow/black Vorteks 223S 2WD complete stadium truck.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbea38793/Images/ARA/ARA3505T1_A4_SE090FSC.jpg?sw=800&sh=800&sm=fit",
+    "kind": "Official manufacturer product photography"
+  },
+  "gallery": [
+    {
+      "image": "arrma-vorteks-223s-2wd-2.jpg",
+      "alt": "ARRMA’s official separate-power diagram: one supported 2S or 3S pack and compatible charger are required; the charging bag is also listed separately.",
+      "caption": "ARRMA’s official separate-power diagram: one supported 2S or 3S pack and compatible charger are required; the charging bag is also listed separately.",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwed73e171/Images/ARA/ARA3505T1_A93_SE090FSC.jpg?sw=800&sh=800&sm=fit"
+      }
+    },
+    {
+      "image": "arrma-vorteks-223s-2wd-3.jpg",
+      "alt": "Official overhead view of the yellow T1, showing the front/rear tire pairing, stadium body and rear wing.",
+      "caption": "Official overhead view of the yellow T1, showing the front/rear tire pairing, stadium body and rear wing.",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw4ab91897/Images/ARA/ARA3505T1_A1_SE090FSC.jpg?sw=800&sh=800&sm=fit"
+      }
+    }
+  ],
+  "evidenceNote": "Original buying analysis based on dated exact-model manufacturer pages and manuals. Independent coverage is attributed and its scope identified. We have not measured speed, runtime, grip, crash resistance or long-term reliability. The five equally weighted scores assess the documented equipment and buyer fit. Official images retain their source credits; any pictured optional equipment is identified.",
+  "revisionNote": "First published 30 October 2026. Exact vehicle and package reviewed; archived affiliate identity retained without fresh commercial verification."
+}

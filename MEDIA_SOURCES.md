@@ -85,3 +85,8 @@ Losi Mini LMT Megalodon LOS01026T3, tan Traxxas TRX-4M Defender 97054-1-TAN and 
 ## 26 October 2026 — three complete-vehicle reviews
 
 Official ARRMA/Horizon ARA3530T1 photos, Team Associated20190 body photos plus the credited shared20174 platform detail, and Kyosho34428T1 staged body/platform photos: nine assets. Exact URLs, file hashes and manual hashes are recorded in `content/evidence/2026-10-26-review-media.json`. Each review links its source. Visible batteries in technical photos are not implied inclusions; no community images or fabricated demonstrations used.
+
+
+## Weekday reviews · 30 October 2026
+
+Nine individually inspected official assets cover yellow ARRMA Vorteks 223S 2WD ARA3505T1, standard Team Associated Reflex 14B Ongaro 20185 and red Axial SCX10 III CJ-7 V2 AXI03008V2T1. The [dated media manifest](content/evidence/2026-10-30-review-media.json) records exact image URLs, credits, bytes, hashes and manual fingerprints. Completion diagrams identify separately required power equipment. Reflex body-off photos explicitly warn that the pictured combo battery is absent from standard 20185. The red CJ-7 trail image is credited manufacturer photography, not an RC Car King test; copper T2 styling is not assigned to the red T1. No community or independent-publication photographs are reused.

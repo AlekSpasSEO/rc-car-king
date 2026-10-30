@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-30",
+  "sku": "AXI03008V2T1",
+  "route": "axial/scx10-iii-jeep-cj-7-v2/",
+  "words": 2168,
+  "createdAt": "2026-10-30T09:28:54.288Z",
+  "sources": [
+    {
+      "name": "Axial / Horizon Hobby — exact red V2 package, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — AXI03008V2 English operating manual; DIG, battery placement, access and gearing",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 3 April 2026 V2T2 review; variant identified",
+      "url": "https://www.rcdriver.com/axial-scx10-iii-jeep-cj-7-rtr-review-a-must-have-scale-crawler-returns/",
+      "kind": "Independent coverage of copper V2T2; observations attributed, not represented as our red-V2 test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1047 Trail Pro pack, dimensions and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1047.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXC2050 S155 G2 AC charger, included power cord and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXC2050.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — V2 exploded drawings and parts identification",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw41be9219/Manuals/AXI03008V2-EXPLODED-VIEW.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    }
+  ],
+  "identity": {
+    "historicalSource": "output/batch-horizon/axial-search.json",
+    "checkedAt": "2026-10-12T23:04:26.877Z",
+    "asin": "B0GY9Z7Z9F",
+    "brand": "Axial",
+    "part": "AXI03008V2T1",
+    "model": "AXI03008V2T1",
+    "note": "Archived public product identity from 2026-10-12: Axial, manufacturer part AXI03008V2T1. Reused without a fresh API call, offer or stock verification."
+  },
+  "media": [
+    {
+      "file": "axial-scx10-iii-cj7-v2-red-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62b66281/Images/AXI/AXI03008V2T1_A1_MYPWBJYE.jpg?sw=800&sh=800&sm=fit",
+      "model": "cj7",
+      "checked": "2026-10-30",
+      "credit": "Axial / Horizon Hobby"
+    },
+    {
+      "file": "axial-scx10-iii-cj7-v2-red-2.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc40a24e3/Images/AXI/AXI03008V2T1_A90_MYPWBJYE.jpg?sw=800&sh=800&sm=fit",
+      "model": "cj7",
+      "checked": "2026-10-30",
+      "credit": "Axial / Horizon Hobby"
+    },
+    {
+      "file": "axial-scx10-iii-cj7-v2-red-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc5966038/Images/AXI/AXI03008V2T1_A16_MYPWBJYE.jpg?sw=800&sh=800&sm=fit",
+      "model": "cj7",
+      "checked": "2026-10-30",
+      "credit": "Axial / Horizon Hobby"
+    }
+  ],
+  "boundaries": [
+    "No Amazon API or credentials accessed. No live offer or stock claim.",
+    "Research-led score, not a hands-on or customer rating.",
+    "Dated manufacturer USD reference prices; planning allowances explicitly separated."
+  ],
+  "validation": {
+    "production": "npm run build and npm run check passed: 69 published reviews, 8 articles, 94 HTML pages and 93 sitemap URLs.",
+    "preview": "Default GitHub preview build and check passed with noindex, separate origin and base path.",
+    "visual": "Each review inspected in IAB at 1440×1000 desktop and 390×844 mobile. Correct hero photos, complete product boxes, bylines, ratings and check-price links visible. No page-level horizontal overflow; comparison tables contained in overflow:auto wrappers. CJ7 full-spec anchor and ratio FAQ expansion verified; viewport override reset.",
+    "commerce": "Affiliate tag and sponsored/nofollow attributes verified. No displayed Amazon offer price; archived identities retain original verification dates. Manufacturer price references and editorial budget allowances remain distinct.",
+    "live": "Required after pushing: matching successful Cloudflare commit and check:live date 2026-10-30 for production and GitHub preview."
+  },
+  "sourceConflict": "Current product low final ratio 40.49:1 versus V2 English manual page10 standard axle/stock14T cell 41.71:1. Both are retained; no derived speed or conversion instruction. Remote two-speed shifting is not claimed as supplied."
+}

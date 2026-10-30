@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-30",
+  "sku": "ARA3505T1",
+  "route": "arrma/vorteks-223s-dsc-2wd/",
+  "words": 2167,
+  "createdAt": "2026-10-30T09:21:50.323Z",
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — exact ARA3505T1 product, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "ARRMA — ARA3505 operating manual, specifications and DSC controls",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Paul Onorato, 12 June 2025 model announcement",
+      "url": "https://www.rcdriver.com/arrma-vorteks-223s-blx-2wd-stadium-truck/",
+      "kind": "Independent publication; manufacturer announcement coverage, not a measured durability test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXPSS200 2S battery and S155 charger bundle",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXPSS200.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Spektrum / Horizon — exact SPMX52S50H5 dimensions and IC5 hardcase specification",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX52S50H5.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    }
+  ],
+  "identity": {
+    "historicalSource": "output/batch-traxxas-arrma/search-10.json",
+    "checkedAt": "2026-10-12T23:04:54.107Z",
+    "asin": "B0FDLF372L",
+    "brand": "ARRMA",
+    "part": "ARA3505T1",
+    "model": "ARA3505T1",
+    "note": "Archived public product identity from 2026-10-12: ARRMA, manufacturer part ARA3505T1. Reused without a fresh API call, offer or stock verification."
+  },
+  "media": [
+    {
+      "file": "arrma-vorteks-223s-2wd-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbea38793/Images/ARA/ARA3505T1_A4_SE090FSC.jpg?sw=800&sh=800&sm=fit",
+      "model": "vorteks",
+      "checked": "2026-10-30",
+      "credit": "ARRMA / Horizon Hobby"
+    },
+    {
+      "file": "arrma-vorteks-223s-2wd-2.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwed73e171/Images/ARA/ARA3505T1_A93_SE090FSC.jpg?sw=800&sh=800&sm=fit",
+      "model": "vorteks",
+      "checked": "2026-10-30",
+      "credit": "ARRMA / Horizon Hobby"
+    },
+    {
+      "file": "arrma-vorteks-223s-2wd-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw4ab91897/Images/ARA/ARA3505T1_A1_SE090FSC.jpg?sw=800&sh=800&sm=fit",
+      "model": "vorteks",
+      "checked": "2026-10-30",
+      "credit": "ARRMA / Horizon Hobby"
+    }
+  ],
+  "boundaries": [
+    "No Amazon API or credentials accessed. No live offer or stock claim.",
+    "Research-led score, not a hands-on or customer rating.",
+    "Dated manufacturer USD reference prices; planning allowances explicitly separated."
+  ],
+  "validation": {
+    "production": "npm run build and npm run check passed: 69 published reviews, 8 articles, 94 HTML pages and 93 sitemap URLs.",
+    "preview": "Default GitHub preview build and check passed with noindex, separate origin and base path.",
+    "visual": "Each review inspected in IAB at 1440×1000 desktop and 390×844 mobile. Correct hero photos, complete product boxes, bylines, ratings and check-price links visible. No page-level horizontal overflow; comparison tables contained in overflow:auto wrappers. CJ7 full-spec anchor and ratio FAQ expansion verified; viewport override reset.",
+    "commerce": "Affiliate tag and sponsored/nofollow attributes verified. No displayed Amazon offer price; archived identities retain original verification dates. Manufacturer price references and editorial budget allowances remain distinct.",
+    "live": "Required after pushing: matching successful Cloudflare commit and check:live date 2026-10-30 for production and GitHub preview."
+  }
+}
