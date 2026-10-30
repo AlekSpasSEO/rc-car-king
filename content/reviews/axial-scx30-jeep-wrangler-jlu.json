@@ -11,7 +11,7 @@
   "title": "Axial SCX30 Jeep Wrangler JLU review: the jeep is a small-course purchase with specific scale appeal?",
   "dek": "A tiny Wrangler crawler with included power equipment and a detailed finished body. We focus on indoor-course fit, controls, the stock hardware and the limits of the published specification table.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -46,7 +46,7 @@
   "author": {
     "name": "The Garage Editor",
     "role": "RC Car King editorial voice",
-    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+    "note": "This buying assessment uses manufacturer documentation, a previously verified affiliate identity and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
   },
   "overview": "The white SCX30 JLU makes sense for someone who wants a four-door Wrangler replica to crawl nearby rather than a larger trail truck that needs transporting. Its published 152mm length and 70mm width are useful when choosing storage and course space. I would pick this version for the Jeep body, overland details and included alternative fender pieces.",
   "verdict": "Buy the Jeep for the scale experience you can use frequently",
@@ -64,14 +64,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "Small technical courses and deliberate line choice",
-    "Drivers who value the exact body and tire package",
-    "Owners willing to follow the model-specific service instructions"
+    "Jeep fans who want the JLU body, overland details and extra fenders",
+    "Very small floor courses that suit the published 152 × 70mm footprint",
+    "First crawler buyers who prefer included drive power and radio cells"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit indoor or off-road",
-    "You want a different vehicle scale or drivetrain from 1/30 4WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "A confirmed wheelbase dimension is essential to a planned parts purchase",
+    "Your main aim is covering long outdoor routes",
+    "Your course needs the larger proportions of an SCX24 or 1/10 vehicle"
   ],
   "quickSpecs": [
     [
@@ -147,8 +147,7 @@
       "nav": "Buying case",
       "heading": "The Jeep is a small-course purchase with specific scale appeal.",
       "paragraphs": [
-        "The white SCX30 JLU makes sense for someone who wants a four-door Wrangler replica to crawl nearby rather than a larger trail truck that needs transporting. Its published 152mm length and 70mm width are useful when choosing storage and course space. I would pick this version for the Jeep body, overland details and included alternative fender pieces. Its small size is the enabler for regular use, while the angled skid and low-mounted electronics give it a mechanical case beyond appearance.",
-        "The exact purchase in this guide is Axial SCX30 Jeep Wrangler JLU AXI-2261T2, White · complete SCX30 crawler. Its 1/30 scale, 4WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to new desktop crawler driver who prefers jeep scale details before a promotional feature becomes the reason to order. Decide where the car will be driven most often, because a usable nearby space can be more valuable than a longer feature list. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The white SCX30 JLU makes sense for someone who wants a four-door Wrangler replica to crawl nearby rather than a larger trail truck that needs transporting. Its published 152mm length and 70mm width are useful when choosing storage and course space. I would pick this version for the Jeep body, overland details and included alternative fender pieces. Its small size is the enabler for regular use, while the angled skid and low-mounted electronics give it a mechanical case beyond appearance."
       ],
       "sourceIndexes": [
         0,
@@ -161,8 +160,7 @@
       "nav": "Package and setup",
       "heading": "The supplied power package keeps the first purchase short.",
       "paragraphs": [
-        "The exact AXI-2261T2 includes a 160mAh 2S LiPo, USB charger and four AA radio cells alongside the assembled truck. That makes it accessible to a buyer without an existing charging setup, provided the supplied equipment is used according to the instructions. The official manual and separate quick-start and servo-saver sheets are linked from the product page. Read those as a group before operating the car. Parts for the Bronco may share a platform, but the Jeep document is still the reference for this package.",
-        "For SCX30 Jeep Wrangler JLU, the stated drive-power arrangement is Spektrum 160mAh 2S 30c LiPo · included, and the radio package is Spektrum SLT2; SPMXSE3225RX 2-in-1 ESC/receiver. Required completion is explicit: Nothing required per official package. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact AXI-2261T2 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The exact AXI-2261T2 includes a 160mAh 2S LiPo, USB charger and four AA radio cells alongside the assembled truck. That makes it accessible to a buyer without an existing charging setup, provided the supplied equipment is used according to the instructions. The official manual and separate quick-start and servo-saver sheets are linked from the product page. Read those as a group before operating the car. Parts for the Bronco may share a platform, but the Jeep document is still the reference for this package."
       ],
       "sourceIndexes": [
         0,
@@ -175,8 +173,7 @@
       "nav": "Motor and drivetrain",
       "heading": "Worm axles support slow technical driving, not a speed purchase.",
       "paragraphs": [
-        "The 88T brushed motor drives the four wheels through the SCX30 reduction system. A ramped axle housing and angled skid are intended to help the chassis move over contact points, but neither removes the need to find a line with supported tires. I would practice approaching a low ridge with one front tire at a time and learn how the car loads its suspension. Holding power against a trapped wheel is not an improvement in capability. The accessible transmission is useful for service before it becomes an invitation to alter ratios.",
-        "The documented Axial 88T brushed motor, AXI-3285 is the power equipment evaluated for SCX30 Jeep Wrangler JLU. For a crawling vehicle, reduction, tire support and controllable application of power matter more to the buying case than a maximum-speed headline. A trapped tire also loads the drivetrain, so choose another approach rather than applying prolonged power against a stall. Start from the original AXI-2261T2 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "The 88T brushed motor drives the four wheels through the SCX30 reduction system. A ramped axle housing and angled skid are intended to help the chassis move over contact points, but neither removes the need to find a line with supported tires. I would practice approaching a low ridge with one front tire at a time and learn how the car loads its suspension. Holding power against a trapped wheel is not an improvement in capability. The accessible transmission is useful for service before it becomes an invitation to alter ratios."
       ],
       "sourceIndexes": [
         0,
@@ -189,8 +186,7 @@
       "nav": "Radio and controls",
       "heading": "Use small inputs and a known radio setting.",
       "paragraphs": [
-        "The stock SLT2 and combined SCX30 controller give a straightforward proportional control arrangement. Start with reduced available throttle if abrupt inputs spoil the line, and preserve the setting when comparing two approaches. RC Driver's Greg Vogel covers this Jeep and the Bronco as actual outside review vehicles. That helps a prospective owner see the platform in use, but it is not a source for our claimed measurements. Steering trim, direction and neutral behavior should all be checked on the purchased truck before a technical session.",
-        "The SCX30 Jeep Wrangler JLU control system is listed as Spektrum SLT2; SPMXSE3225RX 2-in-1 ESC/receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For shared casual use, explain how to stop and shut down the vehicle before handing the controls to another driver. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "The SLT2 and combined SCX30 controller provide proportional driving controls. A reduced throttle setting can help with abrupt inputs; keep it fixed while comparing two approaches. Greg Vogel's RC Driver coverage features actual Jeep and Bronco samples, but it does not supply measurements made by RC Car King. Check steering direction and neutral on the purchased JLU before attempting a technical line."
       ],
       "sourceIndexes": [
         0,
@@ -203,8 +199,7 @@
       "nav": "Steering and suspension",
       "heading": "The missing wheelbase label is kept separate from the Bronco figure.",
       "paragraphs": [
-        "The current Jeep product table contains a 3.88 entry labeled wheel width without a clear unit. We do not convert that into a claimed 99mm wheelbase simply because the Bronco table uses that dimension. This is an evidence limitation rather than a home measurement. The damped shocks and forward-weighted layout are documented features, and the servo-saver supplement provides practical setup information. Inspect free movement and body clearance before adding extended shocks or a stronger servo to solve an unidentified steering problem.",
-        "The published construction for SCX30 Jeep Wrangler JLU is angled skid; forward weight bias; damped shocks; abs hard body. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is not clearly labeled in current jeep product table, which makes exact replacement compatibility more useful than a generic Axial parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "The current Jeep product table contains a 3.88 entry labeled wheel width without a clear unit. We do not convert that into a claimed 99mm wheelbase simply because the Bronco table uses that dimension. This is an evidence limitation rather than a home measurement. The damped shocks and forward-weighted layout are documented features, and the servo-saver supplement provides practical setup information. Inspect free movement and body clearance before adding extended shocks or a stronger servo to solve an unidentified steering problem."
       ],
       "sourceIndexes": [
         0,
@@ -217,8 +212,7 @@
       "nav": "Tires and terrain",
       "heading": "The stock Yokohama tires are part of the Jeep decision.",
       "paragraphs": [
-        "Soft-compound Yokohama Geolandar X-MT tires with inserts sit on Black Rhino Atlas wheels. That package differs from the Bronco's Baja Boss tires and ICON Nuevo wheels even though both are SCX30 vehicles. The difference supports a product comparison without proving grip superiority. Use stable dry obstacles that suit the small footprint and leave space for retrieval. Running on a desktop deserves a deliberate boundary plan; a floor course is often the easier way to explore a difficult line without a long drop from a table edge.",
-        "The SCX30 Jeep Wrangler JLU tire package is Yokohama Geolandar X-MT; Black Rhino Atlas wheels. Its intended terrain listing is indoor and off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Small stones, edges and loose fibers occupy a significant part of a micro vehicle’s obstacle scale. Remove debris and secure any homemade ramps or climbing pieces before the session. The published dimensions are 152 × 70 × 70 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+        "Soft-compound Yokohama Geolandar X-MT tires with inserts sit on Black Rhino Atlas wheels. That package differs from the Bronco's Baja Boss tires and ICON Nuevo wheels even though both are SCX30 vehicles. The difference supports a product comparison without proving grip superiority. Use stable dry obstacles that suit the small footprint and leave space for retrieval. Running on a desktop deserves a deliberate boundary plan; a floor course is often the easier way to explore a difficult line without a long drop from a table edge."
       ],
       "sourceIndexes": [
         0,
@@ -231,8 +225,7 @@
       "nav": "Body and service",
       "heading": "The supplied fender pieces make customization approachable.",
       "paragraphs": [
-        "Axial includes molded overland accessories and an extra competition-style fender set for the JLU. Those items give the owner choices without beginning with a clear-body build. Keep the original parts and screws together, and check the resulting tire clearance through full steering and articulation. The clipless body provides routine chassis access, while the LED wiring needs care when the shell moves. We do not score how the accessory pieces survive repeated rolls because no RC Car King physical wear test exists for this model.",
-        "The reviewed White · complete SCX30 crawler SCX30 Jeep Wrangler JLU is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the AXI-2261T2 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "Axial includes molded overland accessories and an extra competition-style fender set for the JLU. Those items give the owner choices without beginning with a clear-body build. Keep the original parts and screws together, and check the resulting tire clearance through full steering and articulation. The clipless body provides routine chassis access, while the LED wiring needs care when the shell moves. We do not score how the accessory pieces survive repeated rolls because no RC Car King physical wear test exists for this model."
       ],
       "sourceIndexes": [
         0,
@@ -245,8 +238,7 @@
       "nav": "Startup basket",
       "heading": "Completeness matters more than building a speculative upgrade budget.",
       "paragraphs": [
-        "The dated $99.99 manufacturer reference buys the current white complete Jeep package. The supplied drive pack, charger and AA cells should be counted once, and compatible equipment you already own should not automatically become another purchase. List useful tools, cleaning and charging/storage items separately and obtain live prices for them if needed. A larger battery or replacement motor is optional only after its compatibility and purpose are established. I would first determine whether the stock charging cycle and course actually require a second pack.",
-        "The SCX30 Jeep Wrangler JLU price reference is $99.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Nothing required per official package. The drive battery basis is Spektrum 160mAh 2S 30c LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The manufacturer reference recorded on 13 October 2026 is $99.99 for the white complete Jeep. Its drive pack, charger and AA cells are included. Before adding a spare battery, try the supplied setup and establish whether charging turnaround actually interrupts your intended small-course sessions. Tools, cleaning equipment and charging/storage provisions are separate ownership decisions; their prices and any upgrade compatibility have not been refreshed for this revision."
       ],
       "sourceIndexes": [
         0,
@@ -299,8 +291,7 @@
       "nav": "Real alternatives",
       "heading": "The Ford counterpart is the most direct alternative.",
       "paragraphs": [
-        "The gray SCX30 Bronco AXI-2048T2 supplies the same basic class of compact assembled crawler, with its own Ford body, bumper treatment and Mickey Thompson tire package. Choose the Jeep for its Unlimited appearance, Black Rhino wheels and fender options. Choose the Ford when those specific scale details appeal more. The comparison is about documented equipment and proportions, not an invented obstacle race. If your intended trail is much larger, the more useful alternative may be a different vehicle scale entirely rather than changing from one SCX30 body to another.",
-        "Axial SCX30 Ford Bronco AXI-2048T2 is the complete alternative used in the comparison with SCX30 Jeep Wrangler JLU. It is a 1/30 4WD brushed vehicle, with Spektrum 160mAh 2S 30c LiPo · included. Its required completion is nothing required per official package. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "The gray SCX30 Bronco AXI-2048T2 supplies the same basic class of compact assembled crawler, with its own Ford body, bumper treatment and Mickey Thompson tire package. Choose the Jeep for its Unlimited appearance, Black Rhino wheels and fender options. Choose the Ford when those specific scale details appeal more. The comparison is about documented equipment and proportions, not an invented obstacle race. If your intended trail is much larger, the more useful alternative may be a different vehicle scale entirely rather than changing from one SCX30 body to another."
       ],
       "sourceIndexes": [
         0,
@@ -332,8 +323,7 @@
       "nav": "Final verdict",
       "heading": "Buy the Jeep for the scale experience you can use frequently.",
       "paragraphs": [
-        "The JLU offers a clear first-crawler package for a small-space buyer who values Jeep detail. The chassis design, proportional radio, body choices and included power equipment fit that role. The ambiguous wheelbase table entry is a real limitation and remains flagged. I would keep the factory setup, use a floor-level course and follow the current manual supplements before modifications. The editorial recommendation is conditional on the space and purpose; it does not promise measured grip, lifespan, runtime or a class-winning result.",
-        "Our assessment of SCX30 Jeep Wrangler JLU is directed at new desktop crawler driver who prefers jeep scale details. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. Current Jeep product table labels a 3.88 figure as wheel width without a unit. We do not reinterpret that entry as a measured wheelbase. Specifications from Bronco are not silently copied to Jeep. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact AXI-2261T2 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "The JLU offers a clear first-crawler package for a small-space buyer who values Jeep detail. The chassis design, proportional radio, body choices and included power equipment fit that role. The ambiguous wheelbase table entry is a real limitation and remains flagged. I would keep the factory setup, use a floor-level course and follow the current manual supplements before modifications. The editorial recommendation is conditional on the space and purpose; it does not promise measured grip, lifespan, runtime or a class-winning result."
       ]
     }
   ],
@@ -513,28 +503,28 @@
   ],
   "faqs": [
     {
-      "question": "Which exact variant is linked?",
-      "answer": "AXI-2261T2, White · complete SCX30 crawler. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+      "question": "What comes with the white SCX30 JLU?",
+      "answer": "The reviewed AXI-2261T2 includes the assembled Jeep, a 160mAh 2S LiPo, USB charger and four AA transmitter cells. Use its manual, quick-start and servo-saver sheets together."
     },
     {
-      "question": "Is the drive battery included?",
-      "answer": "Spektrum 160mAh 2S 30C LiPo · included. Required completion: Nothing required per official package."
+      "question": "What is its confirmed wheelbase?",
+      "answer": "The recorded Jeep table has a 3.88 entry labeled wheel width without a clear unit. This review leaves the wheelbase unresolved rather than importing the Bronco’s 99mm figure. Verify it before a dimension-dependent parts order."
     },
     {
-      "question": "Which power equipment should I buy?",
-      "answer": "Follow the exact AXI-2261T2 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+      "question": "Are the alternate fenders included?",
+      "answer": "Axial lists an extra competition-style fender set and molded overland accessories. Retain the original parts and check tire clearance after changing the body configuration."
     },
     {
-      "question": "What is the main evidence limitation?",
-      "answer": "Current Jeep product table labels a 3.88 figure as wheel width without a unit. We do not reinterpret that entry as a measured wheelbase. Specifications from Bronco are not silently copied to Jeep."
+      "question": "How do its tires differ from the Bronco?",
+      "answer": "The JLU lists Yokohama Geolandar X-MT tires with inserts on Black Rhino Atlas wheels. The Bronco uses Mickey Thompson Baja Boss tires on ICON Nuevo wheels. These are equipment differences, not measured grip rankings."
     },
     {
-      "question": "How should I compare the alternative?",
-      "answer": "Axial SCX30 Ford Bronco is a complete 1/30 4WD brushed alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+      "question": "Can I use a desk as the course?",
+      "answer": "The small published 152mm length and 70mm width make compact layouts possible, but a tip near a desk edge creates a substantial drop. A stable floor-level course is the recommendation here."
     },
     {
-      "question": "Does the editorial rating describe a drive test?",
-      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+      "question": "Is the score based on testing this Jeep?",
+      "answer": "No. It assesses the documented small-space buying package and its evidence limits. RC Car King has not measured grip, runtime, climbing angles or long-term wear."
     }
   ],
   "sources": [
@@ -570,12 +560,12 @@
       "kind": "Alternative manufacturer"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Current Jeep product table labels a 3.88 figure as wheel width without a unit. We do not reinterpret that entry as a measured wheelbase. Specifications from Bronco are not silently copied to Jeep. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. The archived Amazon Creators API record identifies the ASIN, brand, manufacturer PartNumber and reviewed variant; this editorial revision does not refresh that verification. Current Jeep product table labels a 3.88 figure as wheel width without a unit. We do not reinterpret that entry as a measured wheelbase. Specifications from Bronco are not silently copied to Jeep. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated section padding, made buyer-fit advice and FAQs model-specific, and labeled the existing price reference by its original date. Source check dates and affiliate verification were not refreshed.",
   "seo": {
     "title": "Axial SCX30 Jeep Wrangler JLU Review | RC Car King",
     "description": "The SCX30 Jeep Wrangler JLU review covers its finished body, supplied power gear, tiny-course fit, stock hardware and limits in the published specifications."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T13:45:37.300Z"
 }

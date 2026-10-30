@@ -11,7 +11,7 @@
   "title": "Axial SCX24 Chevrolet C10 1967–1972 review: choose the c10 for the years and details you can change?",
   "dek": "A classic Chevrolet pickup in a small, battery-equipped crawler package. This review covers the newer AXI-3408 version, its ownership requirements and the manufacturer’s conflicting motor information.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -46,7 +46,7 @@
   "author": {
     "name": "The Garage Editor",
     "role": "RC Car King editorial voice",
-    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+    "note": "This buying assessment uses manufacturer documentation, a previously verified affiliate identity and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
   },
   "overview": "The black AXI-3408T1 is the current 1967–1972 Chevrolet C10 package, not the earlier AXI00001 vehicle. Its three supplied grilles let the owner represent different years of the second-generation pickup without buying another complete shell. That is a tangible part of the buying case for a Chevrolet fan.",
   "verdict": "Buy the new C10 as a scale project with an exact generation check",
@@ -64,14 +64,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "Small technical courses and deliberate line choice",
-    "Drivers who value the exact body and tire package",
-    "Owners willing to follow the model-specific service instructions"
+    "Chevrolet fans who want the three supplied year-specific grilles",
+    "A first micro crawler with drive power and radio cells included",
+    "Owners who prefer a finished polycarbonate pickup to an ABS SUV body"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit indoor or off-road",
-    "You want a different vehicle scale or drivetrain from 1/24 4WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "You want trail-covering speed rather than small obstacles",
+    "You are relying on an older AXI00001 C10 equipment list",
+    "You plan a motor conversion before resolving the published size conflict"
   ],
   "quickSpecs": [
     [
@@ -147,8 +147,7 @@
       "nav": "Buying case",
       "heading": "Choose the C10 for the years and details you can change.",
       "paragraphs": [
-        "The black AXI-3408T1 is the current 1967–1972 Chevrolet C10 package, not the earlier AXI00001 vehicle. Its three supplied grilles let the owner represent different years of the second-generation pickup without buying another complete shell. That is a tangible part of the buying case for a Chevrolet fan. The removable two-tone graphics also offer a factory-finished starting point for personalization. I would choose this truck when those details matter and keep the evidence for this updated generation separate from older C10 driving reviews.",
-        "The exact purchase in this guide is Axial SCX24 Chevrolet C10 1967–1972 AXI-3408T1, Black · 3408-generation complete crawler. Its 1/24 scale, 4WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to chevrolet fan wanting a customizable first micro crawler before a promotional feature becomes the reason to order. Decide where the car will be driven most often, because a usable nearby space can be more valuable than a longer feature list. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The black AXI-3408T1 is the current 1967–1972 Chevrolet C10 package, not the earlier AXI00001 vehicle. Its three supplied grilles let the owner represent different years of the second-generation pickup without buying another complete shell. That is a tangible part of the buying case for a Chevrolet fan. The removable two-tone graphics also offer a factory-finished starting point for personalization. I would choose this truck when those details matter and keep the evidence for this updated generation separate from older C10 driving reviews."
       ],
       "sourceIndexes": [
         0,
@@ -161,8 +160,7 @@
       "nav": "Package and setup",
       "heading": "Three grilles belong in the box inventory.",
       "paragraphs": [
-        "The factory list includes the assembled truck, finished body, three interchangeable grilles, SLT2 radio, 350mAh LiPo, USB charger and four AA transmitter cells. Check those physical items when unpacking rather than assuming any C10-branded listing has the same contents. Replacement shells and grille sets can appear in the same search as the vehicle. This review's ASIN identifies the complete black AXI-3408T1. A seller's orange variant or an older generation may look related, but that is a different identity check.",
-        "For SCX24 Chevrolet C10 1967–1972, the stated drive-power arrangement is Spektrum 350mAh 2S LiPo · included, and the radio package is Spektrum SLT2. Required completion is explicit: Nothing required per official package. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact AXI-3408T1 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The factory list includes the assembled truck, finished body, three interchangeable grilles, SLT2 radio, 350mAh LiPo, USB charger and four AA transmitter cells. Check those physical items when unpacking rather than assuming any C10-branded listing has the same contents. Replacement shells and grille sets can appear in the same search as the vehicle. This review's ASIN identifies the complete black AXI-3408T1. A seller's orange variant or an older generation may look related, but that is a different identity check."
       ],
       "sourceIndexes": [
         0,
@@ -175,8 +173,7 @@
       "nav": "Motor and drivetrain",
       "heading": "Published motor descriptions conflict, so the review keeps them visible.",
       "paragraphs": [
-        "The official table still lists an 88T 030 motor, while RC Team's exact AXI-3408 overview calls it an 080 motor. We do not invent a corrected size or use the retailer as proof that the manufacturer's table is a harmless typo. The primary page and exact manual are linked so a buyer can verify the installed label or ask support before buying a replacement. The permanent four-wheel-drive worm-axle layout supports a small crawling recommendation even while that specific motor figure remains disputed.",
-        "The documented Official spec: 88T 030; retailer calls it 080 is the power equipment evaluated for SCX24 Chevrolet C10 1967–1972. For a crawling vehicle, reduction, tire support and controllable application of power matter more to the buying case than a maximum-speed headline. A trapped tire also loads the drivetrain, so choose another approach rather than applying prolonged power against a stall. Start from the original AXI-3408T1 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "The official table still lists an 88T 030 motor, while RC Team's exact AXI-3408 overview calls it an 080 motor. We do not invent a corrected size or use the retailer as proof that the manufacturer's table is a harmless typo. The primary page and exact manual are linked so a buyer can verify the installed label or ask support before buying a replacement. The permanent four-wheel-drive worm-axle layout supports a small crawling recommendation even while that specific motor figure remains disputed."
       ],
       "sourceIndexes": [
         0,
@@ -189,8 +186,7 @@
       "nav": "Radio and controls",
       "heading": "The SLT2 package is current; old C10 radio advice may not be.",
       "paragraphs": [
-        "The updated C10 includes Spektrum controls rather than asking a new owner to complete a radio installation. Learn steering trim, direction and the limiting switch on the actual transmitter. A previous-generation review can describe a familiar Chevrolet body but still carry an obsolete electronics list. The independent RC Team page is current exact-product retailer coverage, not a driving test performed by RC Car King. We use it as attributable outside context and flag its motor difference instead of transferring unsupported handling results.",
-        "The SCX24 Chevrolet C10 1967–1972 control system is listed as Spektrum SLT2. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For shared casual use, explain how to stop and shut down the vehicle before handing the controls to another driver. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "The AXI-3408 package includes a Spektrum SLT2, so an older C10 review may describe the wrong radio generation despite showing a familiar Chevrolet body. Use this model's manual for steering trim, direction and the limiting switch. The RC Team page supplies exact-product retailer context, including the conflicting motor description discussed above; it is not a driving test by RC Car King."
       ],
       "sourceIndexes": [
         0,
@@ -203,8 +199,7 @@
       "nav": "Steering and suspension",
       "heading": "Check the oil-shock description against the older table wording.",
       "paragraphs": [
-        "The current Axial narrative explicitly describes added oil-filled shocks. Some published table wording still presents legacy coil-over sizing. We identify oil damping as the manufacturer's current feature claim while preserving the spec-table discrepancy. A buyer should follow the AXI-3408 manual and inspect the actual shock before ordering fluid-related rebuild parts. Start with free suspension movement and symmetrical settings. An attractive body customization should not obstruct the tires or force the steering to fight the wheel openings at full articulation.",
-        "The published construction for SCX24 Chevrolet C10 1967–1972 is steel rails; oil-filled shocks; polycarbonate body. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 132 mm, which makes exact replacement compatibility more useful than a generic Axial parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "The current Axial narrative explicitly describes added oil-filled shocks. Some published table wording still presents legacy coil-over sizing. We identify oil damping as the manufacturer's current feature claim while preserving the spec-table discrepancy. A buyer should follow the AXI-3408 manual and inspect the actual shock before ordering fluid-related rebuild parts. Start with free suspension movement and symmetrical settings. An attractive body customization should not obstruct the tires or force the steering to fight the wheel openings at full articulation."
       ],
       "sourceIndexes": [
         0,
@@ -217,8 +212,7 @@
       "nav": "Tires and terrain",
       "heading": "Bogger tread is a scale choice with a small-wheel limit.",
       "paragraphs": [
-        "The licensed Interco Super Swamper TSL Boggers and deep-dish slotted wheels make the truck look different from the current 4Runner's Toyo package. That distinction can matter to a scale buyer without being turned into an untested traction score. The official dimensions put the C10 at 213mm long on a 132mm wheelbase. Design home obstacles around that footprint and use dry, predictable surfaces. Large rocks, loose debris and grass can consume far more of a micro truck's usable clearance than a product photo suggests.",
-        "The SCX24 Chevrolet C10 1967–1972 tire package is Interco Super Swamper TSL Boggers on deep-dish slotted wheels. Its intended terrain listing is indoor and off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Small stones, edges and loose fibers occupy a significant part of a micro vehicle’s obstacle scale. Remove debris and secure any homemade ramps or climbing pieces before the session. The published dimensions are 213 × 99 × 112 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+        "The licensed Interco Super Swamper TSL Boggers and deep-dish slotted wheels make the truck look different from the current 4Runner's Toyo package. That distinction can matter to a scale buyer without being turned into an untested traction score. The official dimensions put the C10 at 213mm long on a 132mm wheelbase. Design home obstacles around that footprint and use dry, predictable surfaces. Large rocks, loose debris and grass can consume far more of a micro truck's usable clearance than a product photo suggests."
       ],
       "sourceIndexes": [
         0,
@@ -231,8 +225,7 @@
       "nav": "Body and service",
       "heading": "Customization should remain easy to reverse.",
       "paragraphs": [
-        "The polycarbonate shell and supplied year-specific grilles invite personal choices without starting from a clear unpainted body. Try the included options before adding a heavy accessory collection or cutting the shell for oversized tires. Keep removed parts and fasteners labeled by year or position. Access for battery changes and steering inspection remains part of everyday ownership. We have not tested grille retention, shell cracking or long-term graphic wear; those would need a physical test record, so they are not hidden inside a cosmetic durability score.",
-        "The reviewed Black · 3408-generation complete crawler SCX24 Chevrolet C10 1967–1972 is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the AXI-3408T1 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "The polycarbonate shell and supplied year-specific grilles invite personal choices without starting from a clear unpainted body. Try the included options before adding a heavy accessory collection or cutting the shell for oversized tires. Keep removed parts and fasteners labeled by year or position. Access for battery changes and steering inspection remains part of everyday ownership. We have not tested grille retention, shell cracking or long-term graphic wear; those would need a physical test record, so they are not hidden inside a cosmetic durability score."
       ],
       "sourceIndexes": [
         0,
@@ -245,8 +238,7 @@
       "nav": "Startup basket",
       "heading": "Use a dated reference while keeping the conflict outside the price promise.",
       "paragraphs": [
-        "The product's manufacturer reference is recorded for the exact black complete package, with current Amazon commercial data kept as a separate timestamped offer. Drive battery, charger and transmitter cells are listed as included. We do not fabricate costs for optional grilles, tools, spare packs or a motor replacement. Because the published motor descriptions disagree, confirm replacement compatibility before turning a hypothetical upgrade into the startup basket. The attractive complete-box proposition is strongest when the owner wants the factory vehicle rather than an immediate electronic rebuild.",
-        "The SCX24 Chevrolet C10 1967–1972 price reference is $149.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Nothing required per official package. The drive battery basis is Spektrum 350mAh 2S LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The manufacturer reference recorded on 13 October 2026 is $149.99 for the complete black C10, including the drive battery, charger and transmitter cells. Optional grilles, spare packs, tools and replacement motors have not been priced for this revision. The supplied grille choices are a reason to try the original body before buying more accessories. Resolve the motor-label discrepancy before budgeting a replacement rather than treating an uncertain part as essential completion."
       ],
       "sourceIndexes": [
         0,
@@ -299,8 +291,7 @@
       "nav": "Real alternatives",
       "heading": "The Toyota alternative makes body preference explicit.",
       "paragraphs": [
-        "The gray SCX24 Toyota 4Runner AXI-2035T2 is another complete 132mm-wheelbase micro crawler with an ABS hard body and Toyo tires. Its finished SUV presentation differs from the C10's polycarbonate pickup and interchangeable grille set. Choose the Chevrolet for customization within its documented factory body options; choose the Toyota when a hard-shell modern SUV is the main appeal. No measured tire or climbing comparison is claimed. The primary specifications for both are linked so the decision can rest on actual packages.",
-        "Axial SCX24 Toyota 4Runner AXI-2035T2 is the complete alternative used in the comparison with SCX24 Chevrolet C10 1967–1972. It is a 1/24 4WD brushed vehicle, with Spektrum 350mAh 2S LiPo · included. Its required completion is nothing required per official package. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "The gray SCX24 Toyota 4Runner AXI-2035T2 is another complete 132mm-wheelbase micro crawler with an ABS hard body and Toyo tires. Its finished SUV presentation differs from the C10's polycarbonate pickup and interchangeable grille set. Choose the Chevrolet for customization within its documented factory body options; choose the Toyota when a hard-shell modern SUV is the main appeal. No measured tire or climbing comparison is claimed. The primary specifications for both are linked so the decision can rest on actual packages."
       ],
       "sourceIndexes": [
         0,
@@ -332,8 +323,7 @@
       "nav": "Final verdict",
       "heading": "Buy the new C10 as a scale project with an exact generation check.",
       "paragraphs": [
-        "The updated Chevrolet has a sensible case for a first micro crawler buyer who wants to select a favorite model year and begin with finished equipment. The included power system and grille options are useful parts of that case. The motor and table wording conflicts limit how confidently we can specify replacement hardware, and they remain visible. I would run the factory car in a suitable small course and verify the installed component labels before upgrades. A familiar C10 name is not enough to identify this purchase.",
-        "Our assessment of SCX24 Chevrolet C10 1967–1972 is directed at chevrolet fan wanting a customizable first micro crawler. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. Official product table lists an 88T 030 motor and coil-over sizing; retailer calls motor 080 while the product narrative specifies oil shocks. Preserve discrepancy and check exact manual/installed label. Older AXI00001 C10 reviews are not applied to AXI-3408. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact AXI-3408T1 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "The updated Chevrolet has a sensible case for a first micro crawler buyer who wants to select a favorite model year and begin with finished equipment. The included power system and grille options are useful parts of that case. The motor and table wording conflicts limit how confidently we can specify replacement hardware, and they remain visible. I would run the factory car in a suitable small course and verify the installed component labels before upgrades. A familiar C10 name is not enough to identify this purchase."
       ]
     }
   ],
@@ -549,28 +539,28 @@
   ],
   "faqs": [
     {
-      "question": "Which exact variant is linked?",
-      "answer": "AXI-3408T1, Black · 3408-generation complete crawler. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+      "question": "Which Chevrolet C10 does this review cover?",
+      "answer": "The black AXI-3408T1 1967–1972 C10. It is a different generation from the older AXI00001, so older electronics and suspension descriptions should not be applied automatically."
     },
     {
-      "question": "Is the drive battery included?",
-      "answer": "Spektrum 350mAh 2S LiPo · included. Required completion: Nothing required per official package."
+      "question": "Are the three grilles and power equipment included?",
+      "answer": "The documented box contains three interchangeable grilles, a 350mAh 2S LiPo, USB charger, SLT2 radio and four AA transmitter cells with the assembled truck."
     },
     {
-      "question": "Which power equipment should I buy?",
-      "answer": "Follow the exact AXI-3408T1 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+      "question": "Is the motor 030 or 080 size?",
+      "answer": "The official table lists an 88T 030 motor, while RC Team’s AXI-3408 page calls it 080. We retain the conflict; check the installed label and exact parts documentation before buying a replacement."
     },
     {
-      "question": "What is the main evidence limitation?",
-      "answer": "Official product table lists an 88T 030 motor and coil-over sizing; retailer calls motor 080 while the product narrative specifies oil shocks. Preserve discrepancy and check exact manual/installed label. Older AXI00001 C10 reviews are not applied to AXI-3408."
+      "question": "Does this C10 have oil-filled shocks?",
+      "answer": "The current-generation Axial narrative describes oil-filled shocks, while other table wording retains coil-over sizing. Consult the AXI-3408 manual and actual component before ordering shock service parts."
     },
     {
-      "question": "How should I compare the alternative?",
-      "answer": "Axial SCX24 Toyota 4Runner is a complete 1/24 4WD brushed alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+      "question": "What distinguishes it from the SCX24 4Runner?",
+      "answer": "The C10 has a polycarbonate pickup body, year-specific grille choices and Interco Bogger tires. The 4Runner uses an ABS SUV body and Toyo tires. Both have a published 132mm wheelbase; no handling winner has been measured here."
     },
     {
-      "question": "Does the editorial rating describe a drive test?",
-      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+      "question": "Is its editorial score a durability test?",
+      "answer": "No. It rates the documented package for a Chevrolet-focused first micro-crawler buyer. RC Car King has not physically tested grille retention, body wear, grip or reliability."
     }
   ],
   "sources": [
@@ -606,12 +596,12 @@
       "kind": "Alternative manufacturer"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Official product table lists an 88T 030 motor and coil-over sizing; retailer calls motor 080 while the product narrative specifies oil shocks. Preserve discrepancy and check exact manual/installed label. Older AXI00001 C10 reviews are not applied to AXI-3408. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. The archived Amazon Creators API record identifies the ASIN, brand, manufacturer PartNumber and reviewed variant; this editorial revision does not refresh that verification. Official product table lists an 88T 030 motor and coil-over sizing; retailer calls motor 080 while the product narrative specifies oil shocks. Preserve discrepancy and check exact manual/installed label. Older AXI00001 C10 reviews are not applied to AXI-3408. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated section padding, made buyer-fit advice and FAQs model-specific, and labeled the existing price reference by its original date. Source check dates and affiliate verification were not refreshed.",
   "seo": {
     "title": "Axial SCX24 Chevrolet C10 Review | RC Car King",
     "description": "Review the current AXI-3408 Chevrolet C10 crawler. See included power equipment, compact terrain fit, motor-spec conflicts, setup, pros, cons and rating."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T13:45:37.300Z"
 }

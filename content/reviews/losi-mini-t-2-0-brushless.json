@@ -11,7 +11,7 @@
   "title": "Losi Mini-T 2.0 Brushless review: the stadium-truck class should decide the purchase?",
   "dek": "The newer Spektrum-powered Mini-T combines an assembled stadium truck with included battery equipment. The USB input adapter is extra, and this review keeps it distinct from older Dynamite-powered versions.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -47,7 +47,7 @@
   "author": {
     "name": "The Garage Editor",
     "role": "RC Car King editorial voice",
-    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+    "note": "This buying assessment uses the manufacturer documentation, Amazon identity verification and attributed outside coverage recorded on 13 October 2026. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
   },
   "overview": "The red LOS-1056T1 is the current Spektrum-equipped brushless Mini-T 2.0 reviewed here. Its 160mm wheelbase and broad truck stance put it in a different format from the longer Mini-B buggy. I would shortlist it when the truck body and a local mini stadium class match the intended use.",
   "verdict": "Choose it when a mini stadium truck is the car you actually want",
@@ -65,14 +65,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "A matching local class or suitable home circuit",
-    "Drivers who want an assembled platform to learn",
-    "Owners who want documented mechanical adjustments"
+    "A first mini stadium-truck owner with a suitable circuit",
+    "A local class that accepts the LOS-1056 Spektrum brushless package",
+    "Drivers who prefer the 160mm-wheelbase truck over the longer Mini-B buggy"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit indoor or on-road or off-road",
-    "You want a different vehicle scale or drivetrain from 1/18 2WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "Your venue runs only a buggy class or excludes the supplied motor system",
+    "You need the specified QC USB adapter included in the box",
+    "You are relying on older Dynamite-generation reviews or parts lists to choose this truck"
   ],
   "quickSpecs": [
     [
@@ -148,8 +148,7 @@
       "nav": "Buying case",
       "heading": "The stadium-truck class should decide the purchase.",
       "paragraphs": [
-        "The red LOS-1056T1 is the current Spektrum-equipped brushless Mini-T 2.0 reviewed here. Its 160mm wheelbase and broad truck stance put it in a different format from the longer Mini-B buggy. I would shortlist it when the truck body and a local mini stadium class match the intended use. A previous Dynamite-equipped Mini-T review cannot establish how this generation’s radio and power equipment behave. The exact model number is a useful guard against that confusion.",
-        "The exact purchase in this guide is Losi Mini-T 2.0 Brushless LOS-1056T1, Red · 1056 Spektrum generation. Its 1/18 scale, 2WD drivetrain and brushless power system identify a complete assembled vehicle. That combination should be matched to first mini stadium-truck club buyer before a promotional feature becomes the reason to order. Check the venue and permitted class early; a race or drift label does not establish eligibility. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The red LOS-1056T1 is the Spektrum-equipped brushless Mini-T 2.0 examined here. Its 160mm wheelbase and stadium-truck body give it a different format from the longer Mini-B buggy. I would shortlist it when that truck layout and a usable home circuit or local class match the intended use. An older Dynamite-equipped Mini-T review cannot establish this generation’s power system or radio. The exact LOS-1056 identity matters more than the familiar Mini-T name when choosing equipment and reading comparisons."
       ],
       "sourceIndexes": [
         0,
@@ -162,8 +161,7 @@
       "nav": "Package and setup",
       "heading": "The included charger still needs the specified USB input.",
       "paragraphs": [
-        "Losi supplies the Smart G2 810mAh 2S pack, USB-C charger and four AA transmitter batteries. Its completion list calls for a QC 2.0/3.0 adapter rated 18W or higher. A suitably powered charging source belongs in the initial planning, even though the drive battery itself is in the box. RC Team’s retailer listing mentions AAA cells instead; use the official instructions and transmitter battery holder rather than treating that retailer text as a corrected specification.",
-        "For Mini-T 2.0 Brushless, the stated drive-power arrangement is Spektrum Smart G2 810mAh 2S LiPo · included, and the radio package is Spektrum SLT2 transmitter; SR315 receiver. Required completion is explicit: QC 2.0/3.0 USB power adapter rated 18W or more. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact LOS-1056T1 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The recorded Losi package includes the Smart G2 810mAh 2S pack, USB-C charger and four AA transmitter cells. Completion still calls for a QC 2.0/3.0 adapter rated 18W or higher, so an appropriate charging source is a real startup requirement. RC Team’s retailer text mentions AAA cells; that difference is recorded rather than adopted as a replacement specification. Check the exact instructions and transmitter holder. The included drive battery should not obscure the power input needed to charge it."
       ],
       "sourceIndexes": [
         0,
@@ -176,8 +174,7 @@
       "nav": "Motor and drivetrain",
       "heading": "Brushless does not mean every electronic upgrade is necessary.",
       "paragraphs": [
-        "The stock 6000Kv Spektrum unit combines motor and ESC, while the SR315 handles the radio link. For a buyer coming from a kit, that factory coordination saves several decisions. For someone expecting to replace the power unit immediately, it makes sense to price that entire plan before calling the RTR inexpensive. The published gearing uses an 18T pinion and 60T spur. Leave the original combination as a baseline while learning how the truck suits the circuit.",
-        "The documented Spektrum 6000 Kv 2-in-1 brushless motor/ESC is the power equipment evaluated for Mini-T 2.0 Brushless. With rear-wheel drive, available grip and trigger input need to work together. A harder trigger pull can ask more from the rear tires without improving the front wheels’ ability to turn. Start from the original LOS-1056T1 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "The stock 6000Kv Spektrum unit combines motor and ESC, while the separate SR315 receives the radio signal. That saves a new owner from selecting several compatible electronic parts, but it also defines the starting point for any conversion budget. The recorded gearing is an 18T pinion and 60T spur. I would keep that combination while learning the circuit, rather than buy the RTR for its coordinated package and immediately spend again to replace it."
       ],
       "sourceIndexes": [
         0,
@@ -191,7 +188,7 @@
       "heading": "Use the transmitter to make the circuit manageable.",
       "paragraphs": [
         "SLT2 throttle limiting lets an inexperienced driver reduce available output without rebuilding the vehicle. The simple control layout makes a useful start, while the separate SR315 receiver deserves its own protocol compatibility check if a more elaborate transmitter is planned. I would set the steering trim on the actual running surface, check direction and neutral behavior, and drive a few gentle turns before attempting jumps. Familiarity with the stop and shut-down sequence is part of sharing an RTR with another person.",
-        "The Mini-T 2.0 Brushless control system is listed as Spektrum SLT2 transmitter; SR315 receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For organized use, ask whether assistance is allowed and whether battery or tire rules apply; the factory radio cannot answer the venue’s rules for you. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "The separate receiver is useful information for a future transmitter decision, but a radio upgrade should have a purpose such as a control feature the supplied SLT2 lacks. It cannot make an unsuitable stadium-truck class available or fix tires that do not suit the surface."
       ],
       "sourceIndexes": [
         0,
@@ -204,8 +201,7 @@
       "nav": "Steering and suspension",
       "heading": "A truck stance is a setup choice, not an easy-win claim.",
       "paragraphs": [
-        "The Mini-T’s 1.5mm aluminum chassis and 7mm oil-filled shocks provide a recognizable small race platform. Its shorter wheelbase relative to Mini-B is a documented dimension; we do not turn that into an untested cornering verdict. Adjustment should begin with free suspension movement, correct steering travel and a saved factory baseline. Raising ride height excessively to cure a tire or body interference problem can alter the entire balance, so identify the interference before changing several settings.",
-        "The published construction for Mini-T 2.0 Brushless is 1.5mm 6061-t 6 aluminum; 7mm oil shocks. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 160 mm, which makes exact replacement compatibility more useful than a generic Losi parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "The Mini-T uses a 1.5mm aluminum chassis and 7mm oil-filled shocks. Its 160mm wheelbase is 31mm shorter than the Mini-B’s recorded dimension, but that difference alone cannot tell us which will corner or jump better. It does help make the format choice concrete. For setup, check free suspension motion, tire clearance and steering travel before changing ride height to conceal a bind. The threaded shocks are useful adjustments to learn individually, rather than a reason to replace the suspension on arrival."
       ],
       "sourceIndexes": [
         0,
@@ -218,8 +214,7 @@
       "nav": "Tires and terrain",
       "heading": "Match the tire description to the actual box.",
       "paragraphs": [
-        "Current Losi specifications describe directional rib fronts and step-pin rears. RC Team’s exact 1056 listing names BK Bar tires. Because that is a source conflict, it is flagged rather than quietly blended into the spec table. Check the installed treads against the manual and intended venue. On a home circuit, begin with consistent traction and scale-appropriate obstacles. A tire that looks suitable in a product photograph does not prove its grip on your polished floor or loose outdoor dirt.",
-        "The Mini-T 2.0 Brushless tire package is Official specs: directional rib front; step pin rear. Its intended terrain listing is indoor and on-road and off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Allow adequate space for braking and a clear run-out, particularly when the factory power system can quickly consume the available straight. The published dimensions are 232 × 179 × 91 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+        "The recorded Losi specification describes directional rib front tires and step-pin rears, while RC Team’s LOS-1056 listing names BK Bar tires. A buyer with a control-tire class should settle what is installed and what the rules allow before adding wheels to the order. At home, the 232 × 179mm truck needs consistent traction and obstacles with gentle transitions. Tire appearance in a photograph cannot establish grip on polished flooring or loose dirt, so start with the actual supplied tread on a repeatable course."
       ],
       "sourceIndexes": [
         0,
@@ -233,7 +228,7 @@
       "heading": "The body is finished; servicing remains a small-parts job.",
       "paragraphs": [
         "The factory-painted polycarbonate shell removes the painting and mounting decisions that accompany a kit. It also needs removing for battery access and close inspection. Keep leads clear when replacing it and use the exact parts illustration to identify worn shock or steering components. The truck’s small hardware is easier to lose than a full-size vehicle’s fasteners, so a tray and well-fitting drivers have a practical place in the ownership budget. We do not score impact survival from the aluminum material alone.",
-        "The reviewed Red · 1056 Spektrum generation Mini-T 2.0 Brushless is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the LOS-1056T1 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "The exact LOS-1056 drawing is the useful reference when a small part needs replacing. Keeping the current Spektrum generation separate from older Mini-T descriptions avoids buying an electronic assembly on the strength of a shared body name."
       ],
       "sourceIndexes": [
         0,
@@ -246,8 +241,7 @@
       "nav": "Startup basket",
       "heading": "A spare battery is optional; the correct power input is required.",
       "paragraphs": [
-        "The published manufacturer reference is $229.99 for LOS-1056T1. Compare that package with another complete mini, including drive power, before comparing it with a cheaper roller or an older-generation sale listing. Price the USB adapter only if you need to buy one. RC Team includes a named customer report from Geoffrey P. about a charger problem; it is an individual report, not a reliability rate. Verify operation and use the documented support process if the supplied equipment does not work.",
-        "The Mini-T 2.0 Brushless price reference is $229.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: QC 2.0/3.0 USB power adapter rated 18W or more. The drive battery basis is Spektrum Smart G2 810mAh 2S LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The manufacturer package reference recorded on 13 October 2026 was $229.99 for LOS-1056T1. This revision does not renew that price or establish availability. Compare the included battery and charger with another complete mini, then add a compliant USB adapter only if you need one. RC Team records an individual customer’s charger problem; one report does not establish a failure rate. It is a reason to check the supplied equipment and use the documented support route if it fails, rather than pre-emptively buy an entire replacement charging system."
       ],
       "sourceIndexes": [
         0,
@@ -301,7 +295,7 @@
       "heading": "The Mini-B is a change of format rather than a presumed upgrade.",
       "paragraphs": [
         "Losi Mini-B Brushless LOS01024T1 uses a longer 191mm wheelbase and a buggy body with its own tire combination. Both current vehicles come with coordinated Spektrum equipment and an included 2S battery/charger package. The better purchase is the one suited to your circuit or class. I would ask the club which format gets regular entries and whether tire rules differ, then choose the truck or buggy accordingly. We do not claim a measured lap-time advantage for either.",
-        "Losi Mini-B Brushless LOS01024T1 is the complete alternative used in the comparison with Mini-T 2.0 Brushless. It is a 1/16 2WD brushless vehicle, with Spektrum Smart G2 810mAh 2S LiPo · included. Its required completion is qc 2.0/3.0 usb power adapter rated 18w or more. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "The supplied drive-power packages are similar, so neither format wins this comparison merely by including a battery. A useful first question is whether the nearby group runs the 160mm-wheelbase stadium truck or the 191mm-wheelbase buggy. That gives the otherwise similar electronics a place to be used."
       ],
       "sourceIndexes": [
         0,
@@ -333,8 +327,7 @@
       "nav": "Final verdict",
       "heading": "Choose it when a mini stadium truck is the car you actually want.",
       "paragraphs": [
-        "The current Mini-T has a sensible buying case for a first mini stadium-truck owner who values an assembled brushless package. The chief reservation is assuming race-inspired hardware automatically makes it eligible or competitive at any venue. Verify the class, USB input and exact tire package, then keep the first sessions on the factory setup. The editorial score rewards a coordinated purchase and useful adjustment resources; it is not a speed, durability, runtime or long-term charger test.",
-        "Our assessment of Mini-T 2.0 Brushless is directed at first mini stadium-truck club buyer. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. RC Team lists AAA cells and BK Bar tires; current manufacturer lists AA cells and directional-rib/step-pin tread. Those retailer differences are not adopted as the official specification. Older LOS 01019 Dynamite-equipped reviews are not used as tests of LOS-1056. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact LOS-1056T1 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "The LOS-1056 Mini-T suits someone who specifically wants a mini stadium truck and values its assembled Spektrum brushless package. Settle the class rules, charging input and tire-listing discrepancy before ordering. Then use the factory gearing and throttle limiter to learn a circuit you can run regularly. The Mini-B is the more relevant alternative when the local format is buggy racing; an older-generation Mini-T bargain needs a separate equipment comparison. The editorial score concerns the documented purchase and adjustment resources, not measured speed or charger longevity."
       ]
     }
   ],
@@ -575,7 +568,7 @@
   "faqs": [
     {
       "question": "Which exact variant is linked?",
-      "answer": "LOS-1056T1, Red · 1056 Spektrum generation. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+      "answer": "LOS-1056T1, Red · 1056 Spektrum generation. The recorded 13 October 2026 check matched the ASIN to the manufacturer PartNumber and brand; this editorial revision does not repeat that check."
     },
     {
       "question": "Is the drive battery included?",
@@ -631,12 +624,12 @@
       "kind": "Alternative manufacturer"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. RC Team lists AAA cells and BK Bar tires; current manufacturer lists AA cells and directional-rib/step-pin tread. Those retailer differences are not adopted as the official specification. Older LOS 01019 Dynamite-equipped reviews are not used as tests of LOS-1056. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. The 13 October 2026 Amazon Creators API check recorded the ASIN, brand, manufacturer PartNumber and reviewed variant; it has not been repeated for this editorial revision. RC Team lists AAA cells and BK Bar tires; current manufacturer lists AA cells and directional-rib/step-pin tread. Those retailer differences are not adopted as the official specification. Older LOS 01019 Dynamite-equipped reviews are not used as tests of LOS-1056. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated general advice, clarified model-specific buying decisions and retained the original dated source and commercial evidence; no new Amazon verification or price check.",
   "seo": {
     "title": "Losi Mini-T 2.0 Brushless Review | RC Car King",
     "description": "Read the newer Spektrum-powered Mini-T 2.0 review. See included power equipment, the extra USB adapter and key differences from older Dynamite versions."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T14:45:30+01:00"
 }

@@ -11,7 +11,7 @@
   "title": "Team Associated SR10M Dirt Oval LiPo Combo review: an oval venue makes this car make sense?",
   "dek": "A dirt-oval car bundled with a Reedy LiPo and balance charger. This review covers the 70033C Combo, explains what it adds to the standard RTR and checks the track-fit buying case.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -64,14 +64,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "A matching local class or suitable home circuit",
-    "Drivers who want an assembled platform to learn",
-    "Owners who want documented mechanical adjustments"
+    "A confirmed local street-stock dirt-oval class accepting the exact package",
+    "A newcomer who needs the Combo's shorty LiPo and charger",
+    "An owner who wants to learn a documented mid-motor oval setup"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit off-road or on-road",
-    "You want a different vehicle scale or drivetrain from 1/10 2WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "You have no suitable oval or need a general first off-road vehicle",
+    "Your class requires different supplied equipment that has not been budgeted",
+    "You already own compatible power gear and the standard RTR is the better completed purchase"
   ],
   "quickSpecs": [
     [
@@ -149,8 +149,7 @@
       "nav": "Buying case",
       "heading": "An oval venue makes this car make sense.",
       "paragraphs": [
-        "The blue SR10M 70033C LiPo Combo is a specialized 1/10 2WD street-stock dirt-oval car. Its strongest buying case begins with a suitable local class and a course where the body and tires are appropriate. I would choose it for that specific discipline rather than as a general first off-road vehicle. The mid-motor chassis and included power bundle shorten the route from shopping to class preparation, but an RTR does not establish rule compliance. Ask the venue about permitted motor, battery and tire specifications before treating the complete box as a race entry.",
-        "The exact purchase in this guide is Team Associated SR10M Dirt Oval LiPo Combo 70033C, Blue · LiPo Combo complete street-stock car. Its 1/10 scale, 2WD drivetrain and brushless power system identify a complete assembled vehicle. That combination should be matched to new street-stock dirt-oval driver with a compatible local class before a promotional feature becomes the reason to order. Check the venue and permitted class early; a race or drift label does not establish eligibility. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The blue SR10M 70033C LiPo Combo is a specialized 1/10 2WD street-stock dirt-oval car. Its strongest buying case begins with a suitable local class and a course where the body and tires are appropriate. I would choose it for that specific discipline rather than as a general first off-road vehicle. The mid-motor chassis and included power bundle shorten the route from shopping to class preparation, but an RTR does not establish rule compliance. Ask the venue about permitted motor, battery and tire specifications before treating the complete box as a race entry."
       ],
       "sourceIndexes": [
         0,
@@ -163,8 +162,8 @@
       "nav": "Package and setup",
       "heading": "The C suffix changes the startup basket.",
       "paragraphs": [
-        "The 70033C Combo adds a Reedy shorty 2S LiPo and compact balance charger to the assembled blue RTR. Four AA transmitter cells remain extra. Standard 70033 needs drive power separately, so Greg Vogel's RC Driver completion list for that version should not be copied across to the Combo. The original 70032 Team Kit is also a different purchase and should not be confused with the finished body-inclusive RTR. Amazon's ASC70033C confirms the exact branded complete package rather than a spare shell with a similar title.",
-        "For SR10M Dirt Oval LiPo Combo, the stated drive-power arrangement is reedy 2S shorty LiPo · included in 70033c, and the radio package is 2.4GHz 4-channel radio. Required completion is explicit: Four AA transmitter batteries; drive battery/charger included. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact 70033C list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The 70033C Combo adds a Reedy shorty 2S LiPo and compact balance charger to the assembled blue RTR. Four AA transmitter cells remain extra. Standard 70033 needs drive power separately, so Greg Vogel's RC Driver completion list for that version should not be copied across to the Combo. The original 70032 Team Kit is also a different purchase and should not be confused with the finished body-inclusive RTR.",
+        "The Combo is easiest to justify for a newcomer who needs its shorty pack and charger. An owner who already has suitable equipment should compare standard 70033 as a completed purchase, rather than pay twice for the same role. In either case, the supplied battery must match the intended class as well as the car."
       ],
       "sourceIndexes": [
         0,
@@ -177,8 +176,7 @@
       "nav": "Motor and drivetrain",
       "heading": "Mid-motor is a layout decision that you can inspect.",
       "paragraphs": [
-        "The SR10M places its Reedy 3300kV brushless system within a mid-motor G10 chassis arrangement. A sealed rear gear differential and externally adjustable slipper serve different drivetrain functions. The stock configuration gives a reference for setup work at a dirt oval, while it does not establish a measured cornering advantage at every surface. Keep the original motor position, battery restraints and prescribed gearing documented before altering them. The included pack is a 2S shorty format; a physically larger battery should not be forced into the retention system.",
-        "The documented Reedy 3300kV brushless motor is the power equipment evaluated for SR10M Dirt Oval LiPo Combo. With rear-wheel drive, available grip and trigger input need to work together. A harder trigger pull can ask more from the rear tires without improving the front wheels’ ability to turn. Start from the original 70033C gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "The SR10M places its Reedy 3300kV brushless system within a mid-motor G10 chassis arrangement. A sealed rear gear differential and externally adjustable slipper serve different drivetrain functions. The stock configuration gives a reference for setup work at a dirt oval, while it does not establish a measured cornering advantage at every surface. Keep the original motor position, battery restraints and prescribed gearing documented before altering them. The included pack is a 2S shorty format; a physically larger battery should not be forced into the retention system."
       ],
       "sourceIndexes": [
         0,
@@ -191,8 +189,7 @@
       "nav": "Radio and controls",
       "heading": "Four radio channels do not decide the class rules.",
       "paragraphs": [
-        "The manufacturer specifies a four-channel 2.4GHz system with digital frequency hopping and a fitted digital metal-gear steering servo. Those are identifiable control components, not a measured latency or precision rating. Follow the supplied manual for binding and transmitter adjustments. RC Driver's Greg Vogel takes the standard SR10M RTR to RC Excitement for outside shakedown coverage; its running belongs to that sample. Our Combo review does not infer faster laps from adding the battery and charger to the purchase. Venue restrictions still need checking independently.",
-        "The SR10M Dirt Oval LiPo Combo control system is listed as 2.4GHz 4-channel radio. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For organized use, ask whether assistance is allowed and whether battery or tire rules apply; the factory radio cannot answer the venue’s rules for you. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "The manufacturer specifies a four-channel 2.4GHz system with digital frequency hopping and a fitted digital metal-gear steering servo. Those are identifiable control components, not a measured latency or precision rating. Follow the supplied manual for binding and transmitter adjustments. RC Driver's Greg Vogel takes the standard SR10M RTR to RC Excitement for outside shakedown coverage; its running belongs to that sample. Our Combo review does not infer faster laps from adding the battery and charger to the purchase. Venue restrictions still need checking independently."
       ],
       "sourceIndexes": [
         0,
@@ -206,7 +203,7 @@
       "heading": "The carbon pieces and adjustable geometry support deliberate setup.",
       "paragraphs": [
         "The SR10M features a carbon rear shock tower and side braces, oil-filled 12mm shocks, rear CVAs and adjustable geometry. A mid-motor layout and oval-oriented rear toe block make it more specific than applying a street-stock body to any RTR chassis. Preserve the baseline and ask experienced local drivers what changes are useful on the actual surface. Altering multiple roll-center, spring and tire settings at once can make the cause of a change difficult to follow. The useful tuning advantage is having a documented system to understand and repeat.",
-        "The published construction for SR10M Dirt Oval LiPo Combo is mid-motor g 10 chassis; carbon braces/rear tower;24 bearings. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 277.8 mm, which makes exact replacement compatibility more useful than a generic Team Associated parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "Local setup help can turn that adjustment range into a useful learning path. Ask which behavior a proposed change addresses on the actual oval, and record the original mounting positions before applying it. The aim is to understand the supplied platform, not to move every adjustable part simply because another position exists."
       ],
       "sourceIndexes": [
         0,
@@ -219,8 +216,7 @@
       "nav": "Tires and terrain",
       "heading": "Street-stock tires need a known track surface.",
       "paragraphs": [
-        "The factory tires use a street-stock-inspired pattern and sit beneath a full stock-car body with integrated rear spoiler. They are documented equipment for the dirt-oval proposition, while a local track may require a particular tire or restrict preparation. The 536.4mm length and 250mm width demand a proper running area despite the comparatively narrow body. I would practice on a consistent permitted surface and verify traction rules before spending on additional tires. We do not assign measured grip or oval corner speed from the product's racing label.",
-        "The SR10M Dirt Oval LiPo Combo tire package is Street Stock high-grip patterned tires. Its intended terrain listing is off-road and on-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Allow adequate space for braking and a clear run-out, particularly when the factory power system can quickly consume the available straight. The published dimensions are 536.4 ×250 mm;1424g published. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+        "The factory tires use a street-stock-inspired pattern and sit beneath a full stock-car body with integrated rear spoiler. They are documented equipment for the dirt-oval proposition, while a local track may require a particular tire or restrict preparation. The 536.4mm length and 250mm width demand a proper running area despite the comparatively narrow body. I would practice on a consistent permitted surface and verify traction rules before spending on additional tires. We do not assign measured grip or oval corner speed from the product's racing label."
       ],
       "sourceIndexes": [
         0,
@@ -233,8 +229,7 @@
       "nav": "Body and service",
       "heading": "The finished body saves paint work, but mounting still matters.",
       "paragraphs": [
-        "The blue shell is included and finished in the reviewed RTR Combo. That is materially different from the assembly kit whose completion list can require a body and electronics. Inspect the body mounts and wheel clearance before a practice session, then check whether repeated contact has shifted the shell. The official overhead image shows how the battery and mid-motor equipment are arranged. We do not score shell endurance or chassis rigidity as physical results. The model-specific manual and parts list establish how the car should be maintained and repaired.",
-        "The reviewed Blue · LiPo Combo complete street-stock car SR10M Dirt Oval LiPo Combo is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the 70033C drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "The blue shell is included and finished in the reviewed RTR Combo. That is materially different from the assembly kit whose completion list can require a body and electronics. Inspect the body mounts and wheel clearance before a practice session, then check whether repeated contact has shifted the shell. The official overhead image shows how the battery and mid-motor equipment are arranged. We do not score shell endurance or chassis rigidity as physical results. The model-specific manual and parts list establish how the car should be maintained and repaired."
       ],
       "sourceIndexes": [
         0,
@@ -247,8 +242,8 @@
       "nav": "Startup basket",
       "heading": "The Combo price includes drive power, with AA cells still outside it.",
       "paragraphs": [
-        "The current manufacturer reference for the LiPo Combo is $469.99. That includes the listed Reedy battery and charger, so they should not be purchased again simply because a standard-RTR review says they are missing. Four AA cells, tax, delivery and any additional track equipment remain outside the reference. Obtain live prices for tools or spare packs if needed rather than accepting an invented total. I would also ask the track about entry costs and required equipment, since a specialized race purchase needs somewhere suitable to use it.",
-        "The SR10M Dirt Oval LiPo Combo price reference is $469.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Four AA transmitter batteries; drive battery/charger included. The drive battery basis is reedy 2S shorty LiPo · included in 70033c. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The manufacturer LiPo Combo reference recorded on October 13, 2026 was $469.99. That includes the listed Reedy battery and charger, so they should not be purchased again simply because a standard-RTR review says they are missing. Four AA cells, tax, delivery and any additional track equipment remain outside the reference. Obtain live prices for tools or spare packs if needed rather than accepting an invented total. I would also ask the track about entry costs and required equipment, since a specialized race purchase needs somewhere suitable to use it.",
+        "A convenient power bundle does not settle the race budget. Ask about entry fees and any mandatory tire or battery change before ordering. These are venue-specific costs, so the table keeps the known box contents separate instead of implying that the manufacturer car reference buys an eligible first race everywhere."
       ],
       "sourceIndexes": [
         0,
@@ -302,7 +297,7 @@
       "heading": "The Pro2 SC10 is the broader off-road practice route.",
       "paragraphs": [
         "The Method Pro2 SC10 70021 is another complete 1/10 brushless 2WD vehicle, but its short-course truck body, 322mm wheelbase and different tire format target a different use. Consider it when general off-road practice or a short-course class is more accessible than dirt oval. Choose the SR10M when the actual oval class and surface make its street-stock package relevant. The standard Pro2 needs power equipment separately, unlike this SR10M Combo. We do not invent a common lap-time test to rank two distinct vehicle jobs.",
-        "Team Associated Pro2 SC10 Method Race Wheels 70021 is the complete alternative used in the comparison with SR10M Dirt Oval LiPo Combo. It is a 1/10 2WD brushless vehicle, with NiMH or 2S–3S LiPo with t-plug · extra. Its required completion is drive battery, matching charger and four AA cells. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "Choose the course before the body style. If the compatible oval is only a possible future plan, the SR10M's specialization may be less useful than the Pro2's short-course route. Conversely, a confirmed street-stock class gives the SR10M's body, mid-motor platform and setup work a defined purpose."
       ],
       "sourceIndexes": [
         0,
@@ -334,8 +329,7 @@
       "nav": "Final verdict",
       "heading": "Buy it for a confirmed oval class, not a vague racing ambition.",
       "paragraphs": [
-        "The SR10M LiPo Combo is a coherent completed purchase for a new street-stock oval driver with an appropriate venue. Its mid-motor platform, adjustment resources, finished body and included drive power fit that purpose. The reservations are the need to verify class legality and the additional radio cells and track-related costs. I would confirm the local rules before ordering and use the official baseline for initial practice. Our editorial score describes equipment and buyer fit, not lap-time performance, chassis lifespan or the results of another publication's driving.",
-        "Our assessment of SR10M Dirt Oval LiPo Combo is directed at new street-stock dirt-oval driver with a compatible local class. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. Independent coverage features 70033 standard RTR, so its completion list excludes power equipment. This review's 70033C adds manufacturer-listed Reedy LiPo and compact balance charger; no performance improvement is inferred from the bundle. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact 70033C only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "The SR10M LiPo Combo is a coherent completed purchase for a new street-stock oval driver with an appropriate venue. Its mid-motor platform, adjustment resources, finished body and included drive power fit that purpose. The reservations are the need to verify class legality and the additional radio cells and track-related costs. I would confirm the local rules before ordering and use the official baseline for initial practice. Our editorial score describes equipment and buyer fit, not lap-time performance, chassis lifespan or the results of another publication's driving."
       ]
     }
   ],
@@ -522,12 +516,12 @@
       "kind": "Exact prefixed listing identity documentation"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Independent coverage features 70033 standard RTR, so its completion list excludes power equipment. This review's 70033C adds manufacturer-listed Reedy LiPo and compact balance charger; no performance improvement is inferred from the bundle. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Archived Amazon Creators API evidence from 13 October 2026 records the verified ASIN, brand, manufacturer PartNumber and reviewed variant; it does not establish current availability or price. Independent coverage features 70033 standard RTR, so its completion list excludes power equipment. This review's 70033C adds manufacturer-listed Reedy LiPo and compact balance charger; no performance improvement is inferred from the bundle. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated article filler, added model-specific purchase and setup decisions, sharpened buy/skip guidance and labeled the original dated price references. Original technical sources and archived listing-identity evidence are retained; no new commercial lookup was performed.",
   "seo": {
     "title": "Team Associated SR10M LiPo Combo Review | RC Car King",
     "description": "Review the exact 70033C SR10M dirt-oval Combo, including its Reedy LiPo and balance charger. See track fit, setup, included equipment and full buying costs."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T13:49:18.344Z"
 }

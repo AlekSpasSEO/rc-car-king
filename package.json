@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "check": "node scripts/check.mjs && node scripts/check-analytics.mjs",
+    "check": "node --test scripts/review-content.test.mjs && node scripts/check.mjs && node scripts/check-analytics.mjs",
     "dev": "node scripts/serve.mjs",
     "refresh:amazon": "node scripts/refresh-amazon.mjs",
     "check:live": "node scripts/check-live.mjs"

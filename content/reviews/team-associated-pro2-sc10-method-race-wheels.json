@@ -11,7 +11,7 @@
   "title": "Team Associated Pro2 SC10 Method Race Wheels review: the pro2 is for a driver who actually wants rear-drive short course?",
   "dek": "A rear-drive short-course truck with a finished Method Race Wheels body and DVC control equipment. The standard RTR needs its own power equipment; we assess terrain, setup and the total purchase.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -63,14 +63,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "A matching local class or suitable home circuit",
-    "Drivers who want an assembled platform to learn",
-    "Owners who want documented mechanical adjustments"
+    "Rear-drive short-course practice on a suitable dirt course",
+    "A permitted club class whose tire and assistance rules match the package",
+    "An owner interested in learning the supplied Reedy, slipper and suspension setup"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit off-road",
-    "You want a different vehicle scale or drivetrain from 1/10 2WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "Your regular driving area is thick grass or lacks room for a 538mm truck",
+    "You want the larger tires and four-wheel drive of a monster truck",
+    "The required battery and charger would take the completed purchase over budget"
   ],
   "quickSpecs": [
     [
@@ -148,8 +148,7 @@
       "nav": "Buying case",
       "heading": "The Pro2 is for a driver who actually wants rear-drive short course.",
       "paragraphs": [
-        "The Method Race Wheels 70021 Pro2 SC10 is a complete 1/10 brushless 2WD short-course truck. It is a useful choice for casual off-road practice and an organized class that accepts the package. The 322mm wheelbase and full short-course body create a different vehicle job from a smaller mini. I would choose it to learn the rear-drive format, not simply because Team Associated has a race history. Current 70041 SC10SW listings are separate purchases; the exact Method 70021 is the car assessed and linked here.",
-        "The exact purchase in this guide is Team Associated Pro2 SC10 Method Race Wheels 70021, Method Race Wheels · standard brushless RTR. Its 1/10 scale, 2WD drivetrain and brushless power system identify a complete assembled vehicle. That combination should be matched to casual 2wd short-course driver interested in club practice before a promotional feature becomes the reason to order. Check the venue and permitted class early; a race or drift label does not establish eligibility. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The Method Race Wheels 70021 Pro2 SC10 is a complete 1/10 brushless 2WD short-course truck. It is a useful choice for casual off-road practice and an organized class that accepts the package. The 322mm wheelbase and full short-course body create a different vehicle job from a smaller mini. I would choose it to learn the rear-drive format, not simply because Team Associated has a race history. Current 70041 SC10SW listings are separate purchases; the exact Method 70021 is the car assessed and linked here."
       ],
       "sourceIndexes": [
         0,
@@ -162,8 +161,8 @@
       "nav": "Package and setup",
       "heading": "RTR leaves the battery, charger and radio cells to you.",
       "paragraphs": [
-        "The standard Method 70021 includes the assembled truck and installed electronics but needs drive power, a matching charger and four AA transmitter cells. The official completion information identifies NiMH or 2S–3S LiPo with a high-current T-plug. Select according to the exact manual and the available track space. Amazon uses ASC70021 for the same complete standard RTR. The official press-release link label contains a 72021 typo, while its document filename and model contents establish 70021. That discrepancy is recorded instead of rewriting the identity.",
-        "For Pro2 SC10 Method Race Wheels, the stated drive-power arrangement is NiMH or 2S–3S LiPo with t-plug · extra, and the radio package is 2-channel 2.4GHz; DVC gyro receiver. Required completion is explicit: Drive battery, matching charger and four AA cells. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact 70021 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The standard Method 70021 includes the assembled truck and installed electronics but needs drive power, a matching charger and four AA transmitter cells. The official completion information identifies NiMH or 2S–3S LiPo with a high-current T-plug. Select according to the exact manual and the available track space. The official press-release link label contains a 72021 typo, while its document filename and model contents establish 70021. That discrepancy is recorded instead of rewriting the identity.",
+        "The voltage options describe compatibility, rather than a requirement to begin with 3S. Resolve the driving area, pack fit and controller setup before choosing power equipment. The standard truck is also a different budget from a Combo: price the required battery and charger together before judging the car-only figure."
       ],
       "sourceIndexes": [
         0,
@@ -177,7 +176,7 @@
       "heading": "The rear differential and slipper do different jobs.",
       "paragraphs": [
         "The Reedy 3300kV brushless system drives a rear gear differential through the 2.6:1 gearbox. The externally adjustable V2 slipper provides a separate means of managing drivetrain load, while the differential permits different rear wheel speeds. Treating both adjustments as one traction knob hides their different roles. Start with the manual's factory settings and a suitable initial power level. If a driving problem appears, inspect gear mesh and free drivetrain movement before buying a stronger motor or tightening every adjustment in the hope of improving it.",
-        "The documented Reedy 3300kV brushless motor; SC600BL ESC is the power equipment evaluated for Pro2 SC10 Method Race Wheels. With rear-wheel drive, available grip and trigger input need to work together. A harder trigger pull can ask more from the rear tires without improving the front wheels’ ability to turn. Start from the original 70021 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "Choosing the Pro2 means choosing the rear-drive short-course format. A buyer mainly seeking a large-tire 4WD outdoor truck should weigh the Rival MT10 comparison before planning power upgrades. More motor output would not turn the Pro2's drivetrain and body format into the alternative vehicle."
       ],
       "sourceIndexes": [
         0,
@@ -190,8 +189,7 @@
       "nav": "Radio and controls",
       "heading": "DVC is assistance to understand, especially before a race.",
       "paragraphs": [
-        "The official Pro2 features include a Dynamic Vehicle Control receiver with an adjustable built-in gyro. That is part of the documented Method package, unlike assuming DVC from another Associated model's radio manual. Assistance still needs correct steering direction and sensible travel. A track can restrict electronic assistance, so check its rules before entering. Tim Mohr's Big Squid RC Method announcement is attributable exact-product coverage, not our driving test. We rate the equipment and setup opportunity rather than claiming that the gyro improves a measured lap time.",
-        "The Pro2 SC10 Method Race Wheels control system is listed as 2-channel 2.4GHz; DVC gyro receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For organized use, ask whether assistance is allowed and whether battery or tire rules apply; the factory radio cannot answer the venue’s rules for you. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "The official Pro2 features include a Dynamic Vehicle Control receiver with an adjustable built-in gyro. That is part of the documented Method package, unlike assuming DVC from another Associated model's radio manual. Assistance still needs correct steering direction and sensible travel. A track can restrict electronic assistance, so check its rules before entering. Tim Mohr's Big Squid RC Method announcement is attributable exact-product coverage, not our driving test. We rate the equipment and setup opportunity rather than claiming that the gyro improves a measured lap time."
       ],
       "sourceIndexes": [
         0,
@@ -204,8 +202,7 @@
       "nav": "Steering and suspension",
       "heading": "The stock geometry offers a meaningful learning path.",
       "paragraphs": [
-        "Steel turnbuckles, roll-center positions and 12mm aluminum big-bore oil shocks allow the owner to work with a recognizable race-truck suspension. Rear CVA shafts are documented factory equipment. These features make setup possible; they do not tell a new driver which tire, spring or geometry setting belongs at a specific track. Keep the factory values saved, inspect smooth movement and change one variable at a time. A driver learning rear-drive throttle control can benefit more from consistent practice than from adding every available Factory Team part.",
-        "The published construction for Pro2 SC10 Method Race Wheels is low tub chassis; rear cvas;12mm aluminum oil shocks. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 322 mm, which makes exact replacement compatibility more useful than a generic Team Associated parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "Steel turnbuckles, roll-center positions and 12mm aluminum big-bore oil shocks allow the owner to work with a recognizable race-truck suspension. Rear CVA shafts are documented factory equipment. These features make setup possible; they do not tell a new driver which tire, spring or geometry setting belongs at a specific track. Keep the factory values saved, inspect smooth movement and change one variable at a time. A driver learning rear-drive throttle control can benefit more from consistent practice than from adding every available Factory Team part."
       ],
       "sourceIndexes": [
         0,
@@ -219,7 +216,7 @@
       "heading": "The big shell does not make it a general-purpose monster truck.",
       "paragraphs": [
         "The multi-terrain short-course tires and Method wheels belong to an off-road truck intended to cover suitable dirt surfaces and track obstacles. The 538mm overall length and 282mm width deserve usable course space. Thick grass or a rough improvised area can be a different proposition from prepared dirt. Begin with clear sightlines, sensible jumps and an open run-out. We have no measured tire-grip or jump comparison. If a club controls its tires, check that requirement before adding more tread or a different wheel offset to the purchase.",
-        "The Pro2 SC10 Method Race Wheels tire package is Multi-terrain short-course tires and Method wheels. Its intended terrain listing is off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Allow adequate space for braking and a clear run-out, particularly when the factory power system can quickly consume the available straight. The published dimensions are 538 ×282 mm;1929g published. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+        "Measure the regular running area as well as the storage space. A short-course body can appeal even when the available ground is unsuitable; confirming the course first prevents the tire and suspension budget from becoming an attempt to solve that original mismatch. A mandated club tire should be priced before the first visit."
       ],
       "sourceIndexes": [
         0,
@@ -232,8 +229,7 @@
       "nav": "Body and service",
       "heading": "Method livery is finished, and the chassis remains accessible.",
       "paragraphs": [
-        "The factory body removes the trimming and painting work associated with a clear shell. Its enclosed receiver box and low molded chassis are practical ownership details, while the printed short-course presentation is a reason to select this variant. Removing the shell exposes the rear motor and battery layout for regular inspection. Keep the body mounts straight and the battery straps secure. We do not infer impact resistance from a large bumper or a water-resistant component description. Follow the exact 5-series RTR instructions for maintenance and part identification.",
-        "The reviewed Method Race Wheels · standard brushless RTR Pro2 SC10 Method Race Wheels is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the 70021 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "The factory body removes the trimming and painting work associated with a clear shell. Its enclosed receiver box and low molded chassis are practical ownership details, while the printed short-course presentation is a reason to select this variant. Removing the shell exposes the rear motor and battery layout for regular inspection. Keep the body mounts straight and the battery straps secure. We do not infer impact resistance from a large bumper or a water-resistant component description. Follow the exact 5-series RTR instructions for maintenance and part identification."
       ],
       "sourceIndexes": [
         0,
@@ -246,8 +242,7 @@
       "nav": "Startup basket",
       "heading": "The $339.99 reference must be completed honestly.",
       "paragraphs": [
-        "The official Method standard RTR starts at $339.99 in the dated reference. Add a compatible battery, charger and four AA cells with actual prices from your chosen supplier. An existing suitable pack is useful only if its chemistry, voltage, connector and physical fit match. Tools and routine cleaning equipment also matter, but their costs are not verified here and do not become a made-up subtotal. I would compare the full standard purchase with the LiPo Combo before ordering, then keep optional performance parts outside the initial essential basket.",
-        "The Pro2 SC10 Method Race Wheels price reference is $339.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Drive battery, matching charger and four AA cells. The drive battery basis is NiMH or 2S–3S LiPo with t-plug · extra. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The official Method standard RTR reference recorded on October 13, 2026 was $339.99. Add a compatible battery, charger and four AA cells with actual prices from your chosen supplier. An existing suitable pack is useful only if its chemistry, voltage, connector and physical fit match. Tools and routine cleaning equipment also matter, but their costs are not verified here and do not become a made-up subtotal. I would compare the full standard purchase with the LiPo Combo before ordering, then keep optional performance parts outside the initial essential basket."
       ],
       "sourceIndexes": [
         0,
@@ -301,7 +296,7 @@
       "heading": "The Rival MT10 changes the format and drivetrain.",
       "paragraphs": [
         "Team Associated's Rival MT10 V2 20518 is a complete 1/10 brushless 4WD monster truck with larger all-terrain tires and independent suspension. It is worth considering when casual outdoor bashing matters more than rear-drive short-course practice or class preparation. Both standard RTRs need separate power equipment, so compare real completed baskets. Choose the Pro2 for the short-course body and the 2WD learning route; choose the Rival when its larger tire and 4WD format match the area. No lap-time, grip or durability winner is claimed.",
-        "Team Associated Rival MT10 V2 20518 is the complete alternative used in the comparison with Pro2 SC10 Method Race Wheels. It is a 1/10 4WD brushless vehicle, with 6-cell NiMH or 2S–3S LiPo · extra. Its required completion is suitable drive battery/charger and four AA transmitter cells. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "The most useful comparison is the activity available each week. A nearby short-course group can give the Pro2's adjustment resources a clear purpose. If the regular activity is open-area truck play, the Rival's format may be the more relevant starting point. Complete each startup basket with its excluded equipment before comparing cost."
       ],
       "sourceIndexes": [
         0,
@@ -333,8 +328,7 @@
       "nav": "Final verdict",
       "heading": "Buy the Method Pro2 for a suitable course and class.",
       "paragraphs": [
-        "The Pro2 SC10 has a credible documented package for a casual driver who wants rear-drive short-course practice and a path into permitted club use. Its adjustment resources and installed brushless system support that case, while the extra power purchases and DVC rule check remain reservations. I would verify the venue, equip the truck correctly and learn the factory baseline before upgrades. The editorial score assesses that whole purchase. It does not turn Associated's competition history or the Method graphics into measured race performance.",
-        "Our assessment of Pro2 SC10 Method Race Wheels is directed at casual 2wd short-course driver interested in club practice. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. API ASC70021 corresponds to official 70021 standard RTR. Official document link label mistakenly says 72021 while filename/model contents identify 70021. Newer 70041 SC10SW is a different listing. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact 70021 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "The Pro2 SC10 has a credible documented package for a casual driver who wants rear-drive short-course practice and a path into permitted club use. Its adjustment resources and installed brushless system support that case, while the extra power purchases and DVC rule check remain reservations. I would verify the venue, equip the truck correctly and learn the factory baseline before upgrades. The editorial score assesses that whole purchase. It does not turn Associated's competition history or the Method graphics into measured race performance."
       ]
     }
   ],
@@ -521,12 +515,12 @@
       "kind": "Exact prefixed listing identity documentation"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. API ASC70021 corresponds to official 70021 standard RTR. Official document link label mistakenly says 72021 while filename/model contents identify 70021. Newer 70041 SC10SW is a different listing. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Archived Amazon Creators API evidence from 13 October 2026 records the verified ASIN, brand, manufacturer PartNumber and reviewed variant; it does not establish current availability or price. API ASC70021 corresponds to official 70021 standard RTR. Official document link label mistakenly says 72021 while filename/model contents identify 70021. Newer 70041 SC10SW is a different listing. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated article filler, added model-specific purchase and setup decisions, sharpened buy/skip guidance and labeled the original dated price references. Original technical sources and archived listing-identity evidence are retained; no new commercial lookup was performed.",
   "seo": {
     "title": "Team Associated Pro2 SC10 Method Review | RC Car King",
     "description": "Explore the Pro2 SC10 Method truck: 2WD brushless hardware, DVC controls, terrain, separate power gear and the complete ready-to-run purchase requirements."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T13:49:18.344Z"
 }

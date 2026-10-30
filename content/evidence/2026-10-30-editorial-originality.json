@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2026-10-30T13:55:12.563Z",
+  "baselineCommit": "0d0125879c9030ab21c678f71c37220230a83913",
+  "scope": "Editorial originality cleanup of fifteen launch reviews; historical price clarification in the flagship Traxxas 240SX review.",
+  "reviewCount": 69,
+  "duplicateSentenceAudit": {
+    "minimumSentenceWords": 20,
+    "before": 21,
+    "after": 0,
+    "scope": "Core section prose only; exact sentences normalized for case, whitespace and curly apostrophes."
+  },
+  "revised": [
+    {
+      "file": "content/reviews/axial-scx10-iii-coyote.json",
+      "url": "https://rccarking.com/axial/scx10-iii-coyote/",
+      "updatedAt": "2026-10-30T13:45:37.300Z"
+    },
+    {
+      "file": "content/reviews/axial-scx24-chevrolet-c10-1967-1972.json",
+      "url": "https://rccarking.com/axial/scx24-chevrolet-c10-1967-1972/",
+      "updatedAt": "2026-10-30T13:45:37.300Z"
+    },
+    {
+      "file": "content/reviews/axial-scx24-jeep-jt-gladiator-v2.json",
+      "url": "https://rccarking.com/axial/scx24-jeep-jt-gladiator-v2/",
+      "updatedAt": "2026-10-30T13:45:37.300Z"
+    },
+    {
+      "file": "content/reviews/axial-scx24-toyota-4runner.json",
+      "url": "https://rccarking.com/axial/scx24-toyota-4runner/",
+      "updatedAt": "2026-10-30T13:45:37.300Z"
+    },
+    {
+      "file": "content/reviews/axial-scx30-ford-bronco.json",
+      "url": "https://rccarking.com/axial/scx30-ford-bronco/",
+      "updatedAt": "2026-10-30T13:45:37.300Z"
+    },
+    {
+      "file": "content/reviews/axial-scx30-jeep-wrangler-jlu.json",
+      "url": "https://rccarking.com/axial/scx30-jeep-wrangler-jlu/",
+      "updatedAt": "2026-10-30T13:45:37.300Z"
+    },
+    {
+      "file": "content/reviews/losi-micro-t.json",
+      "url": "https://rccarking.com/losi/micro-t/",
+      "updatedAt": "2026-10-30T14:45:30+01:00"
+    },
+    {
+      "file": "content/reviews/losi-mini-b-brushless.json",
+      "url": "https://rccarking.com/losi/mini-b-brushless/",
+      "updatedAt": "2026-10-30T14:45:30+01:00"
+    },
+    {
+      "file": "content/reviews/losi-mini-lmt-grave-digger.json",
+      "url": "https://rccarking.com/losi/mini-lmt-grave-digger/",
+      "updatedAt": "2026-10-30T14:45:30+01:00"
+    },
+    {
+      "file": "content/reviews/losi-mini-t-2-0-brushless.json",
+      "url": "https://rccarking.com/losi/mini-t-2-0-brushless/",
+      "updatedAt": "2026-10-30T14:45:30+01:00"
+    },
+    {
+      "file": "content/reviews/team-associated-dc10-drift-rtr.json",
+      "url": "https://rccarking.com/team-associated/dc10-drift-rtr/",
+      "updatedAt": "2026-10-30T13:49:18.344Z"
+    },
+    {
+      "file": "content/reviews/team-associated-pro2-sc10-method-race-wheels.json",
+      "url": "https://rccarking.com/team-associated/pro2-sc10-method-race-wheels/",
+      "updatedAt": "2026-10-30T13:49:18.344Z"
+    },
+    {
+      "file": "content/reviews/team-associated-reflex-14r-hoonicorn.json",
+      "url": "https://rccarking.com/team-associated/reflex-14r-hoonicorn/",
+      "updatedAt": "2026-10-30T13:49:18.344Z"
+    },
+    {
+      "file": "content/reviews/team-associated-rival-mt10-v2.json",
+      "url": "https://rccarking.com/team-associated/rival-mt10-v2/",
+      "updatedAt": "2026-10-30T13:49:18.344Z"
+    },
+    {
+      "file": "content/reviews/team-associated-sr10m-dirt-oval-lipo-combo.json",
+      "url": "https://rccarking.com/team-associated/sr10m-dirt-oval-lipo-combo/",
+      "updatedAt": "2026-10-30T13:49:18.344Z"
+    },
+    {
+      "file": "content/reviews/traxxas-4-tec-drift-nissan-240sx.json",
+      "url": "https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/",
+      "updatedAt": "2026-10-30T13:44:39.121Z"
+    }
+  ],
+  "preserved": [
+    "Original publication dates",
+    "SKU and affiliate identities",
+    "Ratings",
+    "Manufacturer price check dates",
+    "Source check dates",
+    "Specifications",
+    "Product media and credits",
+    "Section tables"
+  ],
+  "validation": {
+    "productionBuildAndChecks": "passed",
+    "previewBuildAndChecks": "passed",
+    "reviewContentRegressionTests": "2 passed",
+    "generatedPages": 95,
+    "sitemapUrls": 94,
+    "desktopMobileLayout": "Losi Mini-B reviewed in Chrome; mobile viewport390px, no horizontal page overflow"
+  },
+  "amazonApi": "No API requests, authentication tests or offer refreshes performed. Previously verified identities retained and dated."
+}

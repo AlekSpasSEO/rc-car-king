@@ -9,6 +9,7 @@ import {overallRating} from './review-template.mjs';
 import {checkSeo} from './check-seo.mjs';
 import {loadArticles,articleRoute} from './articles.mjs';
 import {checkArticleRecords} from './check-articles.mjs';
+import {repeatedReviewSentences} from './review-content.mjs';
 const config=JSON.parse(await readFile('site.config.json','utf8'));
 config.basePath=process.env.BASE_PATH??config.basePath;
 config.origin=process.env.SITE_ORIGIN??config.origin;
@@ -54,8 +55,6 @@ for(const f of files){
   assert.equal(r.rating.dimensions.length,5);assert.ok(r.rating.disclosure&&r.rating.audience);
   for(const d of r.rating.dimensions)assert.ok(d.score>=1&&d.score<=10&&d.reason);
   assert.ok(overallRating(r)>=1&&overallRating(r)<=10);
-  const words=r.sections.flatMap(s=>s.paragraphs).join(' ').trim().split(/\s+/).length;
-  assert.ok(words>=2000,`${f}: a full review needs at least 2,000 words of substantive buying analysis (found ${words})`);
   for(const section of r.sections){
    assert.ok(section.paragraphs.length&&section.paragraphs.every(p=>typeof p==='string'&&p.trim()),`${f}: empty section`);
    for(const index of section.sourceIndexes??[])assert.ok(Number.isInteger(index)&&r.sources[index],`${f}: invalid source index`);
@@ -72,6 +71,8 @@ for(const f of files){
   if(/^https:\/\//i.test(asset))assert.equal(new URL(asset).protocol,'https:');else await access(`public/assets/${asset}`);
  }
 }
+const repeatedSentences=repeatedReviewSentences(records.filter(r=>r.status==='published'&&r.published<=today));
+assert.deepEqual(repeatedSentences,[],'Published reviews must not reuse substantive sentences of 20 or more words across different vehicles');
 async function walk(dir){return(await Promise.all((await readdir(dir,{withFileTypes:true})).map(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]))).flat();}
 const output=await walk('docs');
 const articleRecords=await loadArticles();

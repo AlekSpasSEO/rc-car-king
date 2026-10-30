@@ -9,9 +9,9 @@
   ],
   "sku": "AXI-2036T2",
   "title": "Axial SCX10 III Coyote review: the simplified body suits a driver who wants to use the obstacles?",
-  "dek": "A full-size SCX10 III purchase with a finished Coyote body, straight-axle layout and fitted radio. Drive battery and charger are extra; we assess the complete trail-ready shopping basket.",
+  "dek": "A full-size SCX10 III purchase with a finished Coyote body and fitted radio. Drive battery and charger are extra; we assess the complete trail-ready shopping basket.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -45,9 +45,9 @@
   "author": {
     "name": "The Garage Editor",
     "role": "RC Car King editorial voice",
-    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+    "note": "This buying assessment uses manufacturer documentation, a previously verified affiliate identity and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
   },
-  "overview": "The blue SCX10 III Coyote is a 1/10 trail and crawling purchase with a deliberately narrower Pro-Line body and a competition-oriented equipment direction. It is more substantial than the micro crawlers in this batch, so its attraction is room to explore real rock lines rather than desktop convenience. I would shortlist it for a driver who values the chassis and tire package more than a licensed full interior.",
+  "overview": "The blue SCX10 III Coyote is a 1/10 trail and crawling purchase with a deliberately narrower Pro-Line body and a competition-oriented equipment direction. It is more substantial than a micro crawler, so its attraction is room to explore real rock lines rather than desktop convenience. I would shortlist it for a driver who values the chassis and tire package more than a licensed full interior.",
   "verdict": "Buy the standard Coyote with a complete power plan",
   "verdictText": "For a trail driver interested in a simpler competition-oriented RTR, the Coyote's portals, front overdrive, tire foams and clipless body form a convincing documented package. Its largest purchase caveat is the excluded drive battery and charger.",
   "pros": [
@@ -63,14 +63,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "Small technical courses and deliberate line choice",
-    "Drivers who value the exact body and tire package",
-    "Owners willing to follow the model-specific service instructions"
+    "Outdoor rock courses with room for a 1/10 crawler",
+    "Drivers who prioritize portal axles, front overdrive and body clearance",
+    "Owners ready to select a compatible drive battery and charger"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit off-road",
-    "You want a different vehicle scale or drivetrain from 1/10 4WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "You need the battery and charger included in the vehicle package",
+    "Your available course and storage suit a palm-sized crawler",
+    "You need confirmed competition-class eligibility before buying"
   ],
   "quickSpecs": [
     [
@@ -146,8 +146,7 @@
       "nav": "Buying case",
       "heading": "The simplified body suits a driver who wants to use the obstacles.",
       "paragraphs": [
-        "The blue SCX10 III Coyote is a 1/10 trail and crawling purchase with a deliberately narrower Pro-Line body and a competition-oriented equipment direction. It is more substantial than the micro crawlers in this batch, so its attraction is room to explore real rock lines rather than desktop convenience. I would shortlist it for a driver who values the chassis and tire package more than a licensed full interior. The standard AXI-2036T2 reviewed here is separate from the battery-inclusive RTR Plus.",
-        "The exact purchase in this guide is Axial SCX10 III Coyote AXI-2036T2, Blue · standard RTR without battery/charger. Its 1/10 scale, 4WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to trail driver wanting a simpler competition-oriented 1/10 rtr before a promotional feature becomes the reason to order. Decide where the car will be driven most often, because a usable nearby space can be more valuable than a longer feature list. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The blue AXI-2036T2 Coyote puts its budget into a narrower Pro-Line body and crawling hardware rather than a licensed full interior. I would shortlist it for outdoor rock lines where a 1/10 truck has room to approach and reverse. For indoor obstacles and easy storage, the SCX24 alternative below is a different purchase worth considering. This is the standard RTR; the battery-inclusive RTR Plus has a separate package identity."
       ],
       "sourceIndexes": [
         0,
@@ -160,8 +159,7 @@
       "nav": "Package and setup",
       "heading": "The standard RTR stops before the battery and charger.",
       "paragraphs": [
-        "The assembled truck has fitted power electronics, radio and servo, but the drive battery and charger are extra for AXI-2036T2. Four AA transmitter cells are included, so they should not be counted as another required purchase. This precise distinction matters because Greg Vogel's RC Driver coverage discusses both the standard package and RTR Plus. Choose a compatible 2S or 3S LiPo with appropriate physical fit and charging equipment. A bundle photograph from the other package does not change this ASIN's inventory.",
-        "For SCX10 III Coyote, the stated drive-power arrangement is compatible 2S or 3S LiPo · extra, and the radio package is Spektrum SLT2; SR515 receiver. Required completion is explicit: Compatible drive battery and charger; transmitter AA cells included. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact AXI-2036T2 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The assembled truck has fitted power electronics, radio and servo, but the drive battery and charger are extra for AXI-2036T2. Four AA transmitter cells are included, so they should not be counted as another required purchase. This precise distinction matters because Greg Vogel's RC Driver coverage discusses both the standard package and RTR Plus. Choose a compatible 2S or 3S LiPo with appropriate physical fit and charging equipment. A bundle photograph from the other package does not change this ASIN's inventory."
       ],
       "sourceIndexes": [
         0,
@@ -174,8 +172,7 @@
       "nav": "Motor and drivetrain",
       "heading": "Portals and front overdrive are more useful than a power headline.",
       "paragraphs": [
-        "The Coyote uses AR45P portal axles, LCXU transmission and a 35T 540 brushed motor with Spektrum 40A control. Axial also documents front-axle overdrive. Portal gearing raises the axle center clearance, while overdrive changes the front-to-rear wheel-speed relationship. Those mechanisms can help a crawling setup in different ways, but we have not measured a climbing advantage. Keep the factory arrangement as the starting point and understand the required maintenance before treating each feature as an automatic competition result.",
-        "The documented Axial 35T 540 brushed; Spektrum 40A ESC is the power equipment evaluated for SCX10 III Coyote. For a crawling vehicle, reduction, tire support and controllable application of power matter more to the buying case than a maximum-speed headline. A trapped tire also loads the drivetrain, so choose another approach rather than applying prolonged power against a stall. Start from the original AXI-2036T2 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "The Coyote uses AR45P portal axles, LCXU transmission and a 35T 540 brushed motor with Spektrum 40A control. Axial also documents front-axle overdrive. Portal gearing raises the axle center clearance, while overdrive changes the front-to-rear wheel-speed relationship. Those mechanisms can help a crawling setup in different ways, but we have not measured a climbing advantage. Keep the factory arrangement as the starting point and understand the required maintenance before treating each feature as an automatic competition result."
       ],
       "sourceIndexes": [
         0,
@@ -188,8 +185,7 @@
       "nav": "Radio and controls",
       "heading": "The receiver has more capacity than the basic transmitter.",
       "paragraphs": [
-        "The factory SLT2 transmitter provides the initial two-channel driving controls, while the SR515 receiver has additional channel capacity and its own compatibility requirements. That does not mean every optional function can be operated from the supplied radio without further equipment. The low-speed purpose favors smooth control and deliberate line choice rather than full output. RC Driver supplies attributable current Coyote coverage, including its own rock running. We do not present that as our drive test or promise the same outcome on a different local course.",
-        "The SCX10 III Coyote control system is listed as Spektrum SLT2; SR515 receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For shared casual use, explain how to stop and shut down the vehicle before handing the controls to another driver. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "The supplied SLT2 transmitter operates two driving channels. The SR515 receiver has additional channel capacity, but that does not add switches to the transmitter or make every optional function available. Before planning a conversion, identify the required control and compatible equipment. Greg Vogel's RC Driver coverage includes its own Coyote rock running; those observations belong to that publisher's sample."
       ],
       "sourceIndexes": [
         0,
@@ -202,8 +198,7 @@
       "nav": "Steering and suspension",
       "heading": "The new mount positions are tools for an owner who takes notes.",
       "paragraphs": [
-        "Axial describes revised shock towers, panhard mounting, skid plate and boat-side trays alongside multi-link solid-axle suspension. Those changes provide concrete subjects to inspect rather than a vague claim that the Coyote is another Base Camp body. The oil shocks and stainless links still require checking for free motion through articulation. Preserve the factory positions before moving mounts, and investigate tire interference or steering bind at the source. More adjustments are useful only when you can explain which problem a change is intended to solve.",
-        "The published construction for SCX10 III Coyote is one-piece steel frame; ar 45p portal axles; lcxu transmission. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 312 mm published, which makes exact replacement compatibility more useful than a generic Axial parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "Axial describes revised shock towers, panhard mounting, skid plate and boat-side trays alongside multi-link solid-axle suspension. Those changes provide concrete subjects to inspect rather than a vague claim that the Coyote is another Base Camp body. The oil shocks and stainless links still require checking for free motion through articulation. Preserve the factory positions before moving mounts, and investigate tire interference or steering bind at the source. More adjustments are useful only when you can explain which problem a change is intended to solve."
       ],
       "sourceIndexes": [
         0,
@@ -216,8 +211,7 @@
       "nav": "Tires and terrain",
       "heading": "Trepador tires and dual-stage foams make a coherent rock package.",
       "paragraphs": [
-        "The Maxxis Trepador tires sit on KMC Grenade wheels with dual-stage open-cell inserts. The softer outer foam and firmer inner support are documented equipment choices, not measured grip figures. They help define the intended crawling purchase more clearly than the blue shell alone. Choose dry initial lines with room to approach and reverse, then inspect the tires and steering after the session. A portal axle does not eliminate every belly hang-up or prevent the vehicle from rolling on a steep side slope.",
-        "The SCX10 III Coyote tire package is Maxxis Trepador; KMC Grenade wheels; dual-stage foams. Its intended terrain listing is off-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Leave a safe route to reverse or retrieve the truck on a technical line, and evaluate the whole obstacle instead of only the front axle’s approach. The published dimensions are 445 × 235 × 197 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior."
+        "The Maxxis Trepador tires sit on KMC Grenade wheels with dual-stage open-cell inserts. The softer outer foam and firmer inner support are documented equipment choices, not measured grip figures. They help define the intended crawling purchase more clearly than the blue shell alone. Choose dry initial lines with room to approach and reverse, then inspect the tires and steering after the session. A portal axle does not eliminate every belly hang-up or prevent the vehicle from rolling on a steep side slope."
       ],
       "sourceIndexes": [
         0,
@@ -230,8 +224,7 @@
       "nav": "Body and service",
       "heading": "Clipless access should make the inspection routine easier.",
       "paragraphs": [
-        "The Pro-Line Coyote body removes without conventional clips and exposes the chassis for pack changes and maintenance. Its contoured shape is meant to provide obstacle and tire clearance, which is a practical reason to buy it even without a licensed full-scale badge. Check the latch fit and wiring after body removal, and avoid routing the battery lead where the shell can trap it. We have not measured body retention or impact resistance. The official manual and exploded view are the evidence for how the truck is assembled and serviced.",
-        "The reviewed Blue · standard RTR without battery/charger SCX10 III Coyote is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the AXI-2036T2 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "The Pro-Line Coyote body removes without conventional clips and exposes the chassis for pack changes and maintenance. Its contoured shape is meant to provide obstacle and tire clearance, which is a practical reason to buy it even without a licensed full-scale badge. Check the latch fit and wiring after body removal, and avoid routing the battery lead where the shell can trap it. We have not measured body retention or impact resistance. The official manual and exploded view are the evidence for how the truck is assembled and serviced."
       ],
       "sourceIndexes": [
         0,
@@ -244,8 +237,7 @@
       "nav": "Startup basket",
       "heading": "The battery choice changes the final purchase, not the quoted package identity.",
       "paragraphs": [
-        "The standard blue truck carries a $349.99 manufacturer reference at this check. Add the compatible drive pack and charger you actually need; use existing equipment only after checking chemistry, voltage, connector and fit. The official weight figure includes a 1300mAh battery although that pack is not supplied in this SKU. We keep that basis explicit. Tools and charging/storage equipment also belong in the plan, but no unverified accessory prices or total are invented. Compare a real completed basket with RTR Plus before choosing either.",
-        "The SCX10 III Coyote price reference is $349.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Compatible drive battery and charger; transmitter AA cells included. The drive battery basis is compatible 2S or 3S LiPo · extra. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The manufacturer reference recorded on 13 October 2026 is $349.99 for the standard blue truck. Add a compatible drive pack and charger, checking chemistry, voltage, connector and physical fit before counting equipment you already own. The official weight figure includes a 1300mAh battery even though this SKU does not supply that pack. Compare the actual completed basket with RTR Plus; no accessory prices or all-in total have been verified for this revision."
       ],
       "sourceIndexes": [
         0,
@@ -298,8 +290,7 @@
       "nav": "Real alternatives",
       "heading": "A micro 4Runner is an alternative only when the scale requirement changes.",
       "paragraphs": [
-        "The gray SCX24 4Runner is a complete battery-inclusive 1/24 crawler suited to small technical areas. It cannot reproduce the Coyote's 1/10 footprint or portal chassis simply because both are crawling vehicles. Choose the Coyote for larger rock lines, a standard-size service environment and its purpose-focused body. Inspect the 4Runner when storage, indoor use and Toyota hard-body detail are more important. The comparison explains the space and completion tradeoff; it does not claim that one wins a common obstacle test.",
-        "Axial SCX24 Toyota 4Runner AXI-2035T2 is the complete alternative used in the comparison with SCX10 III Coyote. It is a 1/24 4WD brushed vehicle, with Spektrum 350mAh 2S LiPo · included. Its required completion is nothing required per official package. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "The gray SCX24 4Runner is a complete battery-inclusive 1/24 crawler suited to small technical areas. It cannot reproduce the Coyote's 1/10 footprint or portal chassis simply because both are crawling vehicles. Choose the Coyote for larger rock lines, a standard-size service environment and its purpose-focused body. Inspect the 4Runner when storage, indoor use and Toyota hard-body detail are more important. The comparison explains the space and completion tradeoff; it does not claim that one wins a common obstacle test."
       ],
       "sourceIndexes": [
         0,
@@ -331,8 +322,7 @@
       "nav": "Final verdict",
       "heading": "Buy the standard Coyote with a complete power plan.",
       "paragraphs": [
-        "For a trail driver interested in a simpler competition-oriented RTR, the Coyote's portals, front overdrive, tire foams and clipless body form a convincing documented package. Its largest purchase caveat is the excluded drive battery and charger. I would verify their fit and price before ordering, then learn the factory geometry on repeatable lines. The rating assesses that complete buying case and the official service resources. It does not certify class eligibility, climbing angle, waterproof endurance or the performance shown by another publication's test sample.",
-        "Our assessment of SCX10 III Coyote is directed at trail driver wanting a simpler competition-oriented 1/10 rtr. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. RC Driver covers both $349.99 standard RTR and $399.99 RTR Plus; this ASIN is AXI-2036T 2 with drive battery/charger extra, not AXI-3071 Plus. Weight table includes a 1300mAh pack even though that pack is excluded. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact AXI-2036T2 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "For a trail driver interested in a simpler competition-oriented RTR, the Coyote's portals, front overdrive, tire foams and clipless body form a convincing documented package. Its largest purchase caveat is the excluded drive battery and charger. I would verify their fit and price before ordering, then learn the factory geometry on repeatable lines. The rating assesses that complete buying case and the official service resources. It does not certify class eligibility, climbing angle, waterproof endurance or the performance shown by another publication's test sample."
       ]
     }
   ],
@@ -528,28 +518,28 @@
   ],
   "faqs": [
     {
-      "question": "Which exact variant is linked?",
-      "answer": "AXI-2036T2, Blue · standard RTR without battery/charger. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+      "question": "Does AXI-2036T2 include a battery and charger?",
+      "answer": "No. The standard blue RTR requires a compatible 2S or 3S LiPo and charger. Four AA transmitter cells are included. The battery-inclusive RTR Plus is a separate package."
     },
     {
-      "question": "Is the drive battery included?",
-      "answer": "Compatible 2S or 3S LiPo · extra. Required completion: Compatible drive battery and charger; transmitter AA cells included."
+      "question": "Does the Coyote use portal axles?",
+      "answer": "The documented package uses AR45P portal axles, an LCXU transmission and front-axle overdrive. These identify its crawling equipment; they do not establish a measured climbing advantage."
     },
     {
-      "question": "Which power equipment should I buy?",
-      "answer": "Follow the exact AXI-2036T2 manual for chemistry, voltage, connector and physical fit. A matching capacity number does not prove compatibility."
+      "question": "Can the included radio operate every SR515 receiver channel?",
+      "answer": "The SLT2 provides two-channel driving controls. Extra receiver channels do not add controls to the supplied transmitter, so an optional function may require additional compatible equipment."
     },
     {
-      "question": "What is the main evidence limitation?",
-      "answer": "RC Driver covers both $349.99 standard RTR and $399.99 RTR Plus; this ASIN is AXI-2036T 2 with drive battery/charger extra, not AXI-3071 Plus. Weight table includes a 1300mAh pack even though that pack is excluded."
+      "question": "Why does the weight specification mention a battery?",
+      "answer": "The manufacturer weight basis includes a 1300mAh pack, although the standard AXI-2036T2 excludes the drive battery. Do not read that weight note as an included-item list."
     },
     {
-      "question": "How should I compare the alternative?",
-      "answer": "Axial SCX24 Toyota 4Runner is a complete 1/24 4WD brushed alternative. Compare its purpose, space and required equipment with the reviewed package; no head-to-head result is claimed."
+      "question": "Would the SCX24 4Runner fit a smaller space better?",
+      "answer": "Its 1/24 format and included power equipment make it a more compact route into crawling. Choose between that small-course package and the Coyote’s 1/10 footprint before comparing body details."
     },
     {
-      "question": "Does the editorial rating describe a drive test?",
-      "answer": "No. It is a research-led five-category buying assessment for the named buyer. We have not physically driven the vehicle or measured its speed, durability, runtime or reliability."
+      "question": "Has RC Car King tested its competition capability?",
+      "answer": "No. The score assesses the documented purchase and service information. We have not measured climbing, grip or durability, and a buyer must check the intended class rules separately."
     }
   ],
   "sources": [
@@ -585,12 +575,12 @@
       "kind": "Alternative manufacturer"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. RC Driver covers both $349.99 standard RTR and $399.99 RTR Plus; this ASIN is AXI-2036T 2 with drive battery/charger extra, not AXI-3071 Plus. Weight table includes a 1300mAh pack even though that pack is excluded. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. The archived Amazon Creators API record identifies the ASIN, brand, manufacturer PartNumber and reviewed variant; this editorial revision does not refresh that verification. RC Driver covers both $349.99 standard RTR and $399.99 RTR Plus; this ASIN is AXI-2036T 2 with drive battery/charger extra, not AXI-3071 Plus. Weight table includes a 1300mAh pack even though that pack is excluded. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated section padding, made buyer-fit advice and FAQs model-specific, and labeled the existing price reference by its original date. Source check dates and affiliate verification were not refreshed.",
   "seo": {
     "title": "Axial SCX10 III Coyote Review | RC Car King",
-    "description": "Explore the SCX10 III Coyote ready-to-run crawler: finished body, straight axles, trail setup, battery and charger needs, ownership and editorial buying score."
+    "description": "Explore the SCX10 III Coyote ready-to-run crawler: finished body, trail setup, battery and charger needs, ownership and editorial buying score."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T13:45:37.300Z"
 }

@@ -11,7 +11,7 @@
   "title": "Losi Micro-T review: a short truck makes a different kind of indoor course?",
   "dek": "A tiny stadium truck with a finished body, oil shocks and supplied battery equipment. Its compact size is appealing for indoor laps; surface choice and realistic obstacle scale still matter.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -46,7 +46,7 @@
   "author": {
     "name": "The Garage Editor",
     "role": "RC Car King editorial voice",
-    "note": "This buying assessment combines exact manufacturer documentation, Amazon Creators API identity verification and attributed outside coverage. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
+    "note": "This buying assessment uses the manufacturer documentation, Amazon identity verification and attributed outside coverage recorded on 13 October 2026. I have not physically tested this vehicle. Recommendations describe equipment and buyer fit; they do not assert measured speed, runtime, impact resistance or reliability."
   },
   "overview": "The silver Micro-T is appealing when the truck body is the point of the purchase and the available circuit is compact. Its 102mm wheelbase and 145mm overall length differ from the longer Micro-B, even though both use a small brushed rear-drive format. I would choose the stadium truck for that specific presentation and course geometry, then arrange the corners around it.",
   "verdict": "The recommendation depends on a usable small circuit",
@@ -64,14 +64,14 @@
     "Speed, runtime and long-term durability are not measured here"
   ],
   "bestFor": [
-    "A matching local class or suitable home circuit",
-    "Drivers who want an assembled platform to learn",
-    "Owners who want documented mechanical adjustments"
+    "Indoor drivers who want the silver stadium-truck body and a short 102mm wheelbase",
+    "A small, smooth home circuit with shallow ramps",
+    "A first hobby truck with its 2S pack and charger supplied"
   ],
   "avoidIf": [
-    "Your primary driving space does not suit indoor or on-road",
-    "You want a different vehicle scale or drivetrain from 1/28 2WD",
-    "You plan an immediate rebuild without pricing the full project"
+    "Your main driving area is grass or rough outdoor ground",
+    "Your group runs a Micro-B buggy class and you need the same format",
+    "You want to reuse electronics or parts from the earlier Micro-T generation"
   ],
   "quickSpecs": [
     [
@@ -147,8 +147,7 @@
       "nav": "Buying case",
       "heading": "A short truck makes a different kind of indoor course.",
       "paragraphs": [
-        "The silver Micro-T is appealing when the truck body is the point of the purchase and the available circuit is compact. Its 102mm wheelbase and 145mm overall length differ from the longer Micro-B, even though both use a small brushed rear-drive format. I would choose the stadium truck for that specific presentation and course geometry, then arrange the corners around it. Small scale is useful because it creates opportunities to drive at home; it is not a reason to assume every household obstacle is appropriate.",
-        "The exact purchase in this guide is Losi Micro-T LOS-1392T2, Silver · complete brushed stadium truck. Its 1/28 scale, 2WD drivetrain and brushed power system identify a complete assembled vehicle. That combination should be matched to indoor driver wanting a compact stadium truck before a promotional feature becomes the reason to order. Check the venue and permitted class early; a race or drift label does not establish eligibility. The dated manufacturer documentation supplies the hardware facts, the Amazon API supplies listing identity, and outside coverage remains the work of its named author. Our preference is an editorial interpretation of those sources. It does not turn the published claims into personal driving experience or measured results."
+        "The silver Micro-T is appealing when the truck body is the point of the purchase and the available circuit is compact. Its 102mm wheelbase and 145mm overall length differ from the longer Micro-B, even though both use a small brushed rear-drive format. I would choose LOS-1392T2 for its stadium-truck proportions and build a course around that size. The useful advantage is finding a place to drive at home; the truck shape does not make household steps and furniture-sized drops suitable obstacles."
       ],
       "sourceIndexes": [
         0,
@@ -162,7 +161,7 @@
       "heading": "The current Micro-T includes its own power equipment.",
       "paragraphs": [
         "The LOS-1392T2 package supplies a 350mAh 2S LiPo and USB-C charger along with the assembled truck and SLT2 transmitter. That saves a beginner from choosing separate electronics before discovering whether micro racing is enjoyable. Keep the original pack as the reference when selecting a spare. The old Losi Micro-T name dates back to a different product generation, so an old charger, replacement motor or review should not be assumed to describe the current truck.",
-        "For Micro-T, the stated drive-power arrangement is 350mAh 2S LiPo · included, and the radio package is Spektrum SLT2; 4A 2-in-1 SLT ESC/receiver. Required completion is explicit: Nothing required; optional USB-C power supply recommended. Make a physical inventory before buying additional equipment. The finished vehicle already coordinates the body, drivetrain and installed controls, but correct operation still requires the model's startup and charging procedure. Check the pack leads and connectors without pulling on their wires, inspect steering travel before running, and confirm the transmitter power arrangement against the actual holder. If an item differs from the exact LOS-1392T2 list, resolve that with the seller or manufacturer while the purchase details are available. A package discrepancy should not be covered up by ordering a replacement and assuming every similarly named RTR comes with the same components."
+        "The recorded completion list calls the USB-C power supply optional. Keep that distinction when comparing the Micro-T with minis whose supplied USB charger explicitly requires an additional adapter. Buying a complete truck should simplify the first session, rather than trigger an unrelated battery and electronics shopping list."
       ],
       "sourceIndexes": [
         0,
@@ -175,8 +174,7 @@
       "nav": "Motor and drivetrain",
       "heading": "Two-wheel drive rewards a gentler trigger finger.",
       "paragraphs": [
-        "The truck is rear-drive with a brushed motor and a combined ESC/receiver. Its power system is coordinated for the factory 2S package. I would learn how much throttle the rear tires can accept when leaving a corner before making a motor change. A stadium-truck shell does not make a micro vehicle a general-purpose lawn basher. Additional power is useful only if the course has room for it and the drivetrain remains within the manufacturer specification.",
-        "The documented Losi 65T brushed motor is the power equipment evaluated for Micro-T. With rear-wheel drive, available grip and trigger input need to work together. A harder trigger pull can ask more from the rear tires without improving the front wheels’ ability to turn. Start from the original LOS-1392T2 gearing and battery specification. Keep optional electronics purchases separate until the stock configuration reveals a specific requirement worth changing."
+        "The Losi 65T brushed motor drives the rear wheels, with speed control and radio reception handled by a combined 4A unit. That leaves the factory electronics matched to the supplied 2S pack. On a small circuit, the first useful adjustment is how gently the driver applies power out of a corner. A motor swap would spend money without solving a course that is too short, while changing the radio system needs planning around the integrated receiver/controller."
       ],
       "sourceIndexes": [
         0,
@@ -190,7 +188,7 @@
       "heading": "The speed switch lets the truck fit the room.",
       "paragraphs": [
         "The SLT2 throttle limiter is an unusually practical part of this purchase. Begin at the reduced output setting and widen the course before using full output. The goal should be to finish several clean laps with consistent braking points. The outside 1I-RC article includes running impressions and agrees with the advertised speed estimate, but that is not a timed RC Car King speed measurement. There is no need to turn an indoor beginner recommendation into a speed-ranking exercise.",
-        "The Micro-T control system is listed as Spektrum SLT2; 4A 2-in-1 SLT ESC/receiver. Treat the manual as the reference for binding, reversing, neutral settings and any assistance function supplied with this exact package. Radio frequency alone does not establish compatibility with a replacement transmitter or receiver. Check steering trim on the surface you intend to use, then verify response in both directions before a demanding session. For organized use, ask whether assistance is allowed and whether battery or tire rules apply; the factory radio cannot answer the venue’s rules for you. If the car behaves incorrectly, distinguish a setting issue from physical binding. A new electronic part is a poor first response when the existing linkage is prevented from moving freely."
+        "At only 145mm long, the truck can have room to circulate in places where a larger model cannot. The limiter is useful for making those laps deliberate: use a setting that leaves time to brake before the next corner, then open the circuit before increasing output."
       ],
       "sourceIndexes": [
         0,
@@ -203,8 +201,7 @@
       "nav": "Steering and suspension",
       "heading": "Short wheelbase changes the setup question.",
       "paragraphs": [
-        "A 102mm wheelbase places the axles closer together than on the Micro-B. That affects the space needed for a miniature obstacle and the truck proportions you see through a corner. It does not establish a handling winner without testing. Oil-filled shocks give the owner a damping system to maintain and tune, while the aluminum chassis provides the documented foundation. Inspect the small steering connections after contact with a barrier and preserve the factory settings as a return point.",
-        "The published construction for Micro-T is aluminum chassis; oil-filled shocks. Those details describe what an owner can inspect and maintain; they do not provide a measured suspension or steering score. Use the original mounting positions as a reference and check movement before changing springs, shock positions or link lengths. Its listed wheelbase is 102 mm, which makes exact replacement compatibility more useful than a generic Losi parts search. Confirm tire clearance through steering travel and suspension movement with the body installed. Change one mechanical setting at a time, record the new position and return to the baseline if the result becomes confusing. A good tuning process should explain the change you are seeking, rather than replace several components at once and leave you unable to identify which one helped."
+        "The Micro-T wheelbase is 102mm, against the Micro-B’s 118mm. That 16mm difference helps distinguish two vehicles that can look similarly tiny in photographs; it does not establish which turns faster or lands better. Oil-filled shocks give the owner a damping system to maintain, supported by an aluminum chassis. Before buying tuning parts, I would check the small steering connections and shock movement after barrier contact. These are more specific inspection jobs than treating the whole truck as a disposable toy."
       ],
       "sourceIndexes": [
         0,
@@ -217,9 +214,7 @@
       "nav": "Tires and terrain",
       "heading": "Make the jump smaller than your enthusiasm.",
       "paragraphs": [
-        "The useful terrain is low-pile indoor surfaces or smooth outdoor space, with ramps designed for these wheel dimensions. A jump with an abrupt entrance can act like a curb to a micro truck. I would use a shallow transition and a broad landing zone before attempting a more elaborate course. The tires are part of the grip decision, so ask a local micro group what they run before buying replacement wheels because another brand labels them compatible.",
-        "The Micro-T tire package is Pro-Line truck wheels and tires. Its intended terrain listing is indoor and on-road. Begin on a surface that lets you observe a consistent response, then adjust the course rather than immediately blaming the tire. Small stones, edges and loose fibers occupy a significant part of a micro vehicle’s obstacle scale. Remove debris and secure any homemade ramps or climbing pieces before the session. The published dimensions are 145 × 109 × 53 mm. They help plan the space and transport requirements, but they do not establish measured grip, rollover angle or jump behavior.",
-        "The Micro-T is listed at 145mm long and 109mm wide. Measure the usable lane between barriers rather than only the empty room dimensions, and leave a broad turning area where a new driver can recover without repeatedly contacting the same wall."
+        "The useful terrain is low-pile indoor surfaces or smooth outdoor space, with ramps designed for the Micro-T’s small wheels. Its Pro-Line truck tires and 109mm overall width do not turn it into a lawn vehicle. A jump with an abrupt entrance can act like a curb, so I would use a shallow transition and broad landing zone. If friends already run a micro track, check their surface and wheel rules before ordering replacement tires; the stadium-truck appearance alone cannot establish a matching setup."
       ],
       "sourceIndexes": [
         0,
@@ -232,8 +227,7 @@
       "nav": "Body and service",
       "heading": "The silver body is a finished starting point.",
       "paragraphs": [
-        "The supplied shell gives the truck its stadium appearance without a painting job. For someone who wants a small vehicle to drive between other projects, that is a practical part of the package. Remove and replace the shell carefully around the compact wiring rather than forcing it down when something catches. The model-specific drawing and manual are better repair references than a generic Micro-T search, which can include legacy parts and unrelated bodies.",
-        "The reviewed Silver · complete brushed stadium truck Micro-T is supplied as a complete vehicle with a finished body, rather than a replacement shell or bare platform. The official photographs show the exact package and relevant details; their staging is not our test record. Learn how the shell is secured before forcing access to the battery area, and protect any leads that cross between body and chassis. After running, inspect wheel attachment, steering movement and dirt accumulation, then consult the LOS-1392T2 drawing for part identification. A correct replacement number can be more useful than an expensive upgrade when the original component simply needs servicing. Body material, metal gears or aluminum construction describe the hardware, but none is treated here as evidence of crash resistance or a long-term reliability rating without physical testing."
+        "The supplied shell gives the truck its stadium appearance without a painting job. For someone who wants a small vehicle to drive between other projects, that is a practical part of the package. Remove and replace the shell carefully around the compact wiring rather than forcing it down when something catches. The model-specific drawing and manual are better repair references than a generic Micro-T search, which can include legacy parts and unrelated bodies."
       ],
       "sourceIndexes": [
         0,
@@ -246,8 +240,7 @@
       "nav": "Startup basket",
       "heading": "Keep the complete box advantage visible in the budget.",
       "paragraphs": [
-        "The official reference for the current truck is $89.99 at this check. The battery, charger, installed electronics, body and transmitter cells are already in the box according to Losi. An optional USB-C supply is a convenience decision, not a mandatory electronic upgrade. I would reserve the first extra money for a suitable practice setup and correct tools, then consider a spare pack only when charging interruptions actually limit the way the truck gets used.",
-        "The Micro-T price reference is $89.99 USD, checked on 13 October 2026 for the documented manufacturer package. It is separate from the timestamped Amazon offer, whose seller, amount and availability can change. Required extras remain visible: Nothing required; optional USB-C power supply recommended. The drive battery basis is 350mAh 2S LiPo · included. Count suitable existing equipment only after checking voltage, chemistry, connector and physical fit; capacity by itself is not a fit test. Keep a correct driver set, wheel tool, cleaning brush and appropriate charging/storage area in the ownership plan. These extras have not been priced here, so no speculative all-in total is presented. Optional cosmetic and performance parts should also remain outside the essential basket until you know what the original vehicle cannot do for your intended use."
+        "The manufacturer package reference recorded on 13 October 2026 was $89.99; this editorial revision does not recheck that price or availability. Losi’s recorded box list includes the battery, charger, installed electronics, finished body and transmitter cells. The optional USB-C supply therefore belongs in a different budget category from missing drive power. I would first pay for a usable practice course and well-fitting tools, then consider a spare pack if charging interruptions actually limit sessions."
       ],
       "sourceIndexes": [
         0,
@@ -301,7 +294,7 @@
       "heading": "The Micro-B is the more useful comparison than an upgrade motor.",
       "paragraphs": [
         "Losi Micro-B LOS00007T1 is a complete current buggy with a 118mm wheelbase, an included 2S package and an aluminum chassis. Its longer buggy proportions and tire presentation create a different buying route. Pick the Micro-T for the truck body and shorter footprint; pick the Micro-B when you want a micro buggy circuit or friends already use that format. We have not raced them against each other and do not infer a lap-time advantage from a scale label.",
-        "Losi Micro-B LOS00007T1 is the complete alternative used in the comparison with Micro-T. It is a 1/24 2WD brushed vehicle, with 350mAh 2S 30c LiPo · included. Its required completion is nothing required; manufacturer recommends an optional 65w usb-c supply. Those package differences are concrete enough to guide a shortlist without inventing a common track or obstacle test. First decide whether the comparison should keep the same scale and format, or whether your driving area points toward a different kind of vehicle. If a club is involved, local model knowledge and rules should be part of that decision. We link the alternative manufacturer's documentation so a buyer can verify its equipment independently. Similar product names, brand reputation and a lower car-only figure are not substitutes for a suitable completed purchase."
+        "Because both options include drive power, the decision is chiefly about the truck or buggy layout and the course you can use. The Micro-B’s longer wheelbase is a concrete distinction; spending first on a faster Micro-T motor does not reproduce the buggy’s proportions or put it in the same local class."
       ],
       "sourceIndexes": [
         0,
@@ -333,8 +326,7 @@
       "nav": "Final verdict",
       "heading": "The recommendation depends on a usable small circuit.",
       "paragraphs": [
-        "For a driver who wants indoor stadium-truck fun without a separate electronic build, the Micro-T is a coherent purchase. The main reservation is trying to make it serve a larger outdoor vehicle job. I would start with reduced throttle, the supplied tires and a forgiving course, then use observed problems to guide any changes. Its editorial score concerns package fit, setup opportunity and documented ownership, while the manufacturer’s runtime and speed statements remain clearly attributed claims.",
-        "Our assessment of Micro-T is directed at indoor driver wanting a compact stadium truck. Five equally weighted categories examine the documented package, purpose-fit equipment, adjustment and learning, service documentation and complete-purchase value. The mean is an editorial buying rating, not a measured speed or handling result and not Amazon customer stars. Independent article discusses a 20-plus-minute battery claim, while current official/API wording says 25-plus. Neither is a measured RC Car King runtime. That evidence limit is part of the decision instead of a footnote silently removed from the specifications. I would buy the exact LOS-1392T2 only when its body, size and intended environment match the use you can give it regularly. Equip it correctly, preserve the factory configuration as a reference and spend additional money on a diagnosed need. The strongest starter package is one that gets used and can be understood as its owner gains experience."
+        "For someone who wants indoor stadium-truck driving without selecting separate electronics, the Micro-T has a clear buying case. The short footprint, supplied 2S equipment and reduced-throttle option support that use. Its main limitation is asking a 145mm truck to do a larger outdoor vehicle’s job. The independent article discusses a 20-plus-minute battery claim, while the recorded official wording says 25-plus; neither establishes our measured runtime. Choose it for a compact circuit and the truck format, with that evidence limit understood."
       ]
     }
   ],
@@ -531,7 +523,7 @@
   "faqs": [
     {
       "question": "Which exact variant is linked?",
-      "answer": "LOS-1392T2, Silver · complete brushed stadium truck. The ASIN is checked against the manufacturer PartNumber and brand, not selected from its title alone."
+      "answer": "LOS-1392T2, Silver · complete brushed stadium truck. The recorded 13 October 2026 check matched the ASIN to the manufacturer PartNumber and brand; this editorial revision does not repeat that check."
     },
     {
       "question": "Is the drive battery included?",
@@ -587,12 +579,12 @@
       "kind": "Alternative manufacturer"
     }
   ],
-  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. Amazon Creators API verifies the ASIN, brand, manufacturer PartNumber and reviewed variant. Independent article discusses a 20-plus-minute battery claim, while current official/API wording says 25-plus. Neither is a measured RC Car King runtime. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
-  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media.",
+  "evidenceNote": "The official product page and exact manual establish the vehicle identity, package and setup. The 13 October 2026 Amazon Creators API check recorded the ASIN, brand, manufacturer PartNumber and reviewed variant; it has not been repeated for this editorial revision. Independent article discusses a 20-plus-minute battery claim, while current official/API wording says 25-plus. Neither is a measured RC Car King runtime. Outside coverage is attributed and its testing belongs to its author. RC Car King has not driven this vehicle; editorial recommendations and ratings assess the documented buying case.",
+  "revisionNote": "13 October 2026: researched and published the exact complete-vehicle review, equipment basket, conditional buying assessment and attributed official media. 30 October 2026: removed repeated general advice, clarified model-specific buying decisions and retained the original dated source and commercial evidence; no new Amazon verification or price check.",
   "seo": {
     "title": "Losi Micro-T Review | RC Car King",
     "description": "Explore the Losi Micro-T stadium truck package, supplied battery gear, oil shocks and the surfaces and obstacle sizes that suit a tiny indoor RC car."
   },
   "publishedAt": "2026-10-13T01:59:07+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T14:45:30+01:00"
 }

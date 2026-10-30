@@ -1,6 +1,15 @@
 # RC Car King SEO and discovery audit
 
-Updated 14 October 2026. Production: https://rccarking.com/.
+Updated 30 October 2026. Production: https://rccarking.com/.
+
+## Indexing and editorial cleanup — 30 October 2026
+
+- Search Console's Page indexing report (last updated 23 October) showed one indexed URL and 77 discovered but not yet crawled. Inspection of the original 240SX review confirmed that discovery state; Google's live test successfully fetched it with crawling and indexing allowed and its own production canonical.
+- Crawl stats through 28 October showed 113 requests, 93% images and 2% HTML, with no reported host problem. These observations establish limited HTML crawling, not a content penalty or a reason to change valid canonical/robots settings.
+- The sitemap index returned HTTP 200 with valid XML, while Search Console retained a fetch failure last read on 15 October. Its separately submitted child sitemap succeeded on 28 October with 86 discovered pages. The index was resubmitted successfully on 30 October; Google's refresh remains asynchronous. Current generated coverage is 94 canonical URLs.
+- Reworked fifteen Axial, Losi and Team Associated launch reviews to remove shared filler and improve exact-model buying decisions, buyer fit and historical price labels. The flagship 240SX review's startup-price discussion now explicitly refers to its original 13 October evidence.
+- Removed the enforced 2,000-word review minimum and updated editorial guidance to require specific useful analysis. A sentence-level publication check catches reused substantive prose even when a paragraph begins with a different model name. Across 69 reviews, exact normalized repeated sentences of at least 20 words fell from 21 groups to zero. This check detects one form of repetition; it does not score content quality or guarantee indexing.
+- Original publication dates, product identities, affiliate links, ratings, specifications, tables, source check dates and attributed media were preserved. Both deployment profiles passed their builds, content/schema/discovery checks and consent checks. No Amazon API requests or offer refreshes were performed. Detailed editorial evidence: `content/evidence/2026-10-30-editorial-originality.json`.
 
 ## Policy and discovery update — 14 October 2026
 

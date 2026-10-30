@@ -22,7 +22,7 @@ Discuss real vehicles from real brands. For now, publish complete-car packages o
 
 ## Required depth and structure
 
-Aim for 2,000–3,000 useful words for a main vehicle review. Depth means explaining decisions, not padding a specification list. The reusable product box must include the product photo, overview, exact model/variant, key specs, pros, cons, buy/skip fit, author/date treatment, rating and exact verified Amazon affiliate link.
+Let evidence and model-specific buying decisions determine review length; there is no minimum word count. Depth means explaining what this vehicle's equipment changes for its intended buyer. Remove repeated generic setup prose instead of swapping model names or paraphrasing it across the archive. Link to the practical guides when a general procedure needs more detail. The reusable product box must include the product photo, overview, exact model/variant, key specs, pros, cons, buy/skip fit, author/date treatment, rating and exact verified Amazon affiliate link.
 
 Cover package contents, drivetrain and motor, steering and controls, tires/terrain, setup, maintenance access, a complete startup basket, real alternative cars, a conditional verdict, a full specification table, FAQs and an evidence ledger. Include attributed official product photographs and technical illustrations where they explain a point. Community material requires an attributable source and appropriate permission before republishing photos; do not assume a public Reddit upload is a stock image.
 

@@ -10,7 +10,7 @@ A Tokyo night-racing RC review publication. Semantic HTML, responsive CSS, brows
 - [GitHub preview](https://alekspasseo.github.io/rc-car-king/)
 - [Initial 50-review launch index](LAUNCH_ARCHIVE.md): eight real brands, complete vehicles and body-inclusive kits.
 - Full product box: actual product photo, overview, specs, pros, cons, rating, buy/skip guidance and exact Amazon affiliate link.
-- 2,000+ words of core vehicle analysis in every review, five category scores, full specifications, startup-cost and alternative-car tables, six FAQs, attributed official media and dated sources.
+- Model-specific buying analysis without a minimum word count, five category scores, full specifications, startup-cost and alternative-car tables, six FAQs, attributed official media and dated sources. Publication checks reject reused substantive sentences across reviews.
 - The Garage Editor is an original house voice informed by RC Car Action, RC Driver and Big Squid RC. See EDITORIAL_VOICE.md.
 - Reviews cover complete cars and body-inclusive car kits. The earlier chassis-only pilot remains a source draft.
 - Shareable brand/price/use/search filters, RSS, sitemap, canonical metadata and Article/Review structured data.

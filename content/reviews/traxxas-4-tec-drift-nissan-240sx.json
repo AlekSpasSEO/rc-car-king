@@ -11,7 +11,7 @@
   "title": "Traxxas 4-Tec Drift Nissan 240SX review: a proper first step sideways?",
   "dek": "A complete RWD drift car with an S13 shell, adjustable driving assistance and two tire compounds. Here’s what you’re buying, what you still need, and where the compromises show up.",
   "published": "2026-10-13",
-  "updated": "2026-10-13",
+  "updated": "2026-10-30",
   "status": "published",
   "reviewType": "Research-led review",
   "handsOn": false,
@@ -288,8 +288,8 @@
       "nav": "The complete startup cost",
       "heading": "The number that matters is the cost of your first usable session.",
       "paragraphs": [
-        "At this check, the manufacturer lists the car at $299.95, and the Amazon Creators API returned the same amount for the verified black complete-car ASIN. The Amazon product box shows a timestamped offer only while the snapshot is less than 24 hours old. Once it expires, the button still leads to the exact product, but the page asks you to check the live price.",
-        "Traxxas also lists the 2992 2S LiPo battery-and-charger completer at $129.95. Using that particular bundle makes the arithmetic $299.95 + $129.95 = $429.90 before transmitter batteries, tax and shipping. This is an illustrative manufacturer-based basket, not a claim that this bundle is your only compatible option or the cheapest one.",
+        "The dated 13 October 2026 US manufacturer reference was $299.95 for the car. This is a historical comparison figure, not a current offer. The linked Amazon variant was last verified on that date; check present price and availability with the retailer. Any Amazon price appears only in the separate offer box while its timestamp is less than 24 hours old.",
+        "The 13 October manufacturer reference for the Traxxas 2992 2S LiPo battery-and-charger completer was $129.95. That dated example makes the arithmetic $299.95 + $129.95 = $429.90 before transmitter batteries, tax and shipping. Use it to understand the size of the extra-equipment budget, then check present prices and compatibility before ordering. The bundle is one documented option, not the only compatible route.",
         "If you already own a suitable battery and charger, do not buy them again just to follow an example. Check the pack’s chemistry, voltage, connector and dimensions. The listed battery compartment is 174 × 48 mm, with 23 or 26 mm height accommodation. Capacity alone will not tell you whether a pack fits.",
         "Keep optional lighting and cosmetic purchases out of the initial comparison. First pay for a correctly equipped car and a place to use it. If you already know that you want different radio electronics, a new servo and brushless power, write that total down before choosing the Traxxas. The appealing price on the car’s box is not the final answer."
       ],
@@ -555,12 +555,12 @@
       "kind": "Independent coverage"
     }
   ],
-  "evidenceNote": "Manufacturer documentation establishes the listed hardware and setup requirements. Amazon Creators API verifies the exact complete-car listing, variant and offer. RC Driver supplies independent coverage of the same Nissan model; its driving is not our driving. We do not carry earlier Mustang or 4WD touring-car test results across to this model. Weight figures conflict in the manufacturer table, so weight is flagged rather than silently corrected.",
-  "revisionNote": "13 October 2026: published the complete-car review, product box, editorial rating rubric, exact Amazon API match and attributed official product images.",
+  "evidenceNote": "Manufacturer documentation establishes the listed hardware and setup requirements. The archived 13 October 2026 Amazon Creators API result established the exact complete-car listing and variant at that time. It is not fresh offer or availability verification. RC Driver supplies independent coverage of the same Nissan model; its driving is not our driving. We do not carry earlier Mustang or 4WD touring-car test results across to this model. Weight figures conflict in the manufacturer table, so weight is flagged rather than silently corrected.",
+  "revisionNote": "13 October 2026: published the complete-car review, product box, editorial rating rubric, exact Amazon API match and attributed official product images. 30 October 2026: clarified historical startup-cost references and the date of archived affiliate identity verification; no Amazon API lookup or offer refresh.",
   "seo": {
     "title": "Traxxas 4-Tec Drift Nissan 240SX Review | RC Car King",
     "description": "Review the Traxxas Nissan 240SX RWD drift car: driving assistance, tire compounds, setup, separate battery costs, exact specs, pros, cons and editorial rating."
   },
   "publishedAt": "2026-10-13T00:31:17+02:00",
-  "updatedAt": "2026-10-13T23:06:17+02:00"
+  "updatedAt": "2026-10-30T13:44:39.121Z"
 }
