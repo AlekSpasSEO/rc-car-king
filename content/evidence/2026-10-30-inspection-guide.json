@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-30",
+  "route": "guides/rc-car-pre-run-post-run-checklist/",
+  "intentKey": "build-dry-electric-rc-inspection-routine-before-power-after-driving-and-before-scheduled-service",
+  "coreWords": 1475,
+  "researchTime": "2026-10-30T10:00:56.965Z",
+  "baseline": {
+    "commit": "bdb0b9a812290d46491894805637a44eb473a88b",
+    "cloudflareDeployment": "d06f88dd-0309-4c1d-9e82-c3aa3cf07099",
+    "status": "success; no pending batch; no guide for current date"
+  },
+  "sources": [
+    {
+      "name": "ARRMA — ARA3505 manual, pages 12–23 and body-access reference",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "kind": "Manufacturer operating, maintenance and troubleshooting instructions; exact brushless 2WD model",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — AXI03008V2 English manual, pages 5–10",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "kind": "Manufacturer access, radio-check and maintenance instructions; generic tire-bonding wording distinguished from stock wheels",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Team Associated — Reflex 14B Ongaro manual, pages 4–5",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "kind": "Manufacturer battery restraint, body clips and radio-startup reference; no charging method transferred from generic text",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial / Horizon Hobby — exact CJ-7 V2 package and Raceline Daytona beadlocks",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer current stock-configuration description",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Team Associated — exact standard 20185 package and separate 20185C combo",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer current package and supplied-equipment distinction",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Reedy — SC300-BL controller troubleshooting, protection and calibration reference",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reedy_ESC_SC300BL_Manual.pdf",
+      "kind": "Manufacturer electronics manual; settings and indications not generalized to other controllers",
+      "checked": "2026-10-30"
+    }
+  ],
+  "manualChecks": [
+    {
+      "name": "vorteks-manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "status": 200,
+      "sha256": "af586b1df7b932565945f57202d574cedfd962731703bf62ccef5054fc211770",
+      "matchesMorningCopy": true
+    },
+    {
+      "name": "cj7-manual",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "status": 200,
+      "sha256": "f0a2a643531324565020e52f1e2c9fa43d83a79bea4cd38d883305de718126c7",
+      "matchesMorningCopy": true
+    },
+    {
+      "name": "reflex-manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "status": 200,
+      "sha256": "3cffa815edd7ccb7d1d5f02ceee275af60fe213fcb2a0bbb6470028ddeb1bf72",
+      "matchesMorningCopy": true
+    }
+  ],
+  "sourceCautions": [
+    "CJ7 page9 includes generic bonded-bead maintenance text although current exact product lists beadlocks; guide identifies difference and does not prescribe gluing.",
+    "Reflex manual has generic older charging language; no charging instructions are transferred. Current battery/charger documentation controls actual charging.",
+    "All actual powered checks, torque, threadlock, lubricants, service intervals and electrical limits remain model-specific."
+  ],
+  "media": "Original accessible HTML/CSS inspection map. No new product/community imagery or invented demonstration.",
+  "commerce": "No direct buying links or price claims; no Amazon API, credentials or offers accessed.",
+  "validation": {
+    "production": "Build and check passed: 69 reviews, 9 articles, 95 HTML pages, 94 sitemap URLs.",
+    "preview": "Default GitHub preview build and check passed with separate canonical/indexing profile.",
+    "desktop": "1440×900 IAB visual inspection: heading, byline, short answer and original concept map render correctly.",
+    "mobile": "390×844 IAB visual inspection: header, answer and 8-item completion checklist readable. No page-level overflow (375px page); 530px comparison table is contained in 335px overflow:auto wrapper. Checklist anchor and wheel-system FAQ expansion verified. Viewport reset.",
+    "publication": "After push require matching successful Cloudflare commit, then npm run check:live -- --date 2026-10-30 for production and the same command with --preview. The date includes today’s three reviews plus this new guide."
+  }
+}

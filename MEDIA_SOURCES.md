@@ -90,3 +90,8 @@ Official ARRMA/Horizon ARA3530T1 photos, Team Associated20190 body photos plus t
 ## Weekday reviews · 30 October 2026
 
 Nine individually inspected official assets cover yellow ARRMA Vorteks 223S 2WD ARA3505T1, standard Team Associated Reflex 14B Ongaro 20185 and red Axial SCX10 III CJ-7 V2 AXI03008V2T1. The [dated media manifest](content/evidence/2026-10-30-review-media.json) records exact image URLs, credits, bytes, hashes and manual fingerprints. Completion diagrams identify separately required power equipment. Reflex body-off photos explicitly warn that the pictured combo battery is absent from standard 20185. The red CJ-7 trail image is credited manufacturer photography, not an RC Car King test; copper T2 styling is not assigned to the red T1. No community or independent-publication photographs are reused.
+
+
+## Daily guide · 30 October 2026 · Before and after a run
+
+The inspection guide uses an original accessible three-stage HTML/CSS map: before power, after driving and due service. It is a conceptual inspection aid, not a fabricated workshop demonstration or repair diagram. No new product or community photographs are used. The [dated guide evidence](content/evidence/2026-10-30-inspection-guide.json) records exact manual fingerprints, model-specific retention differences and the boundary between inspection and service.

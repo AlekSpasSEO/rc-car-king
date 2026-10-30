@@ -1,0 +1,307 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-pre-run-post-run-checklist",
+  "intentKey": "build-dry-electric-rc-inspection-routine-before-power-after-driving-and-before-scheduled-service",
+  "status": "published",
+  "title": "RC car inspection checklist: before and after a run",
+  "dek": "A repeatable routine for wheels, debris, battery retention, wiring and body access, with exact-model examples and a clear point to stop.",
+  "seo": {
+    "title": "RC Car Pre-Run & Post-Run Checklist | RC Car King",
+    "description": "Inspect your electric RC car before and after driving: wheels, wiring, battery retention, debris, body access and model-specific maintenance decisions."
+  },
+  "published": "2026-10-30",
+  "updated": "2026-10-30",
+  "publishedAt": "2026-10-30T10:00:56.965Z",
+  "updatedAt": "2026-10-30T10:00:56.965Z",
+  "answer": "Before driving, inspect the unpowered vehicle for damage, loose or missing fittings, tire and wheel problems, trapped debris, insecure battery retention and damaged wiring. Then perform the exact model’s documented radio and function checks. After driving, follow its shutdown and battery-disconnection procedure, let hot components cool, inspect again and record any service needed. A checklist organizes those decisions; the vehicle’s current manual controls the actual procedures.",
+  "scope": "This routine covers dry-use inspections of electric hobby RTR vehicles. Examples are the ARRMA Vorteks 223S 2WD ARA3505T1, Axial SCX10 III CJ-7 V2 AXI03008V2T1 and Team Associated Reflex 14B Ongaro 20185. It does not provide a universal repair, wet-recovery, battery-charging or lubrication procedure. It is an editorial inspection framework based on manufacturer documentation, not a recorded workshop test.",
+  "prerequisites": [
+    "The exact SKU, current vehicle manual and relevant battery, charger and electronics instructions",
+    "Good light, a clear work surface and a small tray for clips or removed fittings",
+    "Correctly fitting hand tools only for checks or access the actual manual specifies",
+    "A short record of the previous outing, any impacts, changes and unresolved symptoms"
+  ],
+  "conceptCaption": "Three separate decisions in a normal dry outing; an original inspection map, not a repair diagram",
+  "concepts": [
+    {
+      "name": "BEFORE POWER",
+      "description": "Find damage, obstruction and retention problems before operating the car."
+    },
+    {
+      "name": "AFTER DRIVING",
+      "description": "Shut down, disconnect as directed, cool and compare with the starting condition."
+    },
+    {
+      "name": "DUE SERVICE",
+      "description": "Resolve specific faults and follow the model’s own maintenance schedule."
+    }
+  ],
+  "sections": [
+    {
+      "id": "make-baseline",
+      "heading": "Start with the actual car and a known baseline",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "An inspection is most useful when it compares today’s car with a condition you understand. Record the exact model, installed power equipment and known modifications. A stock manual can identify the original parts, but it cannot confirm what a previous owner changed. If an important assembly differs from the documentation, resolve that uncertainty before relying on a generic checklist or ordering a guessed replacement.",
+        "Keep three categories separate: something visibly wrong, something that needs checking under the manual, and a routine service item due later. A missing fastener is different from deciding whether shock fluid needs service. Mixing them into a vague “needs maintenance” note makes it easier to overlook a fault before the next outing. Describe the location and symptom rather than immediately declare an internal component broken.",
+        "Do the initial hands-on inspection with drive power disconnected according to the model’s instructions. Do not reach into the drivetrain merely because the trigger is released. When access requires a specific body-removal sequence, use that sequence. A checklist is a route around the vehicle, not permission to dismantle unfamiliar mechanisms or force steering and suspension parts against their limits."
+      ]
+    },
+    {
+      "id": "before-power",
+      "heading": "Before power: make five passes around the vehicle",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "Use the same order each time so the easy-to-see body damage does not distract from wheels, leads or retention. These are observation passes. Any tightening, removal or repair must use the actual model’s hardware and assembly instructions."
+      ],
+      "steps": [
+        {
+          "heading": "Look at the body and its retention",
+          "paragraphs": [
+            "Check for displaced bodywork, missing clips, a loose latch and anything contacting a tire or moving linkage. On the CJ-7 V2, the manual says to lift the body gently because lighting wires connect it to the chassis. Support the body without straining those leads. On a clipless vehicle, confirm its own retention mechanism is correctly engaged rather than search for clips it does not use."
+          ]
+        },
+        {
+          "heading": "Identify the wheel and tire attachment",
+          "paragraphs": [
+            "Look for a damaged tire, a visibly shifted bead, loose wheel attachment or material caught around the axle area. Establish whether the tire is glued or mechanically clamped before choosing a remedy. The Vorteks manual specifically calls for checking its tire bonds. That is not a reason to glue a beadlock wheel on another car. An uncertain attachment needs the relevant wheel instructions before running."
+          ]
+        },
+        {
+          "heading": "Check steering, suspension and visible drive parts",
+          "paragraphs": [
+            "Look for bent or disconnected links, missing fittings and obstructions. Axial’s maintenance page names steering binding, link-joint wear and damaged drive components; ARRMA also calls out loose fittings and obstructed rotating parts. If something has changed since an impact, record it before moving radio settings. Do not assume extra steering travel or a stronger servo is the answer to an unidentified restriction."
+          ]
+        },
+        {
+          "heading": "Check the battery restraint and lead route",
+          "paragraphs": [
+            "Inspect the selected pack and its connections using the battery manufacturer’s condition guidance. Do not run or charge a pack that fails that guidance. Confirm the restraint is the correct one for the vehicle and that leads cannot meet rotating parts or be pinched during closure. A pack that physically enters a compartment is not automatically secured correctly, and a connector must not serve as its restraint."
+          ]
+        },
+        {
+          "heading": "Look for loose connections and damaged wiring",
+          "paragraphs": [
+            "Inspect accessible leads for fraying, pinching or a changed connection, and check the receiver antenna as the manual directs. Stop if damaged insulation, a loose electrical assembly or an unfamiliar modification makes the installation uncertain. This pass is visual; it is not an instruction to probe live circuits, bridge connectors or repair an electrical fault while the battery remains connected."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "function-checks",
+      "heading": "Powered checks are a separate, documented step",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "paragraphs": [
+        "After the unpowered inspection passes, follow the exact manual’s radio, direction and range-check procedure in its specified safe arrangement. Startup order, support of the vehicle, clearance around moving parts and the required observations belong together. Do not take a single instruction out of context and improvise the rest. Keep bystanders, loose clothing, fingers and tools clear, and stop if operation is erratic.",
+        "Confirm the controls the actual car provides. The CJ-7 V2 has DIG to check; the rear-drive Vorteks has DSC settings and a throttle limiter; the Reflex uses its own radio and ESC instructions. A different LED color or control position can mean something different on each installation. Inspection should establish normal operation before driving, rather than become a reason to rebind or recalibrate a correctly functioning factory system."
+      ]
+    },
+    {
+      "id": "after-driving",
+      "heading": "After driving: cool, compare and record",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "An after-run check catches changes while you still remember where the car struck something or began behaving differently. It also gives the next outing a useful starting record."
+      ],
+      "steps": [
+        {
+          "heading": "Follow shutdown and disconnection instructions",
+          "paragraphs": [
+            "Use the vehicle’s documented shutdown order and disconnect its drive battery as directed. Keep clear of hot components and allow the required cooling period before handling or servicing them. Do not treat a power switch alone as a substitute for battery disconnection. Put charging and storage into their own battery-specific routine; this inspection guide does not assign a universal storage voltage or charging setting."
+          ]
+        },
+        {
+          "heading": "Compare the car with the starting condition",
+          "paragraphs": [
+            "Look again at body retention, tire seating, wheel attachment, visible links and wiring. Note new damage, leakage, debris or a changed part position. ARRMA specifically warns that grass or stones obstructing rotating parts can add load. If removing an obstruction requires taking an assembly apart, use the manual and appropriate tools instead of pulling blindly at a trapped strand near the drivetrain."
+          ]
+        },
+        {
+          "heading": "Write a clear next action",
+          "paragraphs": [
+            "Record the affected area and what happened: for example, a loose body latch after a roll or a new steering restriction on one side. Decide whether the car is ready for its next documented check or needs a specific inspection or repair first. An unresolved loss of control, damaged wire or insecure wheel is not a note to ignore until another full battery has been driven."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model-differences",
+      "heading": "The same question can require different access",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "paragraphs": [
+        "The Vorteks ARA3505T1 has bottom-loading battery access and clipless body retention. Those features are convenient, but the door, latch and pack restraint still need to be correctly secured. The Reflex 20185 uses a battery strap retained with body clips, and its manual specifies battery-lead orientation. A shared instruction to “check the battery” should therefore become two different, documented access and retention checks.",
+        "The CJ-7 V2 adds body-mounted lighting leads to the access routine. Its current manufacturer page also identifies Raceline Daytona beadlock wheels. Page 9 of the manual contains generic wording about tire beads being bonded to rims. Read that alongside the actual supplied wheel system: the generic line is not an instruction to add glue to the stock beadlocks. If assembly details are unclear, obtain model-specific guidance rather than resolve the mismatch by guessing.",
+        "This is why a personal checklist should include the parts that make your car different. Write “lighting leads supported” for the CJ-7 or “strap clips present” for the Reflex. Keep the general inspection question, then attach the right access method. The routine becomes more useful without expanding into an unsupported universal repair procedure."
+      ],
+      "table": {
+        "caption": "Stock examples checked 30 October 2026; use the current exact manual",
+        "columns": [
+          "Complete vehicle",
+          "Inspection detail",
+          "Avoid this assumption"
+        ],
+        "rows": [
+          [
+            "Vorteks 223S 2WD ARA3505T1",
+            "Bottom battery access; clipless body; tire-bond inspection",
+            "A closed door alone proves the pack and leads are secure"
+          ],
+          [
+            "CJ-7 V2 AXI03008V2T1",
+            "Body lighting leads; stock beadlock wheel system",
+            "Generic bonded-bead wording means glue the beadlocks"
+          ],
+          [
+            "Reflex 14B Ongaro 20185",
+            "Battery strap clips and specified lead orientation",
+            "A pictured combo battery proves the standard package is complete"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "stop-or-service",
+      "heading": "Troubleshoot a change before tuning around it",
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ],
+      "paragraphs": [
+        "If the car no longer tracks or turns as it did before an impact, inspect its mechanical condition before adjusting trim. Trim can shift a neutral reference; it cannot straighten a bent link or clear material trapped beside a wheel. Likewise, a new noise or loss of drive should lead to the actual troubleshooting instructions, not an assumption that a differential, motor or slipper has failed.",
+        "If motor drive cuts out, preserve the controller’s protection functions and identify its documented indication. The Vorteks manual separates low-voltage and thermal indications, while the Reflex’s SC300-BL has its own troubleshooting reference. Do not borrow one controller’s LED meanings or battery-mode settings for another. A check that ends with an unresolved electrical or control problem is a reason to stop operating and seek the appropriate support."
+      ]
+    },
+    {
+      "id": "service-log",
+      "heading": "Use the log to plan the next service",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "paragraphs": [
+        "The pre-run and post-run routine does not replace scheduled maintenance. ARRMA’s ARA3505 manual describes checks at different frequencies and refers owners to its technical pack for gear-mesh and slipper work. Axial names its own maintenance areas. Those instructions belong to their respective assemblies. Do not turn an interval or lubricant from one model into a rule for every brushed motor, brushless motor, bearing or gearbox in the garage.",
+        "Use a simple record with the date, driving conditions, impacts, observations and next action. Mark a task complete only when the relevant check or repair is actually done. This is an editorial way to keep the manufacturer’s requirements visible, not a claimed reliability study. No checklist can guarantee that a future run will be fault-free, but a specific record prevents yesterday’s known problem from becoming today’s forgotten starting condition."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "The car is ready for its documented operating checks when…",
+    "items": [
+      "Exact model, installed configuration and relevant manuals are identified",
+      "No unresolved damage, insecure wheel or tire attachment remains",
+      "Body and battery restraints are correctly engaged with clear lead routing",
+      "Steering and visible drive areas are free of identified obstructions",
+      "Accessible wiring and antenna show no unresolved damage",
+      "The actual model’s powered-check procedure and controls are understood",
+      "After-run shutdown, cooling and battery care are planned",
+      "Service-due items and unresolved symptoms are written down"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "arrma/vorteks-223s-dsc-2wd/",
+      "title": "ARRMA Vorteks 223S DSC 2WD · ARA3505T1",
+      "note": "Bottom-loading battery access, clipless retention, stock tire system and controller indications."
+    },
+    {
+      "route": "axial/scx10-iii-jeep-cj-7-v2/",
+      "title": "Axial SCX10 III CJ-7 V2 · AXI03008V2T1",
+      "note": "Wired body access, beadlock wheels, DIG controls and the exact V2 electronics."
+    },
+    {
+      "route": "team-associated/reflex-14b-ongaro-rtr/",
+      "title": "Team Associated Reflex 14B Ongaro · 20185",
+      "note": "Compact battery restraint, body clips, separate electronics and standard-package limits."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should I tighten every screw before every run?",
+      "answer": "Inspect for loose or missing fittings, then use the exact manual’s instructions for any correction. Indiscriminate tightening can damage parts or change an adjustment. Do not invent torque or thread-locking rules."
+    },
+    {
+      "question": "Can I inspect the drivetrain with the battery connected if the trigger is neutral?",
+      "answer": "Perform hands-on inspection with drive power disconnected as the manufacturer directs. Powered radio/function checks are a separate procedure with the model’s specified precautions."
+    },
+    {
+      "question": "Do all RC tires need their glue checked?",
+      "answer": "No. Identify the actual tire-retention system first. The Vorteks manual discusses glued tire bonds; the stock CJ-7 V2 uses beadlock wheels. Generic tire-bonding wording is not a beadlock-gluing instruction."
+    },
+    {
+      "question": "Does a pre-run inspection replace scheduled service?",
+      "answer": "No. It helps identify condition changes and due work. Lubrication, fluid changes, gear adjustments and disassembly still follow the exact model’s maintenance schedule and methods."
+    },
+    {
+      "question": "Should I adjust steering trim after every crash?",
+      "answer": "Check for damage, obstruction or shifted components first. Trim is a neutral adjustment, not a repair for a bent or restricted steering assembly."
+    },
+    {
+      "question": "Does this guide cover wet running or damaged battery recovery?",
+      "answer": "No. It covers dry-use inspection. Wet exposure and battery faults need the actual vehicle, battery and charger manufacturers’ specific instructions and appropriate support."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA — ARA3505 manual, pages 12–23 and body-access reference",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "kind": "Manufacturer operating, maintenance and troubleshooting instructions; exact brushless 2WD model",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — AXI03008V2 English manual, pages 5–10",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "kind": "Manufacturer access, radio-check and maintenance instructions; generic tire-bonding wording distinguished from stock wheels",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Team Associated — Reflex 14B Ongaro manual, pages 4–5",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "kind": "Manufacturer battery restraint, body clips and radio-startup reference; no charging method transferred from generic text",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial / Horizon Hobby — exact CJ-7 V2 package and Raceline Daytona beadlocks",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer current stock-configuration description",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Team Associated — exact standard 20185 package and separate 20185C combo",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer current package and supplied-equipment distinction",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Reedy — SC300-BL controller troubleshooting, protection and calibration reference",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reedy_ESC_SC300BL_Manual.pdf",
+      "kind": "Manufacturer electronics manual; settings and indications not generalized to other controllers",
+      "checked": "2026-10-30"
+    }
+  ],
+  "evidenceNote": "An original inspection framework based on exact manufacturer operating and maintenance documents checked 30 October 2026. The three-stage map and record-keeping routine are editorial explanations, not a physical test or a universal service schedule. Stock tire-retention differences and generic manual wording are identified explicitly. No repair specification, lubricant, charging setting or reliability result is invented.",
+  "revisionNote": "First published 30 October 2026. A dry-use inspection routine with exact-model access examples and a clear separation between condition checks, powered checks and scheduled service."
+}

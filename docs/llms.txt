@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [RC car inspection checklist: before and after a run](https://alekspasseo.github.io/rc-car-king/guides/rc-car-pre-run-post-run-checklist/): Inspect your electric RC car before and after driving: wheels, wiring, battery retention, debris, body access and model-specific maintenance decisions.
 - [RC car differentials: open, locked and center explained](https://alekspasseo.github.io/rc-car-king/guides/rc-car-differentials-open-locked-center/): Understand open, locked and center RC differentials, with exact vehicle examples, a drivetrain audit and practical checks before changing your setup.
 - [RC crawler geometry: wheelbase, clearance and obstacle lines](https://alekspasseo.github.io/rc-car-king/guides/rc-crawler-wheelbase-ground-clearance/): Understand RC crawler wheelbase, approach, breakover and ground clearance. Read exact TRX-4M Defender and K10 examples, then plan a sensible obstacle line.
 - [RC car steers but won’t move: what to check first](https://alekspasseo.github.io/rc-car-king/guides/rc-car-steers-but-wont-move/): RC car steers but will not drive? Follow a safe diagnostic sequence, distinguish cutoff from setup faults, and read exact-model LED codes before replacing parts.
