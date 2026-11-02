@@ -1,0 +1,269 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-scale-size-explained",
+  "intentKey": "interpret-rc-scale-labels-compare-real-dimensions-and-measure-space-before-choosing-vehicle-size",
+  "status": "published",
+  "title": "RC car scale explained: choose by real size, not just the number",
+  "dek": "What 1/10, 1/14 and 1/24 mean, why two cars with the same scale can have different footprints, and how to measure the space you actually have.",
+  "seo": {
+    "title": "RC Car Scale & Size Explained | RC Car King",
+    "description": "Understand RC car scale, compare real 1/10, 1/14 and 1/24 dimensions, and measure storage, driving space and terrain before choosing your next car."
+  },
+  "published": "2026-11-02",
+  "updated": "2026-11-02",
+  "publishedAt": "2026-11-02T10:14:19.896Z",
+  "updatedAt": "2026-11-02T10:14:19.896Z",
+  "answer": "An RC scale such as 1/10 describes a nominal size relationship to a full-size vehicle: one model unit represents ten full-size units. With the same reference vehicle, a smaller denominator means a larger model. For shopping, compare the exact car’s length, overall width, height and wheelbase as well. Scale alone does not establish its footprint, operating space, terrain ability, speed or equipment compatibility.",
+  "scope": "This is a size-selection guide for complete electric RC vehicles. Four stock examples illustrate manufacturer dimensions, not a physical comparison test: ARRMA Vorteks ARA3505T1, Axial CJ-7 V2 AXI03008V2T1, Team Associated Reflex 14B Ongaro 20185 and Axial SCX24 C10 AXI-3408T1. It does not set race-class eligibility, safe operating distances or interchangeable-parts specifications.",
+  "prerequisites": [
+    "Exact model and SKU, including generation and stock or modified configuration",
+    "Manufacturer dimensions and current vehicle instructions",
+    "A tape measure or ruler, paper and removable markers suitable for the surface",
+    "Measurements of storage, transport openings and the intended driving area"
+  ],
+  "conceptCaption": "An original three-question size map; conceptual labels, not vehicles drawn to scale",
+  "concepts": [
+    {
+      "name": "SCALE",
+      "description": "What nominal size relationship does the manufacturer describe?"
+    },
+    {
+      "name": "FOOTPRINT",
+      "description": "What are this exact vehicle’s actual outside dimensions?"
+    },
+    {
+      "name": "SPACE",
+      "description": "Can it be stored, carried and operated appropriately where you intend?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "read-scale",
+      "heading": "Read the fraction before comparing the cars",
+      "paragraphs": [
+        "In an exact scale model, a 1/10 length is the corresponding full-size length divided by ten. A hypothetical 4,000mm-long reference vehicle would therefore become 400mm at 1/10 or 200mm at 1/20. Those figures are arithmetic examples, not dimensions assigned to a car in our archive. They make the direction clear: increasing the denominator makes the model smaller when the reference stays the same.",
+        "RC shopping rarely holds that reference constant. A pickup, a buggy and a stadium truck have different proportions and may use a nominal class designation rather than reproduce every dimension of one full-size original. You cannot calculate an exact chassis length from the scale label without knowing what is being represented. Treat the fraction as an introduction to the size category, then read the actual specification.",
+        "Write scale with its slash or colon intact. “1/10” and “1:10” express the same ratio; “10-inch” expresses a measured length and means something else. A search result that mixes these descriptions can look relevant while referring to an entirely different footprint. Product photographs are equally weak measuring tools when the camera distance and reference objects are unknown."
+      ]
+    },
+    {
+      "id": "dimensions",
+      "heading": "Use four dimensions, each for a different question",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "Overall length helps with a shelf, bag or transport compartment. Overall width is particularly useful for doors, storage slots and narrow passages. Height matters under a shelf or lid, including the body and anything projecting above it. A vehicle that fits an open rectangle on the floor may still fail the height check when its container closes.",
+        "Wheelbase is the distance between the front and rear axle centers. It is not overall length: the body, bumpers or wing can extend beyond the axles. Likewise, track width describes wheel positioning rather than necessarily the widest outside point. Use the dimension the manufacturer actually labels. If a listing gives only track width, do not silently enter it as overall width in your storage calculation.",
+        "Notice missing data. Team Associated’s current Reflex 14B Ongaro page gives 304mm length and 202mm width but lists wheelbase as “varies.” Our comparison preserves that uncertainty. A precise number copied from another Reflex variant would make the table look complete while reducing its usefulness. Ask for the missing exact-model measurement when that dimension determines whether the car will fit."
+      ]
+    },
+    {
+      "id": "examples",
+      "heading": "The same scale does not mean the same footprint",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "The manufacturer lists both the Vorteks 223S 2WD and CJ-7 V2 as 1/10. The Vorteks is 456mm long and 325mm wide; the CJ-7 is 480mm long and 235mm wide. The crawler is longer, while the stadium truck is wider. That reverses the simple assumption that the longer car must need the wider storage space. Different vehicle layouts explain why the shared label cannot settle the choice.",
+        "The 1/14 Reflex is smaller in its listed footprint than either of those examples, while the 1/24 C10 is smaller again. This is a useful comparison of these four products, not a boundary chart for every vehicle sold at each scale. A different body, generation or modified suspension can change the figures. Keep the SKU attached to the dimensions instead of building a universal “all 1/10 cars” rule.",
+        "All figures below are manufacturer listings checked on 2 November 2026. We have not independently measured the cars or a loaded transport case. The table helps create a shortlist; it does not confirm turning clearance, a route through obstacles or the exact usable space inside a padded bag."
+      ],
+      "table": {
+        "caption": "Stock manufacturer dimensions in millimeters; length × width × height, checked 2 November 2026",
+        "columns": [
+          "Exact complete vehicle",
+          "Scale",
+          "Outside dimensions",
+          "Wheelbase"
+        ],
+        "rows": [
+          [
+            "ARRMA Vorteks 223S 2WD · ARA3505T1",
+            "1/10",
+            "456 × 325 × 170mm",
+            "286mm"
+          ],
+          [
+            "Axial CJ-7 V2 · AXI03008V2T1",
+            "1/10",
+            "480 × 235 × 248mm",
+            "312mm"
+          ],
+          [
+            "Team Associated Reflex 14B Ongaro · 20185",
+            "1/14",
+            "304 × 202mm; height not assigned here",
+            "Manufacturer: varies"
+          ],
+          [
+            "Axial SCX24 C10 · AXI-3408T1",
+            "1/24",
+            "213 × 99 × 112mm",
+            "132mm"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "measure-space",
+      "heading": "Measure your space before choosing a size",
+      "paragraphs": [
+        "This is a practical planning exercise, not a driving test. Use removable marks only where they will not damage a surface, and keep the comparison unpowered. The goal is to eliminate a poor fit before buying, rather than discover that the car needs a different home after delivery."
+      ],
+      "steps": [
+        {
+          "heading": "Record the exact outside dimensions",
+          "paragraphs": [
+            "Put the model name, SKU, length, width and height on one line. Keep millimeters throughout or convert all figures consistently; do not compare a centimeter measurement directly with an inch listing. If dimensions are approximate or an accessory changes the outside shape, record that qualification. Do not use the shipping carton’s size as the vehicle’s size."
+          ]
+        },
+        {
+          "heading": "Mark the storage footprint and check height",
+          "paragraphs": [
+            "Lay out the listed length and width on paper or with removable markers. Check the shelf opening, lip, lid and route into the space, not just its largest internal area. Leave suitable handling room and account for any case padding. There is no universal clearance allowance here: a soft bag, a shelf and a rigid box present different constraints."
+          ]
+        },
+        {
+          "heading": "Separate transport and operating space",
+          "paragraphs": [
+            "Check the narrowest opening the car must pass through when carried. Then inspect the intended driving area separately. A car can fit through a gate yet be inappropriate to drive beside people, traffic or breakable objects. Use the manufacturer’s operating restrictions and a suitable permitted location; a footprint diagram cannot establish safe operating clearance."
+          ]
+        },
+        {
+          "heading": "Inspect the surface at tire level",
+          "paragraphs": [
+            "Look at loose stones, grass, joints, roots and any step the vehicle would encounter. A full-size view from standing height can hide the obstacle that dominates a small car’s route. Compare the exact tire dimensions, ground clearance and vehicle purpose where documented. If that information is missing, choose a better-documented option or seek the manufacturer’s guidance before assuming it will work."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terrain-controls",
+      "heading": "Size and intended use answer different questions",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "In this comparison, the Vorteks is a stadium truck, the CJ-7 and C10 are crawlers, and the Reflex is an off-road buggy. Those categories tell you something the fractions do not: the driving task the vehicle is designed around. A compact crawler negotiating a small obstacle course and a compact buggy using an open route can demand very different arrangements even when both are easy to carry.",
+        "Do not infer a turning circle from width or wheelbase alone. Steering travel, drivetrain behavior, surface grip and any model-specific controls also matter. Nor does fitting a vehicle between two obstacles prove that it can turn there. For a planned course, establish the operating arrangement through appropriate model information and cautious, documented setup rather than multiply the body length by an invented space factor.",
+        "Scale also does not set speed or beginner suitability. Read the actual power system, control options and required operating precautions. A smaller vehicle can still need careful throttle control and a suitable clear area. Choose size after deciding how and where you want to drive; otherwise the convenient shelf fit can distract from a car poorly matched to the outing."
+      ]
+    },
+    {
+      "id": "ownership",
+      "heading": "Do not turn a scale label into a compatibility rule",
+      "paragraphs": [
+        "A shared scale is not proof that a battery, body, wheel or electronic component fits another vehicle. For a complete-car purchase, confirm the supplied equipment and any required battery and charger against that exact package. Physical battery dimensions are only one part of compatibility; electrical limits, connections, retention and the manufacturer’s instructions remain separate requirements. This guide does not authorize a power-system substitution.",
+        "For ownership planning, think beyond the car’s parked footprint. Allow space to remove its body using the documented access method, handle its controller and organize the required equipment. A vehicle that just fits a shelf may be awkward to take out without catching a mirror or wing. Measure the usable arrangement rather than assume everything packs within the car’s own length and width.",
+        "If your calculation only works by removing a body or projecting part, confirm that the removal is an intended procedure and practical for your storage routine. Do not force suspension down to meet a height figure or strain wiring to fold bodywork away. Choosing a naturally suitable size is usually a clearer starting point than planning around an undocumented storage modification."
+      ]
+    },
+    {
+      "id": "solve-fit",
+      "heading": "When the numbers do not settle the decision",
+      "paragraphs": [
+        "If two listings disagree, first compare SKUs, generations, units and measurement labels. One may quote track width while the other gives overall width; a different body or stock revision can also explain a change. Keep both sources and ask which configuration each describes. Averaging conflicting dimensions creates a number that neither source actually supports.",
+        "If the car fits storage but not the intended terrain, change the shortlist or the driving location. If it suits the surface but exceeds a hard transport opening, consider another vehicle with documented dimensions rather than rely on a scale-category guess. The useful outcome is a match among the actual footprint, intended use and your practical constraints. The fraction helps organize that search; the measurements decide the fit."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Your size shortlist is ready when…",
+    "items": [
+      "Scale is recorded as a ratio, with the exact SKU beside it",
+      "Length, overall width and height use consistent units",
+      "Wheelbase and track width have not been substituted for outside dimensions",
+      "Missing or conflicting measurements are identified",
+      "Storage height, openings, padding and handling access are checked",
+      "Transport fit is assessed separately from appropriate operating space",
+      "Surface, tire dimensions and vehicle category match the planned outing",
+      "Supplied and required equipment are checked for the exact package"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "arrma/vorteks-223s-dsc-2wd/",
+      "title": "ARRMA Vorteks 223S DSC 2WD · ARA3505T1",
+      "note": "A wide 1/10 stadium-truck example; package and terrain judgments in the full review."
+    },
+    {
+      "route": "axial/scx10-iii-jeep-cj-7-v2/",
+      "title": "Axial CJ-7 V2 · AXI03008V2T1",
+      "note": "A taller, narrower 1/10 crawler example, with model-specific controls and access."
+    },
+    {
+      "route": "team-associated/reflex-14b-ongaro-rtr/",
+      "title": "Team Associated Reflex 14B Ongaro · 20185",
+      "note": "The compact 1/14 buggy and its standard-package requirements."
+    },
+    {
+      "route": "axial/scx24-chevrolet-c10-1967-1972/",
+      "title": "Axial SCX24 C10 · AXI-3408T1",
+      "note": "The exact 3408-generation 1/24 crawler; older C10 versions are separate products."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is 1/10 bigger than 1/24?",
+      "answer": "For the same full-size reference, yes: dividing by ten produces a larger model than dividing by twenty-four. For actual shopping, verify the dimensions because RC vehicles represent different originals and use different proportions."
+    },
+    {
+      "question": "How long is every 1/10 RC car?",
+      "answer": "There is no single length established by that label. The examples here include a 456mm Vorteks and a 480mm CJ-7 V2. Check the exact manufacturer specification."
+    },
+    {
+      "question": "Does wheelbase include the body and bumpers?",
+      "answer": "No. Wheelbase measures the distance between axle centers. Overall length includes the vehicle’s outside extent under the manufacturer’s stated measurement basis."
+    },
+    {
+      "question": "Is a 1/24 RC car automatically suitable for indoor driving?",
+      "answer": "No. Check intended use, controls, surface, operating restrictions and the people or objects in the space. Small parked dimensions alone do not establish a suitable operating environment."
+    },
+    {
+      "question": "Can I compare cars from photographs?",
+      "answer": "Photographs help identify body shape and access, but camera perspective and unknown reference sizes make them unreliable measuring tools. Use documented dimensions or an actual measurement of the exact configuration."
+    },
+    {
+      "question": "Do cars of the same scale use the same batteries?",
+      "answer": "No. Compatibility depends on the exact vehicle and battery requirements, including physical fit, electrical limits, connections and retention. A shared scale label does not verify any of those."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — ARA3505 Vorteks 223S 2WD specifications",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "kind": "Manufacturer; current embedded specification table, exact T1 variant reviewed",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Axial / Horizon Hobby — AXI03008V2 CJ-7 specifications",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer; current embedded dimensions, scale and vehicle category",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Team Associated — standard Reflex 14B Ongaro RTR 20185",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer; length, width and explicit varies wheelbase; not 20185C combo",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Axial — black SCX24 C10 AXI-3408T1",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-1967-1972-chevrolet-c10-4wd-truck-rtr-black/AXI-3408T1.html",
+      "kind": "Manufacturer; exact 3408 generation outside dimensions and wheelbase",
+      "checked": "2026-11-02"
+    }
+  ],
+  "evidenceNote": "Research-led explanation with current manufacturer dimension checks. The fraction calculation and measuring workflow are original editorial explanations; no physical fit, turning-circle or terrain test is claimed. No buying links or price claims are required.",
+  "revisionNote": "First publication: scale arithmetic, four exact-model size examples, space-measuring workflow and compatibility boundaries."
+}

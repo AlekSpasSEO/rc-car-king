@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-02",
+  "article": "rc-car-scale-size-explained",
+  "intent": "interpret-rc-scale-labels-compare-real-dimensions-and-measure-space-before-choosing-vehicle-size",
+  "publishedAt": "2026-11-02T10:14:19.896Z",
+  "method": "Fresh public manufacturer HTML downloads; dynamic Horizon specification JSON and static Axial/Associated specification text inspected. No Amazon calls or credential access.",
+  "sources": [
+    {
+      "key": "vorteks",
+      "id": "ARA3505",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "status": 200,
+      "checkedAt": "2026-11-02T10:11:45.096Z",
+      "sha256": "f48801e41d3e3f5872a57e35e544e12b4a2697af120ef92e783fe2a5982738e1"
+    },
+    {
+      "key": "cj7",
+      "id": "AXI03008V2",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "status": 200,
+      "checkedAt": "2026-11-02T10:11:45.053Z",
+      "sha256": "98dad6778f499e562ff10c57e0cdae1b25d13980e8bd6fba0e0aa039f334f853"
+    },
+    {
+      "key": "c10",
+      "id": "AXI-3408T1",
+      "url": "https://www.axialadventure.com/product/axial-1-24-scx24-1967-1972-chevrolet-c10-4wd-truck-rtr-black/AXI-3408T1.html",
+      "status": 200,
+      "checkedAt": "2026-11-02T10:11:44.947Z",
+      "sha256": "c23b13498f92de014a06597d3150db5b6e0529e011a2f24edda60786e768d034"
+    },
+    {
+      "key": "reflex",
+      "id": "20185",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "status": 200,
+      "checkedAt": "2026-11-02T10:11:44.272Z",
+      "sha256": "21c2a9327892d665addb059613f86c0deacaf6fb6abcc117471d10bc6e107daf"
+    }
+  ],
+  "dimensionFacts": [
+    {
+      "sku": "ARA3505T1",
+      "scale": "1/10",
+      "dimensionsMm": [
+        456,
+        325,
+        170
+      ],
+      "wheelbaseMm": 286
+    },
+    {
+      "sku": "AXI03008V2T1",
+      "scale": "1/10",
+      "dimensionsMm": [
+        480,
+        235,
+        248
+      ],
+      "wheelbaseMm": 312
+    },
+    {
+      "sku": "20185",
+      "scale": "1/14",
+      "dimensionsMm": [
+        304,
+        202,
+        null
+      ],
+      "wheelbase": "manufacturer varies; no fixed figure invented"
+    },
+    {
+      "sku": "AXI-3408T1",
+      "scale": "1/24",
+      "dimensionsMm": [
+        213,
+        99,
+        112
+      ],
+      "wheelbaseMm": 132
+    }
+  ],
+  "scope": "Informational dimension-selection intent, distinct from the compact-vehicle buying list and crawler geometry guide. No standardized size chart, driving-space multiplier, compatibility approval or performance test.",
+  "media": "Original accessible HTML/CSS concept map; no photographs or scale-accurate silhouettes.",
+  "coreWords": 1441,
+  "validation": {
+    "production": "npm run build and npm run check passed; root production canonicals and indexability checked",
+    "preview": "npm run build and npm run check passed; GitHub preview base path and noindex checked",
+    "desktop": "1440x900 screenshot inspected; heading, short answer and concept map; page scrollWidth1425 within1440 viewport",
+    "mobile": "390x844 screenshot inspected; heading, text, comparison rows and FAQ; page scrollWidth375 within390 viewport; 530px table contained by335.2px overflow:auto wrapper",
+    "faq": "Wheelbase question opened and matching visible answer verified",
+    "checkedAt": "2026-11-02T10:16:36.291Z"
+  }
+}

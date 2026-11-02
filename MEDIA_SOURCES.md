@@ -95,3 +95,8 @@ Nine individually inspected official assets cover yellow ARRMA Vorteks 223S 2WD 
 ## Daily guide · 30 October 2026 · Before and after a run
 
 The inspection guide uses an original accessible three-stage HTML/CSS map: before power, after driving and due service. It is a conceptual inspection aid, not a fabricated workshop demonstration or repair diagram. No new product or community photographs are used. The [dated guide evidence](content/evidence/2026-10-30-inspection-guide.json) records exact manual fingerprints, model-specific retention differences and the boundary between inspection and service.
+
+
+## Daily guide · 2 November 2026 · RC scale and actual size
+
+The scale guide uses an original accessible HTML/CSS concept map separating scale, footprint and usable space. Its three cards are conceptual and explicitly not vehicles drawn to scale. No product, community or fabricated demonstration photographs are added. The [dated evidence](content/evidence/2026-11-02-scale-guide.json) records fresh exact-model manufacturer checks and dimension qualifications.
