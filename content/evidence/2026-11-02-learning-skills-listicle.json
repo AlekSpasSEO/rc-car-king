@@ -1,0 +1,381 @@
+{
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T11:00:17.734Z",
+  "week": "2026-11-02 through 2026-11-08",
+  "route": "listicles/rc-cars-learning-driving-skills/",
+  "intent": "choose-complete-rc-car-by-next-learning-goal-throttle-assistance-alignment-differentials-dig-or-indoor-rwd",
+  "coreWords": 2378,
+  "method": "Task-based five-car selection from published complete-vehicle archive. Fresh public manufacturer downloads verify Vorteks, Reflex, CJ-7 and power costs. Pro2 and Mini-Z reuse public research completed earlier on the same date.",
+  "freshChecks": [
+    {
+      "name": "vorteks",
+      "id": "ARA3505",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "status": 200,
+      "sha256": "44589c2075c5c236a0ff4670bfacbd8db714a795ff38f895f4afecb269b98ef8",
+      "checkedAt": "2026-11-02T10:54:26.521Z",
+      "summary": {
+        "name": "ARRMA 1/10 VORTEKS 223S DSC 2WD RTR Brushless Stadium Truck",
+        "price": 249.99,
+        "currency": "USD",
+        "features": [
+          "Ready-to-run - just add battery and charger",
+          "Install a 2S LiPo battery for 35+ mph maximum speed",
+          "Use a 3S battery for 50+ mph pro-level top speeds",
+          "Spektrum DSC (Dynamic Stability Control) and throttle limiting to keep you in control",
+          "Heavy-duty transmission",
+          "Durable composite chassis",
+          "Mesh safe motor plates",
+          "All-terrain suspension package",
+          "Oil-filled, coil-over shocks",
+          "Adjustable ride height",
+          "Aggressive stadium truck body style",
+          "Clipless body retention system",
+          "High downforce rear wing",
+          "All-terrain dBoots Dirtrunner ST front and Katar rear tires",
+          "Multi-spoke wheels",
+          "Impact-absorbing composite front and rear bumpers",
+          "Strong composite nerf bars",
+          "Wheelie bar",
+          "Reliable, high-quality hex hardware",
+          "Easy-access bottom-loading battery tray",
+          "Spektrum SLT2 2-channel 2.4GHz radio",
+          "Spektrum SLT 2-in-1 45A brushless waterproof 2S/3S ESC and receiver with IC5 connectors",
+          "Spektrum S681 metal-geared waterproof digital servo",
+          "Spektrum 3660 4000Kv brushless motor",
+          "ARRMA 40mm cooling fan",
+          "High-quality molded tools",
+          "4 “AA” transmitter batteries",
+          "2-Year limited warranty (see website for details)"
+        ]
+      }
+    },
+    {
+      "name": "vorteks-power",
+      "id": "SPMXPSS200",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXPSS200.html",
+      "status": 200,
+      "sha256": "8b62ee0084aba9680ab64c04abf9a818b375c1344a5872000e8dae6e9c44e559",
+      "checkedAt": "2026-11-02T10:54:26.384Z",
+      "summary": {
+        "name": "Spektrum Smart Powerstage 2S Surface Bundle: G2 5000mAh 2S LiPo IC5 & S155 Charger",
+        "price": 101.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "cj7",
+      "id": "AXI03008V2",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "status": 200,
+      "sha256": "362bf2f153516c1124c3d0761018114f74d82ad0bd343821c24fadec1fb605d7",
+      "checkedAt": "2026-11-02T10:54:26.183Z",
+      "summary": {
+        "name": "Axial 1/10 SCX10 III Jeep CJ-7 4X4 RTR Brushed Rock Crawler",
+        "price": 499.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "cj7-pack",
+      "id": "SPMX-1047",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1047.html",
+      "status": 200,
+      "sha256": "804280532e713e89506f7d9b04fd2911871dcbe26481410cc0bfc8475ce0c543",
+      "checkedAt": "2026-11-02T10:54:26.407Z",
+      "summary": {
+        "name": "Spektrum 11.1V 3400mAh 3S 50C Smart G2 Trail Pro LiPo Battery: IC3",
+        "price": 67.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "cj7-charger",
+      "id": "SPMXC2050",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXC2050.html",
+      "status": 200,
+      "sha256": "54f393eb381ffae27bc3f4df681f57343d4ccb8139fcd1a3979df19bde08d1eb",
+      "checkedAt": "2026-11-02T10:54:29.056Z",
+      "summary": {
+        "name": "Spektrum S155 55W AC G2 Smart Charger",
+        "price": 54.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "reflex",
+      "id": "20185",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "status": 200,
+      "sha256": "5e2e4c24ec630159f4da64b37d515ddb49790124f00f61660299bca10a5073f9",
+      "checkedAt": "2026-11-02T10:54:25.479Z",
+      "summary": "Your Price: $215.99 You save $109.00 MSRP: $324.99 MAP: --> SKU: 20185 UPC: 784695201859 Option: * Reflex 14B Gamma RTR, Ongaro Edition LiPo Combo Reflex 14B Gamma RTR, Ongaro Edition In stock Low stock Out of stock Shar"
+    }
+  ],
+  "sameDayEvidence": [
+    "content/evidence/2026-11-02-team-associated-pro2-sc10sw-rtr.json",
+    "content/evidence/2026-11-02-kyosho-mini-z-mr04-denso-kobelco-sc430.json"
+  ],
+  "picks": [
+    {
+      "sku": "ARA3505T1",
+      "route": "arrma/vorteks-223s-dsc-2wd/",
+      "reference": {
+        "amount": 249.99,
+        "currency": "USD",
+        "basis": "Horizon Hobby US manufacturer vehicle reference · ARA3505T1",
+        "source": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+        "checked": "2026-11-02"
+      },
+      "startup": "2 November 2026 USD example: $249.99 vehicle + $101.98 SPMXPSS200 2S pack/S155 AC charger bundle + $20 editorial battery-care allowance = $371.97 before tax/delivery. The named pack is 138 × 46 × 25mm; verify retention and lead routing.",
+      "historicalIdentityRecorded": "2026-10-12T23:04:54.107Z"
+    },
+    {
+      "sku": "70041",
+      "route": "team-associated/pro2-sc10sw-rtr/",
+      "reference": {
+        "amount": 329.99,
+        "currency": "USD",
+        "basis": "Associated Electrics US manufacturer vehicle reference · black 70041",
+        "source": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+        "checked": "2026-11-02"
+      },
+      "startup": "2 November 2026 USD example: $329.99 vehicle + $30.99 Reedy 751 2S pack + $42.99 Reedy 27201 charger + $6 AA allowance + $20 battery-care allowance = $430.97 before tax/delivery. The charger includes a T-plug lead; follow its mains and balance-connection instructions.",
+      "historicalIdentityRecorded": "2026-10-12T23:04:27.282Z"
+    },
+    {
+      "sku": "20185",
+      "route": "team-associated/reflex-14b-ongaro-rtr/",
+      "reference": {
+        "amount": 215.99,
+        "currency": "USD",
+        "basis": "Associated Electrics US manufacturer vehicle reference · standard 20185",
+        "source": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+        "checked": "2026-11-02"
+      },
+      "startup": "2 November 2026 USD example: $215.99 vehicle + $28.99 Reedy 27331 compact 2S pack + $32.99 Reedy 27202 AC charger + $6 AA allowance + $20 battery-care allowance = $303.97 before tax/delivery. Confirm the actual battery and charger connections.",
+      "historicalIdentityRecorded": "2026-10-12T23:04:27.282Z"
+    },
+    {
+      "sku": "AXI03008V2T1",
+      "route": "axial/scx10-iii-jeep-cj-7-v2/",
+      "reference": {
+        "amount": 499.99,
+        "currency": "USD",
+        "basis": "Horizon Hobby US manufacturer vehicle reference · red AXI03008V2T1",
+        "source": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+        "checked": "2026-11-02"
+      },
+      "startup": "2 November 2026 USD example: $499.99 vehicle + $67.99 SPMX-1047 3400mAh 3S IC3 pack + $54.99 SPMXC2050 S155 AC charger + $20 battery-care allowance = $642.97 before tax/delivery. This supported 3S example is not a requirement to choose 3S.",
+      "historicalIdentityRecorded": "2026-10-12T23:04:26.877Z"
+    },
+    {
+      "sku": "32373DK",
+      "route": "kyosho/mini-z-mr04-denso-kobelco-sc430/",
+      "reference": {
+        "amount": 189.99,
+        "currency": "USD",
+        "basis": "Houston RC US exact-SKU retailer reference; not a manufacturer USD price",
+        "source": "https://houstonrc.net/products/32373dk",
+        "checked": "2026-11-02"
+      },
+      "startup": "2 November 2026 USD example: $189.99 Houston RC exact-32373DK retailer reference + $10 editorial allowance for eight AAA alkaline cells = $199.99 before tax/delivery. Venue costs and optional equipment are excluded. This is a hobby-retailer basis, not a manufacturer USD price.",
+      "historicalIdentityRecorded": "2026-10-12T23:04:27.828Z"
+    }
+  ],
+  "media": [
+    {
+      "sku": "ARA3505T1",
+      "asset": "arrma-vorteks-223s-2wd-1.jpg",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbea38793/Images/ARA/ARA3505T1_A4_SE090FSC.jpg?sw=800&sh=800&sm=fit",
+        "kind": "Official manufacturer product photography"
+      }
+    },
+    {
+      "sku": "70041",
+      "asset": "associated-pro2-sc10sw-1.jpg",
+      "credit": {
+        "name": "Team Associated / Associated Electrics",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17447/70041_SC10sw_3QHighBlk_IMG_7316_lg__37927.1772663551.jpg",
+        "kind": "Official manufacturer photography"
+      }
+    },
+    {
+      "sku": "20185",
+      "asset": "team-associated-reflex-14b-ongaro-1.jpg",
+      "credit": {
+        "name": "Team Associated / Associated Electrics",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/255/3071/R14B_DO_3Q_Driver_IMG_2722_lg__90072.1725442145.jpg",
+        "kind": "Official manufacturer product photography"
+      }
+    },
+    {
+      "sku": "AXI03008V2T1",
+      "asset": "axial-scx10-iii-cj7-v2-red-1.jpg",
+      "credit": {
+        "name": "Axial / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62b66281/Images/AXI/AXI03008V2T1_A1_MYPWBJYE.jpg?sw=800&sh=800&sm=fit",
+        "kind": "Official manufacturer product photography"
+      }
+    },
+    {
+      "sku": "32373DK",
+      "asset": "kyosho-miniz-sc430-1.jpg",
+      "credit": {
+        "name": "Kyosho",
+        "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32373dk_900_1.jpg",
+        "kind": "Official manufacturer photography"
+      }
+    }
+  ],
+  "boundaries": [
+    "No Amazon API, credentials or refresh. Historical verified links reused.",
+    "Visible picks emit unordered ItemList; no Product/Review rating added.",
+    "Dated USD references, allowances and missing venue costs explicit.",
+    "No copied review paragraphs or claimed physical comparison."
+  ],
+  "validation": {
+    "production": "npm run build and npm run check passed: production root canonicals, schema, five exact reviewed picks and discovery",
+    "preview": "npm run build and npm run check passed: GitHub preview base path and noindex",
+    "desktop": "1440x900 screenshot inspected: title, author/date, direct answer and transparent selection method",
+    "mobile": "390x844 screenshots inspected: intro, comparison table and Mini-Z pick; page scrollWidth375 equals clientWidth375 after wrapping fix; table530px contained in335.2px overflow:auto wrapper",
+    "affiliate": "Five DOM-inspected exact ASINs with coffeedant03-20 and nofollow sponsored attributes; historical identity dates retained",
+    "sources": "Mini-Z card explicitly labels Houston RC hobby-retailer basis; generic reference anchor corrected to Price reference; startup allowances/date and excluded venue costs visible",
+    "faq": "Mini-Z price-basis question opened and matching visible answer confirmed",
+    "checkedAt": "2026-11-02T11:04:01.590Z"
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — exact ARA3505T1 product, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Associated Electrics — exact black 70041 package, dimensions and USD reference",
+      "url": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Team Associated — exact 20185 package, compact battery requirement and USD references",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Axial / Horizon Hobby — exact red V2 package, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Kyosho — exact 32373DK package, W-MM dimensions and optional equipment",
+      "url": "https://rc.kyosho.com/en/32373dk.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Houston RC — exact 32373DK US retailer price basis",
+      "url": "https://houstonrc.net/products/32373dk",
+      "kind": "US first-party hobby retailer; static reference, not stock assurance",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXPSS200 2S battery and S155 charger bundle",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXPSS200.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Reedy — 751 2S pack specification and manufacturer USD reference",
+      "url": "https://60years.associatedelectrics.com/wolfpack-lipo-3300mah-30c-7-4v/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Reedy — 27201 324-S AC charger, included lead and USD reference",
+      "url": "https://60years.associatedelectrics.com/reedy-324-s-compact-balance-charger/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1047 Trail Pro pack, dimensions and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1047.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXC2050 S155 G2 AC charger, included power cord and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXC2050.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "ARRMA — ARA3505 operating manual, specifications and DSC controls",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Associated Electrics — Pro2 SC10SW manual,24 February 2026 edition",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2SC10swrtr/Black/Pro2_SC10sw_Manual_2_24_2026.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Team Associated — Reflex 14B Ongaro assembly and startup manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — AXI03008V2 English operating manual; DIG, battery placement, access and gearing",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Kyosho — MR-04 RWD Readyset manual linked by 32373DK",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Driver — Paul Onorato, 12 June 2025 model announcement",
+      "url": "https://www.rcdriver.com/arrma-vorteks-223s-blx-2wd-stadium-truck/",
+      "kind": "Independent publication; manufacturer announcement coverage, not a measured durability test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "ChinaHobbyLine —18 March 2026 SC10SW editorial; commercial commentary",
+      "url": "https://chinahobbyline.com/blogs/news/team-associated-pro2-sc10sw-rtr-review-why-this-2wd-short-course-truck-feels-right-in-2026",
+      "kind": "Outside commercial editorial; no measured test results adopted",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 23 February 2024 exact Ongaro RTR feature",
+      "url": "https://www.rcdriver.com/team-associated-reflex-14b-ongaro-rc-car/",
+      "kind": "Independent exact-model feature and linked track video; no results claimed as our testing",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 3 April 2026 V2T2 review; variant identified",
+      "url": "https://www.rcdriver.com/axial-scx10-iii-jeep-cj-7-rtr-review-a-must-have-scale-crawler-returns/",
+      "kind": "Independent coverage of copper V2T2; observations attributed, not represented as our red-V2 test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Team —8 October 2026 MR-04 platform explanation",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/kyosho-mini-z-mr-04-whats-new-compared-to-the-legendary-mr-03",
+      "kind": "Retailer-authored platform commentary; no exact-SC430 test result adopted",
+      "checked": "2026-11-02"
+    }
+  ],
+  "renderingChanges": [
+    "Generic price-reference label accepts dated manufacturer or hobby-retailer evidence.",
+    "Scoped .pick-actions .text-link wrapping prevents long model titles overflowing mobile cards."
+  ]
+}

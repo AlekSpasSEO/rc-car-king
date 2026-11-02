@@ -105,3 +105,8 @@ The scale guide uses an original accessible HTML/CSS concept map separating scal
 ## Weekday reviews · 2 November 2026
 
 Nine inspected official assets cover green ARRMA Quake GROM ARA2137T2, black Associated Pro2 SC10SW70041 and Kyosho DENSO SC430 Readyset32373DK. The [dated media manifest](content/evidence/2026-11-02-review-media.json) records exact source URLs, bytes and hashes. Quake completion artwork explicitly excludes the USB power supply, and its action photo is credited manufacturer imagery. Two Kyosho detail images are labeled shared MR-04 platform illustrations rather than exact SC430 wheel/body configuration or our teardown. No community imagery is reused.
+
+
+## Weekly listicle · 2 November 2026 · Learning goals
+
+The five-car learning-goal listicle reuses official reviewed-model hero photographs for yellow Vorteks ARA3505T1, black Pro2 SC10SW70041, standard Reflex20185, red CJ-7 AXI03008V2T1 and Kyosho SC43032373DK. Each retains its review credit and exact-product caption. The Vorteks image is the article hero; this is not a physical comparison test. No new photographs are downloaded or edited. See the [dated article evidence](content/evidence/2026-11-02-learning-skills-listicle.json).

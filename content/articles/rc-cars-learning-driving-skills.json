@@ -1,0 +1,506 @@
+{
+  "kind": "listicle",
+  "slug": "rc-cars-learning-driving-skills",
+  "intentKey": "choose-complete-rc-car-by-next-learning-goal-throttle-assistance-alignment-differentials-dig-or-indoor-rwd",
+  "status": "published",
+  "title": "5 RC cars to match the next skill you want to learn",
+  "dek": "Choose a learning goal before buying more power: five complete cars for controls, alignment, drivetrain setup, crawler line choice and indoor rear-drive practice.",
+  "seo": {
+    "title": "5 RC Cars for Learning Driving & Setup | RC Car King",
+    "description": "Choose an RC car by your next learning goal: throttle control, suspension setup, differentials, DIG or indoor rear drive. Exact SKUs and startup budgets."
+  },
+  "published": "2026-11-02",
+  "updated": "2026-11-02",
+  "publishedAt": "2026-11-02T11:00:17.734Z",
+  "updatedAt": "2026-11-02T11:00:17.734Z",
+  "answer": "Choose the Vorteks 223S 2WD to explore throttle inputs and steering assistance, the Pro2 SC10SW for short-course alignment, or the Reflex 14B Ongaro for compact 4WD buggy setup. Choose the CJ-7 V2 for slow crawler line choice with installed DIG, and the Mini-Z SC430 for indoor rear-drive circuit practice. Each teaches a different task; buy for the surface and skill you will revisit, without assuming an overall winner.",
+  "scope": "This shortlist is for someone choosing a complete electric RC vehicle around a specific next learning goal. All five are assembled, body-inclusive RTR/Readyset packages already covered in full reviews. They span different speeds, sizes and terrain needs. We have not driven them head to head, measured a learning curve or guaranteed class eligibility. The order follows the task, rather than speed, sales, reliability or value rankings.",
+  "selectionMethod": "We selected five documented stock vehicles with distinct learning opportunities, exact variants and a credible first-operating equipment basket. The archive and current manufacturer pages supply the package facts; buyer and terrain guidance are editorial judgments. Outside coverage is attributed, with no test result adopted as our own. Two Associated vehicles remain because an adjustable rear-drive short-course truck and a compact three-differential 4WD buggy answer different questions. References were checked 2 November 2026; the Mini-Z uses a labeled US hobby-retailer reference. Historical affiliate identities are reused without fresh offer or availability claims.",
+  "prerequisites": [
+    "Name the skill you want to practice and a suitable permitted route you can use repeatedly.",
+    "Read the exact stock-model and installed-electronics instructions before changing settings.",
+    "Check whether battery, charger, transmitter cells and input power are included.",
+    "If organized racing is the goal, confirm class and assistance rules before purchase."
+  ],
+  "image": "arrma-vorteks-223s-2wd-1.jpg",
+  "imageAlt": "Official ARRMA ARA3505T1 yellow/black Vorteks 223S 2WD complete stadium truck.",
+  "imageCaption": "Official yellow ARA3505T1 Vorteks photograph, representing the throttle-and-assistance option. This is manufacturer photography, not a five-car comparison test.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwbea38793/Images/ARA/ARA3505T1_A4_SE090FSC.jpg?sw=800&sh=800&sm=fit",
+    "kind": "Official manufacturer product photography"
+  },
+  "picks": [
+    {
+      "sectionId": "throttle-assistance",
+      "title": "ARRMA Vorteks 223S DSC 2WD",
+      "sku": "ARA3505T1",
+      "route": "arrma/vorteks-223s-dsc-2wd/",
+      "reference": {
+        "amount": 249.99,
+        "currency": "USD",
+        "basis": "Horizon Hobby US manufacturer vehicle reference · ARA3505T1",
+        "source": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+        "checked": "2026-11-02"
+      },
+      "fit": "Clear dirt or hardpack for a driver interested in rear-drive throttle inputs and adjustable steering assistance.",
+      "strength": "DSC steering correction and the separate throttle limiter let you identify two different control functions; fixed links reduce initial alignment variables.",
+      "reservation": "The larger brushless package needs suitable space. It is not the choice for studying camber turnbuckles or expecting assistance to create grip.",
+      "included": "Yellow ARA3505T1 complete truck, 4000Kv motor, SLT2 radio, S681 servo, combined 45A controller/receiver and four AA cells.",
+      "required": "Supported 2S/3S IC5 hardcase LiPo within 140 × 50 × 35mm, compatible charger and battery-care provisions. The example uses 2S.",
+      "startupNote": "2 November 2026 USD example: $249.99 vehicle + $101.98 SPMXPSS200 2S pack/S155 AC charger bundle + $20 editorial battery-care allowance = $371.97 before tax/delivery. The named pack is 138 × 46 × 25mm; verify retention and lead routing."
+    },
+    {
+      "sectionId": "short-course-alignment",
+      "title": "Team Associated Pro2 SC10SW RTR",
+      "sku": "70041",
+      "route": "team-associated/pro2-sc10sw-rtr/",
+      "reference": {
+        "amount": 329.99,
+        "currency": "USD",
+        "basis": "Associated Electrics US manufacturer vehicle reference · black 70041",
+        "source": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+        "checked": "2026-11-02"
+      },
+      "fit": "Prepared-dirt short-course practice for an owner who wants alignment and suspension adjustment on an assembled rear-drive truck.",
+      "strength": "Steel turnbuckles, geometry positions, 12mm aluminum shocks, a sealed differential and adjustable slipper give several documented tuning systems.",
+      "reservation": "Drive power and radio cells are separate. The manual attaches a gearing condition to 3S, and DVC does not establish class eligibility.",
+      "included": "Black 70041 complete SC10SW, 3300kV motor, ESC, DVC receiver, radio, metal-geared servo and basic tools.",
+      "required": "Suitable battery, charger and four AA cells. The manufacturer-named 751 2S pack and 27201 AC charger form the example; 3S has a gearing condition.",
+      "startupNote": "2 November 2026 USD example: $329.99 vehicle + $30.99 Reedy 751 2S pack + $42.99 Reedy 27201 charger + $6 AA allowance + $20 battery-care allowance = $430.97 before tax/delivery. The charger includes a T-plug lead; follow its mains and balance-connection instructions."
+    },
+    {
+      "sectionId": "compact-buggy-setup",
+      "title": "Team Associated Reflex 14B Ongaro RTR",
+      "sku": "20185",
+      "route": "team-associated/reflex-14b-ongaro-rtr/",
+      "reference": {
+        "amount": 215.99,
+        "currency": "USD",
+        "basis": "Associated Electrics US manufacturer vehicle reference · standard 20185",
+        "source": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+        "checked": "2026-11-02"
+      },
+      "fit": "A compact prepared off-road course for a driver interested in adjustable 4WD buggy suspension and documented differential service.",
+      "strength": "Three sealed differentials, turnbuckles, suspension inserts and threaded shocks make a substantial mechanical package at this size.",
+      "reservation": "Small buggy tires need suitable ground. Standard 20185 does not contain the battery/charger shown in some 20185C combo photographs.",
+      "included": "Standard 20185 Ongaro RTR, finished body and wing, 4500kV motor, separate SC300-BL controller and receiver, two-channel radio and digital servo.",
+      "required": "Compact 2S T-plug LiPo within 100 × 30 × 20mm, suitable charger and four AA cells. Charger 3S capability does not authorize 3S vehicle operation.",
+      "startupNote": "2 November 2026 USD example: $215.99 vehicle + $28.99 Reedy 27331 compact 2S pack + $32.99 Reedy 27202 AC charger + $6 AA allowance + $20 battery-care allowance = $303.97 before tax/delivery. Confirm the actual battery and charger connections."
+    },
+    {
+      "sectionId": "crawler-line-choice",
+      "title": "Axial SCX10 III Jeep CJ-7 V2",
+      "sku": "AXI03008V2T1",
+      "route": "axial/scx10-iii-jeep-cj-7-v2/",
+      "reference": {
+        "amount": 499.99,
+        "currency": "USD",
+        "basis": "Horizon Hobby US manufacturer vehicle reference · red AXI03008V2T1",
+        "source": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+        "checked": "2026-11-02"
+      },
+      "fit": "A trail or rock-route driver who wants slow line choice and an installed DIG control rather than speed-oriented bashing.",
+      "strength": "The red CJ-7 V2 supplies the DIG servo, straight AR45 axles, locked drive and separate controller/receiver; that operating feature is already installed.",
+      "reservation": "Remote two-speed shifting is not supplied. Wired body lighting and pack-tray placement add ownership details, and this is the largest startup basket here.",
+      "included": "Red AXI03008V2T1 crawler, 35T 540 brushed motor, SPMXSE1040 ESC, SR515 receiver, SLT3 radio, S683 steering and SX108 DIG servos, lighting and four AA cells.",
+      "required": "Supported 2S/3S EC3/IC3 battery, compatible charger and battery-care equipment. Verify the actual tray, restraint, lead routing and body clearance.",
+      "startupNote": "2 November 2026 USD example: $499.99 vehicle + $67.99 SPMX-1047 3400mAh 3S IC3 pack + $54.99 SPMXC2050 S155 AC charger + $20 battery-care allowance = $642.97 before tax/delivery. This supported 3S example is not a requirement to choose 3S."
+    },
+    {
+      "sectionId": "indoor-rwd-lines",
+      "title": "Kyosho Mini-Z RWD MR-04 DENSO KOBELCO SC430",
+      "sku": "32373DK",
+      "route": "kyosho/mini-z-mr04-denso-kobelco-sc430/",
+      "reference": {
+        "amount": 189.99,
+        "currency": "USD",
+        "basis": "Houston RC US exact-SKU retailer reference; not a manufacturer USD price",
+        "source": "https://houstonrc.net/products/32373dk",
+        "checked": "2026-11-02"
+      },
+      "fit": "A clean indoor circuit or suitable Mini-Z venue for a buyer who wants rear-drive line practice with a finished race body.",
+      "strength": "The assembled MR-04W-MM Readyset includes a 130-class brushed motor, gear differential, ball bearings and matched KT-531P radio.",
+      "reservation": "Gyro, LEDs and an oil-filled rear shock are optional. The low micro chassis is not an outdoor-gravel choice, and a venue can add cost.",
+      "included": "32373DK DENSO KOBELCO SC430 2012 body, assembled RWD chassis, transmitter, tires, wheels, small tools and pinion choices.",
+      "required": "Our starting example uses eight AAA alkaline cells: four car and four radio. No charger is needed for that disposable-cell route; never recharge alkalines.",
+      "startupNote": "2 November 2026 USD example: $189.99 Houston RC exact-32373DK retailer reference + $10 editorial allowance for eight AAA alkaline cells = $199.99 before tax/delivery. Venue costs and optional equipment are excluded. This is a hobby-retailer basis, not a manufacturer USD price."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quick-comparison",
+      "heading": "Start with the next task, then compare the total basket",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "paragraphs": [
+        "An upgrade feels purposeful when you can name what the current car is preventing you from learning. That might be separating steering correction from throttle input, trying an alignment change, or placing a crawler’s front tires more deliberately. A vehicle with a longer feature list is not automatically a better teacher. Some features make a task possible, while others simply add another variable to understand.",
+        "The five cars below are intentionally different. This is not a contest in which a Mini-Z has to beat a crawler on the same terrain. It is a set of conditional recommendations for a buyer who wants the next purchase to have a job. Understand the stock setup first, then use the exact documentation for a change you can identify and reverse.",
+        "The table separates vehicle price from startup equipment. Totals are dated examples with identified allowances, before tax and delivery. They assume no compatible power equipment is already owned. Venue costs, optional performance changes and future wear are outside those baskets. A small vehicle can still require a carefully chosen surface, and an included radio does not imply an included battery or charger."
+      ],
+      "table": {
+        "caption": "Five learning goals · USD examples checked 2 November 2026 · no performance ranking",
+        "columns": [
+          "Next goal",
+          "Exact complete vehicle",
+          "Vehicle reference",
+          "Startup example",
+          "Main reservation"
+        ],
+        "rows": [
+          [
+            "Throttle and assistance",
+            "Vorteks 223S 2WD · ARA3505T1",
+            "$249.99 manufacturer",
+            "$371.97",
+            "Fixed alignment links; needs space"
+          ],
+          [
+            "Short-course alignment",
+            "Pro2 SC10SW · 70041",
+            "$329.99 manufacturer",
+            "$430.97",
+            "Separate power; 3S gearing condition"
+          ],
+          [
+            "Compact 4WD setup",
+            "Reflex 14B Ongaro · 20185",
+            "$215.99 manufacturer",
+            "$303.97",
+            "Compact 2S pack; suitable course"
+          ],
+          [
+            "Line choice and DIG",
+            "CJ-7 V2 · AXI03008V2T1",
+            "$499.99 manufacturer",
+            "$642.97",
+            "No supplied remote two-speed shift"
+          ],
+          [
+            "Indoor RWD lines",
+            "Mini-Z SC430 · 32373DK",
+            "$189.99 US hobby retailer",
+            "$199.99",
+            "Eight AAA cells; venue extra"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "throttle-assistance",
+      "heading": "1. Vorteks 223S 2WD: separate throttle input from steering help",
+      "sourceIndexes": [
+        0,
+        6,
+        11,
+        16
+      ],
+      "paragraphs": [
+        "The useful distinction on this Vorteks is that the throttle limiter and DSC do different jobs. The limiter changes the available throttle range; DSC applies steering correction. A driver interested in how rear drive responds to an input can learn those functions separately without first assembling a radio system. That is a more specific reason to buy the truck than its manufacturer speed claims, which we have not measured.",
+        "Its fixed links define the boundary of this recommendation. The Vorteks is not our first choice for someone seeking camber and toe turnbuckles to study alignment. It is the simpler control-learning option in this set. If chassis geometry is the target, the Pro2 or Reflex offers a more appropriate adjustment path. Matching the stock configuration avoids buying one vehicle and immediately trying to change its defining layout.",
+        "Choose manageable dirt or hardpack with suitable room and clear visibility. Selecting a lower throttle position does not establish that a cramped or shared area suits a larger brushless truck. Use the actual manufacturer limits and the supported 2S purchase example. Existing power equipment only reduces cost when case dimensions, connector, condition, charging compatibility and secure installation genuinely match."
+      ]
+    },
+    {
+      "id": "short-course-alignment",
+      "heading": "2. Pro2 SC10SW: choose it when alignment is the lesson",
+      "sourceIndexes": [
+        1,
+        7,
+        8,
+        12,
+        17
+      ],
+      "paragraphs": [
+        "The SC10SW combines a rear-drive short-course layout with adjustments already present. Turnbuckles let an owner study alignment, while geometry positions and serviceable coil-over shocks provide further systems to understand later. That gives a clear reason to choose it over the Vorteks when the purchase is intended to support mechanical setup work as well as controls practice.",
+        "The DVC receiver adds adjustable gyro assistance, so keep that setting identified when evaluating a mechanical change. Otherwise a new steering behavior can be attributed to the wrong adjustment. This is an editorial way to organize learning, not a tuning prescription or a measured claim about which setting is faster. Use the manual and a suitable repeatable course, rather than changing several unrelated variables at once.",
+        "The battery choice deserves equal attention. The manual names a smaller 17T pinion as a 3S starting point and ties gearing to surface and area. We use the manufacturer-named 2S pack so the budget does not imply an unrestricted 3S battery swap. If racing is the goal, ask the organizer about the exact stock dimensions, electronics and gyro before treating this RTR as an approved entry."
+      ]
+    },
+    {
+      "id": "compact-buggy-setup",
+      "heading": "3. Reflex 14B Ongaro: a small buggy with three differential assemblies",
+      "sourceIndexes": [
+        2,
+        13,
+        18
+      ],
+      "paragraphs": [
+        "The Reflex puts another kind of setup interest into a compact footprint. Its front, center and rear sealed differentials make the drivetrain meaningfully different from the rear-drive trucks here. The point is not to open all three on day one. It is that those documented assemblies, alongside turnbuckles and suspension inserts, offer an ownership path for a driver interested in understanding a 4WD buggy beyond steering trim.",
+        "Terrain is the deciding condition. A prepared compact off-road route gives the buggy a clearer task than deep lawn or large stones. Being smaller does not make backyard obstacles proportionally smaller. If the available site is inappropriate, three differentials will not solve the mismatch. Read the full review’s terrain and package discussion before choosing the race-inspired finish as the main reason to buy.",
+        "Be exact about the model number. Standard 20185 and 20185C are different shopping baskets; a battery pictured in combo photography does not enter the standard box by inference. The 100 × 30 × 20mm battery space also makes an ordinary full-size 2S pack a poor assumption. This pick works when the course and compact power equipment are deliberate decisions rather than compromises discovered after delivery."
+      ]
+    },
+    {
+      "id": "crawler-line-choice",
+      "heading": "4. CJ-7 V2: learn placement with an installed DIG control",
+      "sourceIndexes": [
+        3,
+        9,
+        10,
+        14,
+        19
+      ],
+      "paragraphs": [
+        "The CJ-7 moves the learning question from carrying speed through corners to positioning tires on a trail or rock route. Its DIG function can hold the rear axle while the front wheels drive. That gives a particular control to understand, supported by the supplied SX108 servo and V2 manual. It is a distinct reason to choose this crawler over a truck centered on throttle-limited bashing.",
+        "DIG does not make the supplied car a remotely shifted two-speed package. Keep those functions separate when reading the transmission description and shopping list. Likewise, locked axles and straight AR45 housings describe a different drivetrain proposition from the Reflex’s differentials. One configuration is not an upgrade over the other in the abstract; it is equipment chosen for another driving task.",
+        "Ownership access matters here. Body lighting leads require care during removal, and the chosen battery needs the appropriate tray and restraint. Our 3S budget is a manufacturer-recommended power example, not a demand to use higher voltage for slow practice. The full review retains a documented gearing-figure conflict; we do not resolve it by guessing a final ratio and using that guess to predict crawling performance."
+      ]
+    },
+    {
+      "id": "indoor-rwd-lines",
+      "heading": "5. Mini-Z SC430: put the learning into a clean indoor circuit",
+      "sourceIndexes": [
+        4,
+        5,
+        15,
+        20
+      ],
+      "paragraphs": [
+        "The SC430 Readyset suits someone whose next step is a repeatable indoor circuit rather than a bigger outdoor vehicle. A matched transmitter, brushed motor and finished body reduce assembly and electronics-selection decisions. The first objective can stay focused on the stock rear-drive car and a suitable route. Its small size does not establish that a room containing people or furniture is an appropriate venue.",
+        "This is MR-04W-MM with a 98mm wheelbase and 130-class brushed motor, not an EVO2 brushless chassis purchase. The KT-531P’s training mode and adjustments are supplied; a gyro, lighting and oil-filled rear shock are not. Choose the car because its Readyset configuration is useful. If AWD drift is the actual goal, start with an appropriate complete AWD package rather than assume the SC430 body creates that capability.",
+        "The battery basket also needs honest boundaries. Eight AAA alkaline cells provide our first-operating example, without a charger for that disposable-cell route. They do not establish a measured runtime or continuing battery budget, and they must not be recharged. Confirm the actual instructions before choosing a rechargeable arrangement. A venue fee or home course can matter more to the complete purchase than optional electronics."
+      ]
+    },
+    {
+      "id": "choose-one-goal",
+      "heading": "Choose a learning goal you can repeat",
+      "sourceIndexes": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "paragraphs": [
+        "Write down one question: do you want to understand a control, an alignment adjustment, a drivetrain assembly or a line through an obstacle? Then check whether the stock vehicle offers that system and whether your route makes it useful. A truck with fixed links can be a sensible controls teacher while being an awkward alignment project. A precise goal is more helpful than calling every adjustable RTR an intermediate car.",
+        "Establish the manufacturer’s operating checks and a documented stock baseline, then study one authorized change in your own use. Note the surface, configuration and observation without turning a few outings into a reliability statistic. A change in tire condition, assistance or power equipment can cloud the interpretation of another adjustment. The aim is to understand a relationship, not accumulate parts before understanding the car.",
+        "If the desired skill needs a venue you cannot access regularly, reconsider the purchase. A prepared buggy course, crawler rock route and Mini-Z circuit are different practical commitments. Ask a venue what it permits and what its surface requires. The useful choice is the car you can operate for the intended task, under its actual instructions, often enough for the learning to be worthwhile."
+      ]
+    },
+    {
+      "id": "budget-boundaries",
+      "heading": "Use these figures for comparison, then build your own basket",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paragraphs": [
+        "The examples use dated manufacturer references except the labeled US retailer basis for the Mini-Z. The four LiPo-equipped examples include a $20 editorial battery-care allowance; the Associated baskets add a $6 radio-cell allowance. These are planning placeholders to replace with suitable actual choices, not quoted safety kits. The Mini-Z uses a $10 alkaline-cell allowance instead. None promises that one accessory meets every handling or charging requirement.",
+        "Existing equipment can lower the incremental cost, but subtract it only after checking exact compatibility and condition. The Vorteks uses an IC5 hardcase example, the Pro2 a full-size T-plug 2S pack, the Reflex a much smaller T-plug 2S pack and the CJ-7 an IC3 example. Shared voltage does not make those installations equivalent. Charger capability does not authorize a higher-voltage battery in a vehicle.",
+        "Purchase buttons retain the reviews’ historical exact-product identities and point to check-price pages; no fresh Amazon price or stock assertion is made. Confirm SKU, color, package and seller before ordering. These figures exclude tax, delivery, venue costs and future wear. Compare the same equipment basis for your own shortlist: a complete larger basket is more useful than a tempting vehicle-only price with important items omitted."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Before choosing the next car",
+    "items": [
+      "One specific learning goal is written down",
+      "The actual stock car offers the required control or adjustment",
+      "The intended surface and venue are suitable and available",
+      "Exact SKU, color and standard-versus-combo package are checked",
+      "Every missing battery, charger, radio cell and input source is budgeted",
+      "Power limits and any gearing condition are understood",
+      "Local class and assistance rules are checked if racing is planned",
+      "Optional equipment is separated from first-operating requirements"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "arrma/vorteks-223s-dsc-2wd/",
+      "title": "ARRMA Vorteks 223S DSC 2WD",
+      "note": "Exact ARA3505T1 controls, power fit and manufacturer-claimed performance boundaries."
+    },
+    {
+      "route": "team-associated/pro2-sc10sw-rtr/",
+      "title": "Team Associated Pro2 SC10SW RTR",
+      "note": "Black 70041 adjustment range, gearing condition and standard-package budget."
+    },
+    {
+      "route": "team-associated/reflex-14b-ongaro-rtr/",
+      "title": "Team Associated Reflex 14B Ongaro RTR",
+      "note": "Standard 20185 compact battery requirements and three-differential layout."
+    },
+    {
+      "route": "axial/scx10-iii-jeep-cj-7-v2/",
+      "title": "Axial SCX10 III Jeep CJ-7 V2",
+      "note": "Red V2 DIG control, body access, tray placement and source conflicts."
+    },
+    {
+      "route": "kyosho/mini-z-mr04-denso-kobelco-sc430/",
+      "title": "Kyosho Mini-Z RWD MR-04 DENSO KOBELCO SC430",
+      "note": "32373DK brushed Readyset, indoor use and optional-equipment distinctions."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are these ranked from best to worst?",
+      "answer": "No. The order follows different learning goals. A crawler, buggy and indoor on-road car do not solve the same task for every buyer."
+    },
+    {
+      "question": "Which pick is most relevant for learning alignment?",
+      "answer": "The Pro2 SC10SW has documented turnbuckles and geometry options in a rear-drive short-course package. The Reflex 14B provides adjustment in a compact 4WD buggy. Choose the surface and layout first."
+    },
+    {
+      "question": "Does a gyro or limiter make a driving area safe?",
+      "answer": "No. Assistance changes a control function; it does not assess people, obstacles or stopping room. Follow the actual vehicle instructions and use a suitable permitted location."
+    },
+    {
+      "question": "Does the CJ-7 V2 include remote two-speed shifting?",
+      "answer": "No. This supplied V2 has an installed DIG servo and control. Remote two-speed shifting is a separate equipment requirement."
+    },
+    {
+      "question": "Why is the Mini-Z price basis different?",
+      "answer": "The exact global manufacturer page uses yen pricing. The USD figure comes from the identified Houston RC 32373DK listing and is labeled as a hobby-retailer reference."
+    },
+    {
+      "question": "Are these startup totals current Amazon prices?",
+      "answer": "No. They combine dated independent vehicle/equipment references with stated editorial allowances. Amazon links retain historical exact-product identities; current commercial information is checked on Amazon."
+    }
+  ],
+  "evidenceNote": "Original task-based shortlist using exact complete vehicles already reviewed. Public product/cost checks are separate from manuals checked on their stated dates. Outside coverage includes announcement reporting, commercial commentary and one attributed copper V2T2 crawler review; no outside result is presented as our physical comparison. No measured learning rate, speed, runtime, reliability or objective overall ranking is claimed. Historical affiliate identities are reused without Amazon credentials or API access.",
+  "revisionNote": "First published 2 November 2026 for the current Monday–Sunday week. Five visible complete-vehicle picks and corresponding unordered ItemList data; no listicle vehicle rating is invented.",
+  "sources": [
+    {
+      "name": "ARRMA / Horizon Hobby — exact ARA3505T1 product, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-10-vorteks-223s-dsc-2wd-rtr-brushless-stadium-truck/ARA3505.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Associated Electrics — exact black 70041 package, dimensions and USD reference",
+      "url": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Team Associated — exact 20185 package, compact battery requirement and USD references",
+      "url": "https://60years.associatedelectrics.com/reflex-14b-ongaro-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Axial / Horizon Hobby — exact red V2 package, features and USD reference",
+      "url": "https://www.horizonhobby.com/product/axial-1-10-scx10-iii-jeep-cj-7-4x4-rtr-brushed-rock-crawler/AXI03008V2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Kyosho — exact 32373DK package, W-MM dimensions and optional equipment",
+      "url": "https://rc.kyosho.com/en/32373dk.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Houston RC — exact 32373DK US retailer price basis",
+      "url": "https://houstonrc.net/products/32373dk",
+      "kind": "US first-party hobby retailer; static reference, not stock assurance",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXPSS200 2S battery and S155 charger bundle",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXPSS200.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Reedy — 751 2S pack specification and manufacturer USD reference",
+      "url": "https://60years.associatedelectrics.com/wolfpack-lipo-3300mah-30c-7-4v/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Reedy — 27201 324-S AC charger, included lead and USD reference",
+      "url": "https://60years.associatedelectrics.com/reedy-324-s-compact-balance-charger/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1047 Trail Pro pack, dimensions and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1047.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMXC2050 S155 G2 AC charger, included power cord and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMXC2050.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "ARRMA — ARA3505 operating manual, specifications and DSC controls",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4633d6d3/Manuals/ARA3505-MANUAL-ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Associated Electrics — Pro2 SC10SW manual,24 February 2026 edition",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2SC10swrtr/Black/Pro2_SC10sw_Manual_2_24_2026.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Team Associated — Reflex 14B Ongaro assembly and startup manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Reflex_14B_Ongaro/RTR/Reflex-14B-Ongaro-Edition-Manual.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Axial — AXI03008V2 English operating manual; DIG, battery placement, access and gearing",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dwde4cc5e6/Manuals/AXI03008V2-MANUAL-EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "Kyosho — MR-04 RWD Readyset manual linked by 32373DK",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Driver — Paul Onorato, 12 June 2025 model announcement",
+      "url": "https://www.rcdriver.com/arrma-vorteks-223s-blx-2wd-stadium-truck/",
+      "kind": "Independent publication; manufacturer announcement coverage, not a measured durability test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "ChinaHobbyLine —18 March 2026 SC10SW editorial; commercial commentary",
+      "url": "https://chinahobbyline.com/blogs/news/team-associated-pro2-sc10sw-rtr-review-why-this-2wd-short-course-truck-feels-right-in-2026",
+      "kind": "Outside commercial editorial; no measured test results adopted",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 23 February 2024 exact Ongaro RTR feature",
+      "url": "https://www.rcdriver.com/team-associated-reflex-14b-ongaro-rc-car/",
+      "kind": "Independent exact-model feature and linked track video; no results claimed as our testing",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Driver — Greg Vogel, 3 April 2026 V2T2 review; variant identified",
+      "url": "https://www.rcdriver.com/axial-scx10-iii-jeep-cj-7-rtr-review-a-must-have-scale-crawler-returns/",
+      "kind": "Independent coverage of copper V2T2; observations attributed, not represented as our red-V2 test",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "RC Team —8 October 2026 MR-04 platform explanation",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/kyosho-mini-z-mr-04-whats-new-compared-to-the-legendary-mr-03",
+      "kind": "Retailer-authored platform commentary; no exact-SC430 test result adopted",
+      "checked": "2026-11-02"
+    }
+  ]
+}
