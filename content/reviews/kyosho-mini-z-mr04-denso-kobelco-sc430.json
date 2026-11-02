@@ -1,0 +1,502 @@
+{
+  "brand": "Kyosho",
+  "brandSlug": "kyosho",
+  "model": "Mini-Z RWD MR-04 DENSO KOBELCO SC430",
+  "modelSlug": "mini-z-mr04-denso-kobelco-sc430",
+  "sku": "32373DK",
+  "headlineLines": [
+    "SMALL CIRCUIT.",
+    "PROPER REAR DRIVE."
+  ],
+  "title": "Kyosho Mini-Z MR-04 SC430 review: a complete indoor RWD starting point",
+  "dek": "The 32373DK pairs a finished DENSO KOBELCO SC430 body with a brushed MR-04W-MM chassis and KT-531P radio. Bring eight AAA cells, a suitable dry surface and realistic expectations about the optional equipment.",
+  "type": "Micro on-road car",
+  "use": "Racing",
+  "terrain": [
+    "Dedicated indoor tracks",
+    "Clean smooth indoor surfaces"
+  ],
+  "motor": "Brushed",
+  "drive": "RWD",
+  "scale": "Mini-Z micro · 177mm length",
+  "format": "Factory-assembled body-inclusive Readyset with transmitter; AAA cells separate",
+  "skill": "Beginner with suitable guidance; indoor circuit learner",
+  "price": {
+    "amount": 189.99,
+    "currency": "USD",
+    "basis": "Houston RC US exact-SKU retailer reference; not a manufacturer USD price",
+    "source": "https://houstonrc.net/products/32373dk",
+    "checked": "2026-11-02"
+  },
+  "purchaseNote": "Exact 32373DK US retailer reference. Eight AAA alkaline cells are a separate editorial allowance in the startup example; a track or club fee is not included.",
+  "overview": "A good fit for a driver who wants a finished miniature race body and an assembled rear-drive chassis for a clean indoor circuit. It includes the radio and a brushed motor, while gyro assistance, lighting and an oil-filled rear shock remain optional.",
+  "verdict": "Buy it for the circuit you can actually use",
+  "verdictText": "The DENSO SC430 Readyset is compelling when you have a suitable indoor surface and want to learn the supplied brushed RWD configuration. Choose an AWD drift package, outdoor vehicle or EVO2 system instead when those are the real requirements.",
+  "pros": [
+    "Finished DENSO KOBELCO SC430 2012 body, assembled chassis and KT-531P included",
+    "130-class brushed motor, gear differential and ball bearings supplied",
+    "MR-04 front geometry and low battery placement are documented",
+    "Training mode, trim and dual rate provide a practical starting control set"
+  ],
+  "cons": [
+    "Eight AAA cells are separate; recurring battery use needs planning",
+    "Optional MZW711 gyro and MZW429R lights are not included",
+    "Stock rear damper is coil-spring rather than oil-filled",
+    "Small low chassis needs a clean suitable surface; no outdoor all-terrain claim"
+  ],
+  "bestFor": [
+    "A buyer with access to a clean indoor route or suitable Mini-Z venue",
+    "Learning rear-drive line choice with a complete brushed Readyset",
+    "Someone who values the finished SC430 livery without building or painting a kit"
+  ],
+  "avoidIf": [
+    "The intended use is outdoor gravel, wet pavement or rough ground",
+    "You expect included gyro, lights or brushless EVO2 equipment",
+    "Your goal is an AWD drift package or guaranteed race-class entry"
+  ],
+  "quickSpecs": [
+    [
+      "Exact Readyset",
+      "32373DK · DENSO SC430 2012"
+    ],
+    [
+      "Chassis",
+      "MR-04W-MM · rear drive"
+    ],
+    [
+      "Motor / differential",
+      "130-class brushed · gear differential"
+    ],
+    [
+      "Radio",
+      "Syncro KT-531P · training mode"
+    ],
+    [
+      "Dimensions",
+      "177 × 76.5 × 45mm"
+    ],
+    [
+      "Wheelbase / power",
+      "98mm (2L) · four chassis AAA; four radio AAA separate"
+    ]
+  ],
+  "rating": {
+    "audience": "A first Mini-Z circuit buyer wanting a complete brushed RWD Readyset and finished race body",
+    "disclosure": "Five equal research-led editorial buying scores. The overall score is their arithmetic mean; it is not a measured driving comparison, ownership report or customer-star rating.",
+    "dimensions": [
+      {
+        "label": "Complete vehicle package",
+        "score": 8.5,
+        "reason": "Assembled chassis, painted body, tires and transmitter remove assembly and radio-matching steps; cells are separate."
+      },
+      {
+        "label": "Documented chassis specification",
+        "score": 8.5,
+        "reason": "Ball bearings, revised MR-04 steering and the identified W-MM layout provide a clear mechanical starting point."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8,
+        "reason": "Training mode, trims and dual rate are supplied; a gyro is optional and no class eligibility is promised."
+      },
+      {
+        "label": "Service and body documentation",
+        "score": 8,
+        "reason": "A detailed manual and exact body geometry help ownership, but general body-compatibility claims have additional conditions."
+      },
+      {
+        "label": "Indoor-use value",
+        "score": 7.5,
+        "reason": "The USD 189.99 retailer reference is reasonable only when the buyer already has a suitable surface and accepts separate battery use."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Who it fits",
+      "heading": "The indoor route is the first purchase decision",
+      "paragraphs": [
+        "The DENSO KOBELCO SC430 Readyset is attractive because it gives a new Mini-Z owner a coherent starting point: finished race body, assembled chassis, installed brushed power and a matched transmitter. You can spend the first sessions learning a rear-drive car rather than selecting a receiver or painting a shell. That is a useful simplification if a clean indoor driving area is already available. Without that area, the detailed body risks becoming the best part of a car you cannot conveniently use.",
+        "The exact product is 32373DK, with the 2012 SC430 livery and MR-04W-MM configuration. It is a complete vehicle package rather than an Auto Scale display body or a bare EVO2 chassis. The manufacturer lists 177mm length, 76.5mm width and 45mm height. Those dimensions explain its compact presence, but they do not establish the room it needs to turn, brake and recover a line on a particular surface.",
+        "RC Team’s October 2026 MR-04 article discusses the platform’s changed battery placement and front geometry. That is retailer-authored platform coverage, not an exact-SC430 lap-time test. We use Kyosho’s specific 32373DK page and linked MR-04 RWD manual for the equipment assessment. This review does not claim we have driven the car or compared its handling with an MR-03, even where the manufacturer describes an intended improvement."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Readyset contents",
+      "heading": "Know what Readyset includes and what it leaves out",
+      "paragraphs": [
+        "Kyosho lists a factory-assembled chassis, pre-painted body with markings applied, tires and wheels, and the KT-531P transmitter. It also supplies front-tread adjustment parts, spare nuts, a wheel wrench, pinion tool and 6T, 7T, 8T and 9T pinion gears. That is substantially different from buying a chassis set that needs its own body and radio decisions. Keep the small supplied parts identified even if your first plan is to run the car unchanged.",
+        "The straightforward first-operating requirement is eight AAA alkaline cells: four for the chassis and four for the transmitter. They are not included. The product page has mixed wording about where rechargeable NiMH cells may be used, while the English manual’s equipment and installation pages give a clear alkaline starting route. Our budget follows that common route. A later rechargeable setup should be checked against the actual current instructions for both car and transmitter, rather than inferred from AAA size alone.",
+        "The MZW711 gyro, MZW429R LED light unit and an oil-filled rear shock are optional. Their appearance in compatibility or tuning discussions does not make them standard contents. A buyer expecting automatic steering assistance or working headlights needs to understand that distinction before ordering. None is required in our first-operating basket, and the livery is not a reason to assume the lighting electronics are already installed."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Brushed rear drive",
+      "heading": "MR-04W-MM identifies a specific little chassis",
+      "paragraphs": [
+        "The supplied motor is a 130-class brushed unit driving the rear wheels through a geared differential. That distinguishes the Readyset from brushless EVO2 chassis packages. Sharing an MR-04 platform name does not give this car the same electronics, radio path or motor as every other MR-04 listing. I would buy 32373DK because its stock brushed system suits the intended starting experience, rather than treat it as a disguised brushless purchase.",
+        "The exact layout is W-MM with a 98mm wheelbase, identified as 2L in Kyosho’s data. The rear motor-and-axle pod is supported by a flexible T-bar arrangement, and the standard rear damper uses a coil spring. Its behavior depends on that complete assembly, not merely the body shape. The optional oil-filled shock mentioned by Kyosho should therefore be read as a separate tuning path, not silently inserted into the standard specification.",
+        "The four included pinion sizes offer a documented adjustment route, but the presence of a larger pinion is not an instruction to fit it immediately. Changing the gear pair changes the relationship between motor rotation and wheel movement and can alter load. Consult the manual’s motor-gear and mesh instructions for this Readyset, retain an identifiable baseline and check local class requirements. We have no speed measurement that justifies promising a particular result from one included gear."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & first setup",
+      "heading": "The supplied radio is enough to learn the baseline",
+      "paragraphs": [
+        "The KT-531P provides steering and throttle trim plus steering dual rate, with a training mode described by Kyosho as the default setting. That makes the first control arrangement less mysterious for an owner who has not chosen a separate transmitter. Training mode reduces the vehicle’s available performance; it does not assess obstacles or establish that the chosen room is appropriate. The manual’s operating precautions still control where and how to begin.",
+        "Steering trim adjusts the neutral reference, whereas dual rate adjusts available steering travel. The MR-04 manual provides a neutral-reset procedure if ordinary trim cannot center the steering. That is a model-specific procedure, not something to borrow from an AWD Mini-Z or another brand’s radio. Before resetting anything, identify the actual symptom and check the mechanism. A tire rubbing the body or debris near a wheel is not solved by an electronic neutral change.",
+        "Use the manual’s initial installation and control checks with the supplied car and radio before exploring optional electronics. The stock car does not require you to choose an EVO receiver or buy a gyro to become operational. That is part of the Readyset’s value. If the venue runs an organized class, check the exact motor, battery and assistance rules before tuning; a small race-car body is not an entry approval."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Front geometry",
+      "heading": "The interesting changes are under the race body",
+      "paragraphs": [
+        "Kyosho identifies front knuckles with integrated kingpins, a change to 3mm-inner-diameter wheel bearings and revised front geometry compared with the preceding MR-03. The manufacturer says the scrub dimension is reduced by 1.5mm per side. These are useful descriptions of the hardware being supplied. They do not give us a measured steering improvement, and we would not attach a corner-speed gain to them without a real comparative test.",
+        "The front suspension changes camber as it moves, while the rear uses the motor pod and T-bar arrangement. That means the car has identifiable front and rear systems to understand instead of four identical suspension corners. Ball bearings are fitted throughout according to the product page. A beginner can appreciate the included mechanical specification without immediately replacing arms, springs or bearings on the assumption that a stock car cannot be useful.",
+        "The SC430’s stated wheel offsets are narrow front plus2.0mm and wide rear plus2.0mm, with front/rear tread figures of 67.5mm and 63.0mm. Keep these body-specific values with the SKU. A generic MR-04 setup list can describe a different width or motor layout. If you later consider a different body, confirm the required geometry and wheel configuration before assuming the supplied SC430 arrangement will carry over unchanged."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Surface choice",
+      "heading": "A micro car still needs an appropriate driving environment",
+      "paragraphs": [
+        "The SC430 is an indoor on-road proposition. A clean, dry, suitably smooth surface or an appropriate Mini-Z venue is a much stronger reason to buy it than a plan to explore outdoor gravel. The 45mm overall height does not tell you ground clearance, and a small stone or floor joint can be important at this size. We do not invent an obstacle limit or claim that the low body will clear a threshold simply because the car fits through a doorway.",
+        "Grip also belongs to the surface and tire combination. The stock car’s race appearance does not establish that its tires are suitable for every carpet, tile or track material. Ask the venue what its actual surface and tire requirements are. A route with room to see and correct a line is more useful for learning than squeezing the car around furniture and treating every collision as an unavoidable part of micro driving.",
+        "Rear drive is another deliberate part of the decision. This is not the MA-020 AWD drift configuration reviewed elsewhere in the archive. A buyer drawn to the Tokyo drift aesthetic should choose the complete vehicle that actually matches that task. The MR-04 SC430’s starting proposition is an on-road RWD circuit car. Turning it into a different category would create new tire, control and compatibility questions that are outside this stock review."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & routine access",
+      "heading": "The finished shell has mechanical fit requirements too",
+      "paragraphs": [
+        "The DENSO KOBELCO SC430 2012 body is already painted and marked, so the initial package avoids a paint and decal project. Its wide race form and rear wing are part of the appeal, but they also make sensible handling and storage worthwhile. Do not use the wing as a carrying handle or assume a tight storage opening will be harmless to projecting body details. Check the 177×76.5×45mm envelope with room to access the car.",
+        "The manual illustrates body removal by releasing the side catches and lifting the body from its mount arrangement. It also instructs the owner to switch the car off before removing the body and to avoid touching the circuit board or battery terminals. At this scale, careful access is a more relevant first skill than fitting a large list of options. Keep the proper wheel and pinion tools with the vehicle so small hardware is not handled with an ill-fitting substitute.",
+        "Kyosho’s broad body-compatibility statement has a qualification: a suitable motor case and differential assembly may be required, with front tread and rear wheel offset also needing attention. That is not a promise that every Mini-Z Racer shell clips directly onto this SC430 configuration. The supplied tread parts are useful, but they do not remove the need to check wheelbase, body mount and drivetrain layout together. Buy the included body because you want this complete configuration."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "A USD 199.99 alkaline starting example, before the venue",
+      "paragraphs": [
+        "The exact 32373DK Houston RC listing provided a USD 189.99 reference on 2 November 2026. We use that as an identified US hobby-retailer figure because the reviewed Kyosho global product page presents yen pricing, not a verified manufacturer USD amount. It is not a converted Japanese price, an Amazon offer or a promise of current availability. Keep currency and seller basis attached to the number when comparing it with another Mini-Z package.",
+        "Add a USD 10 editorial allowance for eight AAA alkaline cells and the example reaches USD 199.99 before tax and shipping. No charger is required for that disposable-cell starting route, and alkaline cells must not be recharged. The allowance is a planning estimate, not a priced battery listing. If you choose an authorized rechargeable arrangement later, budget its compatible cells and charger separately and follow the actual product instructions.",
+        "The venue is the substantial variable this basket cannot quote for you. A club fee, a suitable home track surface and boundaries can all change what it costs to use the car regularly. Nor does a first set of cells establish a known runtime or annual battery cost. I would resolve where the SC430 will run before spending on gyro, lights or cosmetic options. The chassis already includes what is needed for its documented stock control system."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "Exact-SKU US retailer basis and editorial allowance ·2 November 2026",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "32373DK complete Readyset",
+            "Houston RC exact-product reference",
+            "189.99"
+          ],
+          [
+            "Eight AAA alkaline cells",
+            "Editorial allowance; four car plus four radio",
+            "10.00"
+          ],
+          [
+            "Example first-operating basket",
+            "Before tax/shipping; no venue or optional equipment",
+            "199.99"
+          ],
+          [
+            "Track, club fee or rechargeable system",
+            "Location- and equipment-dependent",
+            "Not quoted"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete choices",
+      "heading": "Compare a different driving task before a different option part",
+      "paragraphs": [
+        "The Mini-Z AWD Initial D Toyota AE86 is the most relevant archive comparison for a buyer whose actual goal is small-scale drifting. It supplies a different AWD platform and category of use rather than simply another paint scheme on this MR-04. Choose between those complete starting points before assuming one car can cheaply cover both tasks. We have not run a grip or drift comparison between the two.",
+        "The Mini-Z AWD Initial D Skyline R32 offers another complete AWD-body package if that styling is the deciding factor. Its exact body dimensions, wheelbase, installed equipment and battery instructions belong to its own review. A Mini-Z badge does not guarantee that the radio electronics, steering reset or body hardware are interchangeable with 32373DK. Keeping those identities separate avoids turning a body preference into an unplanned conversion.",
+        "For a buyer who really wants a small outdoor off-road course, Team Associated’s Reflex 14B Ongaro is a more useful format comparison than a collection of Mini-Z tuning parts. Its buggy tires,4WD chassis and compact LiPo requirements create a different purchase basket and surface fit. The SC430 remains the cleaner choice when the intended task is an indoor rear-drive circuit and the supplied race body is one you want to keep."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The buying call",
+      "heading": "Choose the complete SC430 for its own strengths",
+      "paragraphs": [
+        "The 32373DK Readyset has a clear attraction: an accurately identified body-inclusive MR-04 package with brushed power, ball bearings and a matched transmitter. The control set and documented service path give a new owner a sensible starting point, and the finished SC430 livery makes it a more personal choice than an anonymous chassis. Those are reasons to consider the supplied car without inventing a lap-time advantage.",
+        "I would shortlist it for someone who has confirmed a suitable indoor surface, understands the eight-cell requirement and wants to learn rear drive. I would skip it for gravel, wet use, an expectation of standard gyro or lighting, or an EVO2 brushless build plan. Our rating follows that conditional buyer fit. It rewards the documented package and separates the optional equipment from what the box actually provides."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer product",
+      "32373DK · DENSO KOBELCO SC430 2012"
+    ],
+    [
+      "Purchase format",
+      "Complete MR-04 RWD Readyset with body and KT-531P"
+    ],
+    [
+      "Scale description",
+      "Mini-Z micro; no single fraction assigned from an unspecified listing"
+    ],
+    [
+      "Chassis",
+      "MR-04W-MM"
+    ],
+    [
+      "Motor",
+      "130-class brushed; not EVO2 brushless"
+    ],
+    [
+      "Drive / differential",
+      "Rear 2WD /geared differential"
+    ],
+    [
+      "Radio",
+      "Syncro KT-531P; training mode described as default"
+    ],
+    [
+      "Bearings",
+      "Full ball-bearing specification per Kyosho"
+    ],
+    [
+      "Front mechanism",
+      "Integrated-kingpin knuckles;3mm-ID bearings; revised geometry"
+    ],
+    [
+      "Rear suspension",
+      "T-bar motor pod support; coil-spring damper"
+    ],
+    [
+      "Dimensions",
+      "177×76.5×45mm"
+    ],
+    [
+      "Wheelbase",
+      "98mm ·2L"
+    ],
+    [
+      "Tread",
+      "Front 67.5mm /rear 63.0mm"
+    ],
+    [
+      "Wheel offsets",
+      "Narrow front+2.0mm /wide rear+2.0mm"
+    ],
+    [
+      "Listed weight",
+      "176g; measurement configuration not fully defined"
+    ],
+    [
+      "Required starting cells",
+      "Four AAA alkaline car +four AAA alkaline transmitter; separate"
+    ],
+    [
+      "Included loose parts",
+      "Front tread parts; 6/7/8/9T pinions; nuts; wrench; pinion tool"
+    ],
+    [
+      "Optional electronics",
+      "MZW711 gyro and MZW429R LED kit separate"
+    ],
+    [
+      "Lighting / rear oil shock",
+      "Not included as standard"
+    ],
+    [
+      "Power-source boundary",
+      "Do not use lithium or special AAA substitutes; follow actual manual"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is 32373DK a complete Readyset or just a display body?",
+      "answer": "It is a complete assembled MR-04W-MM car with finished DENSO SC430 body, tires and KT-531P transmitter. Eight AAA cells are separate."
+    },
+    {
+      "question": "Is the motor brushless?",
+      "answer": "No. Kyosho identifies a 130-class brushed motor in this Readyset. MR-04 EVO2 brushless chassis packages are different products."
+    },
+    {
+      "question": "Does it include a gyro and lights?",
+      "answer": "No. Kyosho lists MZW711 gyro and MZW429R lighting as optional equipment."
+    },
+    {
+      "question": "How many batteries do I need to start?",
+      "answer": "Our manual-based starting example uses eight AAA alkaline cells: four for the chassis and four for the transmitter. They are not supplied and must not be recharged."
+    },
+    {
+      "question": "Does every Mini-Z body fit directly?",
+      "answer": "Do not assume direct fit. Kyosho qualifies its general compatibility claim with suitable motor-case and differential requirements; wheelbase, tread, offsets and mounts must match too."
+    },
+    {
+      "question": "Can it run outdoors on gravel?",
+      "answer": "That is not the use recommended here. This low micro on-road car is assessed for a clean dry suitable indoor surface or venue, under the manual’s operating limits."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyosho — exact 32373DK package, W-MM dimensions and optional equipment",
+      "url": "https://rc.kyosho.com/en/32373dk.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Kyosho — MR-04 RWD Readyset manual linked by 32373DK",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Team —8 October 2026 MR-04 platform explanation",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/kyosho-mini-z-mr-04-whats-new-compared-to-the-legendary-mr-03",
+      "kind": "Retailer-authored platform commentary; no exact-SC430 test result adopted",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Houston RC — exact 32373DK US retailer price basis",
+      "url": "https://houstonrc.net/products/32373dk",
+      "kind": "US first-party hobby retailer; static reference, not stock assurance",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Mini-Z AWD Initial D Toyota AE86 complete review",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-toyota-ae86/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Mini-Z AWD Initial D Skyline R32 review",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-skyline-r32/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Reflex 14B Ongaro complete buggy review",
+      "url": "https://rccarking.com/team-associated/reflex-14b-ongaro-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    }
+  ],
+  "seo": {
+    "title": "Kyosho Mini-Z MR-04 SC430 Review | RC Car King",
+    "description": "32373DK DENSO SC430 Mini-Z review: brushed MR-04W-MM, rear drive, AAA startup budget, optional gyro and lights, indoor terrain fit and body limits."
+  },
+  "published": "2026-11-02",
+  "updated": "2026-11-02",
+  "publishedAt": "2026-11-02T10:42:21.283Z",
+  "updatedAt": "2026-11-02T10:42:21.283Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0GFTKD8QK",
+    "marketplace": "www.amazon.com",
+    "sku": "32373DK",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GFTKD8QK?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.828Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "32373DK complete MR-04W-MM brushed RWD Readyset with DENSO KOBELCO SC430 2012 body and KT-531P",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:27.828Z: Kyosho, returned part 32373DK, model 32373DK. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "kyosho-miniz-sc430-1.jpg",
+  "imageAlt": "Official Kyosho 32373DK complete SC430 Readyset with KT-531P transmitter; eight AAA cells are separate.",
+  "imageCaption": "Official Kyosho 32373DK complete SC430 Readyset with KT-531P transmitter; eight AAA cells are separate.",
+  "imageCredit": {
+    "name": "Kyosho",
+    "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32373dk_900_1.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "kyosho-miniz-sc430-2.jpg",
+      "alt": "Kyosho’s shared MR-04 RWD platform photograph from the 32373DK page. This illustrates the platform, not the exact SC430 wheel/body configuration.",
+      "caption": "Kyosho’s shared MR-04 RWD platform photograph from the 32373DK page. This illustrates the platform, not the exact SC430 wheel/body configuration.",
+      "source": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_1_2.jpg",
+      "creditName": "Kyosho",
+      "credit": {
+        "name": "Kyosho",
+        "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_1_2.jpg"
+      }
+    },
+    {
+      "image": "kyosho-miniz-sc430-3.jpg",
+      "alt": "Official MR-04 front-knuckle and bearing illustration from Kyosho’s 32373DK page; shared platform detail, not an RC Car King teardown.",
+      "caption": "Official MR-04 front-knuckle and bearing illustration from Kyosho’s 32373DK page; shared platform detail, not an RC Car King teardown.",
+      "source": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_2_1.jpg",
+      "creditName": "Kyosho",
+      "credit": {
+        "name": "Kyosho",
+        "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_2_1.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 2 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-02",
+  "createdAt": "2026-11-02T10:38:59.150Z",
+  "route": "team-associated/pro2-sc10sw-rtr/",
+  "sku": "70041",
+  "coreWords": 2029,
+  "identity": {
+    "cachePath": "output/batch-horizon/associated-search.json",
+    "checkedAt": "2026-10-12T23:04:27.282Z",
+    "asin": "B0GY26PJVW",
+    "brand": "Team Associated",
+    "part": "ASC70041",
+    "model": "ASC70041",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:27.282Z: Team Associated, returned part ASC70041, model ASC70041. The distributor prefix in ASC70041 maps to official SKU 70041; manufacturer page and complete package cross-checked. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Associated Electrics — exact black 70041 package, dimensions and USD reference",
+      "url": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Associated Electrics — Pro2 SC10SW manual,24 February 2026 edition",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2SC10swrtr/Black/Pro2_SC10sw_Manual_2_24_2026.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "ChinaHobbyLine —18 March 2026 SC10SW editorial; commercial commentary",
+      "url": "https://chinahobbyline.com/blogs/news/team-associated-pro2-sc10sw-rtr-review-why-this-2wd-short-course-truck-feels-right-in-2026",
+      "kind": "Outside commercial editorial; no measured test results adopted",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Reedy — 751 2S pack specification and manufacturer USD reference",
+      "url": "https://60years.associatedelectrics.com/wolfpack-lipo-3300mah-30c-7-4v/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Reedy — 27201 324-S AC charger, included lead and USD reference",
+      "url": "https://60years.associatedelectrics.com/reedy-324-s-compact-balance-charger/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — exact Pro2 SC10 Method Race Wheels full review",
+      "url": "https://rccarking.com/team-associated/pro2-sc10-method-race-wheels/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Slash 2WD XL-5 package review",
+      "url": "https://rccarking.com/traxxas/slash-2wd-xl-5/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Vorteks 223S 2WD full review",
+      "url": "https://rccarking.com/arrma/vorteks-223s-dsc-2wd/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    }
+  ],
+  "media": [
+    {
+      "file": "associated-pro2-sc10sw-1.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17447/70041_SC10sw_3QHighBlk_IMG_7316_lg__37927.1772663551.jpg",
+      "credit": "Team Associated / Associated Electrics",
+      "bytes": 105227,
+      "sha256": "188f446fece6b1cf918d063bd505c9be17b4e9a396990505afe23754a9d75d5b",
+      "checkedAt": "2026-11-02T10:27:11.586Z",
+      "caption": "Official Team Associated black Pro2 SC10SW 70041 complete truck; drive battery and charger are separate."
+    },
+    {
+      "file": "associated-pro2-sc10sw-2.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17449/70041_SC10sw_SideProBlk_IMG_7321_lg__25054.1772663551.jpg",
+      "credit": "Team Associated / Associated Electrics",
+      "bytes": 90089,
+      "sha256": "ea7d19a1c0251878ca43bb5989e373c28473a6439508884e44a470e76750376c",
+      "checkedAt": "2026-11-02T10:27:12.211Z",
+      "caption": "Official 70041 side profile. Published dimensions and wheelbase are attributed manufacturer figures, not measurements derived from this photo."
+    },
+    {
+      "file": "associated-pro2-sc10sw-3.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17448/70041_SC10sw_3QRRBlk_IMG_7318_lg__30965.1772663551.jpg",
+      "credit": "Team Associated / Associated Electrics",
+      "bytes": 98057,
+      "sha256": "84d27b9e3943a24bf424517c511884c22391cc9b076ccbc10233eb8542a07786",
+      "checkedAt": "2026-11-02T10:27:12.731Z",
+      "caption": "Official rear three-quarter view of black 70041 with short-course body and bumper; no RC Car King crash or driving test is represented."
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "pro2-manual",
+      "bytes": 15725459,
+      "sha256": "e6e2a839ab9037a8db48137881838e6a76cc2c5fc321c865ce187cbb7a006e45"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "pro2-manual"
+    ],
+    "gearing": "Manualp17stock18T48P; p21chart87Tspur12.57:1final. p6specifies17T1335starting point for3S.",
+    "documentation": "Manualp2basic completion listsNiMH/2S; later3Scondition retained. Stray p23gear-mesh reference in22pagePDF noted. Generic peak-detectionLiPo wording not reused as a charging method.",
+    "dimensions": "Current exact manufacturer page lists492.4×252mm and227.8mmwheelbase. Retained as listed, no silent correction or fit/race assurance.",
+    "budget": {
+      "vehicle": 329.99,
+      "battery": 30.99,
+      "charger": 42.99,
+      "aaAllowance": 6,
+      "batteryCareAllowance": 20,
+      "total": 430.97
+    },
+    "battery": "Manufacturer-named7512ST-plug139×47×24.5mm",
+    "charger": "27201AC100–240V;2–4SLiPo/LiFe, XHbalance,T-pluglead included; no4Svehiclepermission."
+  },
+  "validation": {
+    "production": "Build/check passed, including substantive sentence originality, schema, canonical and affiliate checks",
+    "preview": "Build/check passed with GitHub preview base path and noindex",
+    "desktop": "1440x1000 product box screenshot inspected for each model; correct official hero, rating, date and no live Amazon price",
+    "mobile": "390x844 inspected for each model; no page overflow (375px scroll width);335.2px spec area;530px comparison tables contained by335.2px overflow:auto wrappers",
+    "faq": "Package or operating-limit question opened for each new review and matching answer verified",
+    "media": "All nine official assets inspected in contact sheet; per-page photo captions and shared Kyosho platform qualifications verified",
+    "checkedAt": "2026-11-02T10:48:15.603Z"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

@@ -100,3 +100,8 @@ The inspection guide uses an original accessible three-stage HTML/CSS map: befor
 ## Daily guide · 2 November 2026 · RC scale and actual size
 
 The scale guide uses an original accessible HTML/CSS concept map separating scale, footprint and usable space. Its three cards are conceptual and explicitly not vehicles drawn to scale. No product, community or fabricated demonstration photographs are added. The [dated evidence](content/evidence/2026-11-02-scale-guide.json) records fresh exact-model manufacturer checks and dimension qualifications.
+
+
+## Weekday reviews · 2 November 2026
+
+Nine inspected official assets cover green ARRMA Quake GROM ARA2137T2, black Associated Pro2 SC10SW70041 and Kyosho DENSO SC430 Readyset32373DK. The [dated media manifest](content/evidence/2026-11-02-review-media.json) records exact source URLs, bytes and hashes. Quake completion artwork explicitly excludes the USB power supply, and its action photo is credited manufacturer imagery. Two Kyosho detail images are labeled shared MR-04 platform illustrations rather than exact SC430 wheel/body configuration or our teardown. No community imagery is reused.

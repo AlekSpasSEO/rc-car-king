@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-02",
+  "createdAt": "2026-11-02T10:42:21.283Z",
+  "route": "kyosho/mini-z-mr04-denso-kobelco-sc430/",
+  "sku": "32373DK",
+  "coreWords": 2071,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/kyosho-initial.json",
+    "checkedAt": "2026-10-12T23:04:27.828Z",
+    "asin": "B0GFTKD8QK",
+    "brand": "Kyosho",
+    "part": "32373DK",
+    "model": "32373DK",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:27.828Z: Kyosho, returned part 32373DK, model 32373DK. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Kyosho — exact 32373DK package, W-MM dimensions and optional equipment",
+      "url": "https://rc.kyosho.com/en/32373dk.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Kyosho — MR-04 RWD Readyset manual linked by 32373DK",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Team —8 October 2026 MR-04 platform explanation",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/kyosho-mini-z-mr-04-whats-new-compared-to-the-legendary-mr-03",
+      "kind": "Retailer-authored platform commentary; no exact-SC430 test result adopted",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Houston RC — exact 32373DK US retailer price basis",
+      "url": "https://houstonrc.net/products/32373dk",
+      "kind": "US first-party hobby retailer; static reference, not stock assurance",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Mini-Z AWD Initial D Toyota AE86 complete review",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-toyota-ae86/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Mini-Z AWD Initial D Skyline R32 review",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-skyline-r32/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Car King — Reflex 14B Ongaro complete buggy review",
+      "url": "https://rccarking.com/team-associated/reflex-14b-ongaro-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-02"
+    }
+  ],
+  "media": [
+    {
+      "file": "kyosho-miniz-sc430-1.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32373dk_900_1.jpg",
+      "credit": "Kyosho",
+      "bytes": 20732,
+      "sha256": "09d51ea9bf8bb62c59e9d576a22259c18d4818801f50b83f97695d49331322f4",
+      "checkedAt": "2026-11-02T10:27:13.565Z",
+      "caption": "Official Kyosho 32373DK complete SC430 Readyset with KT-531P transmitter; eight AAA cells are separate."
+    },
+    {
+      "file": "kyosho-miniz-sc430-2.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_1_2.jpg",
+      "credit": "Kyosho",
+      "bytes": 119439,
+      "sha256": "74fdd384240291d240060245fce7c2e4b27264eb40089a452f59deeaaccc3031",
+      "checkedAt": "2026-11-02T10:27:13.830Z",
+      "caption": "Kyosho’s shared MR-04 RWD platform photograph from the 32373DK page. This illustrates the platform, not the exact SC430 wheel/body configuration."
+    },
+    {
+      "file": "kyosho-miniz-sc430-3.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_2_1.jpg",
+      "credit": "Kyosho",
+      "bytes": 88760,
+      "sha256": "828ef3be484ef776b5a4b8295a858d4f56012da4ca42bc95854b2849bc415f5b",
+      "checkedAt": "2026-11-02T10:27:14.080Z",
+      "caption": "Official MR-04 front-knuckle and bearing illustration from Kyosho’s 32373DK page; shared platform detail, not an RC Car King teardown."
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "miniz-manual",
+      "bytes": 43435417,
+      "sha256": "225a481a5de502619f74d938322326294ff3a83164620be0c79149ed84a21e90"
+    },
+    {
+      "file": "miniz-exploded",
+      "bytes": 6623677,
+      "sha256": "0f6ce1b096856ed051355a8204375b8df1211de82a5ec39d75b65e5305ae7e22"
+    },
+    {
+      "file": "miniz-parts",
+      "bytes": 3056205,
+      "sha256": "c521b876e2313af087f7caedaee1a21d699c80bb115144b7f666e77883e135da"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "miniz-manual",
+      "miniz-exploded",
+      "miniz-parts"
+    ],
+    "manualPages": "Rendered and inspected manualp2index,p4/p6precautions,p12requiredcells,p14radioAAA,p15bodyrelease/cellholders,p19/p20/p21controls.",
+    "powerBoundary": "EightAAAalkaline starting route consistent withEnglishmanual; product page has mixedNiMHplacement wording. No lithiumAAAoroverdrive substitution.",
+    "geometry": "MR-04W-MM,98mm2L,177×76.5×45mm; F67.5/R63tread;frontnarrow+2/rearwide+2offsets. No measuredhandlinggainclaimed.",
+    "options": "MZW711gyro,MZW429RLEDs,oilreardamper optional; Readyset130classbrushed distinct fromEVO2.",
+    "budget": {
+      "retailer": "Houston RC exact32373DK",
+      "vehicleUSD": 189.99,
+      "eightAlkalineAAAAllowanceUSD": 10,
+      "totalUSD": 199.99,
+      "venue": "notquoted; location-dependent"
+    }
+  },
+  "validation": {
+    "production": "Build/check passed, including substantive sentence originality, schema, canonical and affiliate checks",
+    "preview": "Build/check passed with GitHub preview base path and noindex",
+    "desktop": "1440x1000 product box screenshot inspected for each model; correct official hero, rating, date and no live Amazon price",
+    "mobile": "390x844 inspected for each model; no page overflow (375px scroll width);335.2px spec area;530px comparison tables contained by335.2px overflow:auto wrappers",
+    "faq": "Package or operating-limit question opened for each new review and matching answer verified",
+    "media": "All nine official assets inspected in contact sheet; per-page photo captions and shared Kyosho platform qualifications verified",
+    "checkedAt": "2026-11-02T10:48:15.607Z"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

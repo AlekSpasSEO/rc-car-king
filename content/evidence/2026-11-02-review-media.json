@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-02",
+  "media": [
+    {
+      "file": "arrma-quake-grom-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwebc04d83/Images/ARA/ARA2137T2_A0_K08IKP0M.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 81285,
+      "sha256": "95d930a74bba9091203f61d7a347ff8567620b561dd6073627a64ef4276ef375",
+      "checkedAt": "2026-11-02T10:27:09.756Z"
+    },
+    {
+      "file": "arrma-quake-grom-2.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw065d7a8b/Images/ARA/ARA2137T2_A93_K08IKP0M.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 64455,
+      "sha256": "d57100f517f3b216695cf05612e48f4aa995b1f804892d937ed50ff544bb7cce",
+      "checkedAt": "2026-11-02T10:27:10.387Z"
+    },
+    {
+      "file": "arrma-quake-grom-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw7fc0e9ed/Images/ARA/ARA2137T2_A14_K08IKP0M.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 68420,
+      "sha256": "7489b3f638faf3a59937e02706aef4bca885b3a0243108a62e1e29c1ef58a72a",
+      "checkedAt": "2026-11-02T10:27:10.978Z"
+    },
+    {
+      "file": "associated-pro2-sc10sw-1.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17447/70041_SC10sw_3QHighBlk_IMG_7316_lg__37927.1772663551.jpg",
+      "credit": "Team Associated / Associated Electrics",
+      "bytes": 105227,
+      "sha256": "188f446fece6b1cf918d063bd505c9be17b4e9a396990505afe23754a9d75d5b",
+      "checkedAt": "2026-11-02T10:27:11.586Z"
+    },
+    {
+      "file": "associated-pro2-sc10sw-2.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17449/70041_SC10sw_SideProBlk_IMG_7321_lg__25054.1772663551.jpg",
+      "credit": "Team Associated / Associated Electrics",
+      "bytes": 90089,
+      "sha256": "ea7d19a1c0251878ca43bb5989e373c28473a6439508884e44a470e76750376c",
+      "checkedAt": "2026-11-02T10:27:12.211Z"
+    },
+    {
+      "file": "associated-pro2-sc10sw-3.jpg",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/original/products/9374/17448/70041_SC10sw_3QRRBlk_IMG_7318_lg__30965.1772663551.jpg",
+      "credit": "Team Associated / Associated Electrics",
+      "bytes": 98057,
+      "sha256": "84d27b9e3943a24bf424517c511884c22391cc9b076ccbc10233eb8542a07786",
+      "checkedAt": "2026-11-02T10:27:12.731Z"
+    },
+    {
+      "file": "kyosho-miniz-sc430-1.jpg",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32373dk_900_1.jpg",
+      "credit": "Kyosho",
+      "bytes": 20732,
+      "sha256": "09d51ea9bf8bb62c59e9d576a22259c18d4818801f50b83f97695d49331322f4",
+      "checkedAt": "2026-11-02T10:27:13.565Z"
+    },
+    {
+      "file": "kyosho-miniz-sc430-2.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_1_2.jpg",
+      "credit": "Kyosho",
+      "bytes": 119439,
+      "sha256": "74fdd384240291d240060245fce7c2e4b27264eb40089a452f59deeaaccc3031",
+      "checkedAt": "2026-11-02T10:27:13.830Z"
+    },
+    {
+      "file": "kyosho-miniz-sc430-3.jpg",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32356/mr04_chassis_600_2_1.jpg",
+      "credit": "Kyosho",
+      "bytes": 88760,
+      "sha256": "828ef3be484ef776b5a4b8295a858d4f56012da4ca42bc95854b2849bc415f5b",
+      "checkedAt": "2026-11-02T10:27:14.080Z"
+    }
+  ],
+  "notes": [
+    "All nine assets individually inspected in a contact sheet.",
+    "Quake green T2 hero includes supplied battery/charger; A93 explicitly excludes USB source; ramp photo is manufacturer action imagery, not our test.",
+    "Pro2 black70041photos are exact body variant. No combo battery inferred.",
+    "Mini-Z hero is exact32373DK; two detail photographs are shared MR-04platform illustrations from exact product page, explicitly qualified.",
+    "No community photos or fabricated testing."
+  ]
+}

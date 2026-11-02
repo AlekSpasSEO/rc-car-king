@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-02",
+  "createdAt": "2026-11-02T10:34:40.981Z",
+  "route": "arrma/quake-grom-4x4/",
+  "sku": "ARA2137T2",
+  "coreWords": 1967,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/arrma-search.json",
+    "checkedAt": "2026-10-12T23:04:01.532Z",
+    "asin": "B0FY3VT14S",
+    "brand": "ARRMA",
+    "part": "ARA2137T2",
+    "model": "ARA2137T2",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA2137T2, model ARA2137T2. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — Quake GROM ARA2137, green T2 data, photos and USD reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-16-quake-grom-4x4-rtr-brushed-monster-truck-battery-and-charger-included/ARA2137.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "ARRMA — exact ARA2137 manual, English pages 12–23",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwfc93cc68/Manuals/ARA2137_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "RC Team — 28 July 2026 Quake GROM retailer article",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/arrma-quake-grom-4x4-our-review-of-the-compact-monster-truck-in-2026",
+      "kind": "Retailer-authored outside coverage; impressions are not our testing",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1027 power supply and USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1027.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Spektrum — S10 SPMXC0040 operating instructions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/SPMXC0040-Manual-MULTI.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-02"
+    }
+  ],
+  "media": [
+    {
+      "file": "arrma-quake-grom-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwebc04d83/Images/ARA/ARA2137T2_A0_K08IKP0M.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 81285,
+      "sha256": "95d930a74bba9091203f61d7a347ff8567620b561dd6073627a64ef4276ef375",
+      "checkedAt": "2026-11-02T10:27:09.756Z",
+      "caption": "Official green ARRMA Quake GROM ARA2137T2 with its included 2S battery and S10 charger."
+    },
+    {
+      "file": "arrma-quake-grom-2.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw065d7a8b/Images/ARA/ARA2137T2_A93_K08IKP0M.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 64455,
+      "sha256": "d57100f517f3b216695cf05612e48f4aa995b1f804892d937ed50ff544bb7cce",
+      "checkedAt": "2026-11-02T10:27:10.387Z",
+      "caption": "ARRMA’s completion image explicitly excludes the USB power supply and specifies QC2.0/3.0 18W+ input; the example supply is separate."
+    },
+    {
+      "file": "arrma-quake-grom-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw7fc0e9ed/Images/ARA/ARA2137T2_A14_K08IKP0M.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 68420,
+      "sha256": "7489b3f638faf3a59937e02706aef4bca885b3a0243108a62e1e29c1ef58a72a",
+      "checkedAt": "2026-11-02T10:27:10.978Z",
+      "caption": "Official ARRMA photograph of the green Quake GROM airborne at a ramp; manufacturer imagery, not an RC Car King driving test."
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "quake-manual",
+      "bytes": 49955679,
+      "sha256": "c3541812f425d956e0dc97be3a9a236e28cfbba1649025292a48184573f809c5"
+    },
+    {
+      "file": "s10-manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/SPMXC0040-Manual-MULTI.pdf",
+      "status": 200,
+      "bytes": 494164,
+      "sha256": "1bf9bf7401e5e17553401adc511cf446877a3b27b72e2119c1ef55b37c1ede66"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "quake-manual"
+    ],
+    "packageCaveat": "Page completion text says nothing; A93 image explicitly excludes USB supply. Budget includes SPMX-1027 USD24.99.",
+    "powerBoundary": "Manual p19 is 2S LiPo only. No DSC claim. Combined controller/receiver SPMXSE2625RX.",
+    "budget": {
+      "vehicle": 169.99,
+      "usbSupply": 24.99,
+      "batteryCareAllowance": 20,
+      "total": 214.98
+    },
+    "independent": "RC Team retailer article; no measured results adopted."
+  },
+  "validation": {
+    "production": "Build/check passed, including substantive sentence originality, schema, canonical and affiliate checks",
+    "preview": "Build/check passed with GitHub preview base path and noindex",
+    "desktop": "1440x1000 product box screenshot inspected for each model; correct official hero, rating, date and no live Amazon price",
+    "mobile": "390x844 inspected for each model; no page overflow (375px scroll width);335.2px spec area;530px comparison tables contained by335.2px overflow:auto wrappers",
+    "faq": "Package or operating-limit question opened for each new review and matching answer verified",
+    "media": "All nine official assets inspected in contact sheet; per-page photo captions and shared Kyosho platform qualifications verified",
+    "checkedAt": "2026-11-02T10:48:15.597Z"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}
