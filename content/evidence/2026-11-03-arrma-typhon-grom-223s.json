@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-03",
+  "createdAt": "2026-11-03T14:05:45.392Z",
+  "route": "arrma/typhon-grom-223s/",
+  "sku": "ARA2306ST2",
+  "coreWords": 2020,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/arrma-search.json",
+    "checkedAt": "2026-10-12T23:04:01.532Z",
+    "asin": "B0DLBV926V",
+    "brand": "ARRMA",
+    "part": "ARA2306ST2",
+    "model": "ARA2306ST2",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA2306ST2, model ARA2306ST2. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — ARA2306S blue ST2 package, current USD reference and official images",
+      "url": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "ARRMA — exact ARA2306 manual; equipment, tray, charging input and DSC",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4bd747f2/Manuals/ARA2306_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Big Squid RC / Tim Mohr — 25 October 2024 Typhon GROM 223S announcement",
+      "url": "https://www.bigsquidrc.com/arrma-typhon-grom-223s-blx-brushless-rtr-4wd-buggy/",
+      "kind": "Independent launch coverage; not a physical comparison test",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "ARRMA — exact ARA2306S parts and technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw44e8d49f/Manuals/ARA2306S_PARTS_TECH_PACK_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Spektrum — S10 SPMXC0040 operating instructions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/SPMXC0040-Manual-MULTI.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1027 USB supply USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1027.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC-TNT — April 2025 independently authored Typhon GROM 223S review",
+      "url": "https://www.youtube.com/watch?v=kh8J_o8Mnx4",
+      "kind": "Independent review context; no results adopted as ours",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Reflex 14B Ongaro full review",
+      "url": "https://rccarking.com/team-associated/reflex-14b-ongaro-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Quake GROM full review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — full-size Typhon 223S review",
+      "url": "https://rccarking.com/arrma/typhon-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "typhon-grom-223s",
+      "n": 1,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw3d3334ee/Images/ARA/ARA2306ST2_A0_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/typhon-grom-223s-1.jpg",
+      "checked": "2026-11-03T14:02:26.073Z",
+      "bytes": 63951,
+      "sha256": "69ff77dde0a70d4ba2909193f660e64e24004ee039559a1c4902b1c097239baa"
+    },
+    {
+      "prefix": "typhon-grom-223s",
+      "n": 2,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwdc0a9aea/Images/ARA/ARA2306ST2_A9_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/typhon-grom-223s-2.jpg",
+      "checked": "2026-11-03T10:36:04.876Z",
+      "bytes": 57350,
+      "sha256": "413ecafa8b0ec42778d8c9e90ce3ac6b78fbcaaf117d07e0f40fa86ff016bfc2"
+    },
+    {
+      "prefix": "typhon-grom-223s",
+      "n": 3,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ab1b5ab/Images/ARA/ARA2306ST2_A93_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/typhon-grom-223s-3.jpg",
+      "checked": "2026-11-03T10:36:05.001Z",
+      "bytes": 52789,
+      "sha256": "a2592bb970918f58bab06054b354a3e0d9da35bab362897359f4131b0f890fee"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "typhon-manual",
+      "bytes": 28876269,
+      "sha256": "ba48432550032a89a6f169e848ac7e49e8788f759a2d86c994cc0e873be56c9b"
+    },
+    {
+      "file": "typhon-tech",
+      "bytes": 4057152,
+      "sha256": "d74e3d0df549673a5bb102f6b1f1ac330ed148c92d7d0cf1fe2582b857c8c2f5"
+    },
+    {
+      "file": "s10-manual",
+      "bytes": 494164,
+      "sha256": "1bf9bf7401e5e17553401adc511cf446877a3b27b72e2119c1ef55b37c1ede66"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "typhon-manual",
+      "typhon-tech",
+      "s10-manual"
+    ],
+    "package": "Blue ST2 battery-inclusive exact ASIN; not batteryless T1 or older brushed ARA2106",
+    "manualInspection": "Exact English pages 12–22: ST2 included pack/S10, omitted USB source, tray L101 W31 H21, stationary DSC changes and throttle limiter",
+    "conflicts": "Nothing-required copy contradicts A93 and manual. Manual used for labeled tray dimensions and attributed weights; S10 remains 2S only.",
+    "budget": "249.99 vehicle +24.99 USB source +20 explicit editorial battery-care allowance =294.98 USD; separate 3S system not priced",
+    "independent": "Big Squid launch report clearly labeled; RC-TNT outside review linked without adopting physical results",
+    "publicSourceChecks": [
+      {
+        "key": "typhon",
+        "url": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+        "final": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+        "status": 200,
+        "sha256": "66cf92e651ea047e70cecabc1af630c391bcb8667ee17c62bd84c61e8a5b5257",
+        "checkedAt": "2026-11-03T10:28:20.689Z"
+      }
+    ]
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed; 75 reviews, 103 pages, 102 sitemap URLs",
+    "preview": "npm run build and npm run check passed with default GitHub profile",
+    "desktop": "1440x1000: product box, official hero, score and affiliate CTA inspected",
+    "mobile": "390x844: heading, image, bounded page width, contained scrollable budget and functioning exact-model FAQ inspected",
+    "checkedAt": "2026-11-03T14:11:24.253Z"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

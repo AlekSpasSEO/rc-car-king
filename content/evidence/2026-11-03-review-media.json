@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-03",
+  "checkedAt": "2026-11-03T14:11:24.253Z",
+  "media": [
+    {
+      "prefix": "bmw-gt3",
+      "n": 1,
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_1.jpg",
+      "credit": "Tamiya",
+      "file": "reviews/bmw-gt3-1.jpg",
+      "checked": "2026-11-03T10:35:59.658Z",
+      "bytes": 94980,
+      "sha256": "be7c7fdd21cf03378c610caf4f3ff9956d83576d4de94ecec74ca286002c446a"
+    },
+    {
+      "prefix": "bmw-gt3",
+      "n": 2,
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c1.jpg",
+      "credit": "Tamiya",
+      "file": "reviews/bmw-gt3-2.jpg",
+      "checked": "2026-11-03T10:36:01.301Z",
+      "bytes": 88437,
+      "sha256": "888c735eee36656f06cb21d1e574145c75b64bff5336d58b7ea7bf4b7b994a3e"
+    },
+    {
+      "prefix": "bmw-gt3",
+      "n": 3,
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c2.jpg",
+      "credit": "Tamiya",
+      "file": "reviews/bmw-gt3-3.jpg",
+      "checked": "2026-11-03T10:36:03.642Z",
+      "bytes": 125219,
+      "sha256": "535b85f3bad16c516112a3c28fa953a982312b1e9f6e2c3040be60bfa1c46cc3"
+    },
+    {
+      "prefix": "bronco-2021",
+      "n": 1,
+      "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Front-VBLU_54126892.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/bronco-2021-1.jpg",
+      "checked": "2026-11-03T10:36:03.907Z",
+      "bytes": 240380,
+      "sha256": "b7bbb1955e8d16228625a1ffa766415fdb9c0b3c692c2fa26889ad8459d6139f"
+    },
+    {
+      "prefix": "bronco-2021",
+      "n": 2,
+      "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Rear-Blue-V2_75723419.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/bronco-2021-2.jpg",
+      "checked": "2026-11-03T10:36:04.093Z",
+      "bytes": 222510,
+      "sha256": "b7c092bc6bf3036693397328c7429996681d01ec2fc1b957b18f741f2e2e6cdb"
+    },
+    {
+      "prefix": "bronco-2021",
+      "n": 3,
+      "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-Side-Blue_54126894.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/bronco-2021-3.jpg",
+      "checked": "2026-11-03T10:36:04.279Z",
+      "bytes": 148320,
+      "sha256": "fb390aaf75507907c6c887615cc1a848a956b5c53584156858374a5cb2c00b34"
+    },
+    {
+      "prefix": "typhon-grom-223s",
+      "n": 1,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw3d3334ee/Images/ARA/ARA2306ST2_A0_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/typhon-grom-223s-1.jpg",
+      "checked": "2026-11-03T14:02:26.073Z",
+      "bytes": 63951,
+      "sha256": "69ff77dde0a70d4ba2909193f660e64e24004ee039559a1c4902b1c097239baa"
+    },
+    {
+      "prefix": "typhon-grom-223s",
+      "n": 2,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwdc0a9aea/Images/ARA/ARA2306ST2_A9_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/typhon-grom-223s-2.jpg",
+      "checked": "2026-11-03T10:36:04.876Z",
+      "bytes": 57350,
+      "sha256": "413ecafa8b0ec42778d8c9e90ce3ac6b78fbcaaf117d07e0f40fa86ff016bfc2"
+    },
+    {
+      "prefix": "typhon-grom-223s",
+      "n": 3,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ab1b5ab/Images/ARA/ARA2306ST2_A93_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/typhon-grom-223s-3.jpg",
+      "checked": "2026-11-03T10:36:05.001Z",
+      "bytes": 52789,
+      "sha256": "a2592bb970918f58bab06054b354a3e0d9da35bab362897359f4131b0f890fee"
+    }
+  ],
+  "documents": [
+    {
+      "key": "bmw-us",
+      "url": "https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-bmw-m4-gt3-evo/",
+      "status": 200,
+      "bytes": 13163,
+      "sha256": "5150ef87d28f7b2d67e6fe6fe9cecba56e0dc68d9078a28ce901e032746f92e7",
+      "checkedAt": "2026-11-03T10:29:12.738Z"
+    },
+    {
+      "key": "bmw-chassis-manual",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/tt02.pdf",
+      "status": 200,
+      "bytes": 7287543,
+      "sha256": "1f7e2e56910ff8c6e2a453eaf95c66a6b1a9b1d6c96e0c1fca2a8acc61d4113a",
+      "checkedAt": "2026-11-03T10:29:16.851Z"
+    },
+    {
+      "key": "bmw-body-manual",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "status": 200,
+      "bytes": 2945354,
+      "sha256": "b076e09966be714d9b6072a7e4b8c8f1d292992440afa238d522bf2f4a972ce5",
+      "checkedAt": "2026-11-03T10:29:16.874Z"
+    },
+    {
+      "key": "bronco-manual",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/2/92076-4-OM-EN-R03.pdf",
+      "status": 200,
+      "bytes": 13129407,
+      "sha256": "db4506df0ab47c1b93a25ff4cb412acc11b1067074f40fa95d73cc3d7241c1fb",
+      "checkedAt": "2026-11-03T10:29:17.781Z"
+    },
+    {
+      "key": "typhon-manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4bd747f2/Manuals/ARA2306_MANUAL_ML.pdf",
+      "status": 200,
+      "bytes": 28876269,
+      "sha256": "ba48432550032a89a6f169e848ac7e49e8788f759a2d86c994cc0e873be56c9b",
+      "checkedAt": "2026-11-03T10:29:15.756Z"
+    },
+    {
+      "key": "typhon-tech",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw44e8d49f/Manuals/ARA2306S_PARTS_TECH_PACK_ML.pdf",
+      "status": 200,
+      "bytes": 4057152,
+      "sha256": "d74e3d0df549673a5bb102f6b1f1ac330ed148c92d7d0cf1fe2582b857c8c2f5",
+      "checkedAt": "2026-11-03T10:29:13.013Z"
+    }
+  ],
+  "boundaries": [
+    "Nine attributed official photographs; no community imagery or fabricated tests.",
+    "Tamiya images show an assembled painted example of an unpainted assembly kit.",
+    "ARRMA airborne scene is manufacturer promotion; USB input artwork is exact ST2 completion evidence."
+  ]
+}

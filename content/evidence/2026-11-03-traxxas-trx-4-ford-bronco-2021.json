@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-03",
+  "createdAt": "2026-11-03T14:01:53.857Z",
+  "route": "traxxas/trx-4-ford-bronco-2021/",
+  "sku": "92076-4",
+  "coreWords": 2004,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/search-3.json",
+    "checkedAt": "2026-10-12T23:04:25.467Z",
+    "asin": "B0B59PSBH7",
+    "brand": "Traxxas",
+    "part": "92076-4",
+    "model": "92076-4",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:25.467Z: Traxxas, returned part 92076-4, model 92076-4. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Traxxas — exact 92076-4 product, blue variant, package and USD references",
+      "url": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Traxxas — 92076-4 owner manual R03, especially pages 21–24",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/2/92076-4-OM-EN-R03.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Driver — exact 92076-4 review video and product description, May 2021",
+      "url": "https://www.youtube.com/watch?v=GNfpO842xUc",
+      "kind": "Independent review; their test, not ours",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tim Gluth / RC Newb — 2021 Bronco first impressions",
+      "url": "https://rcnewb.com/first-impressions-traxxas-trx-4-2021-ford-bronco/",
+      "kind": "Independent owner impressions; stock and modified states distinguished",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Traxxas — 92076-4 current parts list",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/3/92076-4_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — current TRX-4 Sport full review",
+      "url": "https://rccarking.com/traxxas/trx-4-sport/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Axial CJ-7 V2 full review",
+      "url": "https://rccarking.com/axial/scx10-iii-jeep-cj-7-v2/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — TRX-4M Bronco full review",
+      "url": "https://rccarking.com/traxxas/trx-4m-ford-bronco/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "bronco-2021",
+      "n": 1,
+      "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Front-VBLU_54126892.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/bronco-2021-1.jpg",
+      "checked": "2026-11-03T10:36:03.907Z",
+      "bytes": 240380,
+      "sha256": "b7bbb1955e8d16228625a1ffa766415fdb9c0b3c692c2fa26889ad8459d6139f"
+    },
+    {
+      "prefix": "bronco-2021",
+      "n": 2,
+      "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Rear-Blue-V2_75723419.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/bronco-2021-2.jpg",
+      "checked": "2026-11-03T10:36:04.093Z",
+      "bytes": 222510,
+      "sha256": "b7c092bc6bf3036693397328c7429996681d01ec2fc1b957b18f741f2e2e6cdb"
+    },
+    {
+      "prefix": "bronco-2021",
+      "n": 3,
+      "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-Side-Blue_54126894.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/bronco-2021-3.jpg",
+      "checked": "2026-11-03T10:36:04.279Z",
+      "bytes": 148320,
+      "sha256": "fb390aaf75507907c6c887615cc1a848a956b5c53584156858374a5cb2c00b34"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "bronco-manual",
+      "bytes": 13129407,
+      "sha256": "db4506df0ab47c1b93a25ff4cb412acc11b1067074f40fa95d73cc3d7241c1fb"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "bronco-manual"
+    ],
+    "variant": "Historical blue exact ASIN base part 92076-4 maps to current manufacturer Velocity Blue 92076-4-VBLU",
+    "manualInspection": "R03 text read for high-low operation, stopped-wheel lock engagement and wet-use restrictions. LiPo wet use prohibited; transmitter not water resistant; no submersion.",
+    "budget": "549.95 manufacturer vehicle +139.95 page completer option +6 AA allowance +20 battery-care allowance =715.90 USD; dry use only",
+    "independent": "RC Driver original same-base-model coverage and RC Newb attributed first impressions; no physical findings adopted as our own",
+    "publicSourceChecks": [
+      {
+        "key": "bronco",
+        "url": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+        "final": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+        "status": 200,
+        "sha256": "13b60e46bf47f777896031ff1305ba74fd01a8c6281a32af47cceb1e2e9aa10e",
+        "checkedAt": "2026-11-03T10:28:20.772Z"
+      }
+    ]
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed; 75 reviews, 103 pages, 102 sitemap URLs",
+    "preview": "npm run build and npm run check passed with default GitHub profile",
+    "desktop": "1440x1000: product box, official hero, score and affiliate CTA inspected",
+    "mobile": "390x844: heading, image, bounded page width, contained scrollable budget and functioning exact-model FAQ inspected",
+    "checkedAt": "2026-11-03T14:11:24.253Z"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Typhon GROM 223S DSC BLX",
+  "modelSlug": "typhon-grom-223s",
+  "sku": "ARA2306ST2",
+  "headlineLines": [
+    "SMALL BUGGY.",
+    "TWO POWER PLANS."
+  ],
+  "title": "ARRMA Typhon GROM 223S review: start with the supplied 2S package",
+  "dek": "Blue ARA2306ST2 includes a brushless 4WD buggy, DSC, upgraded running gear and a 2S power package. Its 3S capability is real, but the supplied charger does not cover that next step.",
+  "type": "Buggy",
+  "use": "Bashing",
+  "terrain": [
+    "Prepared dirt",
+    "Fine gravel",
+    "Clear paved practice areas",
+    "Small suitable RC courses"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/14",
+  "format": "Assembled RTR with 2S battery, S10 charger and radio cells; USB supply separate",
+  "skill": "New driver using reduced throttle and suitable space; experienced mini-buggy owner",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "basis": "ARRMA / Horizon US manufacturer reference for the blue battery-inclusive ARA2306ST2 package",
+    "source": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+    "checked": "2026-11-03"
+  },
+  "purchaseNote": "Included 2S pack and S10 charger require a separate suitable USB wall supply. S10 is a 2S charger; optional 3S use needs a separately compatible battery and charger.",
+  "overview": "A well-equipped compact brushless buggy for a buyer who will begin with the supplied 2S system and use the radio’s limiter sensibly. Its size is convenient, but it needs appropriate ground and driving room rather than an assumption that small means slow.",
+  "verdict": "Buy the equipped 2S buggy; treat 3S as a separate decision",
+  "verdictText": "The Typhon GROM 223S offers useful included drivetrain hardware and an understandable starting battery package. Choose it for manageable dirt or paved space, add the correct USB supply, and assess 3S only after checking the separate charging and operating requirements.",
+  "pros": [
+    "4500Kv brushless power, 4WD and DSC steering assistance",
+    "Oil-filled differentials, metal axle/hub set and aluminum shocks already included",
+    "Blue ST2 package supplies 1400mAh 2S Smart pack, S10 and four AA cells",
+    "Clipless body and adjustable steering links support routine access and setup"
+  ],
+  "cons": [
+    "USB wall adapter is separate despite “nothing else required” text",
+    "Supplied S10 cannot charge an optional 3S pack",
+    "Compact 196mm wheelbase and small tires need suitable terrain and room",
+    "Combined ESC/receiver links two electronics functions in one unit"
+  ],
+  "bestFor": [
+    "A buyer who wants a compact brushless buggy with its initial 2S pack included",
+    "Clear dirt or paved practice areas where throttle can be reduced while learning",
+    "Someone who values the installed upgrades more than a future conversion list"
+  ],
+  "avoidIf": [
+    "Your only driving area is deep grass or heavily rutted ground",
+    "You expect an entirely self-contained wall-charging box",
+    "You want the included charger to handle a later 3S battery"
+  ],
+  "quickSpecs": [
+    [
+      "Exact package",
+      "ARA2306ST2 · blue · battery/charger included"
+    ],
+    [
+      "Motor",
+      "Spektrum 2838 4500Kv brushless"
+    ],
+    [
+      "ESC / receiver",
+      "25A two-in-one DSC · 2S/3S"
+    ],
+    [
+      "Included power",
+      "1400mAh 2S 30C IC2 Smart / S10"
+    ],
+    [
+      "Controls",
+      "SLT2 · throttle limiter · four DSC modes"
+    ],
+    [
+      "Size / wheelbase",
+      "296 × 188 × 96mm / 196mm"
+    ]
+  ],
+  "rating": {
+    "audience": "A compact-buggy buyer beginning on the included 2S package and suitable clear ground",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Installed running gear",
+        "score": 9,
+        "reason": "Oil-filled differentials, metal axle/hub components, aluminum shocks and adjustable steering links are already supplied."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8.5,
+        "reason": "Separate throttle limiting and selectable DSC let the driver manage two different aspects of control."
+      },
+      {
+        "label": "Initial power package",
+        "score": 8,
+        "reason": "A matched 2S pack, charger and radio cells help, but the wall input is missing and S10 does not cover 3S."
+      },
+      {
+        "label": "Access and service information",
+        "score": 8,
+        "reason": "Clipless access, a tech pack and exact manual support checks; integrated electronics constrain replacement choices."
+      },
+      {
+        "label": "Complete-use value",
+        "score": 8.5,
+        "reason": "The USD 294.98 dated starting basket is persuasive for the documented equipment when a mini buggy fits the terrain."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "Choose the small buggy before choosing the higher voltage",
+      "paragraphs": [
+        "The Typhon GROM 223S is most appealing as a well-equipped small buggy you can begin using on its supplied battery. The brushless system and installed hardware give it room beyond a basic starter, but that does not make the higher-voltage option the first thing to buy. A clear patch of appropriate ground, an understandable charging arrangement and restrained initial controls are more valuable than planning a speed run before the first inspection.",
+        "This review covers the blue ARA2306ST2 package with a 2S battery and charger. The S in that code matters: batteryless Typhon GROM 223S packages are a different purchase. The older brushed Typhon GROM and the much larger Typhon 223S are also separate vehicles. At 296mm long, 188mm wide and a 196mm wheelbase, this model has a specific compact footprint that should guide terrain and transport decisions.",
+        "Big Squid RC’s October 2024 announcement distinguishes the battery-inclusive and batteryless versions and identifies the factory upgrade package. It is a launch report, not evidence that this particular blue car passed our durability test. RC-TNT also published an independently authored review in April 2025; its experiences remain the author’s. Our buying judgment rests on current exact-package documentation, the operating manual and the practical limits of the supplied charging equipment."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Included equipment",
+      "heading": "The ST2 box includes a 2S system, with one missing input",
+      "paragraphs": [
+        "ARRMA lists the assembled blue buggy, Spektrum 2838 4500Kv brushless motor, 25A combined ESC/receiver with DSC, SLT2 transmitter and SX110 metal-geared steering servo. The ST2 adds the Spektrum 1400mAh 2S 30C 7.4V Smart hardcase battery with IC2 connector and S10 USB-C charger. Four AA transmitter cells, a hex wrench and instructions are supplied. This is a complete bodied car rather than a roller awaiting radio installation.",
+        "The completion wording needs care. The current page says nothing else is required, but its official A93 image explicitly excludes the USB power supply. The vehicle manual’s charging page also marks the wall adapter as not supplied and gives compatible input requirements. Budget that missing item unless you already own an appropriate one. A USB-C cable in the box is not a mains power source, and the connector shape alone does not establish the supported charging protocol.",
+        "Keep the supplied pack and charger together as the initial documented pairing. The S10 instructions cover 2S Smart charging; they do not turn it into a general-purpose 3S charger because the vehicle can accept 3S. That separation is central to the purchase. The current package is useful for beginning on 2S, while a later higher-voltage plan needs its own compatibility and cost check before another battery enters the tray."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Brushless & gears",
+      "heading": "Useful installed hardware without a conversion shopping list",
+      "paragraphs": [
+        "The stock 4500Kv brushless motor drives all four wheels through an enclosed metal-gear drivetrain. Motor Kv describes its speed constant, not a measured road speed for a loaded vehicle. Tire diameter, load, gearing, voltage and conditions still matter. The combined 25A ESC/receiver is a compact installation, though replacing or changing one of those electronics functions can affect the other. Include that integration in long-term service expectations.",
+        "ARRMA identifies oil-filled differentials, a metal axle and wheel-hub set, aluminum shocks and adjustable steering links as already included upgrades. That is a stronger buying argument than asking a new owner to price a conversion before the first run. Oil-filled differentials allow wheel-speed differences while using fluid to influence their behavior; they are not locked crawler axles. Their inclusion does not establish a universal grip level on every surface.",
+        "The manufacturer describes around 35mph capability on 2S and 50+mph potential on 3S. Those are attributed manufacturer statements, not results measured here or a reason to start at full throttle. The supplied 2S system already warrants a proper operating area. Moving to 3S changes the energy and speed-management problem as well as the charging purchase. It should be an informed later decision, not an assumed requirement for enjoying the buggy."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Limiter & DSC",
+      "heading": "Throttle limiting and steering assistance do different jobs",
+      "paragraphs": [
+        "The SLT2 has 50%, 75% and 100% throttle-limit positions. This restricts available throttle so a new driver can begin with less acceleration and speed potential. It does not recognize pedestrians, stop at a boundary or guarantee that a small area becomes suitable. Choose the area first, then reduce the control demand. Confirm steering direction, neutral behavior and braking according to the exact manual before driving away.",
+        "DSC senses changes in yaw and applies steering correction. The four documented modes provide off, low, medium and high assistance. It is useful to understand that as steering intervention rather than traction magically appearing at the tires. It cannot select a line, overcome an unsuitable surface or make an abrupt obstacle harmless. The best starting level depends on driver preference and ground, so this review does not prescribe an invented universal gain setting.",
+        "To change DSC mode, the manual says to stop safely, hold full right steering and press the orange power/DSC button to cycle modes, with beeps and flashes identifying the selection. Return the steering to neutral before driving again. That stationary procedure is worth learning before the first session. Keep throttle-limit changes separate from DSC changes so you can understand which adjustment changed the response, rather than attributing everything to the brushless motor."
+      ],
+      "sourceIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & checks",
+      "heading": "Adjustable hardware needs a repeatable starting point",
+      "paragraphs": [
+        "The independent suspension uses oil-filled coil-over shocks, including the listed aluminum shock upgrade. Adjustable steering links make alignment checks possible without assuming that every rod should be altered immediately. Begin with the factory configuration and inspect for free movement, secure fasteners and undamaged components. A visibly displaced wheel or dragging suspension deserves diagnosis before adding speed. We have not measured damping curves or established a race setup for a particular track.",
+        "The SX110 has metal gearing, but a metal-geared servo is not permission to force a trapped front wheel against a curb. Steering load depends on the surface and the wheel’s position. Use the transmitter’s steering-rate function and the manual’s checks to establish sensible travel without binding. When driving toward yourself feels unfamiliar, practice broad low-speed passes rather than correct late with a large steering input.",
+        "Keep a simple setup note: surface, throttle-limit position, DSC mode and any mechanical change. That record makes an owner’s observations more useful than changing several items after one untidy corner. The factory running-gear upgrades are already a reason to try the supplied arrangement before buying additional hardware. None of them turns a mini buggy into a larger vehicle with proportionally more room for impacts, tires or obstacles."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Where to drive",
+      "heading": "Compact dimensions need a deliberately chosen route",
+      "paragraphs": [
+        "Prepared dirt, fine gravel and clear paved areas are the most sensible starting environments for this assessment. The compact body and short wheelbase help transport, but the same dimensions make large stones, deep ruts and abrupt pavement joints proportionally significant. Walk the intended loop before driving and remove obvious hazards where permitted. If the available ground is dominated by tall grass, a different complete vehicle is a better answer than repeatedly loading the small drivetrain.",
+        "The exposed-wheel buggy format also changes the consequences of contacting a marker compared with a closed-wheel truck body. Leave space around obstacles and use broad practice lines. The official airborne photograph illustrates manufacturer promotion, not a landing-height recommendation or proof of crash resistance. We have not tested ramp size, chassis survival or an acceptable jump distance. Ground-level control practice can reveal suitability without beginning with impacts.",
+        "Weather resistance is another area for exact instructions rather than family assumptions. Read the vehicle, battery and charger limits before exposure to water, then follow the documented cleaning and drying requirements. The USB charger is charging equipment, not something to leave outdoors while driving. A convenient small car can still require a dry charging location, supervision and proper battery handling. The budget includes care planning rather than treating battery ownership as free."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Access & battery fit",
+      "heading": "Clipless access helps, but the battery tray is still a limit",
+      "paragraphs": [
+        "The body uses clipless retention, which makes routine battery access less dependent on loose external clips. Learn the release and engagement sequence while the vehicle is clean, and check that the shell is secured before a run. Keep battery wiring clear of the drivetrain and retention points. Easy access is a convenience feature; it does not replace checking the pack, connector and chassis for damage after an outing.",
+        "The vehicle manual specifies a maximum battery tray of 101mm length, 31mm width and 21mm height. The web specification lists the same numbers in a different order, so the labeled manual dimensions are the useful installation reference. A prospective 3S pack needs approval for this system, the correct connector, safe retention and physical fit. Do not select a pack by IC2 connector or voltage alone, and do not force a larger one into place.",
+        "The manual lists 0.89kg for the S version with battery and 0.81kg for the T version without it. The current web table gives a slightly different batteryless figure, so this review attributes its weight data to the manual rather than silently averaging the sources. Neither number is an independent measurement of the car on your bench. Save the exact parts and technical pack for maintenance; the larger Typhon uses a different component family."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup & 3S costs",
+      "heading": "USD 294.98 is a dated 2S starting example",
+      "paragraphs": [
+        "The blue battery-inclusive package had a USD 249.99 ARRMA/Horizon US manufacturer reference on 3 November 2026. Add the Spektrum SPMX-1027 USB-C supply at a dated USD 24.99 reference and a USD 20 editorial allowance for an appropriate battery-care arrangement. That produces USD 294.98 before tax and shipping. The included drive pack, S10 charger and radio cells do not need to be purchased again in that starting example.",
+        "The USD 20 care line is a planning allowance, not a verified complete safety-equipment quotation or a claim that every household can meet the instructions for that amount. The S10 and vehicle documentation govern the actual arrangement. The manual permits appropriate mains USB adapters and explicitly says not to use computer or laptop USB ports. Its recommended faster input is a 20W-or-higher USB-C source supporting QC2.0/3.0; the completion image states 18W or higher.",
+        "A 3S pack and compatible 3S charger are excluded from this basket. We have not invented a price for a higher-voltage bundle or assumed the included S10 will charge it. If that route is essential from day one, price an exact compatible system before comparing the ST2 with a batteryless version. Existing suitable USB equipment may reduce initial cost, while spare packs and different charging hardware increase it. No current Amazon offer or inventory claim is used."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "table": {
+        "caption": "USD startup planning example · 3 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Blue ARA2306ST2",
+            "Manufacturer package reference; 2S pack/S10/AA included",
+            "249.99"
+          ],
+          [
+            "SPMX-1027 USB-C supply",
+            "Manufacturer reference; separate wall input",
+            "24.99"
+          ],
+          [
+            "Battery-care arrangement",
+            "Editorial allowance; instructions govern actual needs",
+            "20.00"
+          ],
+          [
+            "2S starting total",
+            "Before tax/shipping; no 3S pack or charger",
+            "294.98"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete cars",
+      "heading": "Compare the ground and the supplied equipment first",
+      "paragraphs": [
+        "Team Associated’s Reflex 14B Ongaro RTR is the closest published compact buggy comparison in our archive. It uses a different drivetrain with three sealed differentials and a separate electronics arrangement. Read the exact 20185 review for its supplied-versus-required equipment and startup basket. Similar scale and brushless labeling do not guarantee that either model’s battery, charger or setup instructions transfer to the other.",
+        "The brushed Quake GROM 4X4 gives a different small-vehicle direction: monster-truck proportions and a supplied 2S ecosystem without the Typhon’s brushless 3S plan. Its taller shape and wider stance deserve their own terrain assessment rather than a blanket promise of better rough-ground behavior. Choose the format you want to drive and maintain, then compare its complete cost. The lowest vehicle price is not automatically the lowest suitable first purchase.",
+        "The full-size Typhon 223S is the option when the available ground and transport space justify a larger buggy. It is not a bigger battery-compatible duplicate of this GROM. The wheelbase, motor system, operating area and required power-equipment purchase change. If your route is too rough for a mini, start with that category decision instead of spending heavily to make the compact car imitate a larger platform."
+      ],
+      "sourceIndexes": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Buy or skip",
+      "heading": "The included 2S setup is a feature, not an interim inconvenience",
+      "paragraphs": [
+        "The Typhon GROM 223S has a convincing documented equipment package: brushless four-wheel drive, adjustable controls, factory running-gear upgrades and a supplied initial battery system. For a buyer with appropriate clear ground, that is enough reason to consider it without promising a future speed target. The missing wall adapter and the 2S-only charger are small but concrete details that belong at the top of the buying decision.",
+        "I would choose the blue ST2 when starting on its supplied 2S pack is the plan and its compact buggy dimensions fit the route. I would reconsider if the only goal is immediate 3S use, deep-grass driving or an entirely self-contained charging box. Learn the limiter and DSC independently, verify the power input and leave room for mistakes. That is a stronger starting point than buying around the largest number in a speed headline."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU / color",
+      "ARA2306ST2 / blue; battery and charger included"
+    ],
+    [
+      "Scale / dimensions",
+      "1/14 / 296 × 188 × 96mm"
+    ],
+    [
+      "Wheelbase",
+      "196mm"
+    ],
+    [
+      "Motor",
+      "Spektrum 2838 4500Kv brushless; SPMXSM4400"
+    ],
+    [
+      "ESC / receiver",
+      "SPMXSBER1025G; 25A two-in-one 2S/3S with DSC"
+    ],
+    [
+      "Radio / steering",
+      "SLT2 two-channel / SX110 metal-geared servo"
+    ],
+    [
+      "Drive / differentials",
+      "Enclosed metal-gear 4WD / oil-filled differentials"
+    ],
+    [
+      "Included upgrades",
+      "Metal axle/hub set, aluminum shocks, adjustable steering links"
+    ],
+    [
+      "Included battery",
+      "SPMX142S30H2; 1400mAh 2S 30C 7.4V Smart hardcase IC2"
+    ],
+    [
+      "Included charger",
+      "SPMXC0040 S10 USB-C; 2S Smart charging"
+    ],
+    [
+      "Separate input",
+      "Suitable USB mains adapter; not a computer/laptop port"
+    ],
+    [
+      "Tray maximum, manual L × W × H",
+      "101 × 31 × 21mm"
+    ],
+    [
+      "Manual weight figures",
+      "S with battery 0.89kg; T without battery 0.81kg; web batteryless figure differs"
+    ],
+    [
+      "Throttle / DSC",
+      "50/75/100% throttle limit / off, low, medium, high DSC"
+    ],
+    [
+      "Body / radio cells",
+      "Clipless prefinished blue body / four AA included"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Which exact blue package is reviewed?",
+      "answer": "ARA2306ST2, the brushless Typhon GROM 223S with a 1400mAh 2S battery and S10 charger. Batteryless versions and the brushed Typhon GROM are different packages."
+    },
+    {
+      "question": "Can the car run 3S?",
+      "answer": "The stock vehicle is documented for 2S/3S operation. An optional 3S pack must meet its electrical, connector and physical requirements, and needs a separate compatible 3S charger."
+    },
+    {
+      "question": "Will the included S10 charge 3S?",
+      "answer": "No. The supplied S10 is a 2S Smart charger. Vehicle 3S capability does not expand the charger specification."
+    },
+    {
+      "question": "Is the wall adapter included?",
+      "answer": "No according to the exact manual and official A93 completion image, despite the page’s “nothing else required” text. Budget a suitable USB mains supply."
+    },
+    {
+      "question": "What is the battery tray size?",
+      "answer": "The manual labels the maximum as 101mm long, 31mm wide and 21mm high. Verify retention, connector and approved pack compatibility as well as dimensions."
+    },
+    {
+      "question": "Is 50+mph a tested result here?",
+      "answer": "No. That is the manufacturer’s attributed 3S potential statement. RC Car King has not measured speed, runtime, crash resistance or reliability."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — ARA2306S blue ST2 package, current USD reference and official images",
+      "url": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "ARRMA — exact ARA2306 manual; equipment, tray, charging input and DSC",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4bd747f2/Manuals/ARA2306_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Big Squid RC / Tim Mohr — 25 October 2024 Typhon GROM 223S announcement",
+      "url": "https://www.bigsquidrc.com/arrma-typhon-grom-223s-blx-brushless-rtr-4wd-buggy/",
+      "kind": "Independent launch coverage; not a physical comparison test",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "ARRMA — exact ARA2306S parts and technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw44e8d49f/Manuals/ARA2306S_PARTS_TECH_PACK_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Spektrum — S10 SPMXC0040 operating instructions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/SPMXC0040-Manual-MULTI.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Spektrum / Horizon — SPMX-1027 USB supply USD reference",
+      "url": "https://www.horizonhobby.com/product/anything/SPMX-1027.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC-TNT — April 2025 independently authored Typhon GROM 223S review",
+      "url": "https://www.youtube.com/watch?v=kh8J_o8Mnx4",
+      "kind": "Independent review context; no results adopted as ours",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Reflex 14B Ongaro full review",
+      "url": "https://rccarking.com/team-associated/reflex-14b-ongaro-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Quake GROM full review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — full-size Typhon 223S review",
+      "url": "https://rccarking.com/arrma/typhon-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    }
+  ],
+  "seo": {
+    "title": "ARRMA Typhon GROM 223S ST2 Review | RC Car King",
+    "description": "Blue ARA2306ST2 Typhon GROM review: brushless 4WD, DSC, included 2S pack, S10 charger limits, USB input and a dated complete starting budget."
+  },
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "publishedAt": "2026-11-03T14:05:45.392Z",
+  "updatedAt": "2026-11-03T14:05:45.392Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0DLBV926V",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA2306ST2",
+    "detailPageUrl": "https://www.amazon.com/dp/B0DLBV926V?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:01.532Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "Blue ARA2306ST2 complete brushless buggy with 1400mAh 2S IC2 Smart battery and S10 USB-C charger; USB power adapter separate",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA2306ST2, model ARA2306ST2. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/typhon-grom-223s-1.jpg",
+  "imageAlt": "Official ARRMA blue ARA2306ST2 Typhon GROM 223S with its included 2S Smart battery and S10 charger; wall supply is separate.",
+  "imageCaption": "Official ARRMA blue ARA2306ST2 Typhon GROM 223S with its included 2S Smart battery and S10 charger; wall supply is separate.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw3d3334ee/Images/ARA/ARA2306ST2_A0_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/typhon-grom-223s-2.jpg",
+      "alt": "Official ARRMA photograph of the blue Typhon GROM airborne; manufacturer promotion, not an RC Car King jump or durability test.",
+      "caption": "Official ARRMA photograph of the blue Typhon GROM airborne; manufacturer promotion, not an RC Car King jump or durability test.",
+      "source": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwdc0a9aea/Images/ARA/ARA2306ST2_A9_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwdc0a9aea/Images/ARA/ARA2306ST2_A9_P2ATB4H5.jpg?sw=800&sh=800&sm=fit"
+      }
+    },
+    {
+      "image": "reviews/typhon-grom-223s-3.jpg",
+      "alt": "ARRMA’s exact ST2 completion image excludes the USB power supply and specifies QC2.0/3.0 18W+; the manual recommends 20W+ for faster charging.",
+      "caption": "ARRMA’s exact ST2 completion image excludes the USB power supply and specifies QC2.0/3.0 18W+; the manual recommends 20W+ for faster charging.",
+      "source": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ab1b5ab/Images/ARA/ARA2306ST2_A93_P2ATB4H5.jpg?sw=800&sh=800&sm=fit",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw0ab1b5ab/Images/ARA/ARA2306ST2_A93_P2ATB4H5.jpg?sw=800&sh=800&sm=fit"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 3 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

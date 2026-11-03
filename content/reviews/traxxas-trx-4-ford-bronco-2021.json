@@ -1,0 +1,499 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "TRX-4 2021 Ford Bronco",
+  "modelSlug": "trx-4-ford-bronco-2021",
+  "sku": "92076-4",
+  "headlineLines": [
+    "BRONCO DETAIL.",
+    "REAL TRAIL CONTROLS."
+  ],
+  "title": "Traxxas TRX-4 2021 Ford Bronco review: choose the controls, budget the complete truck",
+  "dek": "The full-size 92076-4 combines portal axles, remote differential locks and a two-speed gearbox. The blue body is the hook; using and maintaining the extra hardware is the ownership decision.",
+  "type": "Scale trail crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Dry rock courses",
+    "Uneven walking trails",
+    "Low-speed dirt obstacles"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Assembled RTR; drive battery, charger and four transmitter AA cells separate",
+  "skill": "Beginner willing to learn crawler controls; experienced scale-trail driver",
+  "price": {
+    "amount": 549.95,
+    "currency": "USD",
+    "basis": "Traxxas US manufacturer reference for full-size 92076-4, including Velocity Blue variant",
+    "source": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+    "checked": "2026-11-03"
+  },
+  "purchaseNote": "Drive battery, charger and four AA cells are required. The current page offers a separate USD 139.95 3S LiPo/EZ-Peak completer option; lighting and Bluetooth module are optional.",
+  "overview": "A convincing choice if you want scale detail and the ability to change gear and differential behavior from the transmitter. Its complexity earns its keep on varied trails; a simpler crawler can be a better first purchase if those controls will go unused.",
+  "verdict": "Buy it for trail control as well as the body",
+  "verdictText": "The 2021 Bronco is a strong research-led shortlist choice for deliberate full-size trail driving with selectable locks and gears. Budget a complete power system, learn the switch positions and respect the exact wet-use instructions before treating it as an all-weather toy.",
+  "pros": [
+    "Portal axles with selectable front and rear differential locking",
+    "Remote high/low transmission and four-channel TQi radio",
+    "Detailed clipless licensed 2021 Bronco body and functional spare",
+    "Titan 21T 550, XL-5 HV and metal-geared steering servo are installed"
+  ],
+  "cons": [
+    "Battery, charger and transmitter cells are additional purchases",
+    "More servos, cables and seals to understand than a fixed-lock single-speed crawler",
+    "Pro Scale lighting and wireless Bluetooth module are separate",
+    "Water-resistant electronics do not make the model submersible or permit LiPo wet running under this manual"
+  ],
+  "bestFor": [
+    "Scale-trail drivers who will use open, front-locked and fully locked differential states",
+    "Buyers who value a full-size licensed Bronco with hidden body latches",
+    "Owners prepared to inspect and maintain mechanical trail equipment"
+  ],
+  "avoidIf": [
+    "You only need a simple low-speed crawler with fewer controls",
+    "You expect working lighting or app connectivity included",
+    "You want a small indoor Bronco or a high-speed jump truck"
+  ],
+  "quickSpecs": [
+    [
+      "Exact version",
+      "92076-4 · Velocity Blue; 92076-4-VBLU"
+    ],
+    [
+      "Motor / ESC",
+      "Titan 21T 550 brushed / XL-5 HV"
+    ],
+    [
+      "Axles / transmission",
+      "Portals / remote high-low"
+    ],
+    [
+      "Differentials",
+      "T-Lock: open, front locked, both locked"
+    ],
+    [
+      "Radio / servo",
+      "TQi four-channel / 2075X metal gears"
+    ],
+    [
+      "Size / wheelbase",
+      "584 × 249 × 239mm / 324mm"
+    ]
+  ],
+  "rating": {
+    "audience": "A full-size scale-trail buyer who will use selectable differential locks and two gears",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Trail-control hardware",
+        "score": 9,
+        "reason": "Portal axles, remote locks and high/low gearing provide clearly differentiated stock functions."
+      },
+      {
+        "label": "Scale-body execution",
+        "score": 9,
+        "reason": "The clipless 2021 body and detailed fittings are a strong documented attraction; working lights are extra."
+      },
+      {
+        "label": "Initial operating package",
+        "score": 7,
+        "reason": "Installed electronics and radio help, but no drive battery, charger or radio cells are included."
+      },
+      {
+        "label": "Ownership clarity",
+        "score": 8,
+        "reason": "The detailed R03 manual explains controls and maintenance, while the extra actuators and seals demand attention."
+      },
+      {
+        "label": "Complete-system value",
+        "score": 8,
+        "reason": "The USD 715.90 dated example buys an elaborate trail platform, provided its additional controls serve the owner."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "A Bronco for choosing a line, not chasing a speed figure",
+      "paragraphs": [
+        "The full-size TRX-4 Bronco is easiest to understand as a collection of trail decisions. You can leave the differentials open for steering, lock the front axle for an obstacle, lock both for further traction, and select low gear when the work becomes slow. The detailed body gives those decisions a convincing scale setting. That combination is the reason to consider this truck over a simpler crawler with permanently locked axles.",
+        "This is model 92076-4, depicting the 2021 Ford Bronco, with the Velocity Blue version used for the product photographs and retained affiliate identity. Traxxas currently identifies that color as 92076-4-VBLU. It is a 584mm-long 1/10 truck with a 324mm wheelbase, not the compact TRX-4M Bronco, the older 1979 body or a lifted High Trail model. Those names share family resemblance without sharing dimensions or every control.",
+        "Outside coverage is useful when its limits remain visible. RC Driver’s 2021 review identifies the same 92076-4 platform, while Tim Gluth’s RC Newb first impressions discuss his truck and subsequent changes. Those are their driving experiences, not ours. This recommendation is based on the current manufacturer package, R03 operating instructions and the practical value of its stock functions. We have not timed, crashed or endurance-tested the Bronco."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box & completion",
+      "heading": "The radio is installed; the power system still needs a purchase",
+      "paragraphs": [
+        "Traxxas supplies an assembled vehicle with the Titan 21T 550 brushed motor, XL-5 HV speed controller, TQi four-channel transmitter and receiver. The 2075X metal-geared steering servo and the transmission/differential actuators are installed. The licensed body and tires are fitted, so there is no chassis assembly or painting project before basic inspection. That is a substantial difference from a kit, even though RTR does not mean every operating item is supplied.",
+        "The drive battery, compatible charger and four AA alkaline transmitter cells are additional requirements. The product page lists 6–7-cell NiMH or 2S–3S LiPo operation for this stock system. Choose an actual compatible pack rather than rely on cell count alone: the listed battery compartment is 159 × 47 × 23mm, and its retention arrangement, connector and charger still need to suit the purchase. A pack that merely has enough voltage is not automatically a suitable installation.",
+        "Two tempting extras are also separate. Pro Scale lighting is available for this body, but detailed lamp housings do not establish an installed working lighting system. The TQi radio is Traxxas Link enabled, yet a 6511 wireless module is required for Bluetooth connectivity. If either feature is central to your plans, include the exact supported equipment in a revised budget rather than assume it is hidden somewhere in the RTR box."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Portal drive",
+      "heading": "Portals and low gear solve different problems",
+      "paragraphs": [
+        "Portal axles place reduction gearing near the wheels, raising the central axle housing relative to a conventional straight-axle arrangement. This helps explain the Bronco’s ground-clearance design without promising that it can cross any rock. Traxxas lists 80mm center clearance, and its raised driveshafts and links are further parts of the layout. The shape and approach to an obstacle still matter; a clearance figure cannot describe the whole route.",
+        "The two-speed transmission changes the relationship between motor rotation and wheel motion. Low gear is the sensible starting point for deliberate climbing and maneuvering; high gear serves less demanding connecting sections. The R03 manual says low-to-high shifts are permitted at any speed, but recommends reducing vehicle speed before shifting high-to-low to limit gear strain. That is more useful ownership information than describing the gearbox as a novelty switch.",
+        "The Titan is a reverse-rotation 21T 550 brushed motor, controlled by the XL-5 HV. Do not replace that exact description with a generic brushless TRX-4 assumption. Brushed power, a slipper clutch and the gearing form the stock system. We cannot derive a trustworthy runtime from pack capacity or a measured climbing limit from motor turns. The appropriate question is whether the documented low-speed functions match the terrain you intend to drive."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "T-Lock & radio",
+      "heading": "Learn the differential states before the obstacle",
+      "paragraphs": [
+        "The top T-Lock switch has a clear progression: both differentials open, front locked, then both locked. Open differentials allow the wheels on each axle to rotate at different speeds, which helps turning. A lock couples those wheel speeds, useful when one wheel would otherwise spin without moving the truck. It is a traction tool with a steering tradeoff, rather than a setting to leave engaged simply because it sounds more capable.",
+        "Traxxas recommends open differentials for most driving and notes reduced high-speed steering precision with locks engaged. If a single wheel is spinning while the truck is stuck, the manual instructs the driver to release the throttle, let the wheels stop, then apply throttle slowly as the locks engage. That specific sequence matters. Forcing a lock while continuing to spin a wheel is not a shortcut around learning what the switch does.",
+        "The four-channel TQi supports the transmission and locks alongside steering and throttle. Cruise control is useful for a suitable walking-trail section, but it does not choose a safe line or stop for an obstacle. Learn each switch on clear ground before using the body’s realistic look as an excuse for a difficult trail. Keep access to a quick stop, and follow the radio and vehicle function checks before every outing."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & steering",
+      "heading": "A detailed truck still needs a mechanical baseline",
+      "paragraphs": [
+        "The stock 2075X digital steering servo uses metal gears, and the chassis has GTS aluminum scale shocks. Those are meaningful component descriptions, but they are not a guarantee that steering force remains unlimited with the tires wedged against a rock. Move the truck to unload the steering rather than repeatedly force full lock against a trapped wheel. Check travel and linkage freedom before concluding that more electronic power is the first solution.",
+        "The 1.9-inch replica Wildtrak wheels carry Canyon Trail tires with trail-tuned foam inserts and S1 compound according to Traxxas. Tire compliance, body weight, suspension travel and the chosen surface interact; none can be reduced to a single specification. Start with the supplied arrangement and watch what the truck actually does on a modest route. A dramatic modification list is a poor substitute for an understandable starting setup.",
+        "Tim Gluth’s RC Newb first-impressions piece reports a steering-servo change on his own Bronco. That is a useful reminder to distinguish an author’s modified truck from the stock vehicle being purchased today. It does not establish a failure rate or prove every new 2075X needs replacement. This review budgets the documented RTR system and treats upgrades as later decisions based on the owner’s actual needs, not mandatory accessories."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Trail & wet use",
+      "heading": "The manual limits matter more than the waterproof headline",
+      "paragraphs": [
+        "Dry rocks, low-speed dirt obstacles and uneven walking trails are the clearest fit for this review’s stock setup. Choose a route where you can see the tire contact patches and recover the truck without entering a hazardous position. The detailed body and full-size footprint make it a different proposition from a small indoor crawler. Do not translate portal axles or locked differentials into a promise of safe side slopes or unlimited climbing angle.",
+        "The exact R03 manual describes water-resistant installed electronics, then explicitly says the model is not submersible or completely waterproof. It prohibits LiPo use in wet conditions, says the transmitter is not water resistant and excludes saltwater or contaminated water. That is why the optional 3S LiPo budget below is a dry-use example. A waterproof label on an individual component does not cancel the complete vehicle instructions.",
+        "Wet running also brings a documented cleaning, drying and lubrication obligation, including attention to bearings, portal boxes, differentials and the transmission. Read the full maintenance section before deciding whether to run in those conditions. The manual discourages wet use if you will not accept the additional care. If your plan is to put the truck away immediately after a muddy outing, choose a different outing rather than assume sealed electronics protect every mechanical part."
+      ],
+      "sourceIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & maintenance",
+      "heading": "Hidden latches improve the scale look, not the maintenance workload",
+      "paragraphs": [
+        "The clipless 2021 body has hidden retention rather than prominent external posts. Its mirrors, cowl, grille, bumpers and functional spare help distinguish it from a generic truck shell. Traxxas’s blue photographs show the intended body and stance; they are official product images rather than evidence of our own trail use. Check the actual selected color and optional equipment before treating any promotional lighting detail as an included item.",
+        "Learn the latch operation while the truck is clean, then check that the body is fully secured after installing a battery. Keep wiring and the antenna arrangement clear of moving components and retention points. The manufacturer’s listed 2.91kg weight gives a sense of the model’s size, but it is not our measured ready-to-drive mass. Your selected battery and any accessories alter what you carry and how the truck is loaded.",
+        "More functions mean more things worth inspecting: shift linkage, T-Lock cables, servo operation, wheel fasteners and drivetrain freedom. Use the exact exploded parts list when identifying a component, particularly because other TRX-4 bodies and axle configurations exist. After a dry run, remove the battery and check for trapped debris, damage or binding. Persistent control trouble deserves diagnosis against the manual rather than a succession of unrelated upgrades."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup costs",
+      "heading": "A dry-use completer example totals USD 715.90",
+      "paragraphs": [
+        "The current Traxxas US reference for this Bronco was USD 549.95 on 3 November 2026. The same page offers a separate 3S LiPo completer with EZ-Peak charger at USD 139.95. Add a USD 6 editorial allowance for four AA transmitter cells and USD 20 for an appropriate battery-care and charging arrangement. The resulting example is USD 715.90 before tax and delivery, with the body, radio and stock electronics already supplied.",
+        "The completer price is the manufacturer’s option reference, not a separately verified Amazon bundle or a guarantee that every retailer offers the same package. Confirm the exact pack, connector, charging compatibility and physical fit when selecting it. The AA and care figures are planning allowances rather than quotations for named products. Existing compatible equipment can reduce the purchase; extra lights, the Bluetooth module and additional drive packs increase it.",
+        "This basket deliberately describes dry use because the R03 wet-running instructions prohibit LiPo batteries. Do not buy a 3S package for a wet-route plan and assume the vehicle’s electronics headline settles that conflict. If you choose a different supported battery system, redo the cost calculation around its actual pack and charger. We have not assigned a permanent Amazon price, a stock claim or an unverified discount to any part of the total."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "USD startup planning example · 3 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "92076-4 Bronco",
+            "Traxxas manufacturer reference",
+            "549.95"
+          ],
+          [
+            "3S LiPo + EZ-Peak completer",
+            "Traxxas page option; confirm exact selection",
+            "139.95"
+          ],
+          [
+            "Four AA cells",
+            "Editorial allowance",
+            "6.00"
+          ],
+          [
+            "Battery-care arrangement",
+            "Editorial allowance; actual requirements govern",
+            "20.00"
+          ],
+          [
+            "Dry-use planning total",
+            "Before tax/shipping; lighting/module excluded",
+            "715.90"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete crawlers",
+      "heading": "Choose the complexity you will actually use",
+      "paragraphs": [
+        "The current TRX-4 Sport 82224-4 is the simpler family comparison. Its single-speed transmission and fixed locked differentials remove the Bronco’s switching decisions. That can suit a buyer who wants to concentrate on line choice and low-speed driving rather than operate multiple drivetrain modes. Read the exact Sport review, because older 82024-4 references do not establish the current clipless package or its installed equipment.",
+        "Axial’s SCX10 III Jeep CJ-7 V2 offers AR45 straight axles and installed DIG control, a different route to trail maneuvering. DIG changes the rear-drive behavior to help specific turns; it is not simply Axial’s label for T-Lock. Compare the two manuals and the obstacle style you want to practice. A documented function you understand is more valuable than choosing whichever specification list contains the most switches.",
+        "The TRX-4M Ford Bronco is the size-driven alternative for someone who really wants a compact crawler. Its smaller footprint and power system make transport and indoor obstacle planning different. It should not be mistaken for a cheaper version of every full-size feature. If you have room and want the 92076-4 control suite, stay with the larger truck; if storage and modest courses dominate, start by comparing actual dimensions."
+      ],
+      "sourceIndexes": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The decision",
+      "heading": "The extra controls should earn their place on your trail",
+      "paragraphs": [
+        "The full-size 2021 Bronco is compelling because its scale presentation and selectable drivetrain functions serve the same kind of deliberate driving. You can appreciate the body while learning why an open axle turns differently from a locked one, and why low gear belongs at a demanding obstacle. The specification supports that educational appeal without requiring us to invent a dramatic trail test.",
+        "Choose it if you will learn those controls, budget the missing power equipment and keep up with inspection. Skip it if the Bronco shape alone is persuading you to buy functions you do not want to maintain. A simpler crawler or smaller Bronco can be the better match. The research-led score rewards this truck for the buyer who will use its complexity, rather than treating complexity as an unconditional advantage."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / color",
+      "92076-4; current Velocity Blue variant 92076-4-VBLU"
+    ],
+    [
+      "Scale / format",
+      "1/10 assembled RTR trail crawler"
+    ],
+    [
+      "Motor",
+      "Titan 21T reverse-rotation 550 brushed"
+    ],
+    [
+      "ESC",
+      "XL-5 HV"
+    ],
+    [
+      "Transmission",
+      "Remote high/low two-speed"
+    ],
+    [
+      "Axles / differentials",
+      "Portals / remote T-Lock front and rear"
+    ],
+    [
+      "Radio / receiver",
+      "TQi four-channel / 6533"
+    ],
+    [
+      "Steering servo",
+      "2075X digital metal-geared"
+    ],
+    [
+      "Suspension",
+      "GTS aluminum scale shocks; linked solid axles"
+    ],
+    [
+      "Wheels / tires",
+      "1.9-inch Wildtrak replicas / Canyon Trail S1"
+    ],
+    [
+      "Dimensions / wheelbase",
+      "584 × 249 × 239mm / 324mm"
+    ],
+    [
+      "Listed weight / center clearance",
+      "2.91kg manufacturer figure / 80mm"
+    ],
+    [
+      "Battery compartment",
+      "159 × 47 × 23mm; confirm pack/retention fit"
+    ],
+    [
+      "Supported stock input",
+      "6–7-cell NiMH or 2S–3S LiPo; exact manual limits apply"
+    ],
+    [
+      "Separate operating items",
+      "Drive battery, compatible charger, four AA alkaline cells"
+    ],
+    [
+      "Optional extras",
+      "Pro Scale lighting; 6511 wireless module"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the small TRX-4M Bronco?",
+      "answer": "No. This is the full-size 1/10 92076-4 2021 Bronco, with a 324mm wheelbase and remote high/low transmission."
+    },
+    {
+      "question": "Are the differential locks remotely operated?",
+      "answer": "Yes. T-Lock selects both open, front locked or both locked. Stop a free-spinning wheel before engaging a lock as instructed in the R03 manual."
+    },
+    {
+      "question": "Are a battery and charger included?",
+      "answer": "No. The vehicle requires a separate compatible drive battery, charger and four AA transmitter cells."
+    },
+    {
+      "question": "Does it include working lights or Bluetooth?",
+      "answer": "Pro Scale lighting and the 6511 wireless module are optional. Lamp detail and a Link-enabled radio do not mean those extras are installed."
+    },
+    {
+      "question": "Can I use the 3S LiPo example in water?",
+      "answer": "The exact R03 manual prohibits LiPo use in wet conditions. The cost example is for dry use; the truck is not submersible and the transmitter is not water resistant."
+    },
+    {
+      "question": "Is the rating based on a driving test?",
+      "answer": "No. The five category scores are research-led editorial judgments for the stated trail buyer, with no invented speed, runtime, reliability or crash results."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — exact 92076-4 product, blue variant, package and USD references",
+      "url": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Traxxas — 92076-4 owner manual R03, especially pages 21–24",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/2/92076-4-OM-EN-R03.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Driver — exact 92076-4 review video and product description, May 2021",
+      "url": "https://www.youtube.com/watch?v=GNfpO842xUc",
+      "kind": "Independent review; their test, not ours",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tim Gluth / RC Newb — 2021 Bronco first impressions",
+      "url": "https://rcnewb.com/first-impressions-traxxas-trx-4-2021-ford-bronco/",
+      "kind": "Independent owner impressions; stock and modified states distinguished",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Traxxas — 92076-4 current parts list",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/3/92076-4_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — current TRX-4 Sport full review",
+      "url": "https://rccarking.com/traxxas/trx-4-sport/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Axial CJ-7 V2 full review",
+      "url": "https://rccarking.com/axial/scx10-iii-jeep-cj-7-v2/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — TRX-4M Bronco full review",
+      "url": "https://rccarking.com/traxxas/trx-4m-ford-bronco/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    }
+  ],
+  "seo": {
+    "title": "Traxxas TRX-4 2021 Ford Bronco Review | RC Car King",
+    "description": "Full-size 92076-4 Bronco review: portal axles, T-Lock controls, two-speed transmission, wet-use limits and a complete dated dry-use startup budget."
+  },
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "publishedAt": "2026-11-03T14:01:53.857Z",
+  "updatedAt": "2026-11-03T14:01:53.857Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0B59PSBH7",
+    "marketplace": "www.amazon.com",
+    "sku": "92076-4",
+    "detailPageUrl": "https://www.amazon.com/dp/B0B59PSBH7?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:25.467Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "Full-size 1/10 TRX-4 2021 Ford Bronco in Velocity Blue; current manufacturer blue variant 92076-4-VBLU, historical Amazon base part 92076-4",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:25.467Z: Traxxas, returned part 92076-4, model 92076-4. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/bronco-2021-1.jpg",
+  "imageAlt": "Official Traxxas Velocity Blue 2021 Ford Bronco, full-size 92076-4. Lighting accessories are optional.",
+  "imageCaption": "Official Traxxas Velocity Blue 2021 Ford Bronco, full-size 92076-4. Lighting accessories are optional.",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Front-VBLU_54126892.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/bronco-2021-2.jpg",
+      "alt": "Traxxas rear view of the blue 2021 Bronco with functional spare and detailed body fittings.",
+      "caption": "Traxxas rear view of the blue 2021 Bronco with functional spare and detailed body fittings.",
+      "source": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Rear-Blue-V2_75723419.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-3qtr-Rear-Blue-V2_75723419.jpg"
+      }
+    },
+    {
+      "image": "reviews/bronco-2021-3.jpg",
+      "alt": "Official side profile of the 324mm-wheelbase Bronco; this is the standard full-size TRX-4, not a High Trail or TRX-4M.",
+      "caption": "Official side profile of the 324mm-wheelbase Bronco; this is the standard full-size TRX-4, not a High Trail or TRX-4M.",
+      "source": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-Side-Blue_54126894.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/9/2/92076-4-2021-Bronco-Side-Blue_54126894.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 3 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

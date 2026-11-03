@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-03",
+  "createdAt": "2026-11-03T13:57:48.018Z",
+  "route": "tamiya/bmw-m4-gt3-evo-tt-02/",
+  "sku": "58751",
+  "coreWords": 1971,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/tamiya-initial.json",
+    "checkedAt": "2026-10-12T23:04:18.453Z",
+    "asin": "B0GXTG9738",
+    "brand": "TAMIYA",
+    "part": "58751",
+    "model": "58751",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:18.453Z: TAMIYA, returned part 58751, model 58751. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Tamiya — 58751 English specifications, export note and official photos",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Horizon Hobby — exact TAM58751 US package and retailer USD reference",
+      "url": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+      "kind": "US hobby retailer; exact export package",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tamiya — TT-02 chassis assembly manual",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/tt02.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tamiya — exact BMW 58751 body assembly and painting instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC-KleinKram — exact 58751 stock-equipment description",
+      "url": "https://www.rc-kleinkram.de/en/detail/index/sArticle/59716",
+      "kind": "Specialist retailer context; not our physical test",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tamiya — Japanese domestic 58751 completion requirements",
+      "url": "https://www.tamiya.com/japan/products/58751/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RCScrapyard — exact 58751 model archive",
+      "url": "https://www.rcscrapyard.net/tamiya-bmw-m4-gt3-evo-58751.htm",
+      "kind": "Independent model archive; no test results adopted",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Tamiya Subaru Impreza Monte-Carlo 99 full review",
+      "url": "https://rccarking.com/tamiya/subaru-impreza-monte-carlo-99/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Kyosho Fazer Mk2 Skyline full review",
+      "url": "https://rccarking.com/kyosho/fazer-mk2-skyline-2000gt-r/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Traxxas 4-Tec Drift Nissan 240SX full review",
+      "url": "https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "bmw-gt3",
+      "n": 1,
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_1.jpg",
+      "credit": "Tamiya",
+      "file": "reviews/bmw-gt3-1.jpg",
+      "checked": "2026-11-03T10:35:59.658Z",
+      "bytes": 94980,
+      "sha256": "be7c7fdd21cf03378c610caf4f3ff9956d83576d4de94ecec74ca286002c446a"
+    },
+    {
+      "prefix": "bmw-gt3",
+      "n": 2,
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c1.jpg",
+      "credit": "Tamiya",
+      "file": "reviews/bmw-gt3-2.jpg",
+      "checked": "2026-11-03T10:36:01.301Z",
+      "bytes": 88437,
+      "sha256": "888c735eee36656f06cb21d1e574145c75b64bff5336d58b7ea7bf4b7b994a3e"
+    },
+    {
+      "prefix": "bmw-gt3",
+      "n": 3,
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c2.jpg",
+      "credit": "Tamiya",
+      "file": "reviews/bmw-gt3-3.jpg",
+      "checked": "2026-11-03T10:36:03.642Z",
+      "bytes": 125219,
+      "sha256": "535b85f3bad16c516112a3c28fa953a982312b1e9f6e2c3040be60bfa1c46cc3"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "bmw-chassis-manual",
+      "bytes": 7287543,
+      "sha256": "1f7e2e56910ff8c6e2a453eaf95c66a6b1a9b1d6c96e0c1fca2a8acc61d4113a"
+    },
+    {
+      "file": "bmw-body-manual",
+      "bytes": 2945354,
+      "sha256": "b076e09966be714d9b6072a7e4b8c8f1d292992440afa238d522bf2f4a972ce5"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "bmw-chassis-manual",
+      "bmw-body-manual"
+    ],
+    "package": "US distributor motor/ESC inclusions distinguished from Japanese domestic requirements",
+    "priceBasis": "154.70 USD Horizon retailer reference; all additions are labeled editorial allowances",
+    "manualInspection": "Body PDF pages 2–3 and TT-02 chassis page 4 rendered and visually inspected; painting, remaining trimming and body-dependent configuration confirmed",
+    "sourceConflicts": "Export contents resolved against exact US distributor; no release-date claim or oil-shock claim from conflicting secondary listings",
+    "publicSourceChecks": [
+      {
+        "key": "bmw",
+        "url": "https://www.tamiya.com/english/products/58751/index.html",
+        "final": "https://www.tamiya.com/english/products/58751/index.html",
+        "status": 200,
+        "sha256": "bc5a67f85ef37f206120978c101d0b563b6a40d8ffd23a795f4564fc7c0f8e6a",
+        "checkedAt": "2026-11-03T10:28:20.792Z"
+      }
+    ]
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed; 75 reviews, 103 pages, 102 sitemap URLs",
+    "preview": "npm run build and npm run check passed with default GitHub profile",
+    "desktop": "1440x1000: product box, official hero, score and affiliate CTA inspected",
+    "mobile": "390x844: heading, image, bounded page width, contained scrollable budget and functioning exact-model FAQ inspected",
+    "checkedAt": "2026-11-03T14:11:24.253Z"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

@@ -16,12 +16,12 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
-- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 
 ## Guides and listicles
@@ -40,6 +40,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Typhon GROM 223S DSC BLX](https://alekspasseo.github.io/rc-car-king/arrma/typhon-grom-223s/): Blue ARA2306ST2 Typhon GROM review: brushless 4WD, DSC, included 2S pack, S10 charger limits, USB input and a dated complete starting budget.
+- [Tamiya BMW M4 GT3 EVO TT-02](https://alekspasseo.github.io/rc-car-king/tamiya/bmw-m4-gt3-evo-tt-02/): Tamiya 58751 BMW M4 GT3 EVO review: export motor and ESC, TT-02 build, body finishing, stock limits and a dated complete startup budget.
+- [Traxxas TRX-4 2021 Ford Bronco](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-ford-bronco-2021/): Full-size 92076-4 Bronco review: portal axles, T-Lock controls, two-speed transmission, wet-use limits and a complete dated dry-use startup budget.
 - [ARRMA Quake GROM 4X4](https://alekspasseo.github.io/rc-car-king/arrma/quake-grom-4x4/): Green ARA2137T2 Quake GROM review: brushed 4WD, included 2S pack, USB supply caveat, controls, terrain fit and a complete dated startup budget.
 - [Kyosho Mini-Z RWD MR-04 DENSO KOBELCO SC430](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-denso-kobelco-sc430/): 32373DK DENSO SC430 Mini-Z review: brushed MR-04W-MM, rear drive, AAA startup budget, optional gyro and lights, indoor terrain fit and body limits.
 - [Team Associated Pro2 SC10SW RTR](https://alekspasseo.github.io/rc-car-king/team-associated/pro2-sc10sw-rtr/): Black 70041 Pro2 SC10SW review: 3300kV power, DVC controls, suspension adjustment, 3S gearing limits and a complete 2S startup budget.

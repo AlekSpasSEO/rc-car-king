@@ -1,0 +1,543 @@
+{
+  "brand": "Tamiya",
+  "brandSlug": "tamiya",
+  "model": "BMW M4 GT3 EVO TT-02",
+  "modelSlug": "bmw-m4-gt3-evo-tt-02",
+  "sku": "58751",
+  "headlineLines": [
+    "GT3 LOOKS.",
+    "BUILD IT YOURSELF."
+  ],
+  "title": "Tamiya BMW M4 GT3 EVO review: a TT-02 project, with the whole build budget",
+  "dek": "The 58751 kit pairs a detailed BMW shell with a straightforward shaft-drive chassis. Its appeal depends on enjoying assembly and paint, then choosing the right completion equipment.",
+  "type": "Touring car",
+  "use": "Racing",
+  "terrain": [
+    "Smooth asphalt",
+    "Clean paved practice areas",
+    "Suitable on-road RC circuits"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Body-inclusive assembly kit; radio, servo, battery and charger separate",
+  "skill": "Patient first-time builder or returning hobbyist",
+  "price": {
+    "amount": 154.7,
+    "currency": "USD",
+    "basis": "Horizon Hobby US retailer reference for TAM58751; not manufacturer MSRP or an Amazon offer",
+    "source": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+    "checked": "2026-11-03"
+  },
+  "purchaseNote": "US distributor contents list a Torque-Tuned motor and Hobbywing 1060 ESC. Confirm your regional box; photos show an assembled and painted example.",
+  "overview": "A convincing first touring-car build for someone who wants to make the BMW as well as drive it. The shell is the attraction; the standard friction-damped TT-02 is a simple starting chassis rather than a competition specification.",
+  "verdict": "Buy the building project and the BMW body",
+  "verdictText": "Choose 58751 for a patient on-road assembly project with a detailed licensed shell. Choose an assembled complete car if immediate driving matters more than building, and budget the missing operating equipment before comparing prices.",
+  "pros": [
+    "Detailed BMW M4 GT3 EVO body, wing and light cases included",
+    "Shaft 4WD and front/rear gear differentials are straightforward to understand during assembly",
+    "US export listing supplies the Torque-Tuned 540 and Hobbywing 1060 ESC",
+    "Separate body and chassis instructions make the build requirements visible"
+  ],
+  "cons": [
+    "Unpainted kit needs radio, receiver, servo, battery, charger, paint and tools",
+    "Friction dampers and bushings are basic stock equipment",
+    "Regional motor/ESC contents need confirmation",
+    "Slick tires and low bodywork call for a clean on-road surface"
+  ],
+  "bestFor": [
+    "Builders who want a licensed GT3 body and an approachable chassis project",
+    "Smooth paved practice with the stock brushed system",
+    "Owners willing to plan paint, electronics and setup together"
+  ],
+  "avoidIf": [
+    "You want a finished car to drive as soon as a battery is charged",
+    "You need grass, rough gravel or crawler capability",
+    "You expect race-ready oil dampers and a full ball-bearing set"
+  ],
+  "quickSpecs": [
+    [
+      "Exact kit",
+      "58751 · BMW M4 GT3 EVO"
+    ],
+    [
+      "Motor / ESC",
+      "US listing: Torque-Tuned 540 / Hobbywing 1060"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD · front/rear bevel differentials"
+    ],
+    [
+      "Suspension",
+      "Double wishbones · friction dampers"
+    ],
+    [
+      "Size",
+      "443 × 188 × 132mm"
+    ],
+    [
+      "Wheelbase / ratio",
+      "257mm · stock 8.27:1"
+    ]
+  ],
+  "rating": {
+    "audience": "A patient first touring-car builder choosing a body-inclusive on-road kit",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Body project",
+        "score": 9,
+        "reason": "A detailed 1mm polycarbonate shell, separate wing and light cases give the kit a clear visual purpose."
+      },
+      {
+        "label": "Chassis learning value",
+        "score": 8.5,
+        "reason": "The shaft-drive layout and separate assembly manual make the mechanical relationships accessible."
+      },
+      {
+        "label": "Stock equipment level",
+        "score": 7,
+        "reason": "The documented export motor and ESC help, but friction dampers and bushings remain entry-level hardware."
+      },
+      {
+        "label": "Completion clarity",
+        "score": 7,
+        "reason": "The US distributor lists the missing equipment, while regional ESC wording and finishing work require attention."
+      },
+      {
+        "label": "Complete-project value",
+        "score": 8,
+        "reason": "The dated USD 365.70 planning basket is credible for a kit project, but much higher than the box price alone."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "Buy this because you want to build the BMW",
+      "paragraphs": [
+        "The BMW M4 GT3 EVO makes sense when the build is part of the evening you are buying. A clear shell, bags of chassis parts and a set of instructions are the product. The finished racing silhouette is the reward for assembling, installing, painting and checking those pieces. If your ideal first session begins with opening a finished car and driving, this particular Tamiya asks you to enjoy a different route into the hobby.",
+        "This assessment covers item 58751, the body-inclusive TT-02 assembly kit. The name does not identify an XB factory-built package or a bare chassis. Tamiya quotes a 443mm length, 188mm width and 257mm wheelbase. Those numbers put it firmly in the conventional small touring-car conversation: substantial enough to work on at a table, yet low and narrow enough that the condition of the driving surface becomes important.",
+        "The useful outside context is modest. RCScrapyard catalogs this exact kit, while specialist retailer RC-KleinKram identifies its basic bushings and friction dampers. Neither source supplies a controlled comparison proving lap times, grip or crash survival. The assessment here comes from the manufacturer specifications, the chassis and body instructions, and the documented export package. I would shortlist it for the building experience and BMW appearance before discussing upgrades."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Included & required",
+      "heading": "Check the export box before ordering a second ESC",
+      "paragraphs": [
+        "The current US Horizon listing supplies the BMW kit, a Torque-Tuned 540 brushed motor, a Hobbywing THW1060 controller and instructions. The historical exact-product affiliate record also identifies the motor and 1060. That is useful evidence for the US export configuration, but it should not become a promise about every imported box. Tamiya sells into different regions, and the Japanese domestic completion requirements are not identical to the US distributor listing.",
+        "You still need a compatible two-channel-or-better transmitter and receiver, steering servo, drive battery, charger and transmitter cells. Add appropriate polycarbonate paint, finishing materials and assembly tools. The standard servo and receiver installation must be checked against the actual components you select. A low advertised kit price is not a complete driving budget when most of the control system and all of the charging arrangement are outside the box.",
+        "Tamiya’s English page says an ESC is included for export, yet its generic requirements also mention a radio system with ESC. Resolve that wording by checking the retailer’s actual contents and the controller in your box. Do not automatically buy a duplicate controller. Conversely, do not plan a Japanese-market purchase around export inclusions. Save the invoice and exact kit description so a missing component can be discussed against the package you ordered."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & drive",
+      "heading": "Simple shaft drive, with an honest stock specification",
+      "paragraphs": [
+        "The TT-02 places the battery along one side and the motor on the other, with a longitudinal shaft carrying drive between the gearboxes. Both axles use four-bevel resin gear differentials. Those differentials permit different wheel speeds in corners; they are not locked crawler axles. Building them is a useful introduction to how a four-wheel-drive touring car distributes motion without requiring a belt layout or a competition drivetrain installation.",
+        "Tamiya gives the standard overall gear ratio as 8.27:1. Its alternative ratio range requires separately chosen gearing rather than a bag containing every possible combination. Keep the stock arrangement while checking free movement, correct assembly and electronics operation. Choosing a taller ratio because the body resembles a fast GT3 car can increase load without addressing the more important early questions of surface, control and whether the chassis has been assembled correctly.",
+        "The documented US motor is a Torque-Tuned 540 brushed unit. That description tells you the motor family and operating approach; it does not give us a defensible measured top speed. We have no speed or runtime test for this kit. The BMW’s full-size racing credentials also do not establish the RC chassis specification. This is a TT-02 with a detailed licensed body, and it deserves to be assessed on those actual components."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Build & electronics",
+      "heading": "Plan the installation before the first powered check",
+      "paragraphs": [
+        "Read both instruction sets before assembly. The TT-02 manual covers several possible chassis configurations and explicitly directs the builder to the body instructions when selecting wheelbase, ride height and track settings. This BMW uses the documented 257mm wheelbase. Do not change a suspension arrangement simply because the generic manual shows another option; the shell, mounting positions and wheel openings need to match the configuration being built.",
+        "Fit the selected steering servo with the correct horn and linkage arrangement, then establish the radio’s neutral and steering direction according to its own instructions. Check full steering movement for binding before putting the car on the ground. A radio with more channels does not compensate for a miscentered servo or a linkage forced against its mechanical stop. Treat an unexpected movement during setup as a fault to resolve before driving.",
+        "For a straightforward completion plan, the budget below uses a compatible 7.2V NiMH pack and charger rather than assuming an arbitrary LiPo installation. Confirm connector, pack dimensions and the actual controller instructions before purchase. The distributor’s broad battery-voltage description is not a substitute for battery chemistry settings, charger compatibility or installation checks. No charging current or controller jumper position is prescribed here without the selected equipment’s documentation."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & setup",
+      "heading": "Friction dampers are the starting point, not oil shocks",
+      "paragraphs": [
+        "The stock suspension uses four independent double wishbones and friction dampers. That means the standard car does not offer the same fluid-damping adjustment as an oil-shock installation. It can still teach assembly, steering adjustment and repeatable driving lines. It should not be sold to a beginner as a fully equipped club-racing chassis just because the finished shell looks ready for a paddock photo.",
+        "The package is also described with plastic bushings rather than a full ball-bearing conversion. Bearings and oil dampers are familiar discussion points around TT-02 ownership, but buying upgrades before building can obscure what the supplied car actually does. Assemble the intended stock configuration, ensure the drivetrain rotates freely and understand the manual first. Any later modification should solve an identified need and preserve fit with this exact chassis and body.",
+        "Tamiya’s three-piece steering linkage is another basic part of the layout. Check centering, symmetrical travel and clearance with the body fitted. A car that appears straight on a stand may behave differently under load, so begin with low-speed straight passes in a clear space. Change one setup variable at a time and note the result. We cannot provide a measured grip ranking or a universal alignment recipe from specifications alone."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Surface & driving",
+      "heading": "Give the low body and slick tires the right ground",
+      "paragraphs": [
+        "The published tire dimensions are 26mm wide and 66mm in diameter, with racing-style semi-pneumatic slicks. Together with the low front bodywork, that points toward clean paved practice areas and suitable on-road circuits. A small stone or abrupt pavement edge occupies a much larger share of this car’s working clearance than it would under a trail truck. Walk the practice area before setting the car down.",
+        "The TT-02 platform’s optional clearance settings do not turn the finished BMW into a rough-ground basher. Raising a chassis can introduce body, wheel or handling compromises, and this shell was selected to depict a low racing car. If your available space is loose gravel, rutted dirt or lawn, choose a complete car designed around that surface rather than start by making this kit imitate another category.",
+        "For initial driving, make a wide loop with generous braking space and a clear recovery route. Practice steering toward yourself before adding pace or close markers. A touring body gives useful visual direction, but no manufacturer photograph can show how much room your particular practice area needs. Public roads, pedestrians and full-size vehicles should not become obstacles in a first-run experiment. A suitable RC venue is the more useful upgrade."
+      ],
+      "sourceIndexes": [
+        0
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & ownership",
+      "heading": "The show-car finish is a separate part of the project",
+      "paragraphs": [
+        "The 1mm polycarbonate shell carries the distinctive BMW nose, broad arches and rear aero shape. Separate light cases, mirrors, wing pieces and decals add detail. Tamiya’s official photographs show an assembled, painted example; the box does not contain that finished car. The export listing describes pre-cut wheel arches and pre-made mounting holes, but the body instructions still contain trimming, wing drilling, washing, masking, painting and detail-assembly work.",
+        "The body manual distinguishes polycarbonate paints from paints for separate plastic parts and shows an inside-painting sequence. Follow those material-specific instructions rather than apply a general-purpose finish everywhere. The USD 35 finishing allowance in this review is a starting planning figure, not a priced promise to reproduce every supplied photograph with all of Tamiya’s listed colors. A more elaborate replica finish can need additional materials and patience.",
+        "Light cases should not be confused with a fitted LED system: Horizon explicitly says LED lights cannot be attached in this kit configuration. The rear wing and mirrors also deserve care during handling and storage. Lift and transport the completed car in a way that supports the chassis rather than treating the detailed bodywork as a handle. Check body retention and tire clearance after fitting all the separate pieces."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete build budget",
+      "heading": "Plan around USD 365.70, rather than the kit price alone",
+      "paragraphs": [
+        "Horizon’s exact TAM58751 US listing showed USD 154.70 on 3 November 2026. That is a retailer reference, not a Tamiya MSRP, fresh Amazon price or claim of a discount. To make the initial purchase reviewable, the example adds explicit editorial allowances for a compatible radio/receiver and servo, a NiMH pack, charger, transmitter cells, finishing materials and tools. The resulting planning total is USD 365.70 before tax and shipping.",
+        "The allowances are USD 75 for radio, receiver and servo together, USD 30 for the pack, USD 40 for its compatible AC charger, USD 6 for radio cells, USD 35 for paint and finishing, and USD 25 for tools and care materials. They are budget placeholders rather than verified product quotations. Check actual chosen equipment and revise the total before ordering, especially if your body finish needs several additional paint colors.",
+        "An owner with suitable radio gear and tools may spend less, while a first-time builder seeking premium electronics or a detailed display finish may spend more. Neither situation changes the distinction between a kit and a running system. Optional bearings, dampers and extra batteries are excluded from this first-operating basket. Avoid spending the completion budget on chassis upgrades before you have the equipment needed to assemble, control and charge the car."
+      ],
+      "sourceIndexes": [
+        1
+      ],
+      "table": {
+        "caption": "USD startup planning example · 3 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "58751 US export kit",
+            "Horizon retailer reference",
+            "154.70"
+          ],
+          [
+            "Radio + receiver + servo",
+            "Editorial compatible-equipment allowance",
+            "75.00"
+          ],
+          [
+            "7.2V NiMH drive pack",
+            "Editorial allowance",
+            "30.00"
+          ],
+          [
+            "Compatible AC NiMH charger",
+            "Editorial allowance",
+            "40.00"
+          ],
+          [
+            "Transmitter cells",
+            "Editorial allowance; chosen radio governs quantity",
+            "6.00"
+          ],
+          [
+            "Paint and finishing",
+            "Editorial allowance; finish-dependent",
+            "35.00"
+          ],
+          [
+            "Tools and care",
+            "Editorial allowance",
+            "25.00"
+          ],
+          [
+            "Planning total",
+            "Before tax/shipping; no upgrades",
+            "365.70"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete cars",
+      "heading": "Compare complete projects with complete cars",
+      "paragraphs": [
+        "Tamiya’s Subaru Impreza Monte-Carlo ’99 TT-02 kit is the obvious alternative if you like the building process but prefer rally styling. Read its own review for the exact body, supplied electronics and completion requirements. A shared chassis family does not make every body package identical, and a rally appearance does not automatically authorize rough ground. Choose the model whose finish you actually want to spend time building.",
+        "Kyosho’s Fazer Mk2 Skyline 2000GT-R takes the assembled on-road route. It suits a buyer who values a finished body and installed radio equipment more than learning the assembly sequence. It still needs its own power-equipment calculation. Comparing its vehicle price directly with the Tamiya kit alone misses the missing radio, servo and finishing work that make the two purchase experiences different.",
+        "For purposeful drifting, the Traxxas 4-Tec Drift Nissan 240SX is a separate complete-car option with a different chassis, tires and control brief. The BMW’s racing slicks and shaft 4WD do not make it equivalent to a dedicated drift package. Decide whether your aim is building a scale touring car, driving an assembled road car or practicing controlled slides before letting one attractive body choose the entire purchase."
+      ],
+      "sourceIndexes": [
+        0,
+        7,
+        8,
+        9
+      ],
+      "table": {
+        "caption": "Different complete-vehicle routes",
+        "columns": [
+          "Vehicle",
+          "Choose it for",
+          "Ownership distinction"
+        ],
+        "rows": [
+          [
+            "Tamiya Subaru Impreza TT-02",
+            "Another body-inclusive building project",
+            "Body-inclusive kit; check completion equipment"
+          ],
+          [
+            "Kyosho Fazer Mk2 Skyline",
+            "Assembled on-road ownership",
+            "Assembled car; check battery and charger"
+          ],
+          [
+            "Traxxas 4-Tec Drift Nissan 240SX",
+            "A dedicated complete drift car",
+            "Dedicated drift chassis and controls"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "verdict",
+      "nav": "Buy or skip",
+      "heading": "A good kit when the build is the reason",
+      "paragraphs": [
+        "The 58751 earns its place through a clear combination: a detailed BMW racing body and a simple mechanical platform you assemble yourself. Its modest stock specification is visible, and the US motor/ESC inclusion removes two completion purchases. The remaining equipment and body work are substantial enough that they belong in the buying decision, rather than appearing as a surprise after delivery.",
+        "I would buy it for patient paved-area practice and the satisfaction of completing the shell. I would skip it for immediate RTR use, rough terrain or a race program that already demands more specialized hardware. Confirm the regional box, set a realistic finishing budget and find suitable ground. Those decisions contribute more to this purchase than an unsupported speed claim or an automatic list of upgrades."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "SKU / package",
+      "58751 · body-inclusive unpainted assembly kit"
+    ],
+    [
+      "Scale / chassis",
+      "1/10 · TT-02"
+    ],
+    [
+      "Motor",
+      "US distributor: Torque-Tuned 540 brushed"
+    ],
+    [
+      "ESC",
+      "US distributor: Hobbywing THW1060; regional contents vary"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD; four-bevel resin differentials front/rear"
+    ],
+    [
+      "Stock ratio",
+      "8.27:1"
+    ],
+    [
+      "Suspension / dampers",
+      "Independent double wishbones / friction dampers"
+    ],
+    [
+      "Bearings",
+      "Stock bushings; no full ball-bearing conversion included"
+    ],
+    [
+      "Dimensions",
+      "443 × 188 × 132mm"
+    ],
+    [
+      "Wheelbase",
+      "257mm"
+    ],
+    [
+      "Tires",
+      "26mm wide × 66mm diameter racing slicks"
+    ],
+    [
+      "Body",
+      "1mm polycarbonate, unpainted; separate wing/light cases"
+    ],
+    [
+      "Required equipment",
+      "Radio/receiver, servo, compatible pack/charger, radio cells, paint and tools"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the BMW M4 GT3 EVO ready to run?",
+      "answer": "No. Item 58751 is an unassembled, unpainted kit with its body included. The official finished-car photos are illustrative."
+    },
+    {
+      "question": "Does the kit include an ESC?",
+      "answer": "The current US Horizon listing includes a Hobbywing THW1060 and Torque-Tuned 540 motor. Tamiya identifies export ESC inclusion, but regional box contents must be checked."
+    },
+    {
+      "question": "Does it have oil shocks and ball bearings?",
+      "answer": "The standard specification lists friction dampers and bushings, rather than oil shocks and a full bearing conversion."
+    },
+    {
+      "question": "Are working lights included?",
+      "answer": "No. Separate light cases are body details; the US listing says LED lights cannot be attached in this kit configuration."
+    },
+    {
+      "question": "How much should a new builder budget?",
+      "answer": "The dated example totals USD 365.70 before tax/shipping, combining the USD 154.70 retailer kit reference with explicitly labeled equipment, paint and tool allowances."
+    },
+    {
+      "question": "Can this review give a measured top speed?",
+      "answer": "No. No physical speed or runtime testing was performed. The motor name and stock ratio do not establish a measured result."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tamiya — 58751 English specifications, export note and official photos",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Horizon Hobby — exact TAM58751 US package and retailer USD reference",
+      "url": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+      "kind": "US hobby retailer; exact export package",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tamiya — TT-02 chassis assembly manual",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/tt02.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tamiya — exact BMW 58751 body assembly and painting instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC-KleinKram — exact 58751 stock-equipment description",
+      "url": "https://www.rc-kleinkram.de/en/detail/index/sArticle/59716",
+      "kind": "Specialist retailer context; not our physical test",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Tamiya — Japanese domestic 58751 completion requirements",
+      "url": "https://www.tamiya.com/japan/products/58751/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RCScrapyard — exact 58751 model archive",
+      "url": "https://www.rcscrapyard.net/tamiya-bmw-m4-gt3-evo-58751.htm",
+      "kind": "Independent model archive; no test results adopted",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Tamiya Subaru Impreza Monte-Carlo 99 full review",
+      "url": "https://rccarking.com/tamiya/subaru-impreza-monte-carlo-99/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Kyosho Fazer Mk2 Skyline full review",
+      "url": "https://rccarking.com/kyosho/fazer-mk2-skyline-2000gt-r/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Car King — Traxxas 4-Tec Drift Nissan 240SX full review",
+      "url": "https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-03"
+    }
+  ],
+  "seo": {
+    "title": "Tamiya BMW M4 GT3 EVO TT-02 Review | RC Car King",
+    "description": "Tamiya 58751 BMW M4 GT3 EVO review: export motor and ESC, TT-02 build, body finishing, stock limits and a dated complete startup budget."
+  },
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "publishedAt": "2026-11-03T13:57:48.018Z",
+  "updatedAt": "2026-11-03T13:57:48.018Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0GXTG9738",
+    "marketplace": "www.amazon.com",
+    "sku": "58751",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GXTG9738?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:18.453Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "58751 body-inclusive unpainted assembly kit; documented US export package with Torque-Tuned 540 motor and Hobbywing 1060 ESC",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:18.453Z: TAMIYA, returned part 58751, model 58751. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/bmw-gt3-1.jpg",
+  "imageAlt": "Official Tamiya BMW M4 GT3 EVO 58751: assembled and painted example of the unpainted kit.",
+  "imageCaption": "Official Tamiya BMW M4 GT3 EVO 58751: assembled and painted example of the unpainted kit.",
+  "imageCredit": {
+    "name": "Tamiya",
+    "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_1.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/bmw-gt3-2.jpg",
+      "alt": "Official rear view of Tamiya’s assembled and painted BMW example; the wing and finishing require assembly.",
+      "caption": "Official rear view of Tamiya’s assembled and painted BMW example; the wing and finishing require assembly.",
+      "source": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c1.jpg",
+      "creditName": "Tamiya",
+      "credit": {
+        "name": "Tamiya",
+        "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c1.jpg"
+      }
+    },
+    {
+      "image": "reviews/bmw-gt3-3.jpg",
+      "alt": "Official front detail of the finished example. Light cases are body details, not an included working LED system.",
+      "caption": "Official front detail of the finished example. Light cases are body details, not an included working LED system.",
+      "source": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c2.jpg",
+      "creditName": "Tamiya",
+      "credit": {
+        "name": "Tamiya",
+        "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_4c2.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 3 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

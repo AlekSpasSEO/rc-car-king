@@ -110,3 +110,8 @@ Nine inspected official assets cover green ARRMA Quake GROM ARA2137T2, black Ass
 ## Weekly listicle · 2 November 2026 · Learning goals
 
 The five-car learning-goal listicle reuses official reviewed-model hero photographs for yellow Vorteks ARA3505T1, black Pro2 SC10SW70041, standard Reflex20185, red CJ-7 AXI03008V2T1 and Kyosho SC43032373DK. Each retains its review credit and exact-product caption. The Vorteks image is the article hero; this is not a physical comparison test. No new photographs are downloaded or edited. See the [dated article evidence](content/evidence/2026-11-02-learning-skills-listicle.json).
+
+
+## Weekday reviews · 3 November 2026
+
+Nine inspected official photographs cover Tamiya BMW M4 GT3 EVO 58751, Velocity Blue full-size Traxxas Bronco 92076-4 and blue ARRMA Typhon GROM 223S ARA2306ST2. The [dated media manifest](content/evidence/2026-11-03-review-media.json) records exact source URLs, hashes and downloaded manual fingerprints. Tamiya captions identify an assembled and painted example of an unpainted kit. Bronco lighting is optional. ARRMA’s airborne scene is attributed manufacturer promotion; its exact ST2 completion artwork excludes the USB power supply. No community photos or invented hands-on demonstrations are used.
