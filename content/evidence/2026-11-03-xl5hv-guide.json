@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-03",
+  "createdAt": "2026-11-03T14:24:34.831Z",
+  "route": "guides/trx-4-xl-5-hv-trail-crawl-brake-modes/",
+  "kind": "guide",
+  "words": 1383,
+  "quota": {
+    "guidesBefore": 0,
+    "guidesAdded": 1,
+    "calendar": "Europe/Skopje"
+  },
+  "scope": {
+    "model": "Traxxas 92076-4, stock XL-5 HV",
+    "manualRevision": "R03",
+    "excluded": [
+      "TRX-4M",
+      "Modified electronics",
+      "Other ESC profile sequences",
+      "Charging, calibration and battery-protection changes"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Traxxas — 92076-4 owner manual R03, pages 18–20 and supported-wheel checks",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/2/92076-4-OM-EN-R03.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Traxxas — full-size 92076-4 Bronco stock motor, XL-5 HV and drivetrain identity",
+      "url": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "ARRMA — exact Typhon GROM ARA2306 manual; distinct Spektrum electronics, calibration and DSC",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4bd747f2/Manuals/ARA2306_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "RC Driver — original independent 92076-4 review and product identification, May 2021",
+      "url": "https://www.youtube.com/watch?v=GNfpO842xUc",
+      "kind": "Independent review context; not the authority for current programming steps",
+      "checked": "2026-11-03"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "key": "bronco-manual",
+      "url": "https://traxxas.com/media/productattach/C-92076-4/2/92076-4-OM-EN-R03.pdf",
+      "status": 200,
+      "bytes": 13129407,
+      "sha256": "db4506df0ab47c1b93a25ff4cb412acc11b1067074f40fa95d73cc3d7241c1fb",
+      "checkedAt": "2026-11-03T10:29:17.781Z"
+    },
+    {
+      "key": "typhon-manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw4bd747f2/Manuals/ARA2306_MANUAL_ML.pdf",
+      "status": 200,
+      "bytes": 28876269,
+      "sha256": "ba48432550032a89a6f169e848ac7e49e8788f759a2d86c994cc0e873be56c9b",
+      "checkedAt": "2026-11-03T10:29:15.756Z"
+    },
+    {
+      "key": "bronco",
+      "url": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+      "final": "https://traxxas.com/trx-4-ford-bronco-92076-4",
+      "status": 200,
+      "sha256": "13b60e46bf47f777896031ff1305ba74fd01a8c6281a32af47cceb1e2e9aa10e",
+      "checkedAt": "2026-11-03T10:28:20.772Z"
+    }
+  ],
+  "manualSha256": "db4506df0ab47c1b93a25ff4cb412acc11b1067074f40fa95d73cc3d7241c1fb",
+  "factLedger": {
+    "profile4": "Trail factory default; drag brake at neutral",
+    "profile5": "Hill hold at neutral; immediate reverse",
+    "profile3": "50% forward and reverse, 100% brakes",
+    "profile2": "No reverse",
+    "profile1": "Sport operation check: brake, neutral, then reverse",
+    "selection": "ESC off, TX on; hold green then red then red flash group; release at count 1–5",
+    "led": "Solid green/red is LVD configuration, not selected profile",
+    "faultBoundary": "Low-voltage limitation can resemble 50% Training; warnings require exact-manual response"
+  },
+  "media": "Original three-card conceptual control map rendered by existing article template; no new photographs",
+  "apiUsed": false,
+  "purchaseLinks": [],
+  "validation": {
+    "production": "npm run build and npm run check passed: 75 reviews, 12 articles, 104 HTML pages, 103 sitemap URLs",
+    "preview": "Default GitHub profile build and checks passed; canonical/noindex and discovery verified",
+    "desktop": "1440x1000: heading, direct answer, original concept map, numbered profile-selection steps and navigation inspected",
+    "mobile": "390x844: readable headings, contained page width 375px; profile table scroll 530px within 335px region; FAQ toggles and exact complete-review links checked",
+    "checkedAt": "2026-11-03T14:26:47.804Z"
+  }
+}

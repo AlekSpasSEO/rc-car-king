@@ -115,3 +115,8 @@ The five-car learning-goal listicle reuses official reviewed-model hero photogra
 ## Weekday reviews · 3 November 2026
 
 Nine inspected official photographs cover Tamiya BMW M4 GT3 EVO 58751, Velocity Blue full-size Traxxas Bronco 92076-4 and blue ARRMA Typhon GROM 223S ARA2306ST2. The [dated media manifest](content/evidence/2026-11-03-review-media.json) records exact source URLs, hashes and downloaded manual fingerprints. Tamiya captions identify an assembled and painted example of an unpainted kit. Bronco lighting is optional. ARRMA’s airborne scene is attributed manufacturer promotion; its exact ST2 completion artwork excludes the USB power supply. No community photos or invented hands-on demonstrations are used.
+
+
+## Daily guide · 3 November 2026 · XL-5 HV driving modes
+
+The exact-model Bronco guide uses an original accessible three-card map separating trigger braking, neutral braking and reverse behavior. It is a conceptual explanation of the R03 manual, not a measured braking or hill-hold demonstration. No new product or community photos are used. The [dated evidence](content/evidence/2026-11-03-xl5hv-guide.json) records manual fingerprints, profile and LED distinctions, controller exclusions and the no-API/no-buying-link scope.

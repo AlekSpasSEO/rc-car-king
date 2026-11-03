@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [TRX-4 XL-5 HV modes: Trail, Crawl, brakes and reverse explained](https://alekspasseo.github.io/rc-car-king/guides/trx-4-xl-5-hv-trail-crawl-brake-modes/): Choose XL-5 HV modes on the 92076-4 TRX-4 Bronco: Trail vs Crawl, Training, brakes, reverse, LED meanings and a model-specific selection checklist.
 - [5 RC cars to match the next skill you want to learn](https://alekspasseo.github.io/rc-car-king/listicles/rc-cars-learning-driving-skills/): Choose an RC car by your next learning goal: throttle control, suspension setup, differentials, DIG or indoor rear drive. Exact SKUs and startup budgets.
 - [RC car scale explained: choose by real size, not just the number](https://alekspasseo.github.io/rc-car-king/guides/rc-car-scale-size-explained/): Understand RC car scale, compare real 1/10, 1/14 and 1/24 dimensions, and measure storage, driving space and terrain before choosing your next car.
 - [RC car inspection checklist: before and after a run](https://alekspasseo.github.io/rc-car-king/guides/rc-car-pre-run-post-run-checklist/): Inspect your electric RC car before and after driving: wheels, wiring, battery retention, debris, body access and model-specific maintenance decisions.
