@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-04",
+  "createdAt": "2026-11-04T10:09:09.536Z",
+  "kind": "guide",
+  "route": "guides/tamiya-bmw-m4-gt3-evo-body-painting/",
+  "words": 1533,
+  "quota": {
+    "guidesBefore": 0,
+    "guidesAdded": 1,
+    "timezone": "Europe/Skopje"
+  },
+  "sources": [
+    {
+      "name": "Tamiya — exact 58751 BMW M4 GT3 EVO body manual, all eight pages",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Tamiya — complete 58751 TT-02 kit identity, body details and finished-example photographs",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Tamiya Europe — general polycarbonate versus plastic paint and preparation guidance",
+      "url": "https://www.tamiya.de/tamiya_en/blog/240-painting-rc-car-bodies-the-right-way-to-do-it/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-04"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "key": "bmw-body-manual",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "finalUrl": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "status": 200,
+      "bytes": 2945354,
+      "sha256": "b076e09966be714d9b6072a7e4b8c8f1d292992440afa238d522bf2f4a972ce5",
+      "checkedAt": "2026-11-04T10:04:30.333Z"
+    },
+    {
+      "key": "bmw-product",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "finalUrl": "https://www.tamiya.com/english/products/58751/index.html",
+      "status": 200,
+      "bytes": 101827,
+      "sha256": "85fdb8071190eb255744deaa7a1a3fd3441f44a3bcdec5a9671adfbc28e7e627",
+      "checkedAt": "2026-11-04T10:04:33.110Z"
+    },
+    {
+      "key": "painting-guide",
+      "url": "https://www.tamiya.de/tamiya_en/blog/240-painting-rc-car-bodies-the-right-way-to-do-it/",
+      "finalUrl": "https://www.tamiya.de/tamiya_en/blog/240-painting-rc-car-bodies-the-right-way-to-do-it/",
+      "status": 200,
+      "bytes": 295153,
+      "sha256": "8ce69858289e54c9a51a7eeb6bdd7a14f38669b7372b8b8564f0da27c4df3c80",
+      "checkedAt": "2026-11-04T10:04:34.058Z"
+    }
+  ],
+  "manualInspection": {
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "method": "1500px PNG renders; all complete pages visually inspected",
+    "facts": [
+      "257mm wheelbase; skip already completed preparation",
+      "PS-5 black then PS-1 white, followed by PS-31 windows with light masks retained",
+      "PS-15 taillights, PS-48 fog lights, PS-5 headlight/wing areas, TS-29 specified molded details",
+      "Outside film removed before stickers; numbered order and staged large-sticker backing",
+      "Separate attachment hardware and final body/tire/ground clearance"
+    ]
+  },
+  "boundaries": [
+    "Complete-kit assembly support, not a standalone parts review or buying list",
+    "No heating-can, improvised solvent, charging or electronics procedure",
+    "No fixed drying-time promise or fabricated demonstration",
+    "No Amazon API or credential access, purchase links or prices"
+  ],
+  "media": "Original three-stage HTML/CSS concept map; manual inspection PNGs are research intermediates, not republished graphics",
+  "validation": {
+    "production": "npm run build and npm run check passed: 75 reviews, 13 articles, 105 HTML pages, 104 sitemap URLs",
+    "preview": "Default GitHub preview build and checks passed",
+    "desktop": "1440x1000: title, direct answer, conceptual map, section navigation and five numbered painting steps inspected",
+    "mobile": "390x844: title/answer, 375px document width, paint table scroll 530px within 335px region, working window-mask FAQ and complete-kit review link inspected",
+    "checkedAt": "2026-11-04T10:12:33.331Z"
+  }
+}

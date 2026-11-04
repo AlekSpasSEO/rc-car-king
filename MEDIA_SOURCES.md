@@ -120,3 +120,8 @@ Nine inspected official photographs cover Tamiya BMW M4 GT3 EVO 58751, Velocity 
 ## Daily guide · 3 November 2026 · XL-5 HV driving modes
 
 The exact-model Bronco guide uses an original accessible three-card map separating trigger braking, neutral braking and reverse behavior. It is a conceptual explanation of the R03 manual, not a measured braking or hill-hold demonstration. No new product or community photos are used. The [dated evidence](content/evidence/2026-11-03-xl5hv-guide.json) records manual fingerprints, profile and LED distinctions, controller exclusions and the no-API/no-buying-link scope.
+
+
+## Daily guide · 4 November 2026 · Finishing the BMW kit body
+
+The complete 58751 kit-finishing guide uses an original accessible HTML/CSS map for preparation, painting and finishing. All eight manufacturer body-manual pages were rendered and inspected as research; no manual graphics, community photos or fabricated workshop demonstrations are republished. The [dated evidence](content/evidence/2026-11-04-bmw-kit-finishing-guide.json) records source URLs, current fingerprints, paint/mask distinctions and the scope of the procedure.

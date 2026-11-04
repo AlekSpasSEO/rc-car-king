@@ -1,0 +1,296 @@
+{
+  "kind": "guide",
+  "slug": "tamiya-bmw-m4-gt3-evo-body-painting",
+  "intentKey": "finish-the-body-in-complete-tamiya-58751-kit-trim-mask-inside-paint-numbered-stickers-and-fit",
+  "status": "published",
+  "title": "How to finish the body in your Tamiya BMW M4 GT3 EVO kit",
+  "dek": "A practical order for the 58751 kit: check the cutting work, separate paint types, preserve the right masks and apply the livery before fitting the finished body.",
+  "seo": {
+    "title": "Tamiya BMW M4 GT3 EVO Body Painting Guide | RC Car King",
+    "description": "Finish the body in Tamiya kit 58751: trimming, PS and TS paint roles, masks, numbered livery stickers, detail assembly and final chassis fit checks."
+  },
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "publishedAt": "2026-11-04T10:09:09.536Z",
+  "updatedAt": "2026-11-04T10:09:09.536Z",
+  "answer": "For the body supplied with Tamiya BMW M4 GT3 EVO kit 58751, check and complete the illustrated cutting and hole work first, then wash, rinse and air-dry the polycarbonate. Paint the main shell from inside, following its black, white and window-smoke masking sequence. Keep the outside protective film until painting is finished and dry, then remove it before applying the numbered stickers. Finish and attach the separate light cases, mirrors and wing using their own material-specific instructions, then check body clearance on the 257mm-wheelbase chassis.",
+  "scope": "This guide supports an owner building the complete body-inclusive 58751 TT-02 kit, using its eight-page BMW body instruction sheet. It explains the work order and common mix-ups; the manual’s diagrams remain the authority for every cut, hole, mask, sticker and attachment. It does not cover a different BMW shell, a pre-painted package, custom paint chemistry, electronics installation or a measured durability test. Some preparation may already be completed at the factory: inspect your actual kit before repeating it.",
+  "prerequisites": [
+    "The complete 58751 kit’s body, separate detail pieces, masking sheet, sticker sheets and exact eight-page body manual",
+    "Appropriate body-cutting tools and hole-making tools only for work still required by the diagrams; a protected work surface and suitable supervision where needed",
+    "The specified polycarbonate and plastic paints, with their current handling, ventilation, protective-equipment and drying instructions",
+    "Mild detergent, clean rinse water, masking tape and a clean place for parts to air-dry",
+    "The correctly configured 257mm-wheelbase TT-02 chassis for unpowered fit checks; keep the drive battery disconnected"
+  ],
+  "conceptCaption": "An original three-stage work-order map for the complete BMW kit; not a painted demonstration or a measured technical drawing",
+  "concepts": [
+    {
+      "name": "PREPARE",
+      "description": "Identify materials, finish only the necessary cuts and holes, then wash and mask."
+    },
+    {
+      "name": "PAINT",
+      "description": "Follow the inside-paint sequence and the separate paint calls for each detail part."
+    },
+    {
+      "name": "FINISH",
+      "description": "Remove protective film, apply numbered stickers, assemble details and verify chassis clearance."
+    }
+  ],
+  "sections": [
+    {
+      "id": "plan-the-finish",
+      "heading": "Understand what creates the finished BMW livery",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "paragraphs": [
+        "The finished product photograph can make this look like one elaborate paint job. The kit instructions split it into several jobs: the main body’s black and white areas, smoked windows, separately painted detail pieces, and the numbered stickers that provide the complex livery. Study those jobs together before buying materials or opening the sticker sheet. Trying to recreate every colored shape with paint would miss how this specific kit is designed to be finished.",
+        "The main body, rear wing and end plates are polycarbonate, while the molded mirror and wing-support pieces have separate plastic-paint calls. A paint code’s letters therefore matter as much as its color. Black PS-5 and semi-gloss black TS-29 are not interchangeable labels for every black component. Page 3 lists the paints; pages 4 and 7 show where the separate pieces use them. Keep that material distinction beside the workbench."
+      ],
+      "table": {
+        "caption": "Paint roles in the 58751 BMW body instructions; check the illustrated areas before use",
+        "columns": [
+          "Code",
+          "Manual color name",
+          "Where the instructions use it"
+        ],
+        "rows": [
+          [
+            "PS-5",
+            "Black",
+            "Main shell areas, headlight parts and polycarbonate wing pieces"
+          ],
+          [
+            "PS-1",
+            "White",
+            "Main shell areas after the black stage"
+          ],
+          [
+            "PS-31",
+            "Smoke",
+            "Window areas after removing the window masks"
+          ],
+          [
+            "PS-15",
+            "Metallic red",
+            "Separate taillight parts"
+          ],
+          [
+            "PS-48",
+            "Semi-gloss silver anodized aluminum",
+            "Separate fog-light parts"
+          ],
+          [
+            "TS-29",
+            "Semi-gloss black",
+            "Specified molded mirror and wing-support pieces"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "prepare-the-parts",
+      "heading": "Prepare the shape and preserve useful offcuts",
+      "sourceIndexes": [
+        0
+      ],
+      "paragraphs": [
+        "The manual begins with body mounting positions and holes, then the wing and the outlines to cut. It also warns that some bodies may have preparation already carried out. Compare your supplied pieces with those drawings. An existing correctly positioned hole does not need to be enlarged simply because a general instruction page illustrates hole making. Likewise, a pre-cut wheel arch is not a reason to repeat a cut along its finished edge.",
+        "Keep the indicated offcut used for the mirror surfaces. Separate and identify the left and right light cases, wing pieces and other details before they become loose unmarked shapes on the table. The manual’s part orientation and labels will matter again at assembly. Test the main body’s position on the unpowered chassis before paint obscures the clear shell’s reference points; its specified wheelbase is 257mm.",
+        "Follow the cutting-tool and hand-position precautions on page 1. Make only the holes and cuts called for by the matching diagrams; an optional-wing note is not an instruction to drill an extra pattern for the supplied wing. If the part you hold does not match the drawing, resolve that mismatch first. Enlarging a hole or trimming an unexplained edge is difficult to undo and can turn a simple preparation question into a fit problem."
+      ]
+    },
+    {
+      "id": "wash-and-mask",
+      "heading": "Wash and mask before the first color",
+      "sourceIndexes": [
+        0,
+        2
+      ],
+      "paragraphs": [
+        "Page 2 directs you to wash the body with detergent to remove oil, rinse it well and let it air-dry. Page 4 repeats preparation for the separate polycarbonate body parts. Keep the clean painting surfaces free of new fingerprints while handling them. Tamiya’s general painting guidance also emphasizes a clean work area and suitable ventilation. Follow the paint containers’ current handling and protective-equipment instructions; the kit body sheet does not replace those labels.",
+        "The large body is painted from inside. Its outside protective film stays in place during painting and comes off afterward. The window and light masks go inside, where they protect the areas that must not receive the current color. These are different layers with different jobs. Removing the exterior film early does not prepare the inside for paint; removing every interior mask together would discard the staged sequence.",
+        "Cut and identify the masking pieces as the instructions show, then match their lettered references to the body views. Inspect the edge of each mask and the regions that must remain protected. The black-and-white layout continues onto page 4, so use the front, rear and side views together. Looking at only one side illustration can miss a boundary that becomes obvious in another view."
+      ]
+    },
+    {
+      "id": "paint-in-order",
+      "heading": "Follow the main shell’s paint sequence",
+      "sourceIndexes": [
+        0
+      ],
+      "paragraphs": [
+        "The following order summarizes page 3’s illustrated sequence. Keep that page open throughout; this list cannot replace its exact mask shapes. Paint drying and handling conditions come from the product instructions rather than a guessed universal waiting time. The body manual describes thin coats from about 30cm and two or three applications for its black stage, not one heavy wet layer."
+      ],
+      "steps": [
+        {
+          "heading": "Protect the windows, lights and non-black areas",
+          "paragraphs": [
+            "Apply the specified interior masks and separately supplied masking tape according to the drawings. The first main-shell color is PS-5 black. Confirm that the areas reserved for white and the protected window/light regions are covered before starting. Use the paint as labeled; do not add heat to the can or improvise a drying shortcut."
+          ]
+        },
+        {
+          "heading": "Paint the black areas from inside",
+          "paragraphs": [
+            "Apply the documented thin-coat approach while following the paint container’s instructions. Judge progress through the outside of the shell, remembering that the protective film is still there. Flooding an area to make it look finished immediately can undermine the controlled sequence. Allow the paint to dry as required before touching the next masks."
+          ]
+        },
+        {
+          "heading": "Expose the white areas and apply PS-1",
+          "paragraphs": [
+            "After the black stage has dried, remove the masking tape that protects the areas to become white. The window and light masks stay as instructed. Apply PS-1 white to the intended body areas from inside, using the manual’s complete views to check the layout. Do not interpret “remove masking” as “remove every remaining mask.”"
+          ]
+        },
+        {
+          "heading": "Smoke the windows while the lights remain protected",
+          "paragraphs": [
+            "After the white stage, remove the window masking stickers but keep the headlight and taillight areas masked. The manual then calls for PS-31 Smoke on the windows. That distinction is worth a pause and a second visual check: window tint is not a general last coat for every clear detail."
+          ]
+        },
+        {
+          "heading": "Finish drying before removing the remaining masks and outer film",
+          "paragraphs": [
+            "Once painting is finished and dry under the product instructions, remove the remaining masks and the external protective film. The manual repeats the film-removal reminder at the sticker stage. Inspect the actual surface before starting the livery; otherwise the stickers can end up attached to a disposable film rather than the body."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "details-and-stickers",
+      "heading": "Treat small details and large stickers as separate tasks",
+      "sourceIndexes": [
+        0
+      ],
+      "paragraphs": [
+        "The light cases and polycarbonate wing parts have their own paint diagrams on page 4. They are washed and air-dried, then painted on the faces without protective film. The taillights use PS-15, the fog-light parts PS-48, and the specified headlight and wing areas PS-5. Remove their protective film after painting as directed. Mirror and wing-support components receive the separate TS-29 calls shown later; do not extend the main-shell paint recipe to every part.",
+        "For the livery, work in the manual’s numbered order and keep each sticker’s identity clear. The body views span pages 5 and 6, with additional detail references on page 7. Cutting a whole sheet into anonymous shapes at once makes that map harder to follow. The supplied pattern already defines the placement; check nearby panel and window features rather than judge a large sticker from its outer edge alone.",
+        "Page 4 shows a controlled backing-paper method for large stickers. It exposes a central section for positioning while other backing remains, then works outward as the remaining backing is removed. Keep the sticker aligned while following that diagram. Peeling the entire backing away at the start makes it easier to catch a large area in the wrong place or introduce a crease. The instructions use this staged method, not a universal heat or solvent rescue procedure."
+      ]
+    },
+    {
+      "id": "assemble-and-fit",
+      "heading": "Attach the details, then check the finished body on the chassis",
+      "sourceIndexes": [
+        0
+      ],
+      "paragraphs": [
+        "The later pages show the light cases secured with the indicated transparent double-sided tape, mirrors retained with their specified hardware, and the wing supports fitted in the illustrated direction. Use the exact tape shapes, O-rings, washers and snap pins shown for each job. The mirror and wing arrangements are different assemblies; a leftover piece is a reason to recheck the relevant drawing rather than assume it was spare.",
+        "At final body installation, page 8 tells you to select snap-pin positions so the body does not contact the tires or ground. Check fit with the completed wing and details installed, keeping the vehicle unpowered. Turn the steering carefully through its travel and check the tire/body relationship without forcing anything. A body can appear centered at rest yet sit too low for the wheels once their position changes.",
+        "Do not trim away a painted area simply because the first mounting position looks wrong. Recheck chassis configuration, body location and mounting height against the instructions first. Keep any antenna routing consistent with the installed radio’s own instructions. This body-finishing guide does not authorize cutting an antenna cable or changing electronics to make a detail fit. Finish with a secure body and clear movement, then return to the vehicle’s normal operating checks."
+      ]
+    },
+    {
+      "id": "avoid-rework",
+      "heading": "Common problems: check the stage before attempting a repair",
+      "sourceIndexes": [
+        0
+      ],
+      "paragraphs": [
+        "An unfinished-looking surface can have several explanations, so identify the layer you are looking at before changing it. The table below is intended to prevent rework. It does not promise a chemical repair for dried paint, a creased sticker or a damaged body. For an actual defect, seek the manufacturer’s material-specific guidance before adding a cleaner, thinner, abrasive or heat."
+      ],
+      "table": {
+        "caption": "Checks tied to the BMW kit’s finishing sequence",
+        "columns": [
+          "What looks wrong",
+          "Check first",
+          "Avoid this reaction"
+        ],
+        "rows": [
+          [
+            "Sticker appears to sit on a peelable layer",
+            "Was the exterior protective film removed?",
+            "Adding the remaining livery before resolving the layer"
+          ],
+          [
+            "Window tint reached a light area",
+            "Were the light masks retained for the Smoke stage?",
+            "Applying more tint to hide the mistake"
+          ],
+          [
+            "Livery is difficult to align",
+            "Sticker number, neighboring features and staged backing method",
+            "Removing all backing before positioning"
+          ],
+          [
+            "Separate part needs a black finish",
+            "The part’s PS-5 or TS-29 call and its material",
+            "Using one black paint everywhere"
+          ],
+          [
+            "Body rubs a tire or the ground",
+            "Mounting height, body location and chassis configuration",
+            "Immediately enlarging a finished wheel arch"
+          ]
+        ]
+      }
+    }
+  ],
+  "checklist": {
+    "title": "Ready to move from body work to the vehicle checks",
+    "items": [
+      "Only the cuts and holes actually required for the supplied 58751 pieces were made",
+      "The main shell and detail parts used their specified paint types and dried according to the product instructions",
+      "The protective film was removed before stickers were applied",
+      "The numbered livery and left/right details match the manual’s views",
+      "Lights, mirrors and wing use the illustrated retention parts and directions",
+      "The body is secure and clears the tires and ground on the correctly configured chassis"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "tamiya/bmw-m4-gt3-evo-tt-02/",
+      "title": "Tamiya BMW M4 GT3 EVO TT-02 · 58751",
+      "note": "The full complete-kit review covers the chassis, regional motor/ESC contents, missing operating equipment and total project budget."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do I paint the inside or outside of the main BMW body?",
+      "answer": "The clear main shell is painted from inside. Its outside protective film remains during painting and is removed after painting is finished and dry, before applying stickers."
+    },
+    {
+      "question": "Do I need to paint every colored livery shape?",
+      "answer": "The exact kit uses numbered stickers for the complex livery over the painted body. Follow the body’s black/white/window paint layout and the separate detail-part calls instead of inventing a painted replacement for every sticker."
+    },
+    {
+      "question": "Can PS-5 and TS-29 be used interchangeably because both are black?",
+      "answer": "No. The manual distinguishes polycarbonate paint calls from the plastic-paint calls on the specified molded parts. Match the exact part, material and code in the diagrams."
+    },
+    {
+      "question": "Should all the masks come off before window Smoke?",
+      "answer": "No. The manual says to remove the window masks while keeping the headlight and taillight areas masked for the PS-31 window stage."
+    },
+    {
+      "question": "How long does every coat need to dry?",
+      "answer": "There is no universal drying time supplied here. Follow the actual paint product’s instructions and conditions, and let the relevant stage dry before removing masks or handling it as directed."
+    },
+    {
+      "question": "Must I drill every hole illustrated in the manual?",
+      "answer": "Inspect the supplied pieces first: the manual notes that some preparation may already be done. Complete only the remaining work applicable to your kit and equipment; do not redrill or enlarge an already correct hole."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tamiya — exact 58751 BMW M4 GT3 EVO body manual, all eight pages",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Tamiya — complete 58751 TT-02 kit identity, body details and finished-example photographs",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Tamiya Europe — general polycarbonate versus plastic paint and preparation guidance",
+      "url": "https://www.tamiya.de/tamiya_en/blog/240-painting-rc-car-bodies-the-right-way-to-do-it/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-04"
+    }
+  ],
+  "evidenceNote": "Original assembly-support guide for the body included in a complete vehicle kit. All eight exact-manual pages were rendered and visually inspected. Paint codes, mask stages, sticker order and mounting checks are attributed manufacturer instructions; no hands-on build, finish quality or durability measurement is invented. General painting guidance supports material and work-area preparation, while the exact kit manual and paint-container directions govern the procedure. No direct buying links, product ratings or price claims are used.",
+  "revisionNote": "First publication: preparation, inside-paint sequence, separate detail paints, numbered sticker workflow, final body fit and prevention checks for owners building complete kit 58751."
+}
