@@ -125,3 +125,8 @@ The exact-model Bronco guide uses an original accessible three-card map separati
 ## Daily guide · 4 November 2026 · Finishing the BMW kit body
 
 The complete 58751 kit-finishing guide uses an original accessible HTML/CSS map for preparation, painting and finishing. All eight manufacturer body-manual pages were rendered and inspected as research; no manual graphics, community photos or fabricated workshop demonstrations are republished. The [dated evidence](content/evidence/2026-11-04-bmw-kit-finishing-guide.json) records source URLs, current fingerprints, paint/mask distinctions and the scope of the procedure.
+
+
+## Weekday reviews · 5 November 2026
+
+Nine inspected official photographs cover black/red ARRMA Mini Kraton ARA2508T1, Team Associated RC28T Zoom 20167 and Lava Orange Kyosho Porsche 32358OR. The [dated media manifest](content/evidence/2026-11-05-review-media.json) records source URLs, image hashes and checked manual fingerprints. ARRMA action imagery is manufacturer promotion; its completion artwork explicitly excludes the battery and charger. Associated body-off imagery is an official product view, not our teardown. Porsche captions preserve the exact N-RM 90mm identity. No community photographs or invented physical tests are used.

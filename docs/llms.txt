@@ -16,10 +16,10 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
-- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
@@ -42,6 +42,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Mini Kraton 3S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/mini-kraton-3s/): Batteryless Mini Kraton review: center differential, PowerGuard vs DSC, stock brushless hardware, terrain fit and a complete dated 3S startup budget.
+- [Kyosho MINI-Z RWD MR-04 Porsche 911 GT3 RS](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-porsche-911-gt3-rs/): Exact 32358OR Mini-Z review: 90mm N-RM Porsche layout, brushed drive, AAA requirements, stock equipment, setup limits and a dated complete starting budget.
+- [Team Associated RC28T Zoom RTR](https://alekspasseo.github.io/rc-car-king/team-associated/rc28t-zoom/): RC28T Zoom 20167 review: dry hard-surface limits, integrated LiPo, exact USB charging instructions, missing specs and a dated complete starting budget.
 - [ARRMA Typhon GROM 223S DSC BLX](https://alekspasseo.github.io/rc-car-king/arrma/typhon-grom-223s/): Blue ARA2306ST2 Typhon GROM review: brushless 4WD, DSC, included 2S pack, S10 charger limits, USB input and a dated complete starting budget.
 - [Tamiya BMW M4 GT3 EVO TT-02](https://alekspasseo.github.io/rc-car-king/tamiya/bmw-m4-gt3-evo-tt-02/): Tamiya 58751 BMW M4 GT3 EVO review: export motor and ESC, TT-02 build, body finishing, stock limits and a dated complete startup budget.
 - [Traxxas TRX-4 2021 Ford Bronco](https://alekspasseo.github.io/rc-car-king/traxxas/trx-4-ford-bronco-2021/): Full-size 92076-4 Bronco review: portal axles, T-Lock controls, two-speed transmission, wet-use limits and a complete dated dry-use startup budget.

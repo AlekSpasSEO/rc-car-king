@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-05",
+  "createdAt": "2026-11-05T11:03:05.881Z",
+  "route": "kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+  "sku": "32358OR",
+  "coreWords": 2056,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/kyosho-initial.json",
+    "checkedAt": "2026-10-12T23:04:27.828Z",
+    "asin": "B0F78CLG2P",
+    "brand": "Kyosho",
+    "part": "32358OR",
+    "model": "32358OR",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:27.828Z: Kyosho, returned part 32358OR, model 32358OR. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Kyosho — exact 32358OR dimensions, N-RM layout and Readyset contents",
+      "url": "https://rc.kyosho.com/en/32358or.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Kyosho — MR-04 Readyset operating manual linked by exact product",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Horizon Hobby — exact KYO32358OR US retailer reference and package",
+      "url": "https://www.horizonhobby.com/product/1-28-porsche-911-gt3-rs-mini-z-rwd-rtr-lava-orange/KYO32358OR.html",
+      "kind": "Exact-model retailer reference",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Team — MR-04 versus MR-03 platform overview",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/kyosho-mini-z-mr-04-whats-new-compared-to-the-legendary-mr-03",
+      "kind": "Retailer-authored platform context; not an exact-car driving test",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Super-G — exact 32358OR N-RM specialist listing",
+      "url": "https://supergdrift.com/collections/mini-z-mr-04/products/mini-z-racer-mr-04-rwd-porsche-911-gt3-rs-lava-orange-readyset-rtr-ready-to-run-kyosho-32358or",
+      "kind": "Outside exact-model specification context",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — complete Mini-Z SC430 review",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-denso-kobelco-sc430/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — complete Mini-Z AWD Skyline review",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-skyline-r32/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — complete RC28T Zoom review",
+      "url": "https://rccarking.com/team-associated/rc28t-zoom/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "porsche-mr04",
+      "n": 1,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwb98269a1/Images/KYO/KYO32358OR_A0_QIOWIT24.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Kyosho / Horizon Hobby",
+      "file": "reviews/porsche-mr04-1.jpg",
+      "bytes": 31958,
+      "sha256": "b280910c5caba9efd435e70c3932a33eb9c16dd245ff48bad413673b89d43825",
+      "checkedAt": "2026-11-05T10:44:11.231Z"
+    },
+    {
+      "prefix": "porsche-mr04",
+      "n": 2,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw5c5b67a9/Images/KYO/KYO32358OR_A3_QIOWIT24.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Kyosho / Horizon Hobby",
+      "file": "reviews/porsche-mr04-2.jpg",
+      "bytes": 38105,
+      "sha256": "fd0f7bcfc12c526b2af00f306671bf069a0e33a269b62a65f285f16fb2687d7f",
+      "checkedAt": "2026-11-05T10:44:11.329Z"
+    },
+    {
+      "prefix": "porsche-mr04",
+      "n": 3,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw20f6ceb4/Images/KYO/KYO32358OR_A2_QIOWIT24.jpg?sw=800&sh=800&sm=fit",
+      "credit": "Kyosho / Horizon Hobby",
+      "file": "reviews/porsche-mr04-3.jpg",
+      "bytes": 31019,
+      "sha256": "27ed9f3ccb84275a10edcc024c7ba35cdbae28f2393b8e50d6cb04285eb57047",
+      "checkedAt": "2026-11-05T10:44:11.912Z"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "porsche-manual",
+      "bytes": 43435417,
+      "sha256": "225a481a5de502619f74d938322326294ff3a83164620be0c79149ed84a21e90"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "porsche-manual"
+    ],
+    "layout": "Manufacturer exact 32358OR: N-RM, 90mm, 168 ×72 ×48mm; retailer 98mm MM copy rejected",
+    "equipment": "Full bearings, gear differential, 130 brushed motor, stock rear coil-spring damper; MZW711 gyro and oil damper optional",
+    "battery": "Four AAA per compartment; alkaline cost basis avoids inconsistent rechargeable wording; no LiPo conversion or charging settings invented",
+    "budget": "189.99 retailer reference +12 editorial cell allowance =201.99 USD; checked 5 November 2026",
+    "inspection": "Rendered equipment, battery, body installation and startup pages from the linked 68-page exact-platform manual"
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed; 78 published reviews, 13 articles; root canonical profile",
+    "preview": "npm run build and npm run check passed; preserved /rc-car-king noindex preview",
+    "desktop": "1440 ×1000: official hero, overview, score and check-price box visually inspected; images loaded",
+    "mobile": "390 ×844: heading/hero inspected, document width375px without horizontal overflow; shared table scroll and FAQ interaction verified",
+    "browserNotes": "RC28T budget region client334px/scroll530px; horizontal scroll contained. Porsche exact-layout FAQ expanded correctly. Temporary viewport reset.",
+    "amazon": "Historical identity reused; no API or credentials accessed; expiring offers omitted and check-price link retained",
+    "release": "Commit, matching successful Cloudflare deployment and live checks pending"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

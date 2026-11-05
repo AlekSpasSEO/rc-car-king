@@ -1,0 +1,485 @@
+{
+  "brand": "Team Associated",
+  "brandSlug": "team-associated",
+  "model": "RC28T Zoom RTR",
+  "modelSlug": "rc28t-zoom",
+  "sku": "20167",
+  "headlineLines": [
+    "MINI TRUCK.",
+    "HARD FLOOR."
+  ],
+  "title": "Team Associated RC28T Zoom review: a small RC10T look with specific limits",
+  "dek": "The 20167 Zoom is an inexpensive complete miniature truck with an integrated battery. Its exact manual specifies hard surfaces and a particular USB power limit.",
+  "type": "Mini stadium truck",
+  "use": "Bashing",
+  "terrain": [
+    "Dry smooth hard surfaces",
+    "Clear indoor floor",
+    "Suitable miniature hard-surface course"
+  ],
+  "motor": "Unknown",
+  "drive": "2WD",
+  "scale": "1/28",
+  "format": "Assembled RTR; integrated rechargeable battery and USB-C cord; confirm compatible input and radio-cell contents",
+  "skill": "Casual miniature driver or careful beginner on a dry hard surface",
+  "price": {
+    "amount": 44.99,
+    "currency": "USD",
+    "basis": "Team Associated official US product-page reference for 20167 RC28T Zoom",
+    "source": "https://60years.associatedelectrics.com/rc28t-zoom-rtr/",
+    "checked": "2026-11-05"
+  },
+  "purchaseNote": "USD 44.99 is the dated vehicle reference. A conservative USD 60.99 startup example allows for a compliant USB input and correct transmitter cells if needed; it is not an Amazon offer.",
+  "overview": "A small, finished 2WD truck with an RC10T-replica body, wheel-and-trigger radio layout, steering trim, integrated rechargeable LiPo and USB-C charging cord. The manual’s dry hard-surface instruction is more useful than broad off-road marketing.",
+  "verdict": "A casual hard-floor miniature, with limits worth reading",
+  "verdictText": "The Zoom is appealing when the brief is an inexpensive small truck without selecting an external drive battery. Choose it for a clear dry floor and accept the integrated power system and incomplete published component specifications.",
+  "pros": [
+    "USD 44.99 dated manufacturer vehicle reference",
+    "Finished RC10T-replica body and matched 2.4GHz radio",
+    "Integrated rechargeable battery and USB-C charging cord supplied",
+    "Manufacturer publishes an exact 20167 operating and charging sheet"
+  ],
+  "cons": [
+    "Manual specifies hard surfaces; not a lawn or gravel truck",
+    "Vehicle is neither waterproof nor water-resistant",
+    "Motor type, battery capacity and several internal specifications are not disclosed",
+    "Integrated drive battery creates a service dependency; no assumed pack-swap system"
+  ],
+  "bestFor": [
+    "A small recreational truck on a clear, dry hard floor",
+    "A buyer prioritizing a low-cost complete vehicle and simple supplied charging lead",
+    "An RC10T fan who wants the visual reference in miniature"
+  ],
+  "avoidIf": [
+    "You expect full-size stadium-truck terrain ability",
+    "You need a known motor specification or externally swappable drive pack",
+    "You want to operate in water, wet grass or deep loose dirt"
+  ],
+  "quickSpecs": [
+    [
+      "Exact model",
+      "20167 · RC28T Zoom RTR"
+    ],
+    [
+      "Scale / drivetrain",
+      "1/28 · 2WD"
+    ],
+    [
+      "Length / width",
+      "143mm / 86mm"
+    ],
+    [
+      "Wheelbase",
+      "101.5mm"
+    ],
+    [
+      "Drive power",
+      "Integrated rechargeable LiPo; capacity not stated"
+    ],
+    [
+      "Charging input",
+      "Manual: 5V DC source with output below 2A"
+    ]
+  ],
+  "rating": {
+    "audience": "A casual miniature-truck buyer with a suitable dry hard floor and realistic service expectations",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Initial package",
+        "score": 8.5,
+        "reason": "Finished truck, transmitter, integrated drive battery and charging cord are supplied."
+      },
+      {
+        "label": "Price accessibility",
+        "score": 9,
+        "reason": "The dated USD 44.99 manufacturer reference keeps the vehicle purchase modest."
+      },
+      {
+        "label": "Operating clarity",
+        "score": 7.5,
+        "reason": "The exact manual clearly limits surfaces and USB input; broader product labels are less precise."
+      },
+      {
+        "label": "Component transparency",
+        "score": 6.5,
+        "reason": "Motor type, battery capacity and several internal ratings are not published in the checked exact documentation."
+      },
+      {
+        "label": "Purpose-fit value",
+        "score": 8,
+        "reason": "A practical casual miniature when hard-floor use fits; unsuitable terrain would erase that value."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "The RC10T shape is the invitation, not the performance specification",
+      "paragraphs": [
+        "The RC28T Zoom makes sense as a small recreational truck that happens to wear a recognizable RC10T-replica body. It is an inexpensive way into a finished miniature vehicle, with a matched transmitter and rechargeable power already inside. Its case is strongest when the available driving area is a clear hard floor. It becomes much weaker if “stadium truck” makes the buyer expect the surface tolerance, setup range or service access of a larger competition model.",
+        "The exact vehicle here is Team Associated 20167, with the current blue, red and white printed body. The published dimensions are 143mm long and 86mm wide, with a 101.5mm wheelbase. Its listed weight is 76.2g; that is a manufacturer figure rather than our ready-to-drive measurement. The shape and scale fraction alone do not tell you which obstacles it can negotiate, so the operating sheet matters more than the silhouette.",
+        "This is a research-led buying assessment, not a physical test. Outside exact-model retailer listings help corroborate the identity and basic package, but we do not adopt unverified runtime claims, durability anecdotes or radio-battery claims from retail copy. The most consequential evidence is the manufacturer’s own two-page instruction sheet: it says the car is designed for hard surfaces and is neither waterproof nor water-resistant. That gives the purchase a much clearer boundary than an off-road category label."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "What is included",
+      "heading": "A complete miniature with power integrated into the vehicle",
+      "paragraphs": [
+        "The box centers on an assembled truck, fully printed and decaled RC10T-replica body, installed drive system, integrated rechargeable battery, 2.4GHz transmitter and USB-C charging cord. This is a complete vehicle rather than a rolling chassis needing motor and radio selection. It also differs from an RTR that expects the owner to buy a separate traction pack and external hobby charger before the first outing.",
+        "The cord is not the same thing as a wall power supply. The exact instructions require a 5V DC USB source with output current below 2A. Confirm that the intended source meets that wording before treating an existing USB adapter as suitable. The product page’s broad completeness language does not establish that every high-power phone charger, USB output or computer port satisfies the specific input requirement.",
+        "Transmitter-cell contents deserve a check at the actual box and battery compartment. Retail descriptions are not consistent, and the checked instruction illustration does not give a sufficiently clear written cell count and size to justify repeating a retailer’s claim as verified. The starting budget therefore includes a conditional allowance for the correct cells, without inventing a quantity or format. If the box already supplies them, or suitable cells are on hand, that allowance may not be spent.",
+        "The integrated battery means there is no ordinary loose drive pack in the completion basket. Do not add a generic miniature LiPo because its connector appears plausible in a photograph. The supplied charging arrangement is the documented starting point, and any battery service needs exact manufacturer guidance. “Rechargeable” describes the installed power system; it does not establish a user-swappable pack ecosystem or approval for a higher-voltage conversion."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drive system",
+      "heading": "Be honest about the specifications Associated does not publish",
+      "paragraphs": [
+        "Team Associated identifies a 2WD electric vehicle, but the exact checked product page and operating sheet do not specify the motor’s type or model. We therefore label the motor as unknown rather than assigning “brushed” from another RC28 generation or claiming a brushless unit from appearance. The omission matters to a buyer comparing known component systems, even if it is less important to someone who simply wants the complete stock truck.",
+        "The same distinction applies to the integrated LiPo. The manual identifies the chemistry, but the checked exact documentation does not establish capacity or cell count. Neither a runtime estimate from a customer comment nor a battery dimension guessed from a chassis photo fills that gap. This review does not publish a capacity, a voltage conversion plan or a driving-time promise. Those would need exact evidence rather than a familiar miniature-car assumption.",
+        "The published ratio field does not provide a useful numerical gearing specification. Controller current, servo torque and oil-damping details are also not established by these sources. That prevents a detailed stock-component comparison with a hobby platform whose manual identifies those items. It does not prove the Zoom drives badly; it means the review should score documentation transparency and buyer fit instead of inventing engineering precision the manufacturer has not supplied.",
+        "The body-off official image is useful for recognizing the complete miniature beneath the shell. It is not a teardown performed by this site, and visible spring shapes do not prove oil-filled dampers. Keep those distinctions in mind when reading enthusiastic descriptions of a small truck: a visual resemblance to larger hardware is not enough to transfer its construction, adjustment range or performance into the specification table."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio & charging",
+      "heading": "The useful controls are simple, and the input limit is explicit",
+      "paragraphs": [
+        "The included handset uses a steering wheel, trigger, steering trim and power switch. The manual illustrates forward drive, braking and reverse, but the checked sheet does not establish a specific two-tap reverse sequence that should be copied from another controller. Start with short inputs in a clear area and observe the response of this exact car. A familiar transmitter shape does not guarantee familiar trigger logic across different models.",
+        "For startup, the instruction sequence turns the transmitter on before the vehicle. Shutdown reverses the order: vehicle off, then transmitter off. The sheet also shows steering trim for centering the front wheels. Use that to establish a sensible neutral response, rather than accepting a persistent turn as a characteristic of the body shape. If steering movement binds or the trim cannot address it, stop and inspect rather than holding the wheel against a mechanical obstruction.",
+        "Charging is specific enough to deserve its own check. Switch the vehicle off, use the supplied cord and a source meeting the manual’s 5V DC and below-2A requirement, and watch the indicated charging state. The sheet identifies green illumination while charging and the light going out at completion, followed by disconnecting the cord. Do not reverse that indication because a different charger in the house uses a green “ready” light.",
+        "The manual warns against leaving the vehicle powered on when unused because the integrated battery can be damaged. That is an ownership detail, not a reason to improvise recovery charging or open the pack. If the power or charging behavior becomes abnormal, stop using it and seek exact manufacturer support. The low vehicle price does not make unsupported electrical work a sensible first troubleshooting step."
+      ],
+      "sourceIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Setup & troubleshooting",
+      "heading": "Establish what is normal before chasing a fault",
+      "paragraphs": [
+        "A first check should distinguish the radio connection, steering neutral and drive response as separate questions. The exact sheet includes a binding procedure using the vehicle’s flashing indicator and the transmitter, with a steady indication for the established connection. Follow that sheet one vehicle at a time if binding is actually needed. Repeating arbitrary button combinations from another Associated transmitter makes a simple setup harder to diagnose.",
+        "For a car that will not move, start with the documented switches, the charging indication and the transmitter’s correct cells and polarity. A depleted vehicle battery, an unpowered handset and an unbound system are different conditions even though all can look like “the truck is dead.” There is no need to invent a failed motor diagnosis from that symptom alone, particularly when the stock motor specification and controller arrangement are not published.",
+        "For a truck that pulls to one side, verify a level, clear hard surface and inspect for debris before changing trim. A floor joint or an obstruction near a wheel can create a repeated disturbance that trim cannot usefully solve. If the steering works correctly when clear but becomes inconsistent at one part of the route, fix the route rather than stacking control adjustments onto a surface problem.",
+        "There is no documented stock gyro or adjustable oil-damper tuning system to prescribe here. The practical setup is to establish clean movement and correct controls, then use a suitable course. That keeps the review focused on what the exact Zoom actually supplies, rather than turning a casual miniature into a speculative upgrade project before its owner has established a baseline."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Hard-surface use",
+      "heading": "The manual resolves the off-road label",
+      "paragraphs": [
+        "The product’s truck category and RC10T-inspired body can suggest dirt running, but the exact operating sheet says hard surfaces. For this review, that means a dry, smooth, cleared floor or an appropriate miniature hard-surface course. It does not mean grass, sand, loose gravel or rutted outdoor ground. A route that looks modest beside a full-size stadium truck can be a very different obstacle at 143mm vehicle length.",
+        "The explicit absence of water resistance further narrows the venue. Avoid wet floors and puddles rather than treating an indoor truck as protected against routine spills. Do not use waterproofing claims from a different Associated platform to override the exact 20167 instructions. Cleaning should also respect the electronics and integrated battery; there is no basis here for recommending a hose, immersion or a wet teardown procedure.",
+        "A small clear course can still give the truck a useful recreational role. Use visible markers that will not trap the wheels, leave room to stop and keep the route separate from feet and pets. The useful challenge is controlled direction changes on the chosen surface, not reproducing a large outdoor jump scene. We have not measured turning radius, obstacle clearance or grip, so those should be assessed cautiously at the actual venue."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & ownership",
+      "heading": "Keep the miniature body and integrated system in the same decision",
+      "paragraphs": [
+        "The printed RC10T-replica body is the Zoom’s visual hook. Official photos show the current livery and the body-off arrangement; they are not evidence of impacts survived by this publication. Inspect the actual body seating and wheel clearance after transport and before operation. A shell that looks straight from across the room may still be displaced enough to interfere with a miniature wheel.",
+        "The installed rechargeable system simplifies initial shopping but also makes service support worth considering. Before purchase, ask how the exact 20167 is supported if charging, steering or the integrated battery develops a problem. Do not assume the loose-pack replacement routine from a larger hobby truck applies. Manufacturer guidance is especially relevant when the instructions caution against dismantling or modification rather than providing a documented owner battery-conversion path.",
+        "Turn both vehicle and transmitter off after use, disconnect the charging cord when the documented cycle is complete and store the vehicle in the conditions required by its instructions. Keep the USB lead with the exact manual so the unusual source-current requirement is not forgotten. These are directly tied to the integrated Zoom arrangement; they are more useful ownership preparation than a generic shopping list of aftermarket chassis parts."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete starting cost",
+      "heading": "USD 60.99 is a conservative planning basket",
+      "paragraphs": [
+        "The official product-page reference checked on 5 November 2026 is USD 44.99 for 20167. The example adds USD 10 as an editorial allowance for a manufacturer-compliant USB input and USD 6 for correct transmitter cells if required. That produces USD 60.99 before tax and shipping. Neither allowance is a quoted accessory listing, and neither should be described as an included product or an Amazon price.",
+        "An owner who already has a documented suitable source and the correct radio cells may spend less on completion. Someone who needs a different mains arrangement or shipping may spend more. The table is intended to expose the uncertain completion items, not conceal them beneath “everything included.” Verify them against the actual package, especially before buying the truck as a gift expected to operate immediately after opening.",
+        "There is no separate traction pack or external balance charger in this basic basket because the supplied system uses its integrated battery and cord. That is a convenience for the intended casual user, but it does not prove lower lifetime cost than a serviceable loose-pack platform. If the aim is repeated club use, tunable gearing or a documented replacement-electronics path, compare a different complete car before spending the difference on assumptions about this one."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "USD startup planning example · 5 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "20167 RC28T Zoom",
+            "Team Associated official vehicle reference",
+            "44.99"
+          ],
+          [
+            "Compliant USB source if needed",
+            "Editorial allowance; 5V DC output below 2A per manual",
+            "10.00"
+          ],
+          [
+            "Correct transmitter cells if needed",
+            "Editorial allowance; verify actual format and contents",
+            "6.00"
+          ],
+          [
+            "Example total",
+            "Conditional allowances; before tax/shipping",
+            "60.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete cars",
+      "heading": "Know when the next price bracket solves a different problem",
+      "paragraphs": [
+        "The Kyosho Mini-Z Porsche 32358OR is a more developed small road-car comparison when the buyer wants a documented hobby chassis, specific motor layout and a licensed finished body. Its four chassis AAA cells and four transmitter AAA cells create a different power arrangement. It is substantially more expensive at the dated references, so it is useful only if those specific requirements matter rather than as an automatic upgrade for every casual Zoom buyer.",
+        "The ARRMA Quake GROM is the complete small-monster comparison for a buyer whose outdoor use cannot fit the Zoom’s hard-surface limit. Read its exact size, battery package and terrain qualifications instead of assuming the GROM name means the same indoor convenience. A larger footprint and separate power equipment change carrying, charging and operating-space needs alongside the chassis equipment.",
+        "The Associated Pro2 SC10SW70041 is a much larger short-course comparison from the same brand. It belongs here to prevent the RC10T-inspired Zoom body from standing in for a full-size-truck purchase decision. Choose it only after checking its own completed battery basket and venue needs. Shared manufacturer identity does not make its controller, terrain guidance or service parts transferable to this miniature."
+      ],
+      "sourceIndexes": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The decision",
+      "heading": "A narrow brief can still be a worthwhile brief",
+      "paragraphs": [
+        "I would consider the Zoom for a casual dry-floor truck when low purchase cost and integrated charging are the real priorities. Its finished body, included radio and modest basic basket are clear attractions. The missing component specifications deserve disclosure, but they do not automatically defeat a recreational use that does not depend on those details. The buyer should be comfortable purchasing the complete stock system rather than a fully documented tuning platform.",
+        "I would skip it for wet use, lawn running, loose dirt or a plan built around pack swapping and motor upgrades. Confirm the 20167 identity, the USB input and actual transmitter-cell requirements before purchase. That makes the recommendation specific enough to be useful: a small RC10T-themed hard-surface vehicle with an integrated battery, rather than a promise that an inexpensive miniature can inherit every capability associated with the larger truck’s name."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU / archived distributor code",
+      "20167 / ASC20167"
+    ],
+    [
+      "Scale / category",
+      "1/28 miniature stadium truck"
+    ],
+    [
+      "Dimensions",
+      "143mm length / 86mm width"
+    ],
+    [
+      "Wheelbase",
+      "101.5mm"
+    ],
+    [
+      "Listed weight",
+      "76.2g manufacturer figure"
+    ],
+    [
+      "Drivetrain",
+      "2WD electric"
+    ],
+    [
+      "Motor specification",
+      "Type/model not disclosed in checked exact sources"
+    ],
+    [
+      "Battery",
+      "Integrated rechargeable LiPo; capacity/cell count not established"
+    ],
+    [
+      "Radio",
+      "Included 2.4GHz wheel-and-trigger transmitter"
+    ],
+    [
+      "Controls",
+      "Steering trim; forward / brake / reverse illustrated"
+    ],
+    [
+      "Charging cord",
+      "USB-C supplied"
+    ],
+    [
+      "USB input",
+      "5V DC; output current below 2A per exact manual"
+    ],
+    [
+      "Charging indication",
+      "Green while charging; off when complete"
+    ],
+    [
+      "Surface limit",
+      "Dry hard surfaces; not waterproof or water-resistant"
+    ],
+    [
+      "Body",
+      "Fully printed/decaled RC10T replica"
+    ],
+    [
+      "Other internal ratings",
+      "ESC current, servo torque and numerical gearing not established"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the RC28T Zoom suitable for grass or gravel?",
+      "answer": "The exact 20167 manual specifies hard surfaces. This review recommends a dry, clear hard floor or suitable miniature hard-surface course instead of grass, loose gravel or ruts."
+    },
+    {
+      "question": "Is it waterproof?",
+      "answer": "No. The exact instructions say it is neither waterproof nor water-resistant."
+    },
+    {
+      "question": "What motor and battery capacity does it use?",
+      "answer": "The checked exact sources do not disclose the motor type/model or battery capacity. The manual identifies an integrated rechargeable LiPo; we do not fill the remaining gaps with older RC28 specifications."
+    },
+    {
+      "question": "Can I use any USB power supply?",
+      "answer": "No assumption is safe here: the exact manual specifies a 5V DC source with output current below 2A. Verify the actual source and follow the supplied cord instructions."
+    },
+    {
+      "question": "Does a green charging light mean it is finished?",
+      "answer": "The exact sheet identifies green while charging and the light going out at completion. Switch the vehicle off for charging and disconnect the cord afterward as instructed."
+    },
+    {
+      "question": "Why does the starting example cost more than USD 44.99?",
+      "answer": "The dated USD 60.99 example adds conditional editorial allowances of USD 10 for a compliant USB source and USD 6 for correct radio cells if needed, before tax/shipping. These are not live accessory offers."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Team Associated — exact 20167 RC28T Zoom specifications, package and USD reference",
+      "url": "https://60years.associatedelectrics.com/rc28t-zoom-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Team Associated — exact 20167 operating and USB charging instructions",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC28T_ZOOM/RTR/20167_28T_ZOOM_Manual_102225_R-O-1029.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Easons RC — exact AS20167 package and dimensional listing",
+      "url": "https://www.easonsrc.co.uk/shop/as20167-team-associated-rc28t-zoom-737",
+      "kind": "Outside retailer specification context; no physical test adopted",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — exact complete Mini-Z Porsche review",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — exact complete Quake GROM review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — exact complete Pro2 SC10SW review",
+      "url": "https://rccarking.com/team-associated/pro2-sc10sw-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    }
+  ],
+  "seo": {
+    "title": "Team Associated RC28T Zoom 20167 Review | RC Car King",
+    "description": "RC28T Zoom 20167 review: dry hard-surface limits, integrated LiPo, exact USB charging instructions, missing specs and a dated complete starting budget."
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-05",
+  "publishedAt": "2026-11-05T11:03:06.249Z",
+  "updatedAt": "2026-11-05T11:03:06.249Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0GN3NXDX3",
+    "marketplace": "www.amazon.com",
+    "sku": "20167",
+    "apiSku": "ASC20167",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GN3NXDX3?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.282Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "20167 RC28T Zoom complete 1/28 2WD truck with printed RC10T-replica body, integrated battery, transmitter and USB-C cord",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:27.282Z: Team Associated, returned part ASC20167, model ASC20167. The distributor prefix in ASC20167 maps to official SKU 20167; manufacturer page and complete package cross-checked. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/rc28t-zoom-1.jpg",
+  "imageAlt": "Official Team Associated RC28T Zoom 20167 with the finished blue, red and white RC10T-replica body.",
+  "imageCaption": "Official Team Associated RC28T Zoom 20167 with the finished blue, red and white RC10T-replica body.",
+  "imageCredit": {
+    "name": "Team Associated",
+    "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17097/20167_RC28T_Z_3Q_IMG_6741__60409.1764963774.jpg?c=1",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/rc28t-zoom-2.jpg",
+      "alt": "Official Team Associated body-off product photograph; not an RC Car King teardown or evidence of unlisted internal specifications.",
+      "caption": "Official Team Associated body-off product photograph; not an RC Car King teardown or evidence of unlisted internal specifications.",
+      "source": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17094/20167_RC28T_Z_BOnear_IMG_6746__65329.1764963773.jpg?c=1",
+      "creditName": "Team Associated",
+      "credit": {
+        "name": "Team Associated",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17094/20167_RC28T_Z_BOnear_IMG_6746__65329.1764963773.jpg?c=1"
+      }
+    },
+    {
+      "image": "reviews/rc28t-zoom-3.jpg",
+      "alt": "Official side view of the 143mm RC28T Zoom. The exact manual limits it to dry hard surfaces.",
+      "caption": "Official side view of the 143mm RC28T Zoom. The exact manual limits it to dry hard surfaces.",
+      "source": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17095/20167_RC28T_Z_SidePro_IMG_6740__86172.1764963773.jpg?c=1",
+      "creditName": "Team Associated",
+      "credit": {
+        "name": "Team Associated",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17095/20167_RC28T_Z_SidePro_IMG_6740__86172.1764963773.jpg?c=1"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 5 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

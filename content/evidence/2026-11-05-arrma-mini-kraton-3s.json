@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-05",
+  "createdAt": "2026-11-05T10:56:44.544Z",
+  "route": "arrma/mini-kraton-3s/",
+  "sku": "ARA2508T1",
+  "coreWords": 1969,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/arrma-search.json",
+    "checkedAt": "2026-10-12T23:04:01.532Z",
+    "asin": "B0GRC1S7MF",
+    "brand": "ARRMA",
+    "part": "ARA2508T1",
+    "model": "ARA2508T1",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA2508T1, model ARA2508T1. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — exact ARA2508T1 package, specifications and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "ARRMA — exact ARA2508 manual, equipment and controls",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5419286a/Manuals/ARA2508_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Driver / Greg Vogel — Mini Kraton introduction, ST1 featured package",
+      "url": "https://www.rcdriver.com/new-arrma-mini-kraton/",
+      "kind": "Independent platform coverage; their driving results are not ours",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "ARRMA — ARA2508 technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwada7f363/Manuals/ARA2508_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Spektrum — SPMX203S30H2 exact completion pack and USD reference",
+      "url": "https://www.horizonhobby.com/product/spektrum-11.1v-2000mah-3s-30c-smart-g2-lipo-battery-ic2/SPMX203S30H2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Spektrum — SPMXC0060 S22 G2 charger and USD reference",
+      "url": "https://www.horizonhobby.com/product/spektrum-s22-g2-usb-c-g2-2s-and-3s-lipo-20w-smart-charger-ic2/SPMXC0060.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Spektrum — SPMX-1027 USB supply and USD reference",
+      "url": "https://www.horizonhobby.com/product/spektrum-65w-usb-c-gan-power-supply/SPMX-1027.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — Typhon GROM 223S full review",
+      "url": "https://rccarking.com/arrma/typhon-grom-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — Quake GROM full review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — Kraton 6S V6 full review",
+      "url": "https://rccarking.com/arrma/kraton-6s-v6/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "mini-kraton",
+      "n": 1,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw38a1a51a/Images/ARA/ARA2508T1_A0_OWTT2PSO.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/mini-kraton-1.jpg",
+      "bytes": 58178,
+      "sha256": "d6e0084644ec50a2f3f5bbab76056b786d29970beacb5364a849f4a266f0d7c9",
+      "checkedAt": "2026-11-05T10:44:08.241Z"
+    },
+    {
+      "prefix": "mini-kraton",
+      "n": 2,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc57475bb/Images/ARA/ARA2508T1_A25_OWTT2PSO.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/mini-kraton-2.jpg",
+      "bytes": 81128,
+      "sha256": "13629e1fd6ebcee7a63ccd40e6225f866b825ebf05c6d9e52cf7b95ebf0a83f0",
+      "checkedAt": "2026-11-05T10:44:08.388Z"
+    },
+    {
+      "prefix": "mini-kraton",
+      "n": 3,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwaa068e1f/Images/ARA/ARA2508T1_A93_OWTT2PSO.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/mini-kraton-3.jpg",
+      "bytes": 98672,
+      "sha256": "a307ffa6208c906217f164bc220332c3c674f41d565543e888f480b34d138c33",
+      "checkedAt": "2026-11-05T10:44:08.517Z"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "kraton-manual",
+      "bytes": 58109069,
+      "sha256": "cf4762d2b07d57a9efa904a6159c223021c314e51e70c0116639ae3864592121"
+    },
+    {
+      "file": "kraton-tech",
+      "bytes": 7295865,
+      "sha256": "66b0732317fdf5292a5cca1c155e1b321034923e5d63589ec9debc352cc9665b"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "kraton-manual",
+      "kraton-tech"
+    ],
+    "inspection": "Rendered English pages 12–16, 19–21 and 23; stock hardware, S-only power equipment, PowerGuard, 2S–3S ESC table, limiter and DSC cross-checked",
+    "identity": "Exact archived ARA2508T1; ST1 independent review is platform context, not this package",
+    "budget": "299.99 +37.99 +23.99 +24.99 +20 =406.96 USD; all component references checked 5 November 2026",
+    "conflict": "Marketing 3S designation distinguished from the manual controller’s 2S–3S input table; no unsupported battery fit inferred"
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed; 78 published reviews, 13 articles; root canonical profile",
+    "preview": "npm run build and npm run check passed; preserved /rc-car-king noindex preview",
+    "desktop": "1440 ×1000: official hero, overview, score and check-price box visually inspected; images loaded",
+    "mobile": "390 ×844: heading/hero inspected, document width375px without horizontal overflow; shared table scroll and FAQ interaction verified",
+    "browserNotes": "RC28T budget region client334px/scroll530px; horizontal scroll contained. Porsche exact-layout FAQ expanded correctly. Temporary viewport reset.",
+    "amazon": "Historical identity reused; no API or credentials accessed; expiring offers omitted and check-price link retained",
+    "release": "Commit, matching successful Cloudflare deployment and live checks pending"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

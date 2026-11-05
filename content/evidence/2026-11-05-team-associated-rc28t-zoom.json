@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-05",
+  "createdAt": "2026-11-05T11:03:06.249Z",
+  "route": "team-associated/rc28t-zoom/",
+  "sku": "20167",
+  "coreWords": 2262,
+  "identity": {
+    "cachePath": "output/batch-horizon/associated-search.json",
+    "checkedAt": "2026-10-12T23:04:27.282Z",
+    "asin": "B0GN3NXDX3",
+    "brand": "Team Associated",
+    "part": "ASC20167",
+    "model": "ASC20167",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:27.282Z: Team Associated, returned part ASC20167, model ASC20167. The distributor prefix in ASC20167 maps to official SKU 20167; manufacturer page and complete package cross-checked. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Team Associated — exact 20167 RC28T Zoom specifications, package and USD reference",
+      "url": "https://60years.associatedelectrics.com/rc28t-zoom-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Team Associated — exact 20167 operating and USB charging instructions",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC28T_ZOOM/RTR/20167_28T_ZOOM_Manual_102225_R-O-1029.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Easons RC — exact AS20167 package and dimensional listing",
+      "url": "https://www.easonsrc.co.uk/shop/as20167-team-associated-rc28t-zoom-737",
+      "kind": "Outside retailer specification context; no physical test adopted",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — exact complete Mini-Z Porsche review",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — exact complete Quake GROM review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — exact complete Pro2 SC10SW review",
+      "url": "https://rccarking.com/team-associated/pro2-sc10sw-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-05"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "rc28t-zoom",
+      "n": 1,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17097/20167_RC28T_Z_3Q_IMG_6741__60409.1764963774.jpg?c=1",
+      "credit": "Team Associated",
+      "file": "reviews/rc28t-zoom-1.jpg",
+      "bytes": 146718,
+      "sha256": "4fd44e04d19e8f5d08dbbeee6f0076a950133b45fc525c5b483fb6d4887ff670",
+      "checkedAt": "2026-11-05T10:44:09.255Z"
+    },
+    {
+      "prefix": "rc28t-zoom",
+      "n": 2,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17094/20167_RC28T_Z_BOnear_IMG_6746__65329.1764963773.jpg?c=1",
+      "credit": "Team Associated",
+      "file": "reviews/rc28t-zoom-2.jpg",
+      "bytes": 136479,
+      "sha256": "13000d759cc9f09778e40ce181412072d5999554a8f84f2e1b29ad4cad611bee",
+      "checkedAt": "2026-11-05T10:44:09.964Z"
+    },
+    {
+      "prefix": "rc28t-zoom",
+      "n": 3,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9224/17095/20167_RC28T_Z_SidePro_IMG_6740__86172.1764963773.jpg?c=1",
+      "credit": "Team Associated",
+      "file": "reviews/rc28t-zoom-3.jpg",
+      "bytes": 121485,
+      "sha256": "868b97bf83da80b6b62a6bccca634f08f4681003130bebd32517e0ed1948565c",
+      "checkedAt": "2026-11-05T10:44:10.703Z"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "rc28t-manual",
+      "bytes": 1712065,
+      "sha256": "b356342d9b01c455ac07671d683bd4d62a6e1898afc439f8751bcb8fa88ee015"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "rc28t-manual"
+    ],
+    "inspection": "Both pages of exact 20167 PDF rendered; charging LED, source requirement, hard-surface and no-water-resistance instructions visually checked",
+    "charging": "Exact manual: vehicle off; 5V DC source with output current below 2A; green while charging, off when complete; unplug afterward",
+    "unknowns": "Motor type/model, LiPo cell count/capacity, numeric ratio, ESC current, servo torque and transmitter cell count/size not established; no guesses published",
+    "identity": "Archived ASC20167 distributor prefix maps to official 20167; exact complete truck and brand retained",
+    "budget": "44.99 official vehicle reference +10 conditional USB allowance +6 conditional radio-cell allowance =60.99 USD; not quoted accessory bundles",
+    "conflict": "Product off-road category is constrained by exact hard-surface and neither-waterproof-nor-water-resistant operating sheet"
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed; 78 published reviews, 13 articles; root canonical profile",
+    "preview": "npm run build and npm run check passed; preserved /rc-car-king noindex preview",
+    "desktop": "1440 ×1000: official hero, overview, score and check-price box visually inspected; images loaded",
+    "mobile": "390 ×844: heading/hero inspected, document width375px without horizontal overflow; shared table scroll and FAQ interaction verified",
+    "browserNotes": "RC28T budget region client334px/scroll530px; horizontal scroll contained. Porsche exact-layout FAQ expanded correctly. Temporary viewport reset.",
+    "amazon": "Historical identity reused; no API or credentials accessed; expiring offers omitted and check-price link retained",
+    "release": "Commit, matching successful Cloudflare deployment and live checks pending"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}
