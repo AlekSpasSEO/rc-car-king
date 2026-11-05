@@ -130,3 +130,7 @@ The complete 58751 kit-finishing guide uses an original accessible HTML/CSS map 
 ## Weekday reviews · 5 November 2026
 
 Nine inspected official photographs cover black/red ARRMA Mini Kraton ARA2508T1, Team Associated RC28T Zoom 20167 and Lava Orange Kyosho Porsche 32358OR. The [dated media manifest](content/evidence/2026-11-05-review-media.json) records source URLs, image hashes and checked manual fingerprints. ARRMA action imagery is manufacturer promotion; its completion artwork explicitly excludes the battery and charger. Associated body-off imagery is an official product view, not our teardown. Porsche captions preserve the exact N-RM 90mm identity. No community photographs or invented physical tests are used.
+
+## Daily guide · 5 November 2026 · 2WD versus 4WD
+
+The drivetrain guide uses an original accessible HTML/CSS three-card map to distinguish 2WD, RWD and four driven wheels. It is conceptual, without torque-distribution or differential-lock claims. No product or community photographs are added. The [dated evidence](content/evidence/2026-11-05-drivetrain-guide.json) records current manufacturer pages, same-day exact manual fingerprints, the RC28T hard-surface limit and separation from the existing differential guide.

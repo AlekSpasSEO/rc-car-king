@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-05",
+  "createdAt": "2026-11-05T11:19:00.365Z",
+  "kind": "guide",
+  "route": "guides/2wd-vs-4wd-rc-cars/",
+  "words": 1481,
+  "quota": {
+    "guidesBefore": 0,
+    "guidesAdded": 1,
+    "timezone": "Europe/Skopje"
+  },
+  "sources": [
+    {
+      "name": "Losi — manufacturer basher drivetrain category guidance",
+      "url": "https://www.losi.com/rc-basher-drivetrain.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Kyosho — exact 32358OR RWD MR-04 Porsche specification",
+      "url": "https://rc.kyosho.com/en/32358or.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Kyosho — exact 32652ID AWD MA-020 Skyline and installed drift tires",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "ARRMA / Horizon — ARA2508 Mini Kraton stock 4WD hardware and T1 package",
+      "url": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Team Associated — exact 20167 RC28T Zoom 2WD specification",
+      "url": "https://60years.associatedelectrics.com/rc28t-zoom-rtr/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Team Associated — exact 20167 hard-surface operating limits",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC28T_ZOOM/RTR/20167_28T_ZOOM_Manual_102225_R-O-1029.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "ARRMA — exact ARA2508 controls and operating instructions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5419286a/Manuals/ARA2508_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "RC Car King — differential mechanisms explained",
+      "url": "https://rccarking.com/guides/rc-car-differentials-open-locked-center/",
+      "kind": "Related informational guide; separate mechanism intent",
+      "checked": "2026-11-05"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "key": "losi",
+      "url": "https://www.losi.com/rc-basher-drivetrain.html",
+      "finalUrl": "https://www.losi.com/rc-basher-drivetrain.html",
+      "status": 200,
+      "bytes": 102856,
+      "sha256": "cb908216d94f9feae821bd5cbf60c32c25796c9721719ff7c6636a25232b6b04",
+      "checkedAt": "2026-11-05T11:16:43.500Z"
+    },
+    {
+      "key": "mini-z-awd",
+      "url": "https://rc.kyosho.com/en/32652id.html",
+      "finalUrl": "https://rc.kyosho.com/en/32652id.html",
+      "status": 200,
+      "bytes": 260343,
+      "sha256": "2fd0bc41ff00e9a989eef270bd8a54be7ea58eb952a35b54730c882470626cb4",
+      "checkedAt": "2026-11-05T11:16:44.482Z"
+    },
+    {
+      "key": "kraton",
+      "url": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "final": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "status": 200,
+      "sha256": "03c5d22ab5032b670d8addbbad722b6bac6b2d23b960b5a0aad9e03ddb053639",
+      "checkedAt": "2026-11-05T10:38:07.373Z"
+    },
+    {
+      "key": "porsche",
+      "url": "https://rc.kyosho.com/en/32358or.html",
+      "status": 200,
+      "sha256": "7c5bcd7532f111a6681a85be1e7601bcb920bdd55071a44c5f82028a13e8a5b0",
+      "checkedAt": "2026-11-05T10:40:33.436Z"
+    },
+    {
+      "key": "rc28t",
+      "url": "https://60years.associatedelectrics.com/rc28t-zoom-rtr/",
+      "status": 200,
+      "sha256": "e11f70d53d5f6b0322aef9c998acee4d9547f91551a05c475b79d449a105046e",
+      "note": "Saved current exact product HTML inspected during 5 November research",
+      "checkedAt": "2026-11-05T10:39:25.106Z"
+    }
+  ],
+  "documents": [
+    {
+      "key": "kraton-manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5419286a/Manuals/ARA2508_MANUAL_ML.pdf",
+      "status": 200,
+      "bytes": 58109069,
+      "sha256": "cf4762d2b07d57a9efa904a6159c223021c314e51e70c0116639ae3864592121",
+      "checkedAt": "2026-11-05T10:40:41.026Z"
+    },
+    {
+      "key": "rc28t-manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC28T_ZOOM/RTR/20167_28T_ZOOM_Manual_102225_R-O-1029.pdf",
+      "status": 200,
+      "bytes": 1712065,
+      "sha256": "b356342d9b01c455ac07671d683bd4d62a6e1898afc439f8751bcb8fa88ee015",
+      "checkedAt": "2026-11-05T10:40:44.646Z"
+    }
+  ],
+  "researchNotes": [
+    "Current production and main matched 41c3b91 before work; no pending recovery batch.",
+    "The same-day exact manuals were visually inspected during the completed review research; current hashes retained.",
+    "AWD and 4WD not treated as proof of center differential or fixed torque distribution.",
+    "Associated operating-sheet hard-surface limit takes priority over broad off-road product category.",
+    "No universal 4WD speed, durability, weight, cost or novice-suitability claim.",
+    "Scope does not authorize drivetrain conversions or powered fault tests."
+  ],
+  "media": {
+    "type": "Original accessible HTML/CSS three-card concept diagram",
+    "photos": "None added or reused",
+    "note": "An original driven-wheel map: conceptual drive paths, not a steering, differential-lock or torque-distribution diagram"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used; no direct purchase links or prices.",
+    "No physical testing, ownership or customer-star claims.",
+    "Existing review quota unchanged; this is one independent daily guide."
+  ],
+  "validation": {
+    "production": "npm run build and npm run check passed; 78 reviews, 14 articles; production root canonicals",
+    "preview": "npm run build and npm run check passed; preserved /rc-car-king preview indexing profile",
+    "desktop": "1440 ×1000: heading, direct answer and original three-card diagram visually inspected",
+    "mobile": "390 ×844: document width375px without overflow; table client335px/scroll530px contained; FAQ expanded with matching visible answer",
+    "release": "Commit, matching successful Cloudflare deployment and live checks to follow; no deployment success assumed"
+  }
+}
