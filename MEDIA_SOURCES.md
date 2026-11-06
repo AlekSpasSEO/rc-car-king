@@ -134,3 +134,7 @@ Nine inspected official photographs cover black/red ARRMA Mini Kraton ARA2508T1,
 ## Daily guide · 5 November 2026 · 2WD versus 4WD
 
 The drivetrain guide uses an original accessible HTML/CSS three-card map to distinguish 2WD, RWD and four driven wheels. It is conceptual, without torque-distribution or differential-lock claims. No product or community photographs are added. The [dated evidence](content/evidence/2026-11-05-drivetrain-guide.json) records current manufacturer pages, same-day exact manual fingerprints, the RC28T hard-surface limit and separation from the existing differential guide.
+
+## Daily guide · 6 November 2026 · Pinion, spur and final drive
+
+The gearing guide uses an original accessible HTML/CSS three-card calculation map, with a separately labeled exact-model arithmetic table. Both ARRMA ARA2508 technical-pack pages and the relevant exact Slash 58234-8 manual page were rendered for research; no manual artwork or product photographs are republished. The [dated evidence](content/evidence/2026-11-06-gearing-guide.json) records current source fingerprints, calculated ratios and the distinction between arithmetic, fit and operating permission. No community photos or fabricated demonstrations are used.

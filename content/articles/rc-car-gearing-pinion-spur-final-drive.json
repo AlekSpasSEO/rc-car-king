@@ -1,0 +1,271 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-gearing-pinion-spur-final-drive",
+  "intentKey": "read-pinion-and-spur-tooth-counts-calculate-external-and-final-drive-reduction-with-exact-model-internal-ratio",
+  "status": "published",
+  "title": "RC car gearing explained: pinion, spur and final-drive ratio",
+  "dek": "Read the tooth counts, calculate the right reduction and understand why a taller gear is not a guaranteed speed upgrade.",
+  "seo": {
+    "title": "RC Gearing: Pinion, Spur & Final Drive | RC Car King",
+    "description": "Learn pinion and spur ratios, calculate final drive with exact ARRMA and Traxxas examples, and separate gearing arithmetic from fit and operating approval."
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "publishedAt": "2026-11-06T10:31:21.830Z",
+  "updatedAt": "2026-11-06T10:31:21.830Z",
+  "answer": "For a conventional motor-pinion and spur pair, divide the spur tooth count by the pinion tooth count to find that pair’s reduction. Multiply by the exact vehicle’s remaining internal reduction to calculate its final-drive ratio. A higher numerical reduction gives more mechanical leverage and fewer wheel revolutions per motor revolution. A lower numerical reduction gives the opposite tradeoff; it does not guarantee more real speed or an approved setup.",
+  "scope": "This is a document-based explanation and calculation worksheet for complete electric RC cars, using stock ARRMA Mini Kraton ARA2508T1 and Traxxas Slash 2WD XL-5 58234-8 examples. It is not a gear-replacement tutorial, parts-buying guide or permission to change motor, battery, tires or gearing. Follow the current exact-model instructions for compatibility, assembly, gear mesh, operating limits and shutdown. No physical speed, temperature or runtime tests are claimed.",
+  "prerequisites": [
+    "The exact model/SKU, manual revision and stock or modified configuration",
+    "The manufacturer’s installed pinion and spur tooth counts, plus its internal reduction convention",
+    "A calculator and a written place to keep the inputs and intermediate result",
+    "The current model-specific gearing and motor-mount instructions before considering any hardware change"
+  ],
+  "conceptCaption": "Original calculation map for a conventional external pinion/spur pair; conceptual, not an installation diagram",
+  "concepts": [
+    {
+      "name": "EXTERNAL PAIR",
+      "description": "Spur teeth ÷ pinion teeth = reduction at this gear pair."
+    },
+    {
+      "name": "FINAL DRIVE",
+      "description": "External reduction × remaining internal reduction = nominal overall reduction."
+    },
+    {
+      "name": "APPROVAL",
+      "description": "A calculated ratio still needs exact-model fit, setup and operating permission."
+    }
+  ],
+  "sections": [
+    {
+      "id": "identify-gears",
+      "heading": "First identify which numbers describe the gears",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "The motor pinion is the gear on the motor shaft that drives the spur in the arrangement discussed here. The spur transfers that rotation into the rest of the drivetrain. A marking such as 24T means twenty-four teeth. It does not mean 24 volts, a twenty-four-turn motor or a 24:1 final ratio. Keep the component name beside the number when taking notes.",
+        "The ARRMA technical pack identifies the Mini Kraton’s standard pinion as 24T and its standard spur as 63T. Its current product specification separately lists the internal ratio and overall ratio. Those are different pieces of information, even though a retailer may put them together under a broad “gearing” heading. The useful first task is sorting each number into its correct role.",
+        "Do not treat a photograph as a reliable tooth-count record. Nor does a stock manual confirm what a previous owner installed. For a modified car, reconcile the documented arrangement with a competent, unpowered inspection performed under the model’s instructions. This worksheet itself requires no body removal, gear-cover removal or powered wheel test."
+      ]
+    },
+    {
+      "id": "calculate-ratio",
+      "heading": "Calculate the external pair before the final drive",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "paragraphs": [
+        "For the Mini Kraton’s documented pair, calculate 63 ÷ 24 = 2.625. In an ideal meshing pair, the pinion turns 2.625 times for one spur revolution. That is the external reduction only. The drivetrain after the spur still changes rotational speed, so stopping at 2.625 and calling it the final drive would omit part of the system.",
+        "The manufacturer lists an internal reduction of 2.50. Using that stated convention, calculate 2.625 × 2.50 = 6.5625, which rounds to the published 6.56 overall ratio. Retain the unrounded intermediate value until the last step. This agreement is a useful check that the tooth counts, internal factor and reported overall figure describe the same stock arrangement.",
+        "The multiplier belongs to this vehicle’s documented drivetrain. It is not an ARRMA-wide constant or a number chosen from another truck of similar size. Some specifications already give a complete overall reduction, while others label an intermediate ratio. Check what the manufacturer includes before multiplying: counting an internal stage twice produces a convincing-looking answer that is still wrong."
+      ]
+    },
+    {
+      "id": "worked-examples",
+      "heading": "Two stock examples, two different internal factors",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "The Slash 58234-8 manual uses an internal factor of 2.72 in its final-ratio formula. Its illustrated normal-condition 16T pinion and 90T spur give 90 ÷ 16 × 2.72 = 15.30. This provides a second calculation example, not a recommendation to fit those gears to the Mini Kraton. Model identity remains attached to every row.",
+        "These numbers do not rank the cars by acceleration or top speed. Their motors, tire dimensions, power systems, mass and intended use differ. The table demonstrates the calculation and the need for the right internal factor. It is not a controlled comparison of the completed vehicles or evidence that one is easier to drive."
+      ],
+      "table": {
+        "caption": "Manufacturer stock gearing inputs and calculated reductions · checked 6 November 2026",
+        "columns": [
+          "Exact vehicle",
+          "Spur ÷ pinion",
+          "Internal factor",
+          "Calculated final drive"
+        ],
+        "rows": [
+          [
+            "ARRMA Mini Kraton · ARA2508T1",
+            "63 ÷ 24 = 2.625",
+            "2.50",
+            "6.5625 → 6.56"
+          ],
+          [
+            "Traxxas Slash XL-5 · 58234-8",
+            "90 ÷ 16 = 5.625",
+            "2.72",
+            "15.30"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "higher-lower",
+      "heading": "Higher gearing and a higher ratio can mean opposite things",
+      "paragraphs": [
+        "People often say “gear up” to mean a taller gear: less numerical reduction. With the spur unchanged, a larger pinion lowers the spur-divided-by-pinion result. With the pinion unchanged, a smaller spur also lowers it. For the same motor speed and unchanged remaining drivetrain, that means more output revolutions. It does not create extra motor power.",
+        "A lower gear means more numerical reduction. With other inputs unchanged, a smaller pinion or larger spur raises the ratio. Ideal gear reduction trades rotational speed for torque multiplication. Actual acceleration and wheel force also depend on losses, traction and the motor’s behavior under load. It is better to write “numerically higher reduction” than leave an ambiguous note saying only “higher ratio.”",
+        "For a pure arithmetic exercise, a hypothetical 60T spur and 20T pinion give 3:1. Keeping that spur and using a hypothetical 15T pinion gives 4:1. The second pair has more reduction. These invented classroom counts are not assigned to either example car and are not a compatibility list. Their purpose is to make the direction of the fraction easy to check."
+      ]
+    },
+    {
+      "id": "calculate-on-paper",
+      "heading": "Build a gearing record before considering a change",
+      "paragraphs": [
+        "Use this five-step routine with the car unpowered and the relevant documents open. The finished result should explain the present setup, rather than turn a calculator output into a shopping instruction."
+      ],
+      "steps": [
+        {
+          "heading": "Record the exact configuration",
+          "paragraphs": [
+            "Write the vehicle SKU, manual revision and any known motor, gearbox or tire changes. If a selectable transmission has different ratios, identify the selected gear. Do not combine a stock tooth count from one generation with an internal factor from another."
+          ]
+        },
+        {
+          "heading": "Separate the four inputs",
+          "paragraphs": [
+            "Record the pinion teeth, spur teeth, remaining internal reduction and the manufacturer’s stated overall figure if available. Keep any unknown field visibly unknown. A missing internal factor is a reason to find the exact documentation, not substitute a familiar number."
+          ]
+        },
+        {
+          "heading": "Calculate and label both results",
+          "paragraphs": [
+            "Divide spur by pinion, then multiply by the applicable internal factor. Label the first result external and the second final. Use parentheses in a calculator if needed, and round only the final answer. Check that you did not reverse the division."
+          ]
+        },
+        {
+          "heading": "Reconcile disagreement before proceeding",
+          "paragraphs": [
+            "If your answer differs materially from the manufacturer’s, check model identity, installed versus optional gears, internal-stage definitions and rounding. Do not average the figures. A useful worksheet preserves the source of each number so a mismatch can be resolved."
+          ]
+        },
+        {
+          "heading": "Read the permission around the chart",
+          "paragraphs": [
+            "Only after the stock arrangement is understood should you assess any proposed change against the exact manufacturer’s fit, mounting and operating instructions. Record restrictions alongside the ratio. If those instructions do not support the planned combination and use, the calculation is not a reason to try it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fit-vs-use",
+      "heading": "Tooth counts do not establish fit or operating suitability",
+      "sourceIndexes": [
+        1,
+        2
+      ],
+      "paragraphs": [
+        "Two gears need compatible tooth geometry and a compatible installation, not merely a ratio you like. Tooth size is described by a pitch or module system; a tooth count alone does not identify it. Motor-shaft bore, available space and the mount arrangement also matter. Do not force mismatched gears together or assume that every gear sold for the same nominal vehicle scale belongs in your chassis.",
+        "The Mini Kraton technical pack uses a motor-mount chart with indexed positions for specified pinion/spur pairs. That is a model-specific assembly system. It should not be replaced with an adjustment method copied from a car that uses a sliding motor mount. This guide explains why to find that chart; it does not prescribe installation positions or a universal gear-mesh procedure.",
+        "The Slash 58234-8 manual warns that its full gearing chart is not approval to use every combination. Its high-speed arrangement is intended for hard-surface speed running rather than off-road use or repeated starts and stops. That restriction belongs to that manual and configuration. Do not transfer its chart, temperature language or motor instructions to an unrelated car."
+      ]
+    },
+    {
+      "id": "beyond-ratio",
+      "heading": "Why a taller gear can fail to deliver the speed you expect",
+      "sourceIndexes": [
+        2
+      ],
+      "paragraphs": [
+        "A taller ratio asks the motor to do a different job under load. If the system cannot sustain the required motor speed, the expected road-speed increase may not appear. The Slash manual specifically cautions that over-gearing can damage the motor or controller. A calculator that predicts output revolutions does not evaluate current, cooling, surface resistance or component limits.",
+        "Tire circumference changes distance traveled per wheel revolution. Even with identical gear counts, changing the tire diameter changes the relationship between wheel revolutions and road distance. That is another reason not to compare final ratios alone across unrelated vehicles. Tire growth, slip and loaded rolling size also prevent a simple gearing worksheet from becoming a verified speed measurement.",
+        "If your real aim is a calmer first drive, a documented throttle-limiting or training feature may be a more direct starting question than changing gears. It remains a separate control: reducing a transmitter setting does not physically change the reduction ratio or automatically approve tall gearing. Read the exact electronics instructions and keep mechanical and electronic settings separate in your notes."
+      ]
+    },
+    {
+      "id": "troubleshooting",
+      "heading": "When the symptom is heat, noise or missing drive",
+      "paragraphs": [
+        "Unexpected heat is a reason to stop and follow the exact model’s shutdown and inspection guidance, not keep making runs until a desired speed appears. Binding, unsuitable terrain, damage and inappropriate gearing are different possibilities. Do not override thermal protection or copy another car’s temperature threshold. Do not touch a motor to discover how hot it is.",
+        "A newly noisy or damaged gear pair needs investigation of the correct assembly, alignment and condition. Changing the numerical ratio is not a diagnosis of gear mesh. Similarly, a motor spinning while the car stays still does not identify one failed gear by itself. Use the vehicle’s troubleshooting information, and seek qualified support when the cause is unclear.",
+        "The practical completion point is modest: you can state the exact installed gearing, reproduce its documented ratio and identify the instructions that govern any change. That is enough to read a review or setup discussion intelligently. It is much more useful than memorizing a supposed “best pinion” without knowing the car, surface and operating system behind it."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Your gearing worksheet is complete when…",
+    "items": [
+      "The exact model, manual revision and stock or modified configuration are identified",
+      "Pinion teeth and spur teeth are recorded separately from motor turns or voltage",
+      "External reduction uses spur divided by pinion",
+      "The remaining internal factor belongs to the exact drivetrain and is not counted twice",
+      "Intermediate calculations remain unrounded until the final result",
+      "Any disagreement with the published ratio is resolved or explicitly left open",
+      "Fit, mount method and operating restrictions are checked independently of arithmetic",
+      "No road speed, runtime or temperature claim is presented as a measured result"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "arrma/mini-kraton-3s/",
+      "title": "ARRMA Mini Kraton · ARA2508T1",
+      "note": "The documented 24T/63T example, with the exact batteryless package and separate power/steering controls."
+    },
+    {
+      "route": "traxxas/slash-2wd-xl-5/",
+      "title": "Traxxas Slash 2WD XL-5 · 58234-8",
+      "note": "The complete-car context for the 16T/90T and 2.72-factor example; use its own operating manual."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do I divide pinion by spur or spur by pinion?",
+      "answer": "For the conventional external reduction described here, divide spur teeth by pinion teeth. Multiply by the exact remaining internal reduction to calculate final drive."
+    },
+    {
+      "question": "Does a bigger pinion increase or reduce the numerical ratio?",
+      "answer": "With the spur and remaining drivetrain unchanged, a bigger pinion reduces the numerical reduction. This is commonly called taller gearing; it is not a guaranteed speed improvement."
+    },
+    {
+      "question": "Why does 63 divided by 24 not equal the Mini Kraton’s listed 6.56?",
+      "answer": "63 ÷ 24 = 2.625 is only the external pair. Multiplying by the documented 2.50 internal factor gives 6.5625, rounded to 6.56."
+    },
+    {
+      "question": "Can I use the same internal factor for every RC car?",
+      "answer": "No. The exact examples use 2.50 and 2.72. Other transmissions and configurations can differ, and some published figures already include the complete reduction."
+    },
+    {
+      "question": "Does appearing in a gearing chart mean a setup is approved for any surface?",
+      "answer": "No. Read the chart’s complete fit, motor, battery and operating restrictions. A numerical result or physical fit does not establish suitability."
+    },
+    {
+      "question": "Can I calculate actual top speed from final drive alone?",
+      "answer": "No. You also need the complete power and tire system, and even a theoretical calculation cannot verify loaded performance, grip or real road speed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — ARA2508 stock tooth counts, 2.50 internal and 6.56 overall figures",
+      "url": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "ARRMA — ARA2508 technical pack, stock gears and indexed motor-mount chart",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwada7f363/Manuals/ARA2508_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas — exact 58234-8 Slash manual R00, page 24: formula and operating restrictions",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — separate motor terminology guide",
+      "url": "https://rccarking.com/guides/brushed-vs-brushless-rc-cars/",
+      "kind": "Related informational guide; motor turns and Kv are separate inputs",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — separate missing-drive troubleshooting guide",
+      "url": "https://rccarking.com/guides/rc-car-steers-but-wont-move/",
+      "kind": "Related informational guide; no gear failure assumed",
+      "checked": "2026-11-06"
+    }
+  ],
+  "evidenceNote": "Original document-led explanation and arithmetic worksheet. Current manufacturer inputs were checked on 6 November 2026; both ARRMA technical-pack pages and the exact Slash manual’s relevant page were visually inspected. The numerical examples are calculations, not vehicle tests. The hypothetical 60/20 and 60/15 examples are clearly separated from actual fit or operating approval. No purchase links, prices, fabricated demonstrations, physical testing or customer ratings are used.",
+  "revisionNote": "First published 6 November 2026: external versus final reduction, two exact stock examples, a calculation workflow and boundaries around fit, operation and troubleshooting."
+}

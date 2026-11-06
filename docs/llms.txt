@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [RC car gearing explained: pinion, spur and final-drive ratio](https://alekspasseo.github.io/rc-car-king/guides/rc-car-gearing-pinion-spur-final-drive/): Learn pinion and spur ratios, calculate final drive with exact ARRMA and Traxxas examples, and separate gearing arithmetic from fit and operating approval.
 - [2WD vs 4WD RC cars: choose the drivetrain for the job](https://alekspasseo.github.io/rc-car-king/guides/2wd-vs-4wd-rc-cars/): Compare 2WD, RWD and 4WD RC cars by surface, controls and ownership. Use exact complete-car examples and a practical checklist to choose the right layout.
 - [How to finish the body in your Tamiya BMW M4 GT3 EVO kit](https://alekspasseo.github.io/rc-car-king/guides/tamiya-bmw-m4-gt3-evo-body-painting/): Finish the body in Tamiya kit 58751: trimming, PS and TS paint roles, masks, numbered livery stickers, detail assembly and final chassis fit checks.
 - [TRX-4 XL-5 HV modes: Trail, Crawl, brakes and reverse explained](https://alekspasseo.github.io/rc-car-king/guides/trx-4-xl-5-hv-trail-crawl-brake-modes/): Choose XL-5 HV modes on the 92076-4 TRX-4 Bronco: Trail vs Crawl, Training, brakes, reverse, LED meanings and a model-specific selection checklist.

@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-06",
+  "createdAt": "2026-11-06T10:31:21.830Z",
+  "kind": "guide",
+  "route": "guides/rc-car-gearing-pinion-spur-final-drive/",
+  "words": 1538,
+  "quota": {
+    "guidesBefore": 0,
+    "guidesAdded": 1,
+    "timezone": "Europe/Skopje"
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — ARA2508 stock tooth counts, 2.50 internal and 6.56 overall figures",
+      "url": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "ARRMA — ARA2508 technical pack, stock gears and indexed motor-mount chart",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwada7f363/Manuals/ARA2508_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas — exact 58234-8 Slash manual R00, page 24: formula and operating restrictions",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — separate motor terminology guide",
+      "url": "https://rccarking.com/guides/brushed-vs-brushless-rc-cars/",
+      "kind": "Related informational guide; motor turns and Kv are separate inputs",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — separate missing-drive troubleshooting guide",
+      "url": "https://rccarking.com/guides/rc-car-steers-but-wont-move/",
+      "kind": "Related informational guide; no gear failure assumed",
+      "checked": "2026-11-06"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "key": "kraton",
+      "url": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "finalUrl": "https://www.horizonhobby.com/product/1-16-mini-kraton-3s-dsc-4x4-rtr-brushless-speed-truck/ARA2508.html",
+      "status": 200,
+      "pdf": true,
+      "bytes": 2636932,
+      "sha256": "19cc3964644a8eb8b9d4803d259b59e3c01759a878f59106cc7f0b12c80159ed",
+      "checkedAt": "2026-11-06T10:27:26.778Z"
+    },
+    {
+      "key": "kraton-tech",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwada7f363/Manuals/ARA2508_TECH_PACK.pdf",
+      "finalUrl": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwada7f363/Manuals/ARA2508_TECH_PACK.pdf",
+      "status": 200,
+      "pdf": true,
+      "bytes": 7295865,
+      "sha256": "66b0732317fdf5292a5cca1c155e1b321034923e5d63589ec9debc352cc9665b",
+      "checkedAt": "2026-11-06T10:27:26.462Z"
+    },
+    {
+      "key": "slash-58234-manual",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "finalUrl": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "status": 200,
+      "bytes": 7787609,
+      "sha256": "9bd367db3a592ea8d694960a4d01399ac550a905d0add7d5c735e00d121b3155",
+      "checkedAt": "2026-11-06T10:29:00.911Z"
+    }
+  ],
+  "inspection": {
+    "arrma": "Both technical-pack pages rendered. Standard 24T pinion /63T spur and indexed mounting chart inspected. Current product embedded table independently gives internal2.50/overall6.56.",
+    "slash": "Exact reviewed SKU58234-8 R00 page24 rendered, formula internal2.72, 16T/90T normal-condition example, high-speed-use restrictions and over-gearing caution inspected.",
+    "excluded": "Stale Sledge95076-4 legacy PDF link returned404. Neither its cached figures nor the separately inspected58034-8 manual were adopted for the reviewed58234-8 example."
+  },
+  "calculations": [
+    {
+      "vehicle": "ARA2508T1",
+      "spur": 63,
+      "pinion": 24,
+      "external": 2.625,
+      "internal": 2.5,
+      "final": 6.5625,
+      "publishedRounded": 6.56
+    },
+    {
+      "vehicle": "58234-8",
+      "spur": 90,
+      "pinion": 16,
+      "external": 5.625,
+      "internal": 2.72,
+      "final": 15.3
+    }
+  ],
+  "media": {
+    "type": "Original accessible HTML/CSS three-card calculation map",
+    "photographs": "None added or reused",
+    "pdfImages": "Rendered research only; not republished"
+  },
+  "boundaries": [
+    "No Amazon API, credentials, buying links or price claims.",
+    "No powered testing, thermal-threshold prescription, mesh procedure or gear conversion authorization.",
+    "Pitch/module and bore discussed for compatibility context, not standalone spare-part buying content.",
+    "Guide is separate from all review and listicle quotas."
+  ],
+  "validation": {
+    "production": "npm run build and npm run check passed; 78 reviews /15 articles; root canonical profile",
+    "preview": "npm run build and npm run check passed; preserved /rc-car-king noindex profile",
+    "desktop": "1440 ×1000: heading, direct answer and original calculation map visually inspected",
+    "mobile": "390 ×844: document width375px without page overflow; comparison region client335px/scroll530px contained; exact-ratio FAQ opened and matched visible answer",
+    "release": "Commit, matching successful Cloudflare deployment and production/preview live checks required after push"
+  },
+  "preflight": {
+    "main": "d0834bc6bc07c6d5efb4108fa57f8bf748bd1a6f",
+    "production": "74dec432-8272-41bc-b707-b8bbbb1254d5",
+    "status": "matching successful commit; no pending batch"
+  }
+}
