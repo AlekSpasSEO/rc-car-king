@@ -1,0 +1,514 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "Mini Rally VXL Ford RS200",
+  "modelSlug": "mini-rally-vxl-ford-rs200",
+  "sku": "108046-1",
+  "headlineLines": [
+    "GROUP B LOOK.",
+    "START ON 2S."
+  ],
+  "title": "Traxxas Mini Rally VXL Ford RS200 review: the included 2S package is the point",
+  "dek": "A white RS200 replica, three steel-gear differentials and a full-size Velineon power system in a compact rally chassis. Budget the USB input before chasing optional 3S running.",
+  "type": "Rally car",
+  "use": "Racing",
+  "terrain": [
+    "Smooth paved rally-style course",
+    "Appropriate hard-packed dirt",
+    "Fine loose surfaces without oversized obstacles"
+  ],
+  "motor": "Brushless",
+  "drive": "AWD",
+  "scale": "Mini · manufacturer size class",
+  "format": "Assembled RTR; 2S LiPo and 2S-only USB-C charger supplied",
+  "skill": "Careful recreational rally driver using reduced throttle before exploring the power system",
+  "price": {
+    "amount": 319.95,
+    "currency": "USD",
+    "basis": "Traxxas US manufacturer reference for exact white 108046-1-WHT variant",
+    "source": "https://traxxas.com/mini-rally-vxl-ford-rs200-108046-1?variant=108046-1-WHT",
+    "checked": "2026-11-06"
+  },
+  "purchaseNote": "The supplied 3500mAh 2S pack and 2S-only charger need a USB-C source/cable and four alkaline AA radio cells. Our dated complete planning example is USD 385.90 before tax/shipping.",
+  "overview": "A compelling compact rally package because it already supplies the stock 2S power system, TQi/ TSM controls, finished RS200 body and working front light pods. The 21mm listed clearance and 3S completion requirements matter more than a headline speed.",
+  "verdict": "Choose the complete 2S rally car before planning a 3S project",
+  "verdictText": "I would shortlist the Mini Rally for an appropriate paved or fine-dirt course and a buyer who wants the RS200 body with a developed AWD drivetrain. Skip it for lawn, large obstacles or the assumption that its supplied charger also handles an optional 3S pack.",
+  "pros": [
+    "3500mAh 2S LiPo and matched 2S USB-C charger supplied",
+    "Front, center and rear steel-gear differentials",
+    "TQi radio, TSM and VXL-3s Training Mode are available stock",
+    "Finished clipless RS200 body, functional front LED light pods and metal-gear 2075X servo"
+  ],
+  "cons": [
+    "USB power input, cable and four AA transmitter cells are separate",
+    "Included charger is limited to Traxxas iD 2S LiPo; a 3S plan needs separate verified equipment",
+    "Listed 21mm clearance limits obstacle and surface choice",
+    "R01 manual contains inconsistent LVD-default and generic gearing wording; verify the actual setup"
+  ],
+  "bestFor": [
+    "A compact RS200 with a complete stock 2S drive package",
+    "Recreational rally-style driving on a suitable clear course",
+    "A driver who will learn Training Mode and TSM separately"
+  ],
+  "avoidIf": [
+    "You want a lawn or large-obstacle monster truck",
+    "You expect the included charger to charge a 3S battery",
+    "You need an established club-class car without checking local rules"
+  ],
+  "quickSpecs": [
+    [
+      "Exact variant",
+      "108046-1-WHT · white"
+    ],
+    [
+      "Motor",
+      "Velineon 3500 · sensorless brushless"
+    ],
+    [
+      "ESC / controls",
+      "VXL-3s · Training Mode · TSM"
+    ],
+    [
+      "Drivetrain",
+      "Shaft AWD · three steel-gear differentials"
+    ],
+    [
+      "Supplied battery",
+      "3500mAh 7.4V 2S iD LiPo"
+    ],
+    [
+      "Footprint / clearance",
+      "416 × 223 × 145mm / listed 21mm"
+    ]
+  ],
+  "rating": {
+    "audience": "A recreational rally buyer who values the complete 2S package and has an appropriate compact outdoor course",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Stock operating package",
+        "score": 9,
+        "reason": "The car, matched radio, 2S pack and charger are supplied; input power and radio cells remain separate."
+      },
+      {
+        "label": "Drivetrain equipment",
+        "score": 8.5,
+        "reason": "Three steel-gear differentials, sealed bearings and the documented Velineon system are substantial stock hardware."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8.5,
+        "reason": "Training Mode and TSM address power demand and steering correction separately."
+      },
+      {
+        "label": "Documentation clarity",
+        "score": 7,
+        "reason": "Useful exact instructions are weakened by conflicting default-LVD and generic gearing passages in R01."
+      },
+      {
+        "label": "Purpose-fit value",
+        "score": 8.5,
+        "reason": "The USD 385.90 planning example is persuasive for a compact licensed rally car if its limited clearance fits the venue."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "A compact rally car with a worthwhile included power package",
+      "paragraphs": [
+        "The Mini Rally VXL is easiest to justify as the complete 2S car you can actually use, rather than the starting point for an immediate top-speed shopping list. It supplies the RS200 body, radio, battery and charger alongside a serious small AWD chassis. The buying question is whether you have a suitable rally-style route and want this particular body and package. Compact dimensions do not make its brushless power appropriate for every driveway or room.",
+        "The exact example is white 108046-1-WHT within model family 108046-1. Traxxas lists 416mm length, 223mm width, 145mm height and a 262mm wheelbase. Its size category is “Mini.” We preserve that manufacturer category instead of assigning a scale fraction based on a retailer title. It is smaller than many full-size 1/10 vehicles, but still substantially more car than a Mini-Z intended for a tabletop-size indoor venue.",
+        "Greg Vogel’s RC Driver coverage features model 108046-1 and discusses its included equipment and driving across several surfaces. That is relevant outside evidence of the exact vehicle, but his measured speed and driving impressions remain his results. Our assessment uses the current manufacturer package, the R01 manual and the actual completion basket. We have not driven, timed or crash-tested the RS200."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Included equipment",
+      "heading": "The charger is included; its power source is not",
+      "paragraphs": [
+        "The RTR includes a completed clipless Ford RS200 body, Velineon VXL-3s system, TQi transmitter, a 3500mAh 7.4V 2-cell iD LiPo and a 2-amp USB-C balance charger. Maintenance tools and an optional pinion are also documented. The front LED light pods are functional supplied equipment, rather than a lighting conversion that must be added to reproduce the manufacturer’s basic appearance.",
+        "Four alkaline AA cells for the transmitter are separate. The supplied charger also needs a suitable USB-C power source and cable. Traxxas names its 2912 45-watt adapter and 2916 USB-C cable as recommended completion items. That distinction is worth checking before giving the car as a gift: seeing a charger in the box is not confirmation that a household has the correct input arrangement ready to use.",
+        "The charger’s limit is unusually important to the upgrade discussion. The exact manual identifies it for Traxxas iD 2-cell LiPo only, and prohibits connector adapters or modification. The ESC’s support for an optional 3S system does not change the supplied charger’s 2S limit. Do not buy a 3S battery and assume the included USB charger completes that purchase; a separately verified charging arrangement belongs in that new budget.",
+        "The included 2S pack is the basis for this review. Battery instructions and actual physical retention remain relevant even when a connector looks familiar. The manufacturer lists a 113 ×41 ×22mm compartment, which is not permission to force in any pack within an approximate size. The exact Mini Rally instructions also prohibit NiMH vehicle batteries. Generic VXL-3s references to other chemistries should not override the vehicle-specific restriction."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Motor & AWD",
+      "heading": "The center differential distinguishes it from a simple locked center drive",
+      "paragraphs": [
+        "The installed Velineon 3500 is a 3500Kv sensorless brushless motor, paired with the VXL-3s controller. Its identity matters more than a loose description such as “1/10 power”: it tells you which actual system the manual’s operating and gearing instructions concern. Kv is a motor-speed constant, not a guaranteed road speed, and this review does not infer loaded motor output from that number.",
+        "The shaft-driven AWD system includes front, center and rear steel-gear differentials. The center differential permits a speed difference between the front and rear portions of the drive system. It is a meaningful mechanical feature for a rally-style chassis, but it is not an electronic stability setting and does not make tire grip unlimited. The installed fluids, tires and surface still affect how the car responds.",
+        "The R01 colored gearing chart marks 23T pinion/47T spur as the out-of-box 2S arrangement, with a 5.82 overall ratio. It marks 20T/47T as the included optional arrangement for the stated 3S high-speed condition or a different 2S tradeoff. A generic paragraph on the same page talks about larger optional speed pinions. We prioritize the model-specific chart and flag that wording conflict; this review does not prescribe a 3S conversion sequence or silently substitute the generic advice."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Training Mode & TSM",
+      "heading": "Check battery protection independently of the driving profile",
+      "paragraphs": [
+        "VXL-3s Profile 3 is Training Mode: the manual specifies 50% forward, 100% braking and 50% reverse. Profile 1 supplies the normal forward/brake/reverse arrangement, while Profile 2 removes reverse. Those are controller profiles, not changes to gearing or battery chemistry. A reduced profile is a sensible first question for learning this car, without implying the vehicle will travel at exactly half a measured road speed.",
+        "TSM is a separate steering aid controlled through the TQi multifunction knob. It applies corrective steering, whereas Training Mode reduces the available drive command. The manual tells the owner to turn TSM off while establishing steering trim, then restore the desired assistance. If the car does not track straight mechanically, adding more stabilization is not a substitute for checking centering, clearance and the stock steering arrangement.",
+        "The R01 manual contradicts itself about the factory low-voltage-detection default: page 17 describes it as disabled, while page 19 describes it as active. Do not resolve that by trusting a default claim. Verify the actual solid-green active-LVD indication using the exact instructions before running the supplied LiPo; a solid-red disabled indication is not suitable. Keep protection enabled and stop at a low-voltage warning rather than seeking a way around it.",
+        "The transmitter status light is not a charge gauge for the drive pack. The manual explicitly separates the radio-cell indication from the battery installed in the car. A green handset LED therefore does not tell you the LiPo has sufficient remaining charge, and it does not replace the ESC protection indication. Keep those three observations separate when deciding whether the model is ready to operate."
+      ],
+      "sourceIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & steering",
+      "heading": "Full-size components still need a compact-car baseline",
+      "paragraphs": [
+        "The steering equipment is a 2075X metal-gear servo driving dual bellcranks with a servo saver. That is documented stock hardware, not evidence that steering cannot be damaged. Check the wheels can move freely before interpreting an unusual response as a TSM problem. A tire trapped against a hard object can load the steering mechanism regardless of the servo’s advertised construction.",
+        "Traxxas fits oil-filled Ultra Shocks and independent double-wishbone suspension. Supplied preload spacers and tuning parts provide a baseline to learn rather than an obligation to replace the suspension before using the car. The 21mm clearance figure also matters: damping travel and clearance are different measurements. A capable shock cannot make a chassis pass through an obstacle that physically catches its underside.",
+        "Begin with the documented stock 2S arrangement and record the drive profile, TSM setting and surface before making changes. The body, compact wheelbase and road-oriented footprint define a different problem from a Mini Maxx or larger monster truck. Shared components do not justify copying an entire truck setup. We have not measured steering response, damping curves or an ideal alignment for your course."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Surface & speed",
+      "heading": "Give the RS200 a rally route, not oversized obstacles",
+      "paragraphs": [
+        "Smooth pavement, appropriate hard-packed dirt and suitably fine loose material are the intended starting comparison. Survey the route for stones, joints and ruts at the car’s actual tire height. The combination of 223mm width and 21mm listed clearance is more useful than “all terrain” as a buying description. If the available route is deep grass or rough construction debris, start with another category rather than count on AWD to compensate.",
+        "Traxxas lists 40+mph with the supplied 2S system and 55+mph with an optional 3S arrangement. Those are manufacturer statements under their conditions, not speeds measured here or guaranteed on your route. A car can require substantial space even when it fits neatly in a carrying bag. Choose an area with permission, visibility and room to stop, then begin with restrained control inputs.",
+        "Waterproof electronics do not remove the manual’s wet-running limits or the maintenance that follows exposure. Bearings, drivetrain cavities and connectors are part of the whole vehicle. Read the model and battery instructions before considering wet conditions; do not interpret the rally theme or a sealed receiver box as permission for immersion. Our initial purchase and setup example assumes dry operation."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & ownership",
+      "heading": "The finished RS200 is part of the value",
+      "paragraphs": [
+        "The licensed Ford body gives the car its specific character, including the raised front light pods and finished white/blue livery reviewed here. The clipless mounting system keeps external body clips out of that appearance. Learn its actual releases while the car is clean, and verify the shell is fully seated before driving. The detailed bumper and light housings are not carrying handles.",
+        "The manufacturer photographs are useful identity evidence, not our demonstration of clearance or impact survival. The gallery keeps the white variant visible from front, rear and side, so buyers can distinguish the exact complete car from a replacement body listing. A shell with the same RS200 name is not an alternative way to buy the supplied radio, power system or chassis.",
+        "Ownership planning should include the documented access around the center differential, driveline and battery hold-down. The parts list and assembly views help identify the correct area when inspection is needed. Remove the drive battery as instructed after operation, keep the charger and exact manual together, and record substantive modifications. A later used-car seller’s model number alone cannot establish that its gearing or electronics still match this stock review."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete starting cost",
+      "heading": "USD 385.90 completes a documented 2S starting plan",
+      "paragraphs": [
+        "The exact white vehicle’s manufacturer reference was USD 319.95 on 6 November 2026. The named 2912 power adapter was USD 29.95 and 2916 cable was USD 10.00. Add a USD 6 editorial allowance for four alkaline AA cells and a USD 20 allowance for the battery-care and charging arrangement. That gives USD 385.90 before tax and delivery. The two allowances are planning figures, not quoted accessory bundles.",
+        "The supplied drive battery and 2S charger are counted once rather than purchased again. An owner with a genuinely suitable documented USB input and cable can remove the corresponding cost. Conversely, a household needing tools or another storage arrangement should price those actual needs separately. A complete starting example makes the package easier to assess without pretending every owner has identical equipment.",
+        "Optional 3S running is outside this basket. It requires checking the exact pack, retention, applicable gearing and a charger approved for that battery; the supplied 2S-only unit is not enough. A new battery alone is therefore an incomplete upgrade quotation. For the intended buyer, I would first decide whether the stock 2S car serves the route before paying to extend a power system that has not yet been used."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "table": {
+        "caption": "USD startup planning example · 6 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "White 108046-1-WHT RTR",
+            "Exact Traxxas manufacturer reference",
+            "319.95"
+          ],
+          [
+            "2912 USB-C adapter",
+            "Named manufacturer completion reference",
+            "29.95"
+          ],
+          [
+            "2916 USB-C cable",
+            "Named manufacturer completion reference",
+            "10.00"
+          ],
+          [
+            "Four alkaline AA cells",
+            "Editorial allowance",
+            "6.00"
+          ],
+          [
+            "Battery care / charging arrangement",
+            "Editorial allowance; verify actual needs",
+            "20.00"
+          ],
+          [
+            "Example total",
+            "Stock 2S battery and charger already supplied",
+            "385.90"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete cars",
+      "heading": "Decide whether you want rally appearance, drift technique or a truck",
+      "paragraphs": [
+        "The Kyosho Fazer D2 Toyota 86 GT is the complete-car alternative for a driver whose actual goal is dedicated RWD drifting. Its chassis purpose is different from a shaft-AWD rally car with TSM. Do not buy the RS200 expecting a steering-assistance setting to reproduce that entire discipline. Compare the supplied tires, body, controls and operating requirements in the exact Fazer review.",
+        "The ARRMA Mini Kraton ARA2508T1 is a compact outdoor-truck comparison with a center differential and different obstacle priorities. Its batteryless package changes the starting cost, so compare completed baskets rather than the two vehicle prices. Choose its truck shape when the route needs that format, rather than treating a small body and brushless label as proof the two cars serve the same surface.",
+        "The Traxxas 4-Tec Drift Nissan 240SX is another complete RWD drift alternative if the local venue and intended technique matter more than compact rally styling. It also has its own power, control and package details. The useful decision is which complete stock car matches the place you can drive. None of these alternatives is a measured winner in a comparison test conducted here."
+      ],
+      "sourceIndexes": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The decision",
+      "heading": "A convincing ready-to-start rally package with a few checks to finish",
+      "paragraphs": [
+        "I would shortlist the Mini Rally when its compact footprint, RS200 body and included 2S equipment are the desired combination. The three-differential driveline, installed metal-gear servo, lighting and learning controls make it more than a body-led novelty. Its value still depends on a suitable clear route and an owner who will verify battery protection and understand the manual’s exact setup distinctions.",
+        "I would pass for deep-grass use, very rough obstacles or a purchase plan based mainly on immediately reaching the advertised 3S speed. The supplied 2S system is the coherent starting package. Add the input power and radio cells, keep the dry-use baseline restrained, and resolve any document conflict before changing hardware. That is a much stronger reason to buy this exact white car than a borrowed speed result or an assumed scale fraction."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact model / variant",
+      "108046-1 /108046-1-WHT white"
+    ],
+    [
+      "Manufacturer size class",
+      "Mini; no unsupported scale fraction assigned"
+    ],
+    [
+      "Dimensions",
+      "416 × 223 × 145mm"
+    ],
+    [
+      "Wheelbase / listed weight",
+      "262mm /1.83kg manufacturer figure"
+    ],
+    [
+      "Listed clearance / track",
+      "21mm /183mm"
+    ],
+    [
+      "Motor",
+      "Velineon 3500; 3500Kv sensorless brushless"
+    ],
+    [
+      "Controller",
+      "VXL-3s; Training/Sport/Race profiles"
+    ],
+    [
+      "Drivetrain",
+      "Shaft AWD; front/center/rear steel-gear differentials"
+    ],
+    [
+      "Stock gearing",
+      "R01 colored chart:23T/47T, 32-pitch; 5.82 overall"
+    ],
+    [
+      "Included optional pinion",
+      "R01 chart identifies 20T; confirm applicable conditions"
+    ],
+    [
+      "Steering / suspension",
+      "2075X metal-gear servo /oil-filled Ultra Shocks"
+    ],
+    [
+      "Radio / assistance",
+      "TQi 2.4GHz two-channel / TSM"
+    ],
+    [
+      "Supplied battery",
+      "3500mAh 7.4V 2S iD LiPo"
+    ],
+    [
+      "Supplied charger",
+      "2A USB-C; Traxxas iD 2S LiPo only"
+    ],
+    [
+      "Battery compartment",
+      "113 ×41 ×22mm; verify exact pack and retention"
+    ],
+    [
+      "Body / lighting",
+      "Clipless Ford RS200 /working front LED pods"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does the Mini Rally include a battery and charger?",
+      "answer": "Yes. The reviewed 108046-1 package includes a 3500mAh 2S iD LiPo and a 2S-only USB-C charger. A suitable USB input, cable and four alkaline AA radio cells are separate."
+    },
+    {
+      "question": "Can the included charger charge a 3S battery?",
+      "answer": "No. The exact instructions restrict it to Traxxas iD 2S LiPo batteries and prohibit adapters or modification."
+    },
+    {
+      "question": "What scale is it?",
+      "answer": "Traxxas lists its size class as Mini. This review uses its actual 416 × 223 × 145mm dimensions rather than invent a scale fraction."
+    },
+    {
+      "question": "Is TSM the same as Training Mode?",
+      "answer": "No. TSM provides steering correction. VXL-3s Training Mode reduces forward and reverse throttle to 50% while retaining 100% braking."
+    },
+    {
+      "question": "Is low-voltage protection on by default?",
+      "answer": "R01 contains contradictory default statements. Verify actual solid-green active-LVD indication per the exact instructions before using LiPo; do not rely on a default claim."
+    },
+    {
+      "question": "What is the starting budget?",
+      "answer": "The dated example is USD 385.90 before tax/shipping, including named USB input/cable references and labeled AA-cell and battery-care allowances. It is not an Amazon price."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas — exact Mini Rally 108046-1 product, white variant and USD reference",
+      "url": "https://traxxas.com/mini-rally-vxl-ford-rs200-108046-1",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas — exact 108046-1 English manual R01",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/2/108046-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Driver / Greg Vogel — exact model 108046-1 coverage",
+      "url": "https://www.rcdriver.com/traxxas-ford-rs200-mini-rally-vxl/",
+      "kind": "Independent exact-model coverage; their driving results are not ours",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas — exact 108046-1 component list",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/3/108046-1_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas —2912 USB-C adapter and USD reference",
+      "url": "https://traxxas.com/2912-45-watt-usb-c-power-adapter",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas —2916 cable and USD reference",
+      "url": "https://traxxas.com/2916-100-watt-usb-c-power-cable",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete Fazer D2 review",
+      "url": "https://rccarking.com/kyosho/fazer-d2-toyota-86-gt/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete Mini Kraton review",
+      "url": "https://rccarking.com/arrma/mini-kraton-3s/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete 240SX drift review",
+      "url": "https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    }
+  ],
+  "seo": {
+    "title": "Traxxas Mini Rally VXL Ford RS200 Review | RC Car King",
+    "description": "Mini Rally 108046-1 review: exact white RS200 package, AWD differentials, 2S charger limits, Training Mode, manual conflicts and a complete startup budget."
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "publishedAt": "2026-11-06T10:49:48.517Z",
+  "updatedAt": "2026-11-06T10:49:48.517Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0G1V1BY13",
+    "marketplace": "www.amazon.com",
+    "sku": "108046-1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0G1V1BY13?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:03:58.236Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "White 108046-1-WHT complete Mini Rally VXL Ford RS200; archived exact family part 108046-1 with white variant title",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:03:58.236Z: Traxxas, returned part 108046-1, model 108046-1. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/mini-rally-vxl-1.jpg",
+  "imageAlt": "Official Traxxas white 108046-1-WHT Mini Rally VXL Ford RS200. The complete package includes a 2S battery and 2S-only charger.",
+  "imageCaption": "Official Traxxas white 108046-1-WHT Mini Rally VXL Ford RS200. The complete package includes a 2S battery and 2S-only charger.",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Front-WHT-01_49343939.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/mini-rally-vxl-2.jpg",
+      "alt": "Official rear view of the white RS200; manufacturer product photography, not our driving or crash test.",
+      "caption": "Official rear view of the white RS200; manufacturer product photography, not our driving or crash test.",
+      "source": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Rear-WHT_49343928.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Rear-WHT_49343928.jpg"
+      }
+    },
+    {
+      "image": "reviews/mini-rally-vxl-3.jpg",
+      "alt": "Official side view of the white Mini Rally. Traxxas lists a 262mm wheelbase and 21mm ground clearance.",
+      "caption": "Official side view of the white Mini Rally. Traxxas lists a 262mm wheelbase and 21mm ground clearance.",
+      "source": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-Side-LtoR-WHT_49343929.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-Side-LtoR-WHT_49343929.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 6 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

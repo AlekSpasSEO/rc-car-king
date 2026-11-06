@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-06",
+  "createdAt": "2026-11-06T10:49:48.517Z",
+  "route": "traxxas/mini-rally-vxl-ford-rs200/",
+  "sku": "108046-1",
+  "coreWords": 2016,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/traxxas-search.json",
+    "checkedAt": "2026-10-12T23:03:58.236Z",
+    "asin": "B0G1V1BY13",
+    "brand": "Traxxas",
+    "part": "108046-1",
+    "model": "108046-1",
+    "note": "Historical exact-product identity from 2026-10-12T23:03:58.236Z: Traxxas, returned part 108046-1, model 108046-1. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Traxxas — exact Mini Rally 108046-1 product, white variant and USD reference",
+      "url": "https://traxxas.com/mini-rally-vxl-ford-rs200-108046-1",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas — exact 108046-1 English manual R01",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/2/108046-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Driver / Greg Vogel — exact model 108046-1 coverage",
+      "url": "https://www.rcdriver.com/traxxas-ford-rs200-mini-rally-vxl/",
+      "kind": "Independent exact-model coverage; their driving results are not ours",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas — exact 108046-1 component list",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/3/108046-1_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas —2912 USB-C adapter and USD reference",
+      "url": "https://traxxas.com/2912-45-watt-usb-c-power-adapter",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Traxxas —2916 cable and USD reference",
+      "url": "https://traxxas.com/2916-100-watt-usb-c-power-cable",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete Fazer D2 review",
+      "url": "https://rccarking.com/kyosho/fazer-d2-toyota-86-gt/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete Mini Kraton review",
+      "url": "https://rccarking.com/arrma/mini-kraton-3s/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete 240SX drift review",
+      "url": "https://rccarking.com/traxxas/4-tec-drift-nissan-240sx/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "mini-rally-vxl",
+      "n": 1,
+      "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Front-WHT-01_49343939.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/mini-rally-vxl-1.jpg",
+      "bytes": 170357,
+      "sha256": "ae2482d7985235dc91cb46d9bc98fd1b3e4a875f1fc966752046171526266e28",
+      "checkedAt": "2026-11-06T10:41:44.345Z"
+    },
+    {
+      "prefix": "mini-rally-vxl",
+      "n": 2,
+      "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Rear-WHT_49343928.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/mini-rally-vxl-2.jpg",
+      "bytes": 157342,
+      "sha256": "a1e58e32e17e4482aea2a8fe83ff6a533c01ac62416ee958cf6f7397a2ae2351",
+      "checkedAt": "2026-11-06T10:41:44.301Z"
+    },
+    {
+      "prefix": "mini-rally-vxl",
+      "n": 3,
+      "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-Side-LtoR-WHT_49343929.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/mini-rally-vxl-3.jpg",
+      "bytes": 121968,
+      "sha256": "4cc85e3afea0d1e35e4638b4d890cf5a452740cb4d2b7a26e9a311a5500307bb",
+      "checkedAt": "2026-11-06T10:41:44.275Z"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "rally-manual",
+      "bytes": 10833252,
+      "sha256": "2ed52518693233f68e42ef97606425839c77f4cfccbb7fabab6805248a267883"
+    },
+    {
+      "file": "rally-parts",
+      "bytes": 690634,
+      "sha256": "e1342e9c556b164711290d250b5ba4b52d4d49c152817e86579338fc3ecd17d7"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "rally-manual",
+      "rally-parts"
+    ],
+    "inspection": "R01 pages7,13,17,20 and26 rendered and visually inspected; controls, charger limits and colored gearing legend distinguished",
+    "identity": "Archived exact108046-1 and white title reused; current manufacturer white108046-1-WHT verified through public hasVariant data, not a new API call",
+    "budget": "319.95+29.95+10+6+20 =385.90 USD; vehicle/adapter/cable manufacturer references and labeled planning allowances",
+    "conflicts": [
+      "R01 p17 LVD disabled-default statement conflicts with p19 active-default statement; verify actual green active indication, never disable for LiPo.",
+      "R01 generic larger-speed-pinion paragraph conflicts with specific colored chart:23Tstock2S and20Tincludedoptional under stated conditions.",
+      "Mini is manufacturer size category; no1/16 fraction inferred from retailers."
+    ]
+  },
+  "validation": {
+    "production": "pending",
+    "preview": "pending",
+    "desktop": "pending",
+    "mobile": "pending"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ],
+  "visualQA": {
+    "date": "2026-11-06",
+    "desktop": "1440x1000: official hero, overview, score, completion package and affiliate CTA inspected",
+    "mobile": "390x844: no page-wide overflow; official hero and stacked product box inspected",
+    "sharedChecks": "B7.1D cost table scrolls within its region. Quake dimension-conflict FAQ and Rally 3S charger FAQ opened. All three affiliate identities/tag/sponsored-nofollow attributes inspected. No live Amazon offer displayed."
+  }
+}

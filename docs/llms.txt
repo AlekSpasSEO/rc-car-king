@@ -16,10 +16,10 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
-- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
-- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
+- [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
@@ -44,6 +44,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Quake 223S DSC 2WD](https://alekspasseo.github.io/rc-car-king/arrma/quake-223s-dsc-2wd/): Full-size Quake 223S review: 4000Kv rear drive, DSC, hardcase battery needs, complete startup costs and the manufacturer’s conflicting dimensions.
+- [Team Associated RC10B7.1D Team Kit](https://alekspasseo.github.io/rc-car-king/team-associated/rc10b7-1d-team-kit/): RC10B7.1D dirt-kit review: ball differential, exact 90047 hardware, missing electronics and tires, class planning and a complete from-zero build budget.
+- [Traxxas Mini Rally VXL Ford RS200](https://alekspasseo.github.io/rc-car-king/traxxas/mini-rally-vxl-ford-rs200/): Mini Rally 108046-1 review: exact white RS200 package, AWD differentials, 2S charger limits, Training Mode, manual conflicts and a complete startup budget.
 - [ARRMA Mini Kraton 3S DSC 4X4](https://alekspasseo.github.io/rc-car-king/arrma/mini-kraton-3s/): Batteryless Mini Kraton review: center differential, PowerGuard vs DSC, stock brushless hardware, terrain fit and a complete dated 3S startup budget.
 - [Kyosho MINI-Z RWD MR-04 Porsche 911 GT3 RS](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-porsche-911-gt3-rs/): Exact 32358OR Mini-Z review: 90mm N-RM Porsche layout, brushed drive, AAA requirements, stock equipment, setup limits and a dated complete starting budget.
 - [Team Associated RC28T Zoom RTR](https://alekspasseo.github.io/rc-car-king/team-associated/rc28t-zoom/): RC28T Zoom 20167 review: dry hard-surface limits, integrated LiPo, exact USB charging instructions, missing specs and a dated complete starting budget.

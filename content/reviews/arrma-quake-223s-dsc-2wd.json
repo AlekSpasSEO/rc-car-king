@@ -1,0 +1,498 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Quake 223S DSC 2WD",
+  "modelSlug": "quake-223s-dsc-2wd",
+  "sku": "ARA3537T1",
+  "headlineLines": [
+    "BIG TIRES.",
+    "REAR DRIVE."
+  ],
+  "title": "ARRMA Quake 223S 2WD review: choose the rear-drive monster, not the speed slogan",
+  "dek": "The full-size red Quake combines a 4000Kv motor, Cut Chevron tires, wheelie bar and DSC. Its batteryless package and conflicting dimension listings deserve a proper look.",
+  "type": "Monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Suitable open dirt areas",
+    "Appropriate short grass",
+    "Clear paved practice areas",
+    "Fine gravel with manageable obstacles"
+  ],
+  "motor": "Brushless",
+  "drive": "2WD",
+  "scale": "1/10",
+  "format": "Assembled RTR; four radio AA cells included; hardcase LiPo and charger separate",
+  "skill": "Outdoor basher who will learn rear-drive throttle control with restrained initial settings",
+  "price": {
+    "amount": 269.99,
+    "currency": "USD",
+    "basis": "ARRMA / Horizon US manufacturer reference for red ARA3537T1",
+    "source": "https://www.horizonhobby.com/product/1-10-quake-223s-dsc-2wd-rtr-brushless-monster-truck/ARA3537.html",
+    "checked": "2026-11-06"
+  },
+  "purchaseNote": "Four transmitter AA cells are supplied. A dated USD 439.99 starting example includes the vehicle and labeled allowances for a compatible 2S hardcase pack, complete charger/input arrangement and charging care.",
+  "overview": "A full-size rear-driven monster truck with a 3660 4000Kv brushless motor, 45A combined ESC/receiver, DSC, a fitted wheelie bar and practical bottom battery access. Buy it for that format and the available operating area; it is a different car from the brushed Quake GROM.",
+  "verdict": "A coherent rear-drive basher if the venue and completed budget fit",
+  "verdictText": "The Quake is attractive for a driver who specifically wants a 2WD monster truck and will learn the stock controls on a suitable outdoor route. Choose another category if AWD traction, included drive power or indoor convenience is the actual requirement.",
+  "pros": [
+    "Documented 3660 4000Kv brushless system and 40mm cooling fan",
+    "Four DSC modes and separate 50/75/100 throttle limiting",
+    "Oil-filled coilover suspension, Cut Chevron tires and fitted wheelie bar",
+    "Bottom-loading battery tray, clipless body and four included radio cells"
+  ],
+  "cons": [
+    "No drive battery or charger; hardcase IC5 requirements need completion",
+    "Rear drive and large tires still require careful throttle and venue choice",
+    "ESC and receiver share one unit, concentrating replacement decisions",
+    "Manual page 12 dimensions conflict materially with current manufacturer product data"
+  ],
+  "bestFor": [
+    "An outdoor driver who wants a full-size rear-driven monster truck",
+    "A buyer who can supply the correct hardcase LiPo and charging system",
+    "A basher willing to establish a reduced-power baseline before exploring 3S"
+  ],
+  "avoidIf": [
+    "You expect the small battery-inclusive Quake GROM package",
+    "You want front driven wheels for the intended route",
+    "You need an exact storage fit without resolving conflicting published dimensions"
+  ],
+  "quickSpecs": [
+    [
+      "Exact variant",
+      "ARA3537T1 · red/black"
+    ],
+    [
+      "Motor",
+      "3660 · 4000Kv brushless · SPMXSM5000"
+    ],
+    [
+      "ESC / receiver",
+      "45A two-in-one · DSC · IC5"
+    ],
+    [
+      "Drive / radio",
+      "2WD / SLT2"
+    ],
+    [
+      "Current product dimensions",
+      "465 × 345 × 230mm; manual conflict explained below"
+    ],
+    [
+      "Required drive battery",
+      "2S or 3S hardcase LiPo; verify 140 × 50 × 35mm envelope"
+    ]
+  ],
+  "rating": {
+    "audience": "An outdoor 2WD monster-truck buyer prepared to complete the batteryless package and use its control aids deliberately",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Stock power and driveline",
+        "score": 8.5,
+        "reason": "The identified brushless system and metal-geared transmission form a developed rear-drive starting package."
+      },
+      {
+        "label": "Learning controls",
+        "score": 8.5,
+        "reason": "Throttle limiting and four DSC modes are distinct and documented; neither adds front drive."
+      },
+      {
+        "label": "Routine access",
+        "score": 8.5,
+        "reason": "Bottom-loading battery access, clipless body and published technical drawings help routine ownership."
+      },
+      {
+        "label": "Documentation consistency",
+        "score": 6.5,
+        "reason": "The exact manual names the correct family but prints a different size and weight table from the current product page."
+      },
+      {
+        "label": "Complete-use value",
+        "score": 8,
+        "reason": "The USD 439.99 planning example is reasonable for its stated role, but drive power is an additional purchase."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "This Quake is a full-size 2WD monster truck",
+      "paragraphs": [
+        "The red Quake makes sense when you deliberately want an outdoor monster truck driven through its rear wheels. Its brushless system, tall truck format, wheelie bar and Cut Chevron tires define that brief more clearly than a maximum-speed claim. A buyer who enjoys learning throttle control and has an appropriate open area has a coherent reason to shortlist it. Someone mainly seeking the reassurance of front-wheel drive contribution should compare a different chassis.",
+        "This review concerns ARA3537T1, the red/black 1/10 Quake 223S DSC. It is not ARA2137, the smaller brushed Quake GROM, and it is not the newer 4S family. The similar name can conceal different drivetrains, batteries, dimensions and completion costs. The complete car linked here is assembled, but its drive battery and charger are separate; the radio AA cells are included.",
+        "Greg Vogel’s exact ARA3537T1 RC Driver coverage provides useful outside context for the Gorgon-derived layout and rear-drive driving brief. His runs and measurements remain his evidence, not testing conducted by this publication. We use the current manufacturer specification and exact manual, and explicitly retain a conflict in their dimensions instead of presenting a false impression that every source agrees."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box & completion",
+      "heading": "Radio cells are supplied; the drive-power basket is not",
+      "paragraphs": [
+        "The box contains the assembled truck with painted body, installed 4000Kv motor, 45A combined controller/receiver, SLT2 transmitter and S681 steering servo. ARRMA also lists four AA transmitter cells, 2mm and 2.5mm hex drivers and a wheel wrench/shock tool. The fitted wheelie bar and coilover suspension belong in the stock assessment, rather than a list of supposedly necessary first-day upgrades.",
+        "The completion requirement is one compatible 2S or 3S hardcase LiPo with an IC5 connection, an appropriate charger and a charging bag. A soft pack or a connector that can be made to mate is not an equivalent documented choice. The current maximum battery envelope is 140 × 50 × 35mm. Confirm electrical limits, actual dimensions, lead routing and secure retention together before treating an existing pack as suitable.",
+        "An assembled RTR removes chassis-building and body-finishing work; it does not remove the battery decision. For a new owner, I would cost a documented 2S start before deciding that 3S capability must be used immediately. For an experienced owner, the missing pack can be sensible when suitable equipment is already available. In either case, compare the complete operating basket rather than a truck price that assumes the remaining equipment is free."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Brushless rear drive",
+      "heading": "4000Kv identifies the motor; the ratio describes the reduction",
+      "paragraphs": [
+        "The stock motor is Spektrum SPMXSM5000, identified as a 3660-size 4000Kv brushless unit. ARRMA fits a 40mm cooling fan. The controller/receiver is the 45A SLT two-in-one system, with 2S/3S LiPo input and DSC. Those components distinguish this full-size Quake from the GROM’s brushed power system. Neither the Kv number nor the current rating is a measurement of power delivered at the tires.",
+        "The published stock gearing is a 16T pinion and 61T spur at module 0.8, with 3.13 internal reduction and an 11.93 listed final ratio. Those identify the documented baseline, rather than an instruction to fit a taller gear. The ratio is the result of the external pair and internal gearing together; it is not the same thing as the motor’s Kv or the selected throttle-limit percentage.",
+        "The rear transmission and differential deliver drive to the back wheels. The front wheels steer and roll without being driven, so this is not a smaller version of the Granite’s 4WD driveline. DSC can correct steering response to rotation, but it cannot create a mechanical drive path to the front axle. Choose the rear-drive layout because it suits the intended experience, not because electronics are expected to erase every difference between drivetrains.",
+        "The metal-geared transmission and enclosed arrangement are documented hardware, not a reliability-rate guarantee. Use the technical pack for exact fasteners, gears and mounting arrangements if service becomes necessary. The Quake name and a shared family resemblance do not prove that every Gorgon, GROM or later Quake component fits. No conversion or speculative parts basket is required to assess the stock car."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "DSC & throttle",
+      "heading": "Two controls address two different demands",
+      "paragraphs": [
+        "The SLT2 offers 50%, 75% and 100% throttle-limit positions. These restrict the available command, rather than changing the cell count or gearing. Start with the appropriate restrained setting for the driver and venue, and record it when comparing responses. A 50% position is not a verified promise of half the manufacturer’s advertised road speed, especially across different packs and surfaces.",
+        "DSC provides four choices: off, low, medium and high correction. The exact manual describes stopping safely, holding full-right steering and using the orange Power/DSC button to cycle modes, identified by beeps and flashes. Follow that procedure with the vehicle stationary, then return to neutral before driving. The selected mode is remembered, so a later run should begin by confirming the existing setting rather than assuming it reset.",
+        "Protection indications belong to the ESC and must not be confused with the transmitter’s DSC confirmation. The manual associates a red ESC flash with low-voltage cutoff and a blue flash with thermal shutdown. Stop and follow the exact diagnostic instructions rather than restarting repeatedly or defeating protection. This review does not give a universal temperature threshold or reinterpret a flashing light as evidence that the battery simply needs more aggressive charging."
+      ],
+      "sourceIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension & setup",
+      "heading": "Use the fitted truck equipment to establish a baseline",
+      "paragraphs": [
+        "The S681 is a metal-geared digital steering servo, with the manual identifying its 25T output. Metal gears are a construction detail, not permission to hold a tire against an obstruction. Establish straight steering and free movement before deciding a response needs more DSC. A steering aid can make it harder to notice a mechanical problem if it is treated as the first answer to every wandering or turning symptom.",
+        "The Quake uses oil-filled coilover shocks and adjustable ride height. Do not import the threaded aluminum shock specification from the Mini Kraton or assume every visible spring collar is the same adjustment system. The useful first check is whether the supplied suspension moves freely and the truck’s setup matches its exact instructions. A vehicle that binds or rubs will not be repaired by copying a spring suggestion from an unrelated chassis.",
+        "The wheelie bar is already fitted. It is part of the monster-truck layout and can contact the ground when the rearward rotation reaches it, but it is not an active anti-roll or self-righting system. Control the throttle and choose a clear route instead of treating the bar as a reason that any launch is contained. We have not measured wheelie angle, jump attitude or impact resistance.",
+        "Keep the stock gearing and a recorded control baseline while learning how the tires interact with the actual surface. Note pack identity, throttle limit and DSC level separately. The purpose is to understand this rear-drive truck before changing it, rather than make several adjustments and then guess which one affected the result. No measured ideal alignment or damping setup is claimed here."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Tires & terrain",
+      "heading": "A monster-truck shape still needs suitable ground",
+      "paragraphs": [
+        "The fitted dBoots Cut Chevron tires and 14mm wheel hexes are part of the documented package. Their tread is a reason to consider appropriate dirt and other outdoor surfaces, not evidence that every lawn or gravel bed suits the vehicle. Look at grass depth, rut size, loose stones and the room available beyond the intended line. Large tires compared with a small buggy do not make oversized obstacles disappear.",
+        "Rear drive also changes the buying question on loose ground. If the driven rear tires lose useful contact, the front axle cannot contribute motor drive. The driver can change input and line choice, but a DSC setting does not manufacture traction. If the available route consistently calls for drive at both axles, compare a complete 4WD truck rather than expect this Quake to become one through setup alone.",
+        "ARRMA promotes 35+mph capability on 2S and 50+mph on 3S. Treat those as manufacturer statements, not results measured by RC Car King. They make the operating-space decision more important; they do not establish a suitable speed for a particular public area. Use an appropriate permitted venue and begin with reduced demands instead of interpreting the 1/10 label as a guide to safe stopping space.",
+        "The manufacturer’s waterproof descriptions concern specified components and remain subject to the operating manual. The whole truck still needs the prescribed inspection and care after exposure. A dry starting plan is simpler to assess, particularly while learning the bottom battery compartment and wiring. Do not turn an electronics label into approval for immersion, salt water or ignoring contaminated bearings and drivetrain parts."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Access & source conflict",
+      "heading": "The current product dimensions and manual do not agree",
+      "paragraphs": [
+        "The clipless body and bottom-loading battery tray make repeated pack access a useful part of the ownership case. Learn both retention systems while everything is clean, and check the battery leads are clear of the door and moving parts. Opening the body quickly is useful only when it leads to sensible inspection, not when it makes a damaged connector or poorly retained battery easier to overlook.",
+        "The current product page lists 465 × 345 × 230mm, a 295mm wheelbase and 2.73kg weight. Manual page 12 names the correct ARA3537 family but prints 456 ×325 ×170mm, a 286mm wheelbase and 2.51kg. These are substantial differences. We use the current product figures for identification and explicitly flag the conflicting manual table; none is presented as our physical measurement.",
+        "If a shelf, bag or transport opening depends on a close fit, obtain a measurement of the actual truck rather than averaging those tables. The disagreement also cautions against treating every nearby generic illustration as exact Quake geometry. Component identity and operating instructions remain useful, but the manual’s dimension block should not quietly override the current model-specific product table.",
+        "Keep the exact SKU with maintenance notes and any later changes. The integrated ESC/receiver is worth noting in support planning because both functions share a unit, while the manual and technical pack describe the actual connection layout. Diagnose a fault before replacing electronics or changing radio settings wholesale. We have no long-term service-life or failure-frequency measurements for this truck."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete starting cost",
+      "heading": "A 2S planning basket totals USD 439.99",
+      "paragraphs": [
+        "The manufacturer vehicle reference checked on 6 November 2026 is USD 269.99. Add a USD 65 editorial allowance for a correctly fitting 2S hardcase IC5 LiPo, USD 85 for an appropriate charger including its required input-power and connection arrangement, and USD 20 for the charging-bag and battery-care provision. The example totals USD 439.99 before tax and shipping; the included four radio AA cells are not purchased twice.",
+        "Those completion figures are budget allowances, not verified accessory offers or a pre-approved component bundle. Before buying, select actual equipment against the exact battery and charger documentation and replace each allowance with its real price. Owners with suitable existing equipment may spend less. A different power source, connector arrangement or local supply may cost more, so the table should expose the work still required rather than conceal it.",
+        "A 3S pack is not necessary to complete this stated 2S start. If it is added later, confirm its fit, retention and charging compatibility independently. The lower vehicle reference compared with some 4WD trucks is meaningful only after both operating baskets and their different drivetrains are understood. A smaller initial number cannot decide whether the car fits the place you can actually drive."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "USD startup planning example · 6 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "ARA3537T1 vehicle",
+            "Dated manufacturer reference",
+            "269.99"
+          ],
+          [
+            "Compatible 2S hardcase IC5 pack",
+            "Editorial allowance; verify exact battery",
+            "65.00"
+          ],
+          [
+            "Charger plus complete input/connection system",
+            "Editorial allowance; not a quoted bundle",
+            "85.00"
+          ],
+          [
+            "Charging bag / battery-care arrangement",
+            "Editorial allowance",
+            "20.00"
+          ],
+          [
+            "Example total",
+            "Before tax/shipping; radio cells supplied",
+            "439.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete trucks",
+      "heading": "Choose between related rear-drive trucks and a genuinely different layout",
+      "paragraphs": [
+        "The Gorgon 223S ARA3530T1 is the nearby full-size rear-drive comparison. It belongs in the shortlist when its body and exact package suit your preference. Do not assume a new name creates an entirely different power-system class, or pay for a supposed functional difference without checking the actual equipment. Compare the two current completed baskets and the styling you want to keep.",
+        "The Granite 223S ARA4302V4T2 offers the more consequential drivetrain alternative: 4WD. That changes which contact patches can contribute drive and the hardware involved. Its own battery envelope, radio and controller specification deserve a separate check. Prefer that layout when the intended route makes front-axle drive important, not because a larger advertised maximum speed is expected to settle the comparison.",
+        "The Quake GROM ARA2137T2 is the smaller brushed complete truck with an included initial battery/charger system. It addresses a different size and power requirement. Read its USB-input completion and terrain limits rather than importing this Quake’s 4000Kv motor, IC5 pack or 1/10 dimensions. Shared styling makes the comparison appealing, but the two exact products should never be merged in a shopping cart."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The decision",
+      "heading": "Buy the rear-drive format deliberately",
+      "paragraphs": [
+        "I would consider the Quake for an outdoor driver who wants its monster-truck stance and is prepared to learn a brushless rear-drive system. The fitted cooling fan, oil-filled suspension, wheelie bar and control options give a credible stock starting point. The recommendation rests on those documented features and the intended venue, not an invented claim that we have proved its durability or repeated a publisher’s speed run.",
+        "I would skip it when the available route calls for 4WD, when the budget assumes a battery-inclusive box, or when a tight storage requirement cannot tolerate unresolved dimensions. Keep ARA3537T1 attached to the purchase, complete the hardcase battery plan and establish a restrained 2S baseline. That is the Quake’s useful proposition: a specific full-size 2WD basher, with its costs and source limitations visible before ordering."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU / finish",
+      "ARA3537T1 / red-black"
+    ],
+    [
+      "Scale / drive",
+      "1/10 / 2WD"
+    ],
+    [
+      "Current product dimensions",
+      "465 × 345 × 230mm; conflicting manual table flagged"
+    ],
+    [
+      "Current product wheelbase / weight",
+      "295mm /2.73kg; manufacturer figures, not our measurements"
+    ],
+    [
+      "Manual page 12 conflict",
+      "456 ×325 ×170mm; 286mm wheelbase; 2.51kg"
+    ],
+    [
+      "Motor",
+      "3660 4000Kv; SPMXSM5000 brushless"
+    ],
+    [
+      "ESC / receiver",
+      "SLT 45A two-in-one with DSC; SPMXSE4510RX"
+    ],
+    [
+      "Input / BEC",
+      "2S/3S LiPo /6V, 4A maximum per manual"
+    ],
+    [
+      "Connector / battery type",
+      "IC5 /hardcase LiPo"
+    ],
+    [
+      "Maximum battery envelope",
+      "140 × 50 × 35mm; verify actual fit and retention"
+    ],
+    [
+      "Radio / cells",
+      "SLT2; four AA supplied"
+    ],
+    [
+      "Servo",
+      "S681 metal-geared digital; 25T"
+    ],
+    [
+      "Gearing",
+      "16T/61T; module 0.8; internal 3.13; final 11.93"
+    ],
+    [
+      "Suspension / tires",
+      "Oil-filled coilovers /dBoots Cut Chevron"
+    ],
+    [
+      "Wheel hex / access",
+      "14mm /bottom-loading tray and clipless body"
+    ],
+    [
+      "Control aids",
+      "50/75/100 throttle limit; DSC off/low/medium/high"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is this the Quake GROM?",
+      "answer": "No. ARA3537T1 is the full-size 1/10 brushless 2WD Quake. The reviewed GROM is a different smaller brushed 4WD vehicle with different power equipment."
+    },
+    {
+      "question": "Does ARA3537T1 include a battery and charger?",
+      "answer": "No drive battery or charger is supplied. Four AA transmitter cells are included. Complete it with a documented compatible hardcase IC5 LiPo and charging system."
+    },
+    {
+      "question": "Why are two sets of dimensions shown?",
+      "answer": "The current product page and exact manual page 12 disagree. We preserve the conflict, use the current product figures for identification and recommend an actual measurement when fit is critical."
+    },
+    {
+      "question": "Can DSC make it behave like 4WD?",
+      "answer": "No. DSC supplies steering correction. It does not add front drive, ground clearance or tire grip."
+    },
+    {
+      "question": "Is the USD 439.99 total a current store bundle?",
+      "answer": "No. It combines the dated USD 269.99 vehicle reference with labeled USD 65, 85 and 20 completion allowances, before tax and shipping."
+    },
+    {
+      "question": "Did you verify the advertised 50+mph?",
+      "answer": "No. Speed statements are attributed to ARRMA. No speed, runtime, jump, crash or long-term ownership test is claimed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — current ARA3537T1 specifications, contents and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-10-quake-223s-dsc-2wd-rtr-brushless-monster-truck/ARA3537.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "ARRMA — exact ARA3537 multilingual operating manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwf29f1746/Manuals/ARA3537_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Driver / Greg Vogel — exact ARA3537T1 coverage",
+      "url": "https://www.rcdriver.com/arrma-quake-unleashed/",
+      "kind": "Independent exact-model coverage; no driving results adopted",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "ARRMA — exact ARA3537 technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5fed02a8/Manuals/ARA3537_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — full-size Gorgon 223S review",
+      "url": "https://rccarking.com/arrma/gorgon-223s-2wd/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — Granite 223S full review",
+      "url": "https://rccarking.com/arrma/granite-223s/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — Quake GROM full review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    }
+  ],
+  "seo": {
+    "title": "ARRMA Quake 223S 2WD ARA3537T1 Review | RC Car King",
+    "description": "Full-size Quake 223S review: 4000Kv rear drive, DSC, hardcase battery needs, complete startup costs and the manufacturer’s conflicting dimensions."
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "publishedAt": "2026-11-06T10:52:47.060Z",
+  "updatedAt": "2026-11-06T10:52:47.060Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0FN8CD14P",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA3537T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0FN8CD14P?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:01.532Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "Red/black ARA3537T1 complete 1/10 brushless 2WD monster truck; drive battery and charger separate",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA3537T1, model ARA3537T1. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/quake-223s-1.jpg",
+  "imageAlt": "Official ARRMA red/black ARA3537T1 Quake 223S. The complete truck excludes its drive battery and charger.",
+  "imageCaption": "Official ARRMA red/black ARA3537T1 Quake 223S. The complete truck excludes its drive battery and charger.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw31f14b3b/Images/ARA/ARA3537T1_A15_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/quake-223s-2.jpg",
+      "alt": "Official ARRMA airborne promotional photograph; not an RC Car King jump or impact test.",
+      "caption": "Official ARRMA airborne promotional photograph; not an RC Car King jump or impact test.",
+      "source": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62fc2850/Images/ARA/ARA3537T1_A65_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62fc2850/Images/ARA/ARA3537T1_A65_5KZHN4KR.jpg?sw=800&sh=800&sm=fit"
+      }
+    },
+    {
+      "image": "reviews/quake-223s-3.jpg",
+      "alt": "ARRMA completion artwork excludes drive power and labels the 140 × 50 × 35mm battery tray. Choose an actually compatible hardcase pack.",
+      "caption": "ARRMA completion artwork excludes drive power and labels the 140 × 50 × 35mm battery tray. Choose an actually compatible hardcase pack.",
+      "source": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc0f8c7e8/Images/ARA/ARA3537T1_A93_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc0f8c7e8/Images/ARA/ARA3537T1_A93_5KZHN4KR.jpg?sw=800&sh=800&sm=fit"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 6 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

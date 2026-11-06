@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-06",
+  "media": [
+    {
+      "prefix": "mini-rally-vxl",
+      "n": 1,
+      "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Front-WHT-01_49343939.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/mini-rally-vxl-1.jpg",
+      "bytes": 170357,
+      "sha256": "ae2482d7985235dc91cb46d9bc98fd1b3e4a875f1fc966752046171526266e28",
+      "checkedAt": "2026-11-06T10:41:44.345Z"
+    },
+    {
+      "prefix": "mini-rally-vxl",
+      "n": 2,
+      "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-3Qtr-Rear-WHT_49343928.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/mini-rally-vxl-2.jpg",
+      "bytes": 157342,
+      "sha256": "a1e58e32e17e4482aea2a8fe83ff6a533c01ac62416ee958cf6f7397a2ae2351",
+      "checkedAt": "2026-11-06T10:41:44.301Z"
+    },
+    {
+      "prefix": "mini-rally-vxl",
+      "n": 3,
+      "url": "https://traxxas.com/media/catalog/product/1/0/108046-1-Mini-Rally-VXL-Ford-RS200-Side-LtoR-WHT_49343929.jpg",
+      "credit": "Traxxas",
+      "file": "reviews/mini-rally-vxl-3.jpg",
+      "bytes": 121968,
+      "sha256": "4cc85e3afea0d1e35e4638b4d890cf5a452740cb4d2b7a26e9a311a5500307bb",
+      "checkedAt": "2026-11-06T10:41:44.275Z"
+    },
+    {
+      "prefix": "quake-223s",
+      "n": 1,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw31f14b3b/Images/ARA/ARA3537T1_A15_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/quake-223s-1.jpg",
+      "bytes": 66061,
+      "sha256": "2e5427c3d428a537a2df807cb58f0ddbb7d5d11ed7c592446afa7217ec70e595",
+      "checkedAt": "2026-11-06T10:41:44.546Z"
+    },
+    {
+      "prefix": "quake-223s",
+      "n": 2,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62fc2850/Images/ARA/ARA3537T1_A65_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/quake-223s-2.jpg",
+      "bytes": 95278,
+      "sha256": "1a67a5c6950402007b8f903a356f04f3388e2094563cfa997fd459dedf065fc9",
+      "checkedAt": "2026-11-06T10:41:44.427Z"
+    },
+    {
+      "prefix": "quake-223s",
+      "n": 3,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc0f8c7e8/Images/ARA/ARA3537T1_A93_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/quake-223s-3.jpg",
+      "bytes": 103974,
+      "sha256": "83a27154ff161020b870a365022a88399fb75cb1e1b88fdc2826dc050012e77d",
+      "checkedAt": "2026-11-06T10:41:44.375Z"
+    },
+    {
+      "prefix": "b71d",
+      "n": 1,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17224/90047.ps_lg__40915.1768330807.jpg",
+      "credit": "Team Associated",
+      "file": "reviews/b71d-1.jpg",
+      "bytes": 265050,
+      "sha256": "1f06204ffde42a97c83f080efd7d0fbcc2536c9c86bd4a326466ea3aaa094c26",
+      "checkedAt": "2026-11-06T10:41:44.690Z"
+    },
+    {
+      "prefix": "b71d",
+      "n": 2,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17229/90047_B71D_FTEnd_IMG_7159_lg__34188.1768330809.jpg",
+      "credit": "Team Associated",
+      "file": "reviews/b71d-2.jpg",
+      "bytes": 210677,
+      "sha256": "1690f5149a47da0246a2b58762a55b4f837c1c922688d662db3b48839990e4fb",
+      "checkedAt": "2026-11-06T10:41:44.729Z"
+    },
+    {
+      "prefix": "b71d",
+      "n": 3,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17228/90047_B71D_ESCPlate_IMG_7164_lg__52148.1768330808.jpg",
+      "credit": "Team Associated",
+      "file": "reviews/b71d-3.jpg",
+      "bytes": 207013,
+      "sha256": "af2d9537301642c2a44822a899e731b988ed43a1199a09b0da8d6940e9380df2",
+      "checkedAt": "2026-11-06T10:41:44.509Z"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "key": "rally",
+      "url": "https://traxxas.com/108046-1-mini-rally-vxl-ford-rs200",
+      "finalUrl": "https://traxxas.com/mini-rally-vxl-ford-rs200-108046-1",
+      "status": 200,
+      "bytes": 457792,
+      "sha256": "91787f038e6f392e2895daddce9e27b565342b1706ad3a482f8f5bdb2e8b0320",
+      "checkedAt": "2026-11-06T10:38:40.466Z"
+    },
+    {
+      "key": "quake",
+      "url": "https://www.horizonhobby.com/product/1-10-quake-223s-dsc-2wd-rtr-brushless-monster-truck/ARA3537.html",
+      "finalUrl": "https://www.horizonhobby.com/product/1-10-quake-223s-dsc-2wd-rtr-brushless-monster-truck/ARA3537.html",
+      "status": 200,
+      "bytes": 2836817,
+      "sha256": "32ff50a5c4c5f1bea1666c90d27ce75cefa13d10b26c54e986f19ac0a4ec2cfa",
+      "checkedAt": "2026-11-06T10:38:40.146Z"
+    },
+    {
+      "key": "b71d",
+      "url": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+      "finalUrl": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+      "status": 200,
+      "bytes": 482428,
+      "sha256": "e36b1b718b500b2ac9f20d972f9476aaf73041edf45f1114a4c305aa47ce7a31",
+      "checkedAt": "2026-11-06T10:38:39.152Z"
+    }
+  ],
+  "documents": [
+    {
+      "key": "rally-manual",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/2/108046-1-OM-EN-R01.pdf",
+      "status": 200,
+      "bytes": 10833252,
+      "sha256": "2ed52518693233f68e42ef97606425839c77f4cfccbb7fabab6805248a267883",
+      "checkedAt": "2026-11-06T10:39:28.714Z"
+    },
+    {
+      "key": "rally-parts",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/3/108046-1_parts.pdf",
+      "status": 200,
+      "bytes": 690634,
+      "sha256": "e1342e9c556b164711290d250b5ba4b52d4d49c152817e86579338fc3ecd17d7",
+      "checkedAt": "2026-11-06T10:39:23.302Z"
+    },
+    {
+      "key": "quake-manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwf29f1746/Manuals/ARA3537_MANUAL_ML.pdf",
+      "status": 200,
+      "bytes": 16640562,
+      "sha256": "8f93e6715f9b96ed90c845ed1d5f1e441c3a40ee231870de52b8a5249ecb65a0",
+      "checkedAt": "2026-11-06T10:39:27.206Z"
+    },
+    {
+      "key": "quake-tech",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5fed02a8/Manuals/ARA3537_TECH_PACK.pdf",
+      "status": 200,
+      "bytes": 7349227,
+      "sha256": "4afe2cd5a023180bf97767adbb8ca7386f971972549dd511544cc827afbdd152",
+      "checkedAt": "2026-11-06T10:39:25.466Z"
+    },
+    {
+      "key": "b71d-manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "status": 200,
+      "bytes": 14912022,
+      "sha256": "2727248134be4bd51bf25227df1218dd7629d2f550a8b6ebcb10167bcd47aaff",
+      "checkedAt": "2026-11-06T10:39:26.914Z"
+    },
+    {
+      "key": "b71d-setup",
+      "url": "https://img2c.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/RC10B71_Editable_Setup_Sheet_.pdf",
+      "status": 200,
+      "bytes": 1380835,
+      "sha256": "f9b15581f07456545fcf23bfe2656bb1c5abcb3575a7f1360f4aa201534dbb0d",
+      "checkedAt": "2026-11-06T10:39:24.804Z"
+    }
+  ],
+  "budgetChecks": [
+    {
+      "key": "rally-adapter",
+      "url": "https://traxxas.com/2912-45-watt-usb-c-power-adapter",
+      "status": 200,
+      "bytes": 375375,
+      "sha256": "d1f66454abb5b5357844745e070b242c5957c8d52194bdc069d242b884d69932",
+      "checkedAt": "2026-11-06T10:44:17.896Z"
+    },
+    {
+      "key": "rally-cable",
+      "url": "https://traxxas.com/2916-100-watt-usb-c-power-cable",
+      "status": 200,
+      "bytes": 369494,
+      "sha256": "99033807df91c7ed7f8e64e1dd0e1e52a19c984880264cd864f0de9b1d623f0d",
+      "checkedAt": "2026-11-06T10:44:19.281Z"
+    }
+  ],
+  "scope": "Exact white Traxxas108046-1-WHT, red ARRMA ARA3537T1 and body-inclusive Associated90047 kit. All nine official images visually inspected. Quake airborne image is manufacturer promotion; B7.1D completed/electronics examples show separate completion equipment. No community photos or image edits."
+}

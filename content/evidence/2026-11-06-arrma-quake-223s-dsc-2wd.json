@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-06",
+  "createdAt": "2026-11-06T10:52:47.060Z",
+  "route": "arrma/quake-223s-dsc-2wd/",
+  "sku": "ARA3537T1",
+  "coreWords": 2137,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/arrma-search.json",
+    "checkedAt": "2026-10-12T23:04:01.532Z",
+    "asin": "B0FN8CD14P",
+    "brand": "ARRMA",
+    "part": "ARA3537T1",
+    "model": "ARA3537T1",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA3537T1, model ARA3537T1. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "ARRMA / Horizon — current ARA3537T1 specifications, contents and USD reference",
+      "url": "https://www.horizonhobby.com/product/1-10-quake-223s-dsc-2wd-rtr-brushless-monster-truck/ARA3537.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "ARRMA — exact ARA3537 multilingual operating manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwf29f1746/Manuals/ARA3537_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Driver / Greg Vogel — exact ARA3537T1 coverage",
+      "url": "https://www.rcdriver.com/arrma-quake-unleashed/",
+      "kind": "Independent exact-model coverage; no driving results adopted",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "ARRMA — exact ARA3537 technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw5fed02a8/Manuals/ARA3537_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — full-size Gorgon 223S review",
+      "url": "https://rccarking.com/arrma/gorgon-223s-2wd/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — Granite 223S full review",
+      "url": "https://rccarking.com/arrma/granite-223s/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — Quake GROM full review",
+      "url": "https://rccarking.com/arrma/quake-grom-4x4/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "quake-223s",
+      "n": 1,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw31f14b3b/Images/ARA/ARA3537T1_A15_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/quake-223s-1.jpg",
+      "bytes": 66061,
+      "sha256": "2e5427c3d428a537a2df807cb58f0ddbb7d5d11ed7c592446afa7217ec70e595",
+      "checkedAt": "2026-11-06T10:41:44.546Z"
+    },
+    {
+      "prefix": "quake-223s",
+      "n": 2,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw62fc2850/Images/ARA/ARA3537T1_A65_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/quake-223s-2.jpg",
+      "bytes": 95278,
+      "sha256": "1a67a5c6950402007b8f903a356f04f3388e2094563cfa997fd459dedf065fc9",
+      "checkedAt": "2026-11-06T10:41:44.427Z"
+    },
+    {
+      "prefix": "quake-223s",
+      "n": 3,
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc0f8c7e8/Images/ARA/ARA3537T1_A93_5KZHN4KR.jpg?sw=800&sh=800&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "file": "reviews/quake-223s-3.jpg",
+      "bytes": 103974,
+      "sha256": "83a27154ff161020b870a365022a88399fb75cb1e1b88fdc2826dc050012e77d",
+      "checkedAt": "2026-11-06T10:41:44.375Z"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "quake-manual",
+      "bytes": 16640562,
+      "sha256": "8f93e6715f9b96ed90c845ed1d5f1e441c3a40ee231870de52b8a5249ecb65a0"
+    },
+    {
+      "file": "quake-tech",
+      "bytes": 7349227,
+      "sha256": "4afe2cd5a023180bf97767adbb8ca7386f971972549dd511544cc827afbdd152"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "quake-manual",
+      "quake-tech"
+    ],
+    "inspection": "Exact operating-manual pages12,18 and21 rendered and visually inspected; correct components, dimensions conflict, ESC diagnostics and DSC procedure checked",
+    "conflict": "Current product465×345×230mm /WB295mm /2.73kg; exact manualp12 says456×325×170mm /WB286mm /2.51kg. Current product figures used and conflict visible; no averaging or physical measurement invented.",
+    "identity": "Archived exact red ARA3537T1 and brand reused; no new API verification",
+    "battery": "2S/3S hardcase IC5;140×50×35mm maximum published envelope; no softpack substitution approved",
+    "budget": "269.99 manufacturer reference +65 compatible2S hardcase allowance +85 complete charging allowance +20 care allowance =439.99 USD; no accessory offer or availability claim"
+  },
+  "validation": {
+    "production": "pending",
+    "preview": "pending",
+    "desktop": "pending",
+    "mobile": "pending"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ],
+  "visualQA": {
+    "date": "2026-11-06",
+    "desktop": "1440x1000: official hero, overview, score, completion package and affiliate CTA inspected",
+    "mobile": "390x844: no page-wide overflow; official hero and stacked product box inspected",
+    "sharedChecks": "B7.1D cost table scrolls within its region. Quake dimension-conflict FAQ and Rally 3S charger FAQ opened. All three affiliate identities/tag/sponsored-nofollow attributes inspected. No live Amazon offer displayed."
+  }
+}

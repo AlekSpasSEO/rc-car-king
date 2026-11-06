@@ -138,3 +138,7 @@ The drivetrain guide uses an original accessible HTML/CSS three-card map to dist
 ## Daily guide · 6 November 2026 · Pinion, spur and final drive
 
 The gearing guide uses an original accessible HTML/CSS three-card calculation map, with a separately labeled exact-model arithmetic table. Both ARRMA ARA2508 technical-pack pages and the relevant exact Slash 58234-8 manual page were rendered for research; no manual artwork or product photographs are republished. The [dated evidence](content/evidence/2026-11-06-gearing-guide.json) records current source fingerprints, calculated ratios and the distinction between arithmetic, fit and operating permission. No community photos or fabricated demonstrations are used.
+
+## Weekday reviews · 6 November 2026
+
+Nine inspected official images cover white Traxxas Mini Rally VXL108046-1-WHT, red ARRMA Quake223S ARA3537T1 and Team Associated90047 B7.1D kit. The [dated media manifest](content/evidence/2026-11-06-review-media.json) records source URLs, hashes, current manuals and exact Rally completion-price references. The Quake airborne scene is manufacturer promotion. Associated kit captions explain that the finished body, electronics, wheels and tires shown in completed examples require separate equipment or finishing; the clear body and wings are supplied. No community photographs, invented tests or AI product images are used.

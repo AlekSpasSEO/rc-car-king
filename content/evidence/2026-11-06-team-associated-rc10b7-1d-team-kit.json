@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-06",
+  "createdAt": "2026-11-06T10:56:27.075Z",
+  "route": "team-associated/rc10b7-1d-team-kit/",
+  "sku": "90047",
+  "coreWords": 2178,
+  "identity": {
+    "cachePath": "output/batch-horizon/associated-search.json",
+    "checkedAt": "2026-10-12T23:04:27.282Z",
+    "asin": "B0GM21HW6H",
+    "brand": "Team Associated",
+    "part": "ASC90047",
+    "model": "ASC90047",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:27.282Z: Team Associated, returned part ASC90047, model ASC90047. The distributor prefix in ASC90047 maps to official SKU 90047; manufacturer page and complete package cross-checked. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Team Associated — exact 90047 kit contents, surface fit and USD reference",
+      "url": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Team Associated — exact 90047 RC10B7.1D assembly manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Red RC — B7.1 family introduction, with dirt alternative noted",
+      "url": "https://www.redrc.net/2026/01/team-associated-rc10b7-1-team-kit/",
+      "kind": "Independent launch context; detailed non-D features are not transferred",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Team Associated — editable B7.1D setup record",
+      "url": "https://img2c.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/RC10B71_Editable_Setup_Sheet_.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete Mini-B Brushless review",
+      "url": "https://rccarking.com/losi/mini-b-brushless/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete BBX kit review",
+      "url": "https://rccarking.com/tamiya/bbx-bb-01/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — standard Reflex 14B review",
+      "url": "https://rccarking.com/team-associated/reflex-14b-ongaro-rtr/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    }
+  ],
+  "media": [
+    {
+      "prefix": "b71d",
+      "n": 1,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17224/90047.ps_lg__40915.1768330807.jpg",
+      "credit": "Team Associated",
+      "file": "reviews/b71d-1.jpg",
+      "bytes": 265050,
+      "sha256": "1f06204ffde42a97c83f080efd7d0fbcc2536c9c86bd4a326466ea3aaa094c26",
+      "checkedAt": "2026-11-06T10:41:44.690Z"
+    },
+    {
+      "prefix": "b71d",
+      "n": 2,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17229/90047_B71D_FTEnd_IMG_7159_lg__34188.1768330809.jpg",
+      "credit": "Team Associated",
+      "file": "reviews/b71d-2.jpg",
+      "bytes": 210677,
+      "sha256": "1690f5149a47da0246a2b58762a55b4f837c1c922688d662db3b48839990e4fb",
+      "checkedAt": "2026-11-06T10:41:44.729Z"
+    },
+    {
+      "prefix": "b71d",
+      "n": 3,
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17228/90047_B71D_ESCPlate_IMG_7164_lg__52148.1768330808.jpg",
+      "credit": "Team Associated",
+      "file": "reviews/b71d-3.jpg",
+      "bytes": 207013,
+      "sha256": "af2d9537301642c2a44822a899e731b988ed43a1199a09b0da8d6940e9380df2",
+      "checkedAt": "2026-11-06T10:41:44.509Z"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "b71d-manual",
+      "bytes": 14912022,
+      "sha256": "2727248134be4bd51bf25227df1218dd7629d2f550a8b6ebcb10167bcd47aaff"
+    },
+    {
+      "file": "b71d-setup",
+      "bytes": 1380835,
+      "sha256": "f9b15581f07456545fcf23bfe2656bb1c5abcb3575a7f1360f4aa201534dbb0d"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "b71d-manual",
+      "b71d-setup"
+    ],
+    "inspection": "Exact manual pages2,8,12,17 and21 rendered; body inclusion, completion items, KPI0/4trail, spur alternatives, shock build and wheel exclusions checked",
+    "identity": "Archived ASC90047 is the documented distributor prefix for official90047; exact brand and body-inclusive dirt kit reused without new API verification",
+    "configuration": "90047 ball diff,81mm rear arms,71mm CVA bones; non-D90046 RedRC feature list not transferred; no factory motor/radio/ESC settings assigned",
+    "budget": "399.99 verified manufacturer kit reference plus labeled200+100+65+65+100+70+10+45+100+20 USD allowances =1174.99 before tax/shipping/fees",
+    "limits": "390mm manufacturer length; width/wheelbase/weight remain varies. No class eligibility, lap time, installed motor or battery compatibility invented. Manufacturer photos show separately required completion equipment."
+  },
+  "validation": {
+    "production": "pending",
+    "preview": "pending",
+    "desktop": "pending",
+    "mobile": "pending"
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ],
+  "visualQA": {
+    "date": "2026-11-06",
+    "desktop": "1440x1000: official hero, overview, score, completion package and affiliate CTA inspected",
+    "mobile": "390x844: no page-wide overflow; official hero and stacked product box inspected",
+    "sharedChecks": "B7.1D cost table scrolls within its region. Quake dimension-conflict FAQ and Rally 3S charger FAQ opened. All three affiliate identities/tag/sponsored-nofollow attributes inspected. No live Amazon offer displayed."
+  }
+}

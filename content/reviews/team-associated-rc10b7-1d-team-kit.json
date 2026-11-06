@@ -1,0 +1,543 @@
+{
+  "brand": "Team Associated",
+  "brandSlug": "team-associated",
+  "model": "RC10B7.1D Team Kit",
+  "modelSlug": "rc10b7-1d-team-kit",
+  "sku": "90047",
+  "headlineLines": [
+    "BUILD FOR DIRT.",
+    "BUDGET THE REST."
+  ],
+  "title": "Team Associated RC10B7.1D review: a dirt-racing kit, with the build bill in view",
+  "dek": "The 90047 includes a clear body, ball differential, long-arm suspension and 13mm shocks. Its USD 399.99 kit reference is the beginning of a class-specific build.",
+  "type": "Competition buggy",
+  "use": "Racing",
+  "terrain": [
+    "Prepared dirt RC track",
+    "Appropriate clay RC track",
+    "Some low-grip AstroTurf tracks per manufacturer"
+  ],
+  "motor": "Not included",
+  "drive": "2WD",
+  "scale": "1/10",
+  "format": "Unassembled body-inclusive race kit; electronics, tires, wheels and operating power separate",
+  "skill": "Builder and club racer prepared to select class-compatible electronics and maintain a documented setup",
+  "price": {
+    "amount": 399.99,
+    "currency": "USD",
+    "basis": "Team Associated official US 90047 kit reference; completion equipment separate",
+    "source": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+    "checked": "2026-11-06"
+  },
+  "purchaseNote": "The body and wings are supplied unpainted. Our dated from-zero USD 1174.99 planning example includes labeled equipment, consumable and tool allowances; it is not a quoted race-ready bundle.",
+  "overview": "A focused 2WD dirt/clay competition kit with a ball differential, three-gear laydown transmission, 81mm rear arms, 7075-T6 chassis and 13mm shocks. Its value is the adjustable platform and exact build documentation, provided the venue and complete operating budget are decided first.",
+  "verdict": "Shortlist it for a real dirt-track plan, not the price of a finished car",
+  "verdictText": "I would consider 90047 for a builder with a suitable club, known class requirements and a deliberate electronics and tire plan. Choose another complete vehicle if immediate running, rough recreational terrain or an all-in price near the kit reference is the main requirement.",
+  "pros": [
+    "Clear low-profile body, 7-inch rear wing and 2.5-inch front wing included",
+    "Ball differential and three-gear laydown transmission specified for the dirt version",
+    "81mm rear arms, 13mm shocks and revised steering/caster hardware",
+    "Detailed exact-model assembly manual and editable setup record"
+  ],
+  "cons": [
+    "Requires full assembly, body finishing and a substantial completion basket",
+    "No motor, ESC, servo, radio, operating battery, tires, inserts or wheels",
+    "Dirt-version hardware and setup differ from the 90046 carpet kit",
+    "Width, wheelbase and completed weight are listed as variable; no universal final specification"
+  ],
+  "bestFor": [
+    "A dirt/clay club racer who wants to build and document the chassis",
+    "An owner with suitable electronics and tools, verified against the intended class",
+    "A careful builder who values tuning access and a recorded baseline"
+  ],
+  "avoidIf": [
+    "You expect a ready-to-run car at USD 399.99",
+    "Your main venue is a lawn, gravel pile or casual rough bashing area",
+    "The local class or surface calls for a different chassis configuration"
+  ],
+  "quickSpecs": [
+    [
+      "Exact kit",
+      "90047 · RC10B7.1D · dirt version"
+    ],
+    [
+      "Included body",
+      "Clear low-profile RC10B7 body and two wings"
+    ],
+    [
+      "Drive / differential",
+      "2WD / ball differential"
+    ],
+    [
+      "Transmission",
+      "Three-gear laydown · internal 2.60:1"
+    ],
+    [
+      "Suspension",
+      "13mm shocks · 81mm rear arms · 71mm CVA bones"
+    ],
+    [
+      "Power equipment",
+      "540-size motor, ESC and 2S LiPo required; separate"
+    ]
+  ],
+  "rating": {
+    "audience": "A dirt/clay club racer who wants an adjustable body-inclusive kit and can complete it for the intended class",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Documented kit hardware",
+        "score": 9,
+        "reason": "The 7075-T6 chassis, ball differential, 13mm shocks and long-arm layout are substantial identified equipment."
+      },
+      {
+        "label": "Surface configuration",
+        "score": 8.5,
+        "reason": "The manufacturer clearly positions the D kit for dirt, clay and some low-grip AstroTurf rather than treating it as the carpet package."
+      },
+      {
+        "label": "Build and tuning documentation",
+        "score": 8.5,
+        "reason": "The exact manual, stock settings and editable setup record support a reproducible baseline."
+      },
+      {
+        "label": "Initial completeness",
+        "score": 6,
+        "reason": "A body-inclusive kit still needs the major electronics, power, wheels, tires, finishing work and assembly."
+      },
+      {
+        "label": "Purpose-fit value",
+        "score": 8.5,
+        "reason": "It makes sense as a planned club-racing build; the from-zero USD 1174.99 example is a very different commitment from the kit reference."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "Choose the track and class before the kit",
+      "paragraphs": [
+        "The RC10B7.1D is worth considering when you want to build a modern 2WD dirt-track buggy and have somewhere appropriate to race it. The attraction is the adjustable chassis and the opportunity to assemble a known baseline around your class and tires. It is not the easy answer to “what complete car can I run for four hundred dollars?” A first-time builder can approach it carefully, but the intended venue and completion plan should come before the order.",
+        "This is kit 90047, the dirt version. Team Associated recommends it for dirt, clay and some low-grip AstroTurf tracks. Its ball differential, 81mm rear suspension arms and 71mm CVA bones belong to that configuration. The closely named 90046 carpet kit has its own hardware and setup. Sharing a platform and many parts does not make their box contents interchangeable in a buying guide.",
+        "Red RC’s launch coverage discusses the B7.1 family and identifies the D alternative, but its detailed feature list centers on the carpet version. We do not transfer that version’s gear differential or shorter rear-arm specification into this review. The exact 90047 manufacturer page and manual establish the package used here. This is a research-led assessment of the build and buyer fit, without our own lap times or physical comparison."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Kit contents",
+      "heading": "The clear body is supplied; the finished running car is not",
+      "paragraphs": [
+        "The kit includes the chassis assembly components, low-profile clear RC10B7 body, 7-inch rear wing and 2.5-inch front wing. That makes it a body-inclusive complete-vehicle kit within this site’s scope, rather than a bare chassis review. It still requires full assembly and body finishing. The manufacturer’s photographed completed car is an illustration of the finished concept, not a promise that its paint, electronics or tires arrive installed.",
+        "The exact manual’s completion list is longer than the abbreviated product-page reminder. You need a suitable two-channel surface radio system, transmitter cells as applicable, steering servo, ESC, 540-size motor, appropriate 48-pitch pinion, 2-cell LiPo and compatible charger. Front and rear wheels, tires and inserts are separate too. Establish the complete system and class requirements rather than selecting one attractive motor and leaving the rest to chance.",
+        "Body paint must be suitable for polycarbonate, and the instructions also identify tire adhesive and thread-locking compound where required. Read the actual build callouts before deciding every workshop supply is already in the box. The tool list includes precision drivers, body tools and soldering equipment for an appropriately selected installation. Some builders own these; a from-zero buyer needs to budget them.",
+        "Inventory the numbered bags and any supplementary sheets before building. The manual explains that production changes can be documented inside those bags. Keep those notes with the exact manual instead of assuming an online build video shows the same revision. That small preparation step protects the main advantage of a kit: knowing which components and settings you actually assembled."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Transmission & motor plan",
+      "heading": "Three gears describe the transmission, not three selectable speeds",
+      "paragraphs": [
+        "The B7.1D uses a three-gear laydown transmission. The gear count describes its mechanical layout; it does not mean the driver selects three speeds on the radio. Team Associated lists a 2.60:1 internal ratio. The manual illustrates a 78T 48-pitch spur and also includes a 72T 48-pitch alternative for the documented stock-motor context. There is no supplied motor pinion to assign as the universal factory final drive.",
+        "The installed pinion must be chosen for the actual motor, class and documented operating requirements. Our gearing guide explains the arithmetic, but a calculated ratio does not approve a combination for this race kit. There is no honest stock speed or runtime figure to publish before motor, battery, gearing and tires have even been selected. A reviewer’s powered build is one configuration, not the specification of every box 90047.",
+        "The ball differential is another defining D-kit component. It allows differential action through its ball-and-plate arrangement and requires the exact assembly and adjustment procedure. That is different from filling a gear differential with an arbitrarily chosen silicone fluid. Understand which mechanism you built before applying a tuning suggestion from the carpet car or a larger off-road truck.",
+        "The slipper assembly is separate from the differential. Its role in accommodating driveline load is not a reason to overtighten the ball differential or treat the two adjustments as interchangeable. Build both to the manual, retain the initial settings and investigate a slipping or rough response against that documented baseline. No durability rate or claim that race hardware tolerates incorrect assembly is made here."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Electronics & class",
+      "heading": "There is no stock controller profile to copy",
+      "paragraphs": [
+        "No radio, receiver, steering servo or ESC is supplied, so this review does not assign a factory throttle limit, gyro mode or programming sequence. Choose those components as a compatible system under the intended class rules, then follow their own manufacturers’ installation and calibration instructions. A competition chassis does not make every electronics combination legal, electrically compatible or suitable for a beginning driver.",
+        "For a stock racing class, confirm the permitted motor specification, controller mode and battery requirements with the venue before buying. For another class, establish its actual rules instead of assuming “modified” means any battery or unlimited setup. The kit manual’s 2-cell LiPo requirement remains the vehicle baseline; this review does not authorize a 3S build, a higher-voltage experiment or a charging setting.",
+        "The centrally arranged electronics mounting area is part of the chassis design, but a manufacturer photograph showing an installed Reedy controller does not put that controller into the kit. The same distinction applies to a servo visible in an assembled example. Measure and verify the actual selected equipment, secure wiring as instructed and leave moving parts free. Appearance alone cannot prove clearance or connector compatibility."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Geometry & shocks",
+      "heading": "Adjustability is useful when the baseline is reproducible",
+      "paragraphs": [
+        "The revised steering and caster assembly includes KPI-adjustable geometry. The exact build notes identify KPI 0 and the illustrated 4-trail arrangement as the kit starting configuration. Keep that distinction between a supplied setting and another available option. A setup copied from a different grip level may be mechanically possible but still make the car less useful at the track you actually attend.",
+        "The front shock tower and Factory Team rear tower are the listed minus 2mm versions. Rear arms are 81mm with 71mm CVA bones, which again separates the D configuration from the carpet kit’s launch specification. Those details should remain attached to setup notes because a later arm or hub change can make an old measurement incomplete. Longer or shorter alone is not a lap-time verdict.",
+        "The 13mm shocks use threaded collars. The manual specifies 30wt fluid front and rear for its illustrated build, with 22mm front and 28.5mm rear stroke in that assembly. These are source-specific starting details, not a universal damping prescription for every spring, tire and surface. Careful bleeding and equal free movement matter before interpreting a setup change as a handling improvement.",
+        "Team Associated’s beginner guidance prioritizes completing consistent laps before changing the standard setup, then making one adjustment and recording it. That is a useful ownership discipline for a kit with this much geometry available. We have not driven the car, so we do not invent a preferred camber, ride height or shock package beyond the documented starting point."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Track & tires",
+      "heading": "The missing tires make the local surface decision unavoidable",
+      "paragraphs": [
+        "This is a prepared-track buggy, not a general lawn or gravel basher. The D-kit recommendation concerns dirt, clay and some low-grip AstroTurf conditions, but actual tires and inserts are still chosen separately. Ask the local venue what works and what its rules permit. The best-supported tire decision is tied to that surface, rather than an appearance copied from the manufacturer’s completed promotional car.",
+        "The manual calls for 12mm-hex wheels, with different front and rear requirements. That measurement is only one part of fit: wheel format, offset and the selected tire/inserts remain relevant. Do not assume any 12mm-hex wheel from a recreational truck recreates the buggy’s intended arrangement. The purchase is incomplete until all four corners are selected as a coherent, permitted package.",
+        "The manufacturer gives 390mm length while listing width, wheelbase and weight as variable. We preserve those qualifications instead of publishing dimensions measured from a different build or estimating a race-ready mass from a photo. Electronics, battery and final setup affect the completed car. Confirm an actual assembled configuration if a bag, class limit or transport opening depends on a precise number.",
+        "For organized running, plan the practical outing as well as the chassis. You need a suitable venue, a compatible charging arrangement and time to inspect and maintain the completed car. Entry fees and travel are separate from the initial hardware basket below. They should influence whether this type of purchase suits the owner, even though this review does not invent a universal annual racing cost."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Body & build ownership",
+      "heading": "The finishing work is part of owning this kit",
+      "paragraphs": [
+        "The body is clear polycarbonate rather than the finished red/blue example in official photography. The exact instructions cover preparation, inside painting, window masks and securing the shell to the side rails. Use that body’s trim and fit information; a guide for another manufacturer’s touring-car shell is not a substitute. The two supplied wings also need the applicable mounting orientation from the manual.",
+        "The manual illustrates alternative rear-wing mounting angles and identifies its kit position. Those choices are setup variables, not decoration to copy blindly from a picture. The front wing is included, with its own mounting details. Retain the correct fasteners and any unused supplied options rather than discard them as packing material; they help keep the documented configuration reversible.",
+        "The 7075-T6 chassis has pockets for optional weight plates, with an aluminum plate included in the kit. That supports deliberate mass-placement choices within the documented system; it does not establish a mandatory aftermarket weight purchase. Record the actual electronics, battery and plate arrangement on the setup sheet before attributing a change in response to one suspension adjustment.",
+        "Building the car gives the owner a route back into its assemblies when service is needed, but it also makes initial workmanship consequential. Inspect free suspension movement, correct fasteners and the assembled driveline before operation. Keep your exact build record and supplementary bag notes. This review does not claim that a kit automatically has a longer service life than an RTR or that every builder achieves the same result."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Complete build budget",
+      "heading": "USD 1174.99 is a from-zero planning example",
+      "paragraphs": [
+        "The official 90047 vehicle reference was USD 399.99 on 6 November 2026. Our example adds editorial allowances of USD 200 for a class-appropriate motor/ESC system, 100 for radio and required handset cells, 65 for steering servo, 65 for a suitable 2S battery, and 100 for a compatible charger with its complete input-power and connection arrangement. These are planning amounts, not fresh accessory offers or a verified ready-made electronics bundle.",
+        "Further allowances are USD 70 for wheels, tires and inserts, 10 for an appropriate pinion, 45 for body paint and the required assembly consumables, 100 for tools and finishing equipment, and 20 for the charging-care arrangement. The result is USD 1174.99 before tax, delivery, venue fees or optional spares. The table includes the major completion categories explicitly so the kit price is not mistaken for the operating cost.",
+        "An established racer may already own suitable equipment and spend much less on completion. A buyer choosing premium electronics, several tire sets or a particular soldering arrangement may spend more. Replace each allowance with a real class-compatible selection before buying; the budget does not approve arbitrary parts. I would rather cost that complete plan up front than build a chassis that cannot run because the final battery, tires or radio purchase was forgotten."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "USD startup planning example · 6 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "90047 body-inclusive kit",
+            "Exact manufacturer vehicle reference",
+            "399.99"
+          ],
+          [
+            "Motor and ESC",
+            "Editorial allowance; confirm class and compatibility",
+            "200.00"
+          ],
+          [
+            "Radio and handset cells",
+            "Editorial allowance",
+            "100.00"
+          ],
+          [
+            "Steering servo",
+            "Editorial allowance",
+            "65.00"
+          ],
+          [
+            "Suitable 2S battery",
+            "Editorial allowance; verify exact fit/system",
+            "65.00"
+          ],
+          [
+            "Charger and full input/connection system",
+            "Editorial allowance",
+            "100.00"
+          ],
+          [
+            "Wheels, tires and inserts",
+            "Editorial allowance; track-specific selection",
+            "70.00"
+          ],
+          [
+            "48P pinion",
+            "Editorial allowance; actual motor/class determines choice",
+            "10.00"
+          ],
+          [
+            "Paint and assembly consumables",
+            "Editorial allowance; includes required adhesives/lubrication",
+            "45.00"
+          ],
+          [
+            "Tools and finishing equipment",
+            "Editorial allowance for a from-zero builder",
+            "100.00"
+          ],
+          [
+            "Charging-care arrangement",
+            "Editorial allowance",
+            "20.00"
+          ],
+          [
+            "Example total",
+            "Before tax/shipping, fees and optional spares",
+            "1174.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete vehicles",
+      "heading": "A kit is one route into the hobby, not the default",
+      "paragraphs": [
+        "The Losi Mini-B Brushless LOS01024T1 is the prebuilt small-buggy comparison for a buyer who wants to start driving rather than select and install a full electronics system. Its scale, operating package and venue needs differ, and it is not automatically eligible for the same class as the B7.1D. Read its exact completion requirements before treating “RTR” as proof that every charging-input item is already supplied.",
+        "The Tamiya BBX 58719 is a body-inclusive 2WD kit with a different recreational desert-buggy brief. It can make sense when the build experience and appearance matter more than entering a modern dirt-track class. Its body finishing and electronics requirements deserve their own calculation. Do not transfer the Associated setup or race-purpose rating simply because both boxes contain unassembled rear-driven buggies.",
+        "The standard Team Associated Reflex 14B Ongaro 20185 is another assembled alternative when compact 4WD recreational use is the real aim. It changes the drivetrain and ownership package rather than merely reducing the number of build steps. For a buyer with a known club and class, 90047 may be the better-focused tool. For someone without that venue, the other complete cars can be more coherent first purchases."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "The decision",
+      "heading": "A strong platform when the whole racing plan exists",
+      "paragraphs": [
+        "I would shortlist the B7.1D for a builder who wants its dirt-focused configuration, has a suitable club and can finish the car with a compatible class-specific system. Its value lies in the documented hardware and adjustment range, not an imaginary stock lap time. The clear body and wings make it a complete-vehicle kit, while the missing electronics and rolling equipment remain substantial additional work.",
+        "I would choose another car if the kit reference is the whole budget or immediate casual driving is the main requirement. Confirm 90047 rather than 90046, agree the motor and tire plan with the venue, and record the exact build before tuning. The reward is a purposeful race-buggy project whose costs and decisions are visible. It is not a ready-to-run bargain hidden inside a competition-kit box."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact kit / distributor identity",
+      "90047 /archived ASC90047"
+    ],
+    [
+      "Scale / category",
+      "1/10 competition buggy; dirt configuration"
+    ],
+    [
+      "Drive / motor",
+      "2WD /540-size motor required, not supplied"
+    ],
+    [
+      "Transmission / internal ratio",
+      "Three-gear laydown /2.60:1"
+    ],
+    [
+      "Differential",
+      "Ball differential; separate slipper assembly"
+    ],
+    [
+      "Spur / pinion",
+      "78T 48P illustrated; 72T 48P alternative included; pinion separate"
+    ],
+    [
+      "Chassis",
+      "7075-T6 aluminum with weight-plate pockets; aluminum plate included"
+    ],
+    [
+      "Rear arms / CVA bones",
+      "81mm /71mm"
+    ],
+    [
+      "Shock package",
+      "13mm; manual illustrated 30wt front/rear"
+    ],
+    [
+      "Shock stroke",
+      "Manual build 22mm front / 28.5mm rear"
+    ],
+    [
+      "Steering baseline",
+      "Manual KPI 0 /4-trail illustrated kit arrangement"
+    ],
+    [
+      "Shock towers",
+      "Minus 2mm front and Factory Team rear"
+    ],
+    [
+      "Body / wings",
+      "Clear low-profile RC10B7 body; 7in rear /2.5in front wings"
+    ],
+    [
+      "Operating battery",
+      "2-cell LiPo required; select exact compatible system"
+    ],
+    [
+      "Wheels / tires",
+      "Separate; manual 12mm-hex wheel requirements"
+    ],
+    [
+      "Dimensions",
+      "390mm length; width and wheelbase vary"
+    ],
+    [
+      "Completed weight",
+      "Manufacturer: varies; no ready-to-race mass assigned"
+    ],
+    [
+      "Included electronics",
+      "None; radio, servo, ESC and motor separate"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is 90047 a bare chassis kit?",
+      "answer": "No. It includes a clear RC10B7 body and front/rear wings. It is an unassembled body-inclusive vehicle kit, with electronics, power, wheels, tires and finishing equipment separate."
+    },
+    {
+      "question": "What is different about the D version?",
+      "answer": "The manufacturer positions 90047 for dirt, clay and some low-grip AstroTurf, with a ball differential, 81mm rear arms and 71mm CVA bones. The 90046 carpet kit has a different hardware/setup package."
+    },
+    {
+      "question": "Is a brushless motor included?",
+      "answer": "No motor is supplied. The manual requires a 540-size electric motor and appropriate ESC; the actual system must meet the intended class and compatibility requirements."
+    },
+    {
+      "question": "Does the photograph show everything in the box?",
+      "answer": "No. Official completed examples show paint, electronics and rolling equipment that are separate completion items. Captions identify those examples."
+    },
+    {
+      "question": "Is it a three-speed buggy?",
+      "answer": "No. Three-gear laydown describes the transmission layout, not three selectable radio speeds. The published internal reduction is 2.60:1."
+    },
+    {
+      "question": "Why does the starting example exceed USD 1000?",
+      "answer": "The dated USD 1174.99 example starts from zero and includes the USD 399.99 kit plus clearly labeled equipment, consumable, care and tool allowances. It is not a quoted store bundle; an equipped racer may need fewer purchases."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Team Associated — exact 90047 kit contents, surface fit and USD reference",
+      "url": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Team Associated — exact 90047 RC10B7.1D assembly manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Red RC — B7.1 family introduction, with dirt alternative noted",
+      "url": "https://www.redrc.net/2026/01/team-associated-rc10b7-1-team-kit/",
+      "kind": "Independent launch context; detailed non-D features are not transferred",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "Team Associated — editable B7.1D setup record",
+      "url": "https://img2c.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/RC10B71_Editable_Setup_Sheet_.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete Mini-B Brushless review",
+      "url": "https://rccarking.com/losi/mini-b-brushless/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — complete BBX kit review",
+      "url": "https://rccarking.com/tamiya/bbx-bb-01/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    },
+    {
+      "name": "RC Car King — standard Reflex 14B review",
+      "url": "https://rccarking.com/team-associated/reflex-14b-ongaro-rtr/",
+      "kind": "Related full review",
+      "checked": "2026-11-06"
+    }
+  ],
+  "seo": {
+    "title": "Team Associated RC10B7.1D 90047 Review | RC Car King",
+    "description": "RC10B7.1D dirt-kit review: ball differential, exact 90047 hardware, missing electronics and tires, class planning and a complete from-zero build budget."
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "publishedAt": "2026-11-06T10:56:27.075Z",
+  "updatedAt": "2026-11-06T10:56:27.075Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0GM21HW6H",
+    "marketplace": "www.amazon.com",
+    "sku": "90047",
+    "apiSku": "ASC90047",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GM21HW6H?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:27.282Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "90047 RC10B7.1D dirt/clay 2WD buggy assembly kit with clear body and wings; no motor, radio, ESC, servo, battery, tires or wheels",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:27.282Z: Team Associated, returned part ASC90047, model ASC90047. The distributor prefix in ASC90047 maps to official SKU 90047; manufacturer page and complete package cross-checked. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/b71d-1.jpg",
+  "imageAlt": "Official Team Associated 90047 packaging and completed example. The kit includes a clear body and wings; paint, motor, electronics, battery, wheels and tires are separate.",
+  "imageCaption": "Official Team Associated 90047 packaging and completed example. The kit includes a clear body and wings; paint, motor, electronics, battery, wheels and tires are separate.",
+  "imageCredit": {
+    "name": "Team Associated",
+    "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17224/90047.ps_lg__40915.1768330807.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/b71d-2.jpg",
+      "alt": "Official completed B7.1D front suspension detail; manufacturer illustration, not our assembly or handling test.",
+      "caption": "Official completed B7.1D front suspension detail; manufacturer illustration, not our assembly or handling test.",
+      "source": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17229/90047_B71D_FTEnd_IMG_7159_lg__34188.1768330809.jpg",
+      "creditName": "Team Associated",
+      "credit": {
+        "name": "Team Associated",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17229/90047_B71D_FTEnd_IMG_7159_lg__34188.1768330809.jpg"
+      }
+    },
+    {
+      "image": "reviews/b71d-3.jpg",
+      "alt": "Official electronics-mount example. The pictured controller is illustrative completion equipment and is not included in 90047.",
+      "caption": "Official electronics-mount example. The pictured controller is illustrative completion equipment and is not included in 90047.",
+      "source": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17228/90047_B71D_ESCPlate_IMG_7164_lg__52148.1768330808.jpg",
+      "creditName": "Team Associated",
+      "credit": {
+        "name": "Team Associated",
+        "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17228/90047_B71D_ESCPlate_IMG_7164_lg__52148.1768330808.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 6 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}
