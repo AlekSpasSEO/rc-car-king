@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-07",
+  "createdAt": "2026-11-07T17:11:18.363Z",
+  "kind": "guide",
+  "route": "guides/rc-car-ride-height-spring-preload-shock-oil/",
+  "words": 1285,
+  "quota": {
+    "guidesBefore": 0,
+    "guidesAdded": 1,
+    "timezone": "Europe/Skopje"
+  },
+  "sources": [
+    {
+      "name": "Traxxas Mini Rally VXL 108046-1 manual R01, tools and shock tuning",
+      "url": "https://traxxas.com/media/productattach/C-108046-1/2/108046-1-OM-EN-R01.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-07"
+    },
+    {
+      "name": "Team Associated RC10B7.1D 90047 manual, Bag 9 shock build",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-07"
+    },
+    {
+      "name": "Team Associated RC10B6D tuning notes, ride-height measurement",
+      "url": "https://apps.associatedelectrics.com/ateamapps/vehicle_reference/appb6d/www/pages/manual.html",
+      "kind": "Manufacturer tuning notes for the B6D",
+      "checked": "2026-11-07"
+    },
+    {
+      "name": "Team Associated RC10B7.1 and RC10B7.1D launch notes, spring and piston differences",
+      "url": "https://www.associatedelectrics.com/news/latest_products/3014-new-rc10b71-amp-rc10b71d-team-kits/",
+      "kind": "Manufacturer variant comparison",
+      "checked": "2026-11-07"
+    },
+    {
+      "name": "Red RC, January 2026 RC10B7.1 family announcement",
+      "url": "https://www.redrc.net/2026/01/team-associated-rc10b7-1-team-kit/",
+      "kind": "Independent model-family coverage centered on the 90046",
+      "checked": "2026-11-07"
+    }
+  ],
+  "documents": [
+    {
+      "sourceIndex": 0,
+      "status": 200,
+      "sha256": "2ed52518693233f68e42ef97606425839c77f4cfccbb7fabab6805248a267883",
+      "detail": "R01 PDF page 23: 50W stock at both ends and ride-height arm position. Tools list includes preload spacers."
+    },
+    {
+      "sourceIndex": 1,
+      "status": 200,
+      "sha256": "2727248134be4bd51bf25227df1218dd7629d2f550a8b6ebcb10167bcd47aaff",
+      "detail": "Page 17 Bag 9: 30wt both ends, threaded collars and bleed-screw shock cap."
+    }
+  ],
+  "editorial": "Original conceptual diagram and diagnostic table. No hands-on observations or buying links.",
+  "validation": {
+    "production": "npm run build and npm run check passed",
+    "preview": "npm run build and npm run check passed",
+    "desktop": "1440 × 1000 title, short answer and diagram inspected",
+    "mobile": "390 × 844 title and answer inspected, no page-wide overflow, table scrolls within its container, five ordered steps and expandable shock-oil FAQ checked"
+  }
+}
