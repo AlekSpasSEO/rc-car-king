@@ -1,0 +1,246 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-slipper-clutch-adjustment",
+  "intentKey": "identify-adjustable-friction-slipper-and-diagnose-launch-slip-using-exact-model-baselines",
+  "status": "published",
+  "title": "How to adjust an RC car slipper clutch",
+  "dek": "Find the right starting position, tell clutch slip from tire spin, and know when the drivetrain needs an inspection.",
+  "seo": {
+    "title": "RC Slipper Clutch Adjustment Guide | RC Car King",
+    "description": "Set an RC slipper clutch using exact Slash and B7.1D manual references. Diagnose tire spin, excessive slip and gear noise before adjusting the nut."
+  },
+  "published": "2026-11-08",
+  "updated": "2026-11-08",
+  "publishedAt": "2026-11-08T10:03:37.211Z",
+  "updatedAt": "2026-11-08T10:03:37.211Z",
+  "answer": "Identify the installed slipper assembly and find its baseline in the exact model manual. Disconnect power before touching the adjuster. On a conventional spring-loaded slipper, more spring pressure makes it harder for the clutch to slip. Once the car is reassembled, compare short launches on the same surface. Stop and inspect if the car barely moves, grinds or loses drive during the run.",
+  "scope": "For electric RC cars with an adjustable friction slipper. The stock Traxxas Slash 2WD XL-5 58234-8 and Team Associated RC10B7.1D kit 90047 use different starting references. Follow your exact instructions for access, adjustment and operating limits. This guide uses on-ground observations with the vehicle fully assembled for any powered check.",
+  "prerequisites": [
+    "Exact vehicle SKU, manual revision and confirmation of the installed transmission",
+    "The manual’s specified tool and a way to record the baseline or adjustment",
+    "A clear, permitted driving area with room to stop and a consistent test surface",
+    "An assembled vehicle with no unresolved drivetrain faults"
+  ],
+  "conceptCaption": "How a conventional slipper sits in the drivetrain",
+  "concepts": [
+    {
+      "name": "INPUT",
+      "description": "The motor pinion drives the spur gear."
+    },
+    {
+      "name": "FRICTION",
+      "description": "Spring pressure sets how readily the clutch slips under load."
+    },
+    {
+      "name": "OUTPUT",
+      "description": "The transmission carries the remaining drive to the axle differential and wheels."
+    }
+  ],
+  "sections": [
+    {
+      "id": "mechanism",
+      "heading": "What the adjustment changes",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "The spur gear takes drive from the motor pinion. In both examples, a friction assembly at the spur lets the input and transmission side turn at different speeds briefly under load. The spring presses the friction faces together. Changing that pressure changes how much torque the clutch can transmit before it starts to slip. RC Car Action illustrates the same spring and friction principle with a different assembly. Use the vehicle drawing for the actual stack of parts.",
+        "A brief slip can soften a sudden load when the tires hook up. If the friction faces keep sliding while the car tries to accelerate, some of the input energy becomes heat at the clutch. That is why loosening a slipper until it constantly whines is a poor way to make a car gentler. If you want less initial throttle for a new driver, use the documented radio or speed control setting where available and keep the clutch at its working baseline.",
+        "The adjustment leaves the tooth counts alone. A tighter nut does not make the gearing taller. It also leaves the differential’s job alone. The B7.1D illustrates this neatly because the build manual shows a ball differential and an independent slipper. The differential lets the rear wheels turn at different speeds while cornering. The slipper sits earlier in the drive path and moderates torque entering the transmission.",
+        "Think about what happens when the tires meet the ground after unloading over a bump. The wheel speed and the speed the surface permits can differ. The clutch can absorb part of that abrupt load if the torque is high enough to make the faces slide. The driving lesson is to keep the throttle smooth and assess the normal launch first. A jump or a deliberate wheelie introduces more variables than a controlled start on level ground."
+      ]
+    },
+    {
+      "id": "exact-baselines",
+      "heading": "Find the reference for the hardware in your car",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "paragraphs": [
+        "On the Slash 58234-8, page 24 shows a rubber access plug in the transmission cover and specifies the four-way wrench. The manual describes clockwise adjustment to tighten and counterclockwise to loosen. Page 25 gives the tightest recommended setting as half a turn counterclockwise from fully compressed and prohibits running with the spring fully compressed. Read that limit alongside the driving check. Half a turn is a limit for the stock assembly, not a target for every Slash on every surface.",
+        "The RC10B7.1D manual uses a different reference. In Bag 6 the outer face of the nut starts level with the end of the top shaft. Page 23 gives one-eighth-turn changes for track tuning. Its manual describes a faint slipping sound for the first one to two feet on takeoff. That observation belongs to the 90047 instructions and its correctly assembled slipper. A different shaft, spring or pad stack can make the same visible nut position misleading.",
+        "A used car can have the right body and the wrong manual for its current transmission. Check the assembly against the exploded view with power disconnected. Look for the actual spring, nut and friction stack or confirm the history with the previous owner. If the hardware differs and you cannot identify it, leave the adjuster alone until you have the applicable instructions."
+      ],
+      "table": {
+        "caption": "Exact-model slipper references checked 8 November 2026",
+        "columns": [
+          "Stock assembly",
+          "Initial reference or limit",
+          "Where to look"
+        ],
+        "rows": [
+          [
+            "Traxxas Slash 2WD XL-5 · 58234-8",
+            "At least ½ turn counterclockwise from fully compressed. Use the documented driving check.",
+            "R00 pp. 24–25, rubber plug and adjustment sidebar"
+          ],
+          [
+            "Team Associated RC10B7.1D · 90047",
+            "Nut face flush with shaft end at assembly. Manual calls for ⅛-turn tuning increments.",
+            "Bag 6 Step 5 and p. 23"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "workflow",
+      "heading": "Make one adjustment and compare the result",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "steps": [
+        {
+          "heading": "Write down the symptom before touching the clutch",
+          "paragraphs": [
+            "From normal driving, note whether the tires spun, the motor audibly sped up without a matching increase in road speed, or drive disappeared altogether. Include the surface, throttle input and any new mechanical sound. If the truck ran well until an impact or the car now makes a repeating click, investigate that change before treating it as a tuning problem."
+          ]
+        },
+        {
+          "heading": "Disconnect power and record the reference",
+          "paragraphs": [
+            "Follow the model’s shutdown sequence and disconnect the drive battery. Let the drivetrain cool. Use the specified access and tool to check the current position against the correct manual. A photo of the nut and shaft or a note of the documented reference makes the change reversible. Avoid forcing a nut or using an assumed fully tightened stop to find a baseline on unfamiliar hardware."
+          ]
+        },
+        {
+          "heading": "Make a small change within the manual’s limits",
+          "paragraphs": [
+            "If the assembly is sound and the manual supports adjustment, use the specified increment or method and note the direction. Hold the tire choice, radio settings and surface steady for the comparison. Refit the plug or guard and secure the body before restoring power. An adjustment made with the cover off and tools nearby belongs on an unpowered car."
+          ]
+        },
+        {
+          "heading": "Compare short launches with room to stop",
+          "paragraphs": [
+            "Follow the applicable manual and begin with a controlled check. Use an open stretch with the same surface and a similar starting input for each comparison. Keep hands clear and leave the car on the ground. If there is sustained whine, abnormal heat, grinding or unreliable drive, stop and inspect. Repeating hard starts is unlikely to clarify which component needs attention."
+          ]
+        },
+        {
+          "heading": "Keep the setting only if it solves the recorded problem",
+          "paragraphs": [
+            "Record what changed when the wheels actually gripped. A setting that helps on one surface may feel different when grip changes. If the result is worse, return to the documented baseline or your previous known working setting. If the adjustment produces no meaningful change, check the assembly and widen the diagnosis before turning the nut again."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "troubleshooting",
+      "heading": "Tell tire spin, clutch slip and drivetrain faults apart",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "paragraphs": [
+        "On loose dirt, you can often see the driven tires turn quickly while the car makes little progress. That points first to traction and throttle input. Clutch slip happens inside the transmission path and can sound like an increase in motor speed without matching wheel acceleration. Traxxas describes a higher-pitched whine as the stock slipper works. Sound alone is ambiguous. A worn gear, changing motor load or a different assembly can sound similar from a distance.",
+        "A brief launch sound that goes away as the car pulls cleanly is different from drive fading after the car is already rolling. In the latter case, shut down and let things cool. Follow the manual to inspect for a displaced or damaged part, contaminated friction faces or a setting that has shifted. Stop tuning if the clutch cannot hold the documented baseline. Restoring the correct assembly comes first.",
+        "A noise that repeats with wheel rotation even under gentle drive suggests inspecting the power path, including the gear teeth and wheel hardware, before adjusting a clutch. If the motor never responds, check the installed controller’s indicators and the separate no-drive troubleshooting guide. The slipper acts on mechanical drive after the motor, so turning its nut cannot restore an absent throttle signal.",
+        "Keep the comparison simple enough to repeat at the next session. A short note such as “same rear tires on dry packed dirt, one adjustment from the manual baseline, tires still spin at launch” tells you more than “clutch too loose.” It records a condition you can recognize again and leaves room for a traction or throttle change if the clutch is already working.",
+        "If a previously healthy car changes behavior immediately after gear service, check the work just done. Gear mesh, the order of the spring hardware and the fit of the spur can each affect the result. Inspect the assembly diagram before compensating with the nut. If the symptom started after a surface change instead, compare again on familiar ground. The timing of the change gives you a useful first lead."
+      ],
+      "table": {
+        "caption": "What to check before turning the slipper nut again",
+        "columns": [
+          "Observation",
+          "First check"
+        ],
+        "rows": [
+          [
+            "Driven tires spin visibly on loose ground",
+            "Try a smoother launch and compare on the same surface."
+          ],
+          [
+            "Short slipping sound followed by clean acceleration",
+            "Compare with the exact manual’s launch check."
+          ],
+          [
+            "Sustained whine or fading drive",
+            "Stop, cool and inspect the clutch and transmission under the manual."
+          ],
+          [
+            "Grinding, repeating clicks or no motor response",
+            "Check gear condition, drive hardware or the controller’s documented indicators as appropriate."
+          ]
+        ]
+      }
+    }
+  ],
+  "checklist": {
+    "title": "Before the next full run",
+    "items": [
+      "Identify the actual slipper and applicable manual",
+      "Record the baseline and any change you made",
+      "Reinstall the plug or guard and secure the body",
+      "Compare on the same surface with the same running setup",
+      "Resolve grinding, sustained slip or loss of drive before continuing"
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "traxxas/slash-2wd-xl-5/",
+      "title": "Traxxas Slash 2WD XL-5 · 58234-8",
+      "note": "The stock short-course truck with rubber-plug access to the spur-mounted slipper."
+    },
+    {
+      "route": "team-associated/rc10b7-1d-team-kit/",
+      "title": "Team Associated RC10B7.1D · 90047",
+      "note": "The dirt buggy kit with a separate ball differential and adjustable slipper."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does tightening the slipper change the gear ratio?",
+      "answer": "The tooth counts and reduction stay the same. Tightening a conventional spring-loaded slipper increases the pressure on its friction faces so it takes more torque to slip."
+    },
+    {
+      "question": "How far should I back off the slipper nut?",
+      "answer": "Use the reference for the installed assembly. The stock Slash 58234-8 has a half-turn minimum backed-off limit. The B7.1D 90047 manual instead starts with the nut face flush with the shaft end."
+    },
+    {
+      "question": "Does wheelspin mean the slipper is loose?",
+      "answer": "Visible wheelspin shows that the driven tires have lost grip. Compare the surface, tire behavior and throttle input before adjusting the clutch."
+    },
+    {
+      "question": "Can I tighten the slipper fully to stop it slipping?",
+      "answer": "Follow the exact manual’s operating limit. For the stock Slash 58234-8, Traxxas explicitly prohibits running with the spring fully compressed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas Slash 2WD XL-5 58234-8 owner’s manual R00, pp. 24–25",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "Team Associated RC10B7.1D 90047 assembly manual, Bag 6 and p. 23",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "RC Car Action, slipper clutch friction and spring tension",
+      "url": "https://www.rccaraction.com/articles/how-to-adjust-your-slipper-clutch",
+      "kind": "Independent technical context",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "RC Car King, gearing and final-drive ratio",
+      "url": "https://rccarking.com/guides/rc-car-gearing-pinion-spur-final-drive/",
+      "kind": "Related guide",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "RC Car King, steering responds but the car will not drive",
+      "url": "https://rccarking.com/guides/rc-car-steers-but-wont-move/",
+      "kind": "Related troubleshooting guide",
+      "checked": "2026-11-08"
+    }
+  ],
+  "evidenceNote": "Document-based guide. The exact manuals supply the adjustment references. The independent technical article provides mechanism context. The comparison workflow and symptom table are editorial guidance.",
+  "revisionNote": "First published 8 November 2026. Covers stock adjustment references, repeatable comparison and troubleshooting."
+}

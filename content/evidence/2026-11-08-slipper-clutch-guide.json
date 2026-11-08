@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-08",
+  "createdAt": "2026-11-08T10:03:37.211Z",
+  "kind": "guide",
+  "route": "guides/rc-car-slipper-clutch-adjustment/",
+  "words": 1275,
+  "quota": {
+    "guidesBefore": 0,
+    "guidesAdded": 1,
+    "timezone": "Europe/Skopje"
+  },
+  "sources": [
+    {
+      "name": "Traxxas Slash 2WD XL-5 58234-8 owner’s manual R00, pp. 24–25",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "Team Associated RC10B7.1D 90047 assembly manual, Bag 6 and p. 23",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "RC Car Action, slipper clutch friction and spring tension",
+      "url": "https://www.rccaraction.com/articles/how-to-adjust-your-slipper-clutch",
+      "kind": "Independent technical context",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "RC Car King, gearing and final-drive ratio",
+      "url": "https://rccarking.com/guides/rc-car-gearing-pinion-spur-final-drive/",
+      "kind": "Related guide",
+      "checked": "2026-11-08"
+    },
+    {
+      "name": "RC Car King, steering responds but the car will not drive",
+      "url": "https://rccarking.com/guides/rc-car-steers-but-wont-move/",
+      "kind": "Related troubleshooting guide",
+      "checked": "2026-11-08"
+    }
+  ],
+  "documents": [
+    {
+      "sourceIndex": 0,
+      "status": 200,
+      "sha256": "9bd367db3a592ea8d694960a4d01399ac550a905d0add7d5c735e00d121b3155",
+      "detail": "R00 pp. 24–25: rubber plug, four-way wrench, direction, launch observation and fully compressed spring limit."
+    },
+    {
+      "sourceIndex": 1,
+      "status": 200,
+      "sha256": "2727248134be4bd51bf25227df1218dd7629d2f550a8b6ebcb10167bcd47aaff",
+      "detail": "Bag 6 and p. 23: flush starting position, one-eighth-turn increments and brief slip on takeoff."
+    }
+  ],
+  "editorial": "Original conceptual diagram, diagnostic workflow and tables. No physical testing or buying links.",
+  "validation": {
+    "production": "build and check passed",
+    "preview": "build and check passed",
+    "desktop": "1440 × 1000 heading, short answer and diagram inspected",
+    "mobile": "390 × 844 heading, tables and expanded FAQ inspected. Tables scroll in their containers. No page overflow. Five steps present."
+  }
+}
