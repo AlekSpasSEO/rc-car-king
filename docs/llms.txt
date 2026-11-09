@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [5 RC car kits and what it costs to finish them](https://alekspasseo.github.io/rc-car-king/listicles/rc-car-kits-complete-startup-cost/): Compare five body-inclusive RC car kits by the total cost to drive. Exact SKUs, kit prices, electronics, paint, tools and full reviews.
 - [How to adjust an RC car slipper clutch](https://alekspasseo.github.io/rc-car-king/guides/rc-car-slipper-clutch-adjustment/): Set an RC slipper clutch using exact Slash and B7.1D manual references. Diagnose tire spin, excessive slip and gear noise before adjusting the nut.
 - [RC car ride height: spring preload, spring rate and shock oil](https://alekspasseo.github.io/rc-car-king/guides/rc-car-ride-height-spring-preload-shock-oil/): Measure loaded RC ride height, distinguish spring preload from spring rate and damping, and troubleshoot uneven sag or bouncing before opening a shock.
 - [RC car gearing explained: pinion, spur and final-drive ratio](https://alekspasseo.github.io/rc-car-king/guides/rc-car-gearing-pinion-spur-final-drive/): Learn pinion and spur ratios, calculate final drive with exact ARRMA and Traxxas examples, and separate gearing arithmetic from fit and operating approval.

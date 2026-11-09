@@ -1,0 +1,436 @@
+{
+  "kind": "listicle",
+  "slug": "rc-car-kits-complete-startup-cost",
+  "intentKey": "compare-body-inclusive-electric-rc-car-assembly-kit-complete-empty-bench-startup-budgets",
+  "status": "published",
+  "title": "5 RC car kits and what it costs to finish them",
+  "dek": "Five body-inclusive RC kits, from a Lunch Box van to a dirt race buggy, with exact SKUs and itemized US first-run budgets.",
+  "seo": {
+    "title": "5 RC Car Kits Compared by Total Startup Cost | RC Car King",
+    "description": "Compare five body-inclusive RC car kits by the total cost to drive. Exact SKUs, kit prices, electronics, paint, tools and full reviews."
+  },
+  "published": "2026-11-09",
+  "updated": "2026-11-09",
+  "publishedAt": "2026-11-09T09:11:38.124Z",
+  "updatedAt": "2026-11-09T09:11:38.124Z",
+  "answer": "Start with the Lunch Box for a casual van build or the BMW TT-02 for repeat laps on clean pavement. Choose the Nissan R91CP for a low rear-drive Group C build, the BBX for scale buggy driving on packed dirt, and the RC10B7.1D if you already know your local dirt class. The first-run examples range from $357.30 to $1,174.99 USD. The Nissan costs less in the carton than the BMW and more to get running in these examples.",
+  "scope": "These are five electric assembly kits with bodywork and distinct uses. The figures assume an empty bench and one runnable car. All five have exact-model reviews in the archive. This is a documented equipment and fit comparison, with manufacturer photography and editorial terrain guidance.",
+  "prerequisites": [
+    "Confirm the exact SKU and regional carton contents.",
+    "Know the surface you can use regularly and get written class rules if racing.",
+    "Read the build and electronics instructions before selecting power, paint or tools."
+  ],
+  "selectionMethod": "The five entries have distinct driving jobs and documented package contents. Four Tamiya kits cover four different builds, and the Associated represents a dirt club car. The estimates use dated US kit references and clearly identified editorial allowances. The picks follow the driving job. No comparative driving tests or measured performance are used.",
+  "image": "reviews/bmw-gt3-1.jpg",
+  "imageAlt": "Official Tamiya BMW M4 GT3 EVO 58751: assembled and painted example of the unpainted kit.",
+  "imageCaption": "Official Tamiya BMW M4 GT3 Evo photograph. The TT-02 is the shaft-driven paved option in this comparison.",
+  "imageCredit": {
+    "name": "Tamiya",
+    "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_1.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "picks": [
+    {
+      "route": "tamiya/lunch-box-2005/",
+      "sectionId": "lunch-box",
+      "title": "Tamiya Lunch Box (2005)",
+      "sku": "58347",
+      "reference": {
+        "amount": 146.3,
+        "currency": "USD",
+        "basis": "Horizon Hobby US retailer reference for TAM58347",
+        "source": "https://www.horizonhobby.com/product/1-12-lunch-box-2wd-monster-truck-kit/TAM58347.html",
+        "checked": "2026-11-09"
+      },
+      "fit": "A playful rear-drive van for open, level hardpack or clean pavement with room to turn.",
+      "strength": "The molded body, large tires and stock wheelie bar give the CW-01 its character without a long setup menu.",
+      "reservation": "The tall shell and simple spring suspension reward slowing down before the turn. Verify the controller in the actual carton.",
+      "included": "Hard plastic van body, wheels and tires, wheelie bar and brushed 540 motor. The US price reference lists a TEU-105BK controller.",
+      "required": "Two-channel radio and receiver, steering servo, supported drive battery and charger, radio cells as required, compatible finish and hand tools.",
+      "startupNote": "USD from an empty bench: $146.30 kit + $75.00 radio, receiver and servo + $30.00 drive pack + $40.00 charger + $6.00 radio cells + $35.00 paint + $25.00 tools = $357.30 before tax and delivery. This example assumes the controller listed by the US retailer is included. Budget for a compatible brushed ESC separately if your package omits it."
+    },
+    {
+      "route": "tamiya/bmw-m4-gt3-evo-tt-02/",
+      "sectionId": "bmw",
+      "title": "Tamiya BMW M4 GT3 EVO TT-02",
+      "sku": "58751",
+      "reference": {
+        "amount": 154.7,
+        "currency": "USD",
+        "basis": "Horizon Hobby US retailer reference for TAM58751",
+        "source": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+        "checked": "2026-11-09"
+      },
+      "fit": "Clean, dry pavement or a local on-road class that explicitly admits this TT-02 configuration.",
+      "strength": "Shaft-driven 4WD and a documented stock motor/controller pair give the build a clear starting point.",
+      "reservation": "The paint and livery need bench time. The quoted controller inclusion is specific to the US package cited here.",
+      "included": "TT-02 shaft-drive chassis kit, BMW polycarbonate body, wheels and tires, trim and livery parts. The US listing includes a Torque-Tuned 540 motor and Hobbywing THW 1060 ESC.",
+      "required": "Radio and receiver, standard steering servo, supported battery and charger, radio cells as required, body-finishing supplies and tools.",
+      "startupNote": "USD from an empty bench: $154.70 kit + $75.00 radio, receiver and servo + $30.00 7.2 V NiMH pack + $40.00 charger + $6.00 radio cells + $35.00 paint + $25.00 tools = $365.70 before tax and delivery. The price basis is the US box with the listed controller. Confirm battery fit and follow the supplied ESC and charger instructions."
+    },
+    {
+      "route": "tamiya/nissan-r91cp-1992/",
+      "sectionId": "nissan",
+      "title": "Tamiya Nissan R91CP 1992",
+      "sku": "47531",
+      "reference": {
+        "amount": 144.2,
+        "currency": "USD",
+        "basis": "RC Hobby Pros US retailer reference for item 47531",
+        "source": "https://rchobbypros.com/collections/builders-kits-tamiya-kyosho/products/1-10-rc-nissan-r91cp-limited-edition",
+        "checked": "2026-11-09"
+      },
+      "fit": "A builder who wants the 1992 Daytona body and has access to smooth, clean pavement suitable for a low pan car.",
+      "strength": "Direct rear drive, a ball differential and a T-bar rear end give this reissue a mechanical identity of its own.",
+      "reservation": "Budget for an ESC and lay out the radio gear before buying. Tamiya publishes conflicting widths across regions.",
+      "included": "Clear Nissan body, finish details, wheels and foam tires, RS-540 Sport-Tuned motor and rear CVA damper.",
+      "required": "Radio and receiver, standard-size steering servo, suitable brushed ESC, supported pack and charger, radio cells as required, model-specific finishing materials and tools.",
+      "startupNote": "USD from an empty bench: $144.20 kit + $60.00 radio and receiver + $35.00 servo + $45.00 ESC + $40.00 drive pack + $45.00 charger + $8.00 radio cells + $35.00 paint + $35.00 tools = $447.20 before tax and delivery. Choose compact receiver and ESC dimensions from the exact manual and check clearance with the body before making permanent mounts."
+    },
+    {
+      "route": "tamiya/bbx-bb-01/",
+      "sectionId": "bbx",
+      "title": "Tamiya BBX BB-01",
+      "sku": "58719",
+      "reference": {
+        "amount": 263.2,
+        "currency": "USD",
+        "basis": "Tower Hobbies US retailer reference for TAM58719",
+        "source": "https://www.towerhobbies.com/product/tamiya-110-bbx-bb-01-2wd-buggy-kit/TAM58719.html",
+        "checked": "2026-11-09"
+      },
+      "fit": "The scale off-road builder who wants a cage, driver and trailing-arm rear end for clear packed dirt.",
+      "strength": "The BB-01 pairs oil dampers with a ball differential and an accessible motor area behind the hinged cage.",
+      "reservation": "The servo profile and motor shaft dimensions matter. Reusing random spares can stall the build at installation.",
+      "included": "BB-01 chassis, multi-piece bodywork and cage, driver figure, wheels and tires, oil dampers and ball differential.",
+      "required": "Radio and receiver, low-profile servo, suitable Type 540 motor with the documented shaft length, matched ESC, supported pack and charger, radio cells, finish and tools.",
+      "startupNote": "USD from an empty bench: $263.20 kit + $60.00 radio and receiver + $55.00 low-profile servo + $35.00 motor + $45.00 ESC + $40.00 drive pack + $45.00 charger + $8.00 radio cells + $35.00 finish + $35.00 tools = $621.20 before tax and delivery. The example budgets for a basic compatible brushed combination. Read the manual and confirm the actual motor, servo and pack dimensions before buying."
+    },
+    {
+      "route": "team-associated/rc10b7-1d-team-kit/",
+      "sectionId": "b7-dirt",
+      "title": "Team Associated RC10B7.1D Team Kit",
+      "sku": "90047",
+      "reference": {
+        "amount": 399.99,
+        "currency": "USD",
+        "basis": "Associated Electrics US manufacturer kit reference for 90047",
+        "source": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+        "checked": "2026-11-09"
+      },
+      "fit": "A 1/10 rear-drive buggy class on dirt, clay or low-grip Astro where the local rules suit the D kit.",
+      "strength": "A ball differential, three-gear laydown transmission and dirt-oriented suspension package give you a documented baseline.",
+      "reservation": "The kit price excludes the rolling and electronic equipment that turns a race chassis with bodywork into a runnable car.",
+      "included": "90047 D-spec assembly kit with clear body and wings, ball differential, three-gear transmission and 13 mm dampers.",
+      "required": "Class-legal motor, ESC and pinion, radio and servo, compatible 2S pack and complete charging setup, wheels, tires, inserts, paint, tools and consumables.",
+      "startupNote": "USD from an empty bench: $399.99 kit + $200.00 motor and ESC + $100.00 radio, receiver and cells + $65.00 servo + $65.00 2S pack + $100.00 complete charger setup + $70.00 wheels, tires and inserts + $10.00 pinion + $45.00 paint and consumables + $100.00 tools + $20.00 charging care = $1,174.99 before tax and delivery. Confirm the local rules, tire availability and the allowed pack and motor before ordering. A race entry and a spare set of tires are outside this first-run example."
+    }
+  ],
+  "sections": [
+    {
+      "id": "comparison",
+      "heading": "Compare the whole checkout",
+      "paragraphs": [
+        "Put the kit, the transmitter and everything that makes the wheels turn on the same receipt. That simple change puts the Nissan and the BMW in a different order. The Nissan has the lower kit reference by $10.50, yet the BMW example is $81.50 lower from an empty bench. The BMW package cited here already has a controller, while the Nissan needs one and gets its own allowance for a compact installation. An owner who can reuse the right electronics may get a different result.",
+        "The table uses public US kit prices checked on 9 November 2026 and rounded editorial allowances for the remaining equipment. The itemized totals are illustrations of a complete first-run budget. Prices for paint and tools are allowances, so adjust them after reading the build manual and checking your bench. Totals exclude tax, shipping, venue fees and optional upgrades. Check for a charger power supply or charging lead before accepting a bundle price. A charger that needs either can add another line to the receipt.",
+        "Pick by where the finished car will run, then compare the numbers. The five choices cover a loose-surface van, two distinct paved cars, a scale buggy and a dirt race build. A dollar saved on a pan car buys very little if your regular spot is a broken alley full of grit. A local race program can rule out a mechanically suitable buggy through its motor, battery or tire rules."
+      ],
+      "table": {
+        "caption": "Five complete kit builds, with US price references checked 9 November 2026",
+        "columns": [
+          "Exact kit",
+          "Where it fits",
+          "Kit reference",
+          "Estimated first run"
+        ],
+        "rows": [
+          [
+            "Tamiya Lunch Box (2005) (58347)",
+            "Open hardpack or pavement",
+            "$146.30",
+            "$357.30"
+          ],
+          [
+            "Tamiya BMW M4 GT3 EVO TT-02 (58751)",
+            "Clean pavement or approved class",
+            "$154.70",
+            "$365.70"
+          ],
+          [
+            "Tamiya Nissan R91CP 1992 (47531)",
+            "Smooth, clean pavement",
+            "$144.20",
+            "$447.20"
+          ],
+          [
+            "Tamiya BBX BB-01 (58719)",
+            "Packed dirt",
+            "$263.20",
+            "$621.20"
+          ],
+          [
+            "Team Associated RC10B7.1D Team Kit (90047)",
+            "Dirt, clay or low-grip Astro",
+            "$399.99",
+            "$1,174.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "lunch-box",
+      "heading": "1. Start with a simple backyard build",
+      "paragraphs": [
+        "This is the kit for the owner who wants a recognizably different machine at the end of the build. The rigid molded van and 115 mm tires stand high over a simple rear-drive chassis. The rear assembly rolls and the front uses swingarms. The stock suspension has springs without oil dampers. On a flat dirt loop, plan the next corner early and let the tall body settle before feeding in throttle. A low-grip surface gives the rear somewhere to slide, while rough ground can ask more of that simple suspension than the tire diameter suggests.",
+        "The controller is the order-line trap. Horizon names the TEU-105BK and the archived retail identity describes a TEU-101BK. Check the actual carton and use the instructions for the controller it contains before choosing the battery, connectors and charger. The example allows for a compatible 7.2 V pack only after that check. Paint has its own trap. The manual calls out finishes for the molded shell, including Tamiya TS where specified. Use those instructions to choose the coating for each material. A polycarbonate body paint shopping list from the BMW will send you down the wrong aisle."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bmw",
+      "heading": "2. Build a GT car for repeat laps",
+      "paragraphs": [
+        "The BMW is the straightforward paved choice here if the appeal is repeating the same corner until the line cleans up. A driveshaft takes power to both ends. The TT-02 layout uses shared left and right suspension parts, which simplifies sorting bags while you assemble it. Start with the supplied rolling hardware and focus on a free drivetrain and centered steering. A local TT-02 class may require its own tires, gearing or motor. Get that sheet before the order if joining a grid is the goal.",
+        "Set aside an evening for the body. Before paint, match the cut lines, windows, light areas and livery sequence to the 58751 instructions. The clear polycarbonate and the molded detail pieces may need different products. Allow drying time before handling the shell or putting on decals. This matters on the first checkout because the chassis can be assembled and the radio can work while the body still needs the finishing items you forgot. If the choice is between this kit and the Nissan, put steering access, surface quality and the actual box contents ahead of the shape of the headlights."
+      ],
+      "sourceIndexes": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "nissan",
+      "heading": "3. Take the rear-drive Group C route",
+      "paragraphs": [
+        "There is a whole lesson in this rear axle. The motor drives the rear through a direct-drive layout with a ball differential. The T-bar allows movement of the rear pod and the CVA damper controls its motion. The front end uses kingpins. That architecture and the foam tires make the running surface part of the purchase decision. If your paved spot has expansion joints, loose gravel or repeated changes in height, walk it before you plan around this car. The BMW makes more sense if you want a more conventional shaft-driven touring build for regular use.",
+        "The motor in the carton takes one item off the list. The separate ESC still needs room under that low shell, and connector routing can consume the space left beside the receiver. Tape a paper footprint of each component over the layout in the manual before placing an order if size is in doubt. One more fit detail is unresolved in the documentation. The Japanese product page specifies 280 mm width and the English page specifies 270 mm. Verify the built dimension if a transport case, club rule or storage opening has a hard width limit."
+      ],
+      "sourceIndexes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "bbx",
+      "heading": "4. Build a scale buggy for packed dirt",
+      "paragraphs": [
+        "The BBX makes sense when you want the workshop time to show after the body is fitted. The rear trailing arms and oil dampers are part of the scale buggy’s mechanical appeal, and the ribbed front and spiked rear tires make the two ends visually and mechanically distinct. Take it to an open dirt loop with room for a gentle arc and a braking zone. The appeal here is the buggy’s layout and detail. If the weekly plan is club racing, start with the class rules and tires, then see whether the BBX meets them.",
+        "Use the manual’s motor and servo dimensions as shopping filters. Tamiya calls for a Type 540 motor shaft longer than 10.5 mm, and the low-profile servo requirement matters under the bodywork. Check screw and pinion engagement during dry fitting. The battery goes in from the nose. The rear cage can hinge for motor access once the retaining screws are removed. Check that the pack can come out and the cage can open with the wires in place. The time to discover a trapped connector is on the bench before the first drive."
+      ],
+      "sourceIndexes": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "b7-dirt",
+      "heading": "5. Build around a dirt club class",
+      "paragraphs": [
+        "This is the choice when the track comes first. Ask what the local 2WD buggy class runs and whether it mandates a motor, tire, battery or connector. Let the answer decide the bill of materials. The 90047 has the D setup, including a ball differential, 81 mm rear arms and a three-gear laydown transmission. Associated positions it for dirt, clay and low-grip Astro. The related 90046 uses a different baseline. If the seller swaps photos across the family, follow the carton identifier and the exact manual.",
+        "Walk the cost sheet from the track back to the bench. Wheels, tires and inserts need to be ordered as a compatible set. Put the class-legal motor, compatible ESC and the manual’s 48-pitch pinion on the same order after confirming the intended ratio with the local baseline. A proper drive pack and charger with the right input supply, leads and charging provisions sit on their own lines. A racer who already has these systems can subtract the items that genuinely transfer. A first-time buyer can use the whole-bench figure to compare against a documented RTR alternative before committing to a class build."
+      ],
+      "sourceIndexes": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "reuse-check",
+      "heading": "How to trim the bill with gear you own",
+      "paragraphs": [
+        "Subtract by compatibility, one line at a time. A transmitter can carry over if there is a matching receiver, a suitable model memory and enough channels. The servo still has to fit its mounting space and match the radio system’s power requirements. For the battery, check chemistry, voltage, dimensions, connector, retention and wire routing against the car and installed ESC. For the charger, check chemistry support, the required power source and the exact charging leads. Write down the actual models. “Standard radio” and “2S charger” are too vague to settle a fit question.",
+        "Then sort the remaining spend into what you need to assemble, what you need to drive and what can wait. A body-inclusive kit can need paint, a cutting tool and the right driver sizes before you can finish it. The race buggy also needs its wheels and tires from day one. Optional tuning parts can wait until you know how the stock or club baseline feels. Put the first run on a suitable surface with room to stop, check for steering or drivetrain binding during assembly, and follow the exact electronics manuals when you set the radio and power system up."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Before you order a kit",
+    "items": [
+      "Match the SKU, box contents and source price.",
+      "Check motor, ESC, servo, battery and charger fit and compatibility.",
+      "Confirm wheels, tires, inserts and pinion where needed.",
+      "Check the shell material and add the right finishing supplies.",
+      "Subtract only gear you can use on this exact model.",
+      "Verify the venue or club class before checkout."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "tamiya/lunch-box-2005/",
+      "title": "Tamiya Lunch Box (2005)",
+      "note": "Exact package, detailed specifications and ownership considerations."
+    },
+    {
+      "route": "tamiya/bmw-m4-gt3-evo-tt-02/",
+      "title": "Tamiya BMW M4 GT3 EVO TT-02",
+      "note": "Exact package, detailed specifications and ownership considerations."
+    },
+    {
+      "route": "tamiya/nissan-r91cp-1992/",
+      "title": "Tamiya Nissan R91CP 1992",
+      "note": "Exact package, detailed specifications and ownership considerations."
+    },
+    {
+      "route": "tamiya/bbx-bb-01/",
+      "title": "Tamiya BBX BB-01",
+      "note": "Exact package, detailed specifications and ownership considerations."
+    },
+    {
+      "route": "team-associated/rc10b7-1d-team-kit/",
+      "title": "Team Associated RC10B7.1D Team Kit",
+      "note": "Exact package, detailed specifications and ownership considerations."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does body-inclusive mean ready to drive?",
+      "answer": "Body-inclusive means the kit contains its bodywork. The finish, electronics, battery and sometimes the entire wheel-and-tire set still need their own checks. Use the exact package list."
+    },
+    {
+      "question": "Why does the cheaper Nissan kit cost more to finish than the BMW?",
+      "answer": "The US BMW package cited here includes an ESC. The Nissan needs a separate one, and the two examples make different allowances for the radio equipment, charging gear and tools."
+    },
+    {
+      "question": "Can I use the same pack in two of these kits?",
+      "answer": "Check both installed ESCs and manuals for approved chemistry and voltage, then confirm physical fit, retention and connectors in each car. A shared nominal voltage alone cannot establish compatibility."
+    },
+    {
+      "question": "Do these totals include a charger power supply?",
+      "answer": "Yes, the examples allow for a complete working charging setup. Check that the charger you choose includes or can accept the required input supply and that its leads suit the exact pack."
+    },
+    {
+      "question": "Which kit should I check with a club before buying?",
+      "answer": "Check every proposed race build with your club. For the 90047 especially, the class may determine the motor, battery and tire choices before you order."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby US — TAM58347 listing and package contents",
+      "url": "https://www.horizonhobby.com/product/1-12-lunch-box-2wd-monster-truck-kit/TAM58347.html",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — Lunch Box 2005 item 58347",
+      "url": "https://tamiya.com/english/products/58347/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 58347 assembly instructions",
+      "url": "https://www.tamiya.com/cms/english/rc/rcmanual/58347.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Horizon Hobby US — TAM58751 with Torque-Tuned motor and THW 1060 ESC",
+      "url": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — BMW M4 GT3 Evo TT-02 item 58751",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 58751 body instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "kind": "Manufacturer body manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — TT-02 chassis instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/tt02.pdf",
+      "kind": "Manufacturer chassis manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Hobby Pros — Nissan R91CP limited-edition item 47531",
+      "url": "https://rchobbypros.com/collections/builders-kits-tamiya-kyosho/products/1-10-rc-nissan-r91cp-limited-edition",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya Japan — 47531 technical data",
+      "url": "https://tamiya.com/japan/products/47531/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya English — 47531 technical data",
+      "url": "https://www.tamiya.com/english/products/47531/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 47531 assembly instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/47531.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "TamiyaClub — historical Nissan R91CP record",
+      "url": "https://www.tamiyaclub.com/car.asp?cid=2140",
+      "kind": "Independent historical model reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tower Hobbies US — TAM58719 kit reference",
+      "url": "https://www.towerhobbies.com/product/tamiya-110-bbx-bb-01-2wd-buggy-kit/TAM58719.html",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — BBX BB-01 item 58719",
+      "url": "https://www.tamiya.com/english/products/58719/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 58719 assembly instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/58719.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Driver — Peter Vieira’s BBX build preview",
+      "url": "https://www.rcdriver.com/im-ready-to-jump-into-a-tamiya-bbx-build-heres-what-im-stoked-on/",
+      "kind": "Independent builder commentary",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Associated Electrics — RC10B7.1D Team Kit 90047",
+      "url": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+      "kind": "Manufacturer product and US kit price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Associated Electrics — 90047 Team Kit manual, 22 January 2026",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Red RC — RC10B7.1 launch and D-variant context",
+      "url": "https://www.redrc.net/2026/01/team-associated-rc10b7-1-team-kit/",
+      "kind": "Independent announcement coverage of the family",
+      "checked": "2026-11-09"
+    }
+  ],
+  "evidenceNote": "Kit price references were checked on 9 November 2026. Equipment amounts are editorial US dollar budgeting allowances. Manufacturer sources document chassis and package facts. Independent coverage provides historical or platform context. Product photos and the existing Amazon listing identities come from the linked exact-model reviews. Current Amazon prices and availability are not represented.",
+  "revisionNote": "First published 9 November 2026."
+}

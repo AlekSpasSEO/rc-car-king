@@ -1,0 +1,282 @@
+{
+  "article": "rc-car-kits-complete-startup-cost",
+  "checked": "2026-11-09",
+  "method": "Kit price references were checked on 9 November 2026. Equipment amounts are editorial US dollar budgeting allowances. Manufacturer sources document chassis and package facts. Independent coverage provides historical or platform context. Product photos and the existing Amazon listing identities come from the linked exact-model reviews. Current Amazon prices and availability are not represented.",
+  "picks": [
+    {
+      "route": "tamiya/lunch-box-2005/",
+      "sku": "58347",
+      "reference": {
+        "amount": 146.3,
+        "currency": "USD",
+        "basis": "Horizon Hobby US retailer reference for TAM58347",
+        "source": "https://www.horizonhobby.com/product/1-12-lunch-box-2wd-monster-truck-kit/TAM58347.html",
+        "checked": "2026-11-09"
+      },
+      "allowances": {
+        "radio, receiver and servo": 75,
+        "drive pack": 30,
+        "charger": 40,
+        "radio cells": 6,
+        "paint": 35,
+        "tools": 25
+      },
+      "estimatedStartupUsd": 357.3,
+      "conditions": "This example assumes the controller listed by the US retailer is included. Budget for a compatible brushed ESC separately if your package omits it.",
+      "affiliateIdentity": {
+        "asin": "B000BMVIGW",
+        "verifiedAt": "2026-10-15T11:16:20.142Z",
+        "variant": "Tamiya 58347 original CW-01 Lunch Box body-inclusive assembly kit; confirm supplied ESC version"
+      },
+      "image": {
+        "asset": "tamiya-lunch-box-official.jpg",
+        "source": "https://www.tamiya.com/english/products/58347/index.html"
+      }
+    },
+    {
+      "route": "tamiya/bmw-m4-gt3-evo-tt-02/",
+      "sku": "58751",
+      "reference": {
+        "amount": 154.7,
+        "currency": "USD",
+        "basis": "Horizon Hobby US retailer reference for TAM58751",
+        "source": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+        "checked": "2026-11-09"
+      },
+      "allowances": {
+        "radio, receiver and servo": 75,
+        "7.2 V NiMH pack": 30,
+        "charger": 40,
+        "radio cells": 6,
+        "paint": 35,
+        "tools": 25
+      },
+      "estimatedStartupUsd": 365.7,
+      "conditions": "The price basis is the US box with the listed controller. Confirm battery fit and follow the supplied ESC and charger instructions.",
+      "affiliateIdentity": {
+        "asin": "B0GXTG9738",
+        "verifiedAt": "2026-10-12T23:04:18.453Z",
+        "variant": "58751 body-inclusive unpainted assembly kit; documented US export package with Torque-Tuned 540 motor and Hobbywing 1060 ESC"
+      },
+      "image": {
+        "asset": "reviews/bmw-gt3-1.jpg",
+        "source": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58751/58751_1.jpg"
+      }
+    },
+    {
+      "route": "tamiya/nissan-r91cp-1992/",
+      "sku": "47531",
+      "reference": {
+        "amount": 144.2,
+        "currency": "USD",
+        "basis": "RC Hobby Pros US retailer reference for item 47531",
+        "source": "https://rchobbypros.com/collections/builders-kits-tamiya-kyosho/products/1-10-rc-nissan-r91cp-limited-edition",
+        "checked": "2026-11-09"
+      },
+      "allowances": {
+        "radio and receiver": 60,
+        "servo": 35,
+        "ESC": 45,
+        "drive pack": 40,
+        "charger": 45,
+        "radio cells": 8,
+        "paint": 35,
+        "tools": 35
+      },
+      "estimatedStartupUsd": 447.2,
+      "conditions": "Choose compact receiver and ESC dimensions from the exact manual and check clearance with the body before making permanent mounts.",
+      "affiliateIdentity": {
+        "asin": "B0H45P9GLC",
+        "verifiedAt": "2026-10-12T23:04:18.453Z",
+        "variant": "Tamiya item 47531, 2026 Nissan R91CP Daytona complete Group C body-inclusive kit with Sport-Tuned motor"
+      },
+      "image": {
+        "asset": "reviews/r91cp-47531-1.jpg",
+        "source": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_1.jpg"
+      }
+    },
+    {
+      "route": "tamiya/bbx-bb-01/",
+      "sku": "58719",
+      "reference": {
+        "amount": 263.2,
+        "currency": "USD",
+        "basis": "Tower Hobbies US retailer reference for TAM58719",
+        "source": "https://www.towerhobbies.com/product/tamiya-110-bbx-bb-01-2wd-buggy-kit/TAM58719.html",
+        "checked": "2026-11-09"
+      },
+      "allowances": {
+        "radio and receiver": 60,
+        "low-profile servo": 55,
+        "motor": 35,
+        "ESC": 45,
+        "drive pack": 40,
+        "charger": 45,
+        "radio cells": 8,
+        "finish": 35,
+        "tools": 35
+      },
+      "estimatedStartupUsd": 621.2,
+      "conditions": "The example budgets for a basic compatible brushed combination. Read the manual and confirm the actual motor, servo and pack dimensions before buying.",
+      "affiliateIdentity": {
+        "asin": "B0C2P5FWPH",
+        "verifiedAt": "2026-10-12T23:04:18.453Z",
+        "variant": "BBX BB-01 · complete body-inclusive kit"
+      },
+      "image": {
+        "asset": "tamiya-58719-official-1.jpg",
+        "source": "https://www.tamiya.com/english/products/58719/index.html"
+      }
+    },
+    {
+      "route": "team-associated/rc10b7-1d-team-kit/",
+      "sku": "90047",
+      "reference": {
+        "amount": 399.99,
+        "currency": "USD",
+        "basis": "Associated Electrics US manufacturer kit reference for 90047",
+        "source": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+        "checked": "2026-11-09"
+      },
+      "allowances": {
+        "motor and ESC": 200,
+        "radio, receiver and cells": 100,
+        "servo": 65,
+        "2S pack": 65,
+        "complete charger setup": 100,
+        "wheels, tires and inserts": 70,
+        "pinion": 10,
+        "paint and consumables": 45,
+        "tools": 100,
+        "charging care": 20
+      },
+      "estimatedStartupUsd": 1174.99,
+      "conditions": "Confirm the local rules, tire availability and the allowed pack and motor before ordering. A race entry and a spare set of tires are outside this first-run example.",
+      "affiliateIdentity": {
+        "asin": "B0GM21HW6H",
+        "verifiedAt": "2026-10-12T23:04:27.282Z",
+        "variant": "90047 RC10B7.1D dirt/clay 2WD buggy assembly kit with clear body and wings; no motor, radio, ESC, servo, battery, tires or wheels"
+      },
+      "image": {
+        "asset": "reviews/b71d-1.jpg",
+        "source": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/9286/17224/90047.ps_lg__40915.1768330807.jpg"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby US — TAM58347 listing and package contents",
+      "url": "https://www.horizonhobby.com/product/1-12-lunch-box-2wd-monster-truck-kit/TAM58347.html",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — Lunch Box 2005 item 58347",
+      "url": "https://tamiya.com/english/products/58347/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 58347 assembly instructions",
+      "url": "https://www.tamiya.com/cms/english/rc/rcmanual/58347.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Horizon Hobby US — TAM58751 with Torque-Tuned motor and THW 1060 ESC",
+      "url": "https://www.horizonhobby.com/product/tamiya-1-10-bmw-m4-gt3-evo-tt-02-4wd-on-road-high-performance-racing-car-kit/TAM58751.html",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — BMW M4 GT3 Evo TT-02 item 58751",
+      "url": "https://www.tamiya.com/english/products/58751/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 58751 body instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/spb/58751.pdf",
+      "kind": "Manufacturer body manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — TT-02 chassis instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/tt02.pdf",
+      "kind": "Manufacturer chassis manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Hobby Pros — Nissan R91CP limited-edition item 47531",
+      "url": "https://rchobbypros.com/collections/builders-kits-tamiya-kyosho/products/1-10-rc-nissan-r91cp-limited-edition",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya Japan — 47531 technical data",
+      "url": "https://tamiya.com/japan/products/47531/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya English — 47531 technical data",
+      "url": "https://www.tamiya.com/english/products/47531/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 47531 assembly instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/47531.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "TamiyaClub — historical Nissan R91CP record",
+      "url": "https://www.tamiyaclub.com/car.asp?cid=2140",
+      "kind": "Independent historical model reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tower Hobbies US — TAM58719 kit reference",
+      "url": "https://www.towerhobbies.com/product/tamiya-110-bbx-bb-01-2wd-buggy-kit/TAM58719.html",
+      "kind": "US retailer kit and price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — BBX BB-01 item 58719",
+      "url": "https://www.tamiya.com/english/products/58719/index.html",
+      "kind": "Manufacturer product documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya — 58719 assembly instructions",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/58719.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Driver — Peter Vieira’s BBX build preview",
+      "url": "https://www.rcdriver.com/im-ready-to-jump-into-a-tamiya-bbx-build-heres-what-im-stoked-on/",
+      "kind": "Independent builder commentary",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Associated Electrics — RC10B7.1D Team Kit 90047",
+      "url": "https://60years.associatedelectrics.com/rc10b7-1d-team-kit/",
+      "kind": "Manufacturer product and US kit price reference",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Associated Electrics — 90047 Team Kit manual, 22 January 2026",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer manual",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Red RC — RC10B7.1 launch and D-variant context",
+      "url": "https://www.redrc.net/2026/01/team-associated-rc10b7-1-team-kit/",
+      "kind": "Independent announcement coverage of the family",
+      "checked": "2026-11-09"
+    }
+  ]
+}
