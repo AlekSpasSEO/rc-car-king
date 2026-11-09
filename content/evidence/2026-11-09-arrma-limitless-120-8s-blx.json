@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-09",
+  "createdAt": "2026-11-09T08:50:44.972Z",
+  "route": "arrma/limitless-120-8s-blx/",
+  "sku": "ARA7816T2",
+  "coreWords": 2097,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/arrma-search.json",
+    "checkedAt": "2026-10-12T23:04:01.532Z",
+    "asin": "B0FTZWJJPC",
+    "brand": "ARRMA",
+    "part": "ARA7816T2",
+    "title": "ARRMA RC Race Car 1/7 Limitless 120 8S BLX Speed Machine RTR w AVC, White/Blue, ARA7816T2",
+    "model": "ARA7816T2",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA7816T2, model ARA7816T2. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby · white/blue ARA7816T2 and USD completion references",
+      "url": "https://www.horizonhobby.com/product/1-7-limitless-8s-avc-4x4-rtr-brushless-street-speed-white-blue/ARA7816T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "ARRMA · ARA7816T1/T2 manual, gearing, power and service",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw360568ec/Manuals/ARA7816-MANUAL-ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Driver · Paul Onorato’s ARA7816 launch coverage",
+      "url": "https://www.rcdriver.com/arrma-1-7-limitless-120-8s-blx-rtr-street-speed-car/",
+      "kind": "Independent publication · launch coverage",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Mini Rally VXL RS200",
+      "url": "https://rccarking.com/traxxas/mini-rally-vxl-ford-rs200/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Fazer Mk2 Dodge Charger VE",
+      "url": "https://rccarking.com/kyosho/fazer-mk2-dodge-charger-ve/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · MR-04 Porsche GT3 RS",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/limitless-120-3.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwc5c30105/Images/ARA/ARA7816T2_A43_ZSQ1L7V7.jpg",
+      "bytes": 130904,
+      "sha256": "33658d54103906b6dbff47cf6d4ec527db23c5f0238b2dd9d2e41b734f764316"
+    },
+    {
+      "file": "reviews/limitless-120-2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw60d5ebc5/Images/ARA/ARA7816T2_A12_ZSQ1L7V7.jpg",
+      "bytes": 118941,
+      "sha256": "cb7299f5622c0294e20e5745eb5079bfa7a2e2ebc97191559a609b380e0b643e"
+    },
+    {
+      "file": "reviews/limitless-120-1.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw10618cd6/Images/ARA/ARA7816T2_A93_ZSQ1L7V7.jpg",
+      "bytes": 315735,
+      "sha256": "201381619b710d696eca28fefc59c9582862bc843af7822f59660c5376329023"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "limitless",
+      "bytes": 16943905,
+      "sha256": "85be99613bbcc99441f0e9a9f9801fb4a52fa5f079f7e73128826dd1e3516cd7"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "limitless"
+    ],
+    "reference": "Horizon product and its suggested accessories USD 799.99 + 2 × 159.99 + 199.99; USD 25 allowance",
+    "limits": "Manual pp. 7–8 and 24–28. Optional speed spool and pinion separate from stock gearing. No independent speed claims."
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed",
+    "preview": "npm run build and npm run check passed",
+    "desktop": "1440 × 1000 product box, exact hero, overview, editorial score, buy/skip and no-price check-price link inspected",
+    "mobile": "390 × 844 hero, title and layout checked without page overflow. Verified all exact ASINs, affiliate tag, sponsored and nofollow. Limitless cost table and gearing FAQ exercised."
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

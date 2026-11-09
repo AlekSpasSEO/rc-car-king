@@ -142,3 +142,7 @@ The gearing guide uses an original accessible HTML/CSS three-card calculation ma
 ## Weekday reviews · 6 November 2026
 
 Nine inspected official images cover white Traxxas Mini Rally VXL108046-1-WHT, red ARRMA Quake223S ARA3537T1 and Team Associated90047 B7.1D kit. The [dated media manifest](content/evidence/2026-11-06-review-media.json) records source URLs, hashes, current manuals and exact Rally completion-price references. The Quake airborne scene is manufacturer promotion. Associated kit captions explain that the finished body, electronics, wheels and tires shown in completed examples require separate equipment or finishing; the clear body and wings are supplied. No community photographs, invented tests or AI product images are used.
+
+## Weekday reviews · 9 November 2026
+
+The [media manifest](content/evidence/2026-11-09-review-media.json) credits nine official images for the white and blue ARRMA Limitless 120 ARA7816T2, Tamiya Nissan R91CP kit 47531 and pink Kyosho Jaguar XJR-14 Readyset 32369LE. The ARRMA gallery labels a shared dimensions illustration that shows the red sibling. Tamiya's photos show an assembled and painted example and identify separately required equipment. The Jaguar gallery shows both the car and the supplied transmitter. All vehicle photographs are manufacturer originals.

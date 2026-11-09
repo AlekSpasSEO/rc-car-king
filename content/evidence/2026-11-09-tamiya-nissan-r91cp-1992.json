@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-09",
+  "createdAt": "2026-11-09T08:53:22.467Z",
+  "route": "tamiya/nissan-r91cp-1992/",
+  "sku": "47531",
+  "coreWords": 2011,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/tamiya-initial.json",
+    "checkedAt": "2026-10-12T23:04:18.453Z",
+    "asin": "B0H45P9GLC",
+    "brand": "TAMIYA",
+    "part": "47531",
+    "title": "Tamiya 47531 1:10 RC Nissan R91CP 1992 - Remote Controlled Car, Vehicle, Model Building, Assembly, Hobby, RC Kit, Remote Controlled Car",
+    "model": "47531",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:18.453Z: TAMIYA, returned part 47531, model 47531. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Tamiya Japan · 47531, 280 mm wheelbase and stock 14T gearing",
+      "url": "https://tamiya.com/japan/products/47531/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya global English · 47531, 270 mm wheelbase and dimensions",
+      "url": "https://www.tamiya.com/english/products/47531/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya · exact 47531 assembly manual and required items",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/download/rcmanual/47531.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tamiya Europe · current package and 280 mm specification",
+      "url": "https://www.tamiya.de/tamiya_en/categories/rc-model-making/rc-cars/on-road-rc-cars-2wd-4wd/1-10-nissan-r91cp-1992-rc-assembly-kit-300047531-en.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "TamiyaClub · 47531 reissue record",
+      "url": "https://www.tamiyaclub.com/car.asp?cid=2140",
+      "kind": "Independent archive · historical context",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Hobby Pros · 47531 USD retail reference",
+      "url": "https://rchobbypros.com/collections/builders-kits-tamiya-kyosho/products/1-10-rc-nissan-r91cp-limited-edition",
+      "kind": "US hobby retailer · price basis",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · BMW M4 GT3 Evo TT-02",
+      "url": "https://rccarking.com/tamiya/bmw-m4-gt3-evo-tt-02/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Fazer Mk2 Toyota Celica GT",
+      "url": "https://rccarking.com/kyosho/fazer-mk2-toyota-celica-gt/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · MINI-Z MR-04 Porsche GT3 RS",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/r91cp-47531-1.jpg",
+      "credit": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_1.jpg",
+      "bytes": 102925,
+      "sha256": "2e29818d563a79c0f484cf496f13042fe74410aaa7df4becafbd2ee78d098e81"
+    },
+    {
+      "file": "reviews/r91cp-47531-2.jpg",
+      "credit": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_4c2.jpg",
+      "bytes": 143011,
+      "sha256": "fb359161399da7725a7af32b868c42b2a0b8b1fe959ce710ff6e1f5ea0d9bb1e"
+    },
+    {
+      "file": "reviews/r91cp-47531-3.jpg",
+      "credit": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_4c11.jpg",
+      "bytes": 178332,
+      "sha256": "5d71c2737ade93a1e09196590dddce67d1490bf2d04f67a272745a0d4af709aa"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "r91-jp",
+      "bytes": 11875442,
+      "sha256": "d8f141046cb88883308d5e3d6ce70d7f8e80fa05660251099ce912e940cb90da"
+    },
+    {
+      "file": "r91",
+      "bytes": 6010103,
+      "sha256": "7d14bf6c4bbcb09ed13d8de67d6481e62df0cc7ba156314b7d5140d791cb2320"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "r91-jp",
+      "r91"
+    ],
+    "wheelbase": "280 mm Japanese and European pages, 270 mm global English page. Disagreement retained.",
+    "manualPage": "Official 47531 manual p. 2 visually checked: standard-size servo, small receiver and ESC recommended, drive pack, charger and material-specific paints."
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed",
+    "preview": "npm run build and npm run check passed",
+    "desktop": "1440 × 1000 product box, exact hero, overview, editorial score, buy/skip and no-price check-price link inspected",
+    "mobile": "390 × 844 hero, title and layout checked without page overflow. Verified all exact ASINs, affiliate tag, sponsored and nofollow. Limitless cost table and gearing FAQ exercised."
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

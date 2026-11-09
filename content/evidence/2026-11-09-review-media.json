@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-09",
+  "scope": "Official photographs for exact white/blue Limitless, Nissan 47531 painted example and pink Jaguar 32369LE. The red Limitless illustration documents shared dimensions.",
+  "media": [
+    {
+      "file": "reviews/limitless-120-3.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwc5c30105/Images/ARA/ARA7816T2_A43_ZSQ1L7V7.jpg",
+      "bytes": 130904,
+      "sha256": "33658d54103906b6dbff47cf6d4ec527db23c5f0238b2dd9d2e41b734f764316"
+    },
+    {
+      "file": "reviews/limitless-120-2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw60d5ebc5/Images/ARA/ARA7816T2_A12_ZSQ1L7V7.jpg",
+      "bytes": 118941,
+      "sha256": "cb7299f5622c0294e20e5745eb5079bfa7a2e2ebc97191559a609b380e0b643e"
+    },
+    {
+      "file": "reviews/limitless-120-1.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw10618cd6/Images/ARA/ARA7816T2_A93_ZSQ1L7V7.jpg",
+      "bytes": 315735,
+      "sha256": "201381619b710d696eca28fefc59c9582862bc843af7822f59660c5376329023"
+    },
+    {
+      "file": "reviews/r91cp-47531-1.jpg",
+      "credit": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_1.jpg",
+      "bytes": 102925,
+      "sha256": "2e29818d563a79c0f484cf496f13042fe74410aaa7df4becafbd2ee78d098e81"
+    },
+    {
+      "file": "reviews/r91cp-47531-2.jpg",
+      "credit": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_4c2.jpg",
+      "bytes": 143011,
+      "sha256": "fb359161399da7725a7af32b868c42b2a0b8b1fe959ce710ff6e1f5ea0d9bb1e"
+    },
+    {
+      "file": "reviews/r91cp-47531-3.jpg",
+      "credit": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/4/47531/47531_4c11.jpg",
+      "bytes": 178332,
+      "sha256": "5d71c2737ade93a1e09196590dddce67d1490bf2d04f67a272745a0d4af709aa"
+    },
+    {
+      "file": "reviews/xjr14-32369le-2.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32369le_2.jpg",
+      "bytes": 19910,
+      "sha256": "6415e375f4e7911f0d3a2e10754f6dc1c140a383ffbc062137fa03e401589911"
+    },
+    {
+      "file": "reviews/xjr14-32369le-1.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32369le_1.jpg",
+      "bytes": 19259,
+      "sha256": "e59e6d78f0773b358114bbbbf46dd11abbf9378358597906b203dfe97d617576"
+    },
+    {
+      "file": "reviews/xjr14-32369le-3.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32369le_3.jpg",
+      "bytes": 17547,
+      "sha256": "f90f50e08e1ec838e95311c832121c7820860dee600d956f43f7063b296907cb"
+    }
+  ],
+  "documents": [
+    {
+      "key": "tamjp",
+      "url": "https://tamiya.com/japan/products/47531/index.html",
+      "finalUrl": "https://tamiya.com/japan/products/47531/index.html",
+      "status": 200,
+      "bytes": 136178,
+      "sha256": "83e07decf477f9443da0172c0f70569a447627120e56753fb6c359c8ca7b4224",
+      "pdf": false
+    },
+    {
+      "key": "tamde",
+      "url": "https://www.tamiya.de/tamiya_en/categories/rc-model-making/rc-cars/on-road-rc-cars-2wd-4wd/1-10-rc-nissan-r91cp-1992-300047531-en.html",
+      "finalUrl": "https://www.tamiya.de/tamiya_en/categories/rc-model-making/rc-cars/on-road-rc-cars-2wd-4wd/1-10-nissan-r91cp-1992-rc-assembly-kit-300047531-en.html",
+      "status": 200,
+      "bytes": 400691,
+      "sha256": "8704d5b83c20c43fd28e2c73314fcf2c77273c9173a7095e52914830eff90a83",
+      "pdf": false
+    },
+    {
+      "key": "r91",
+      "url": "https://pim.simba-dickie.com/Product/Tamiya/Tamiya/300047531%201-10%20RC%20Nissan%20R91CP%201992/007%20Artwork-Manual/300047531_Nissan%20R91CP%20Gr.C.pdf",
+      "finalUrl": "https://pim.simba-dickie.com/Product/Tamiya/Tamiya/300047531%201-10%20RC%20Nissan%20R91CP%201992/007%20Artwork-Manual/300047531_Nissan%20R91CP%20Gr.C.pdf",
+      "status": 200,
+      "bytes": 6010103,
+      "sha256": "7d14bf6c4bbcb09ed13d8de67d6481e62df0cc7ba156314b7d5140d791cb2320",
+      "pdf": true
+    },
+    {
+      "key": "limitless",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw360568ec/Manuals/ARA7816-MANUAL-ML.pdf",
+      "finalUrl": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw360568ec/Manuals/ARA7816-MANUAL-ML.pdf",
+      "status": 200,
+      "bytes": 16943905,
+      "sha256": "85be99613bbcc99441f0e9a9f9801fb4a52fa5f079f7e73128826dd1e3516cd7",
+      "pdf": true
+    }
+  ]
+}

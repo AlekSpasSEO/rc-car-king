@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-09",
+  "createdAt": "2026-11-09T08:55:57.394Z",
+  "route": "kyosho/mini-z-mr04-jaguar-xjr-14-no4/",
+  "sku": "32369LE",
+  "coreWords": 2072,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/kyosho-initial.json",
+    "checkedAt": "2026-10-12T23:04:27.828Z",
+    "asin": "B0GFS74JPF",
+    "brand": "Kyosho",
+    "part": "32369LE",
+    "title": "Kyosho Minits RWD MR-04 Ready Set Jaguar XJR-14 No.4 LM 1991 Electric Radio Control 32369LE",
+    "model": "32369LE",
+    "note": "Historical exact-product identity from 2026-10-12T23:04:27.828Z: Kyosho, returned part 32369LE, model 32369LE. Reused without a new API call, offer, availability or price verification."
+  },
+  "sources": [
+    {
+      "name": "Kyosho · exact pink 32369LE package, 102 mm chassis and equipment",
+      "url": "https://rc.kyosho.com/en/32369le.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Kyosho · XJR-14 model family and Readyset variants",
+      "url": "https://rc.kyosho.com/en/jagur_xjr14",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Kyosho · T05 operating manual linked from the exact product",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Kyosho · 32369LE exact option compatibility",
+      "url": "https://rc.kyosho.com/en/compatible/index/index/product_id/49709/type/2/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC-Wiki · 32369LE configuration cross-reference",
+      "url": "https://rc-wiki.com/vehicle/kyosho-32369le/",
+      "kind": "Independent model database · identification context",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "New Sun Racing · exact KYO32369LE US price basis",
+      "url": "https://newsunracing.com/products/kyo32369le-kyosho-mr-04-rwd-mini-z-readyset-w-1991-jaguar-xjr-14-lm-body-pink",
+      "kind": "US hobby retailer · price basis",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Porsche 911 GT3 RS 32358OR",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · DENSO KOBELCO SC430",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-denso-kobelco-sc430/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Initial D Toyota AE86 AWD",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-toyota-ae86/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/xjr14-32369le-2.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32369le_2.jpg",
+      "bytes": 19910,
+      "sha256": "6415e375f4e7911f0d3a2e10754f6dc1c140a383ffbc062137fa03e401589911"
+    },
+    {
+      "file": "reviews/xjr14-32369le-1.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32369le_1.jpg",
+      "bytes": 19259,
+      "sha256": "e59e6d78f0773b358114bbbbf46dd11abbf9378358597906b203dfe97d617576"
+    },
+    {
+      "file": "reviews/xjr14-32369le-3.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/catalog/product/cache/98856fd367418bc8f862d5aa364e64e3/3/2/32369le_3.jpg",
+      "bytes": 17547,
+      "sha256": "f90f50e08e1ec838e95311c832121c7820860dee600d956f43f7063b296907cb"
+    }
+  ],
+  "manualChecks": [
+    {
+      "file": "jaguar-t05-archive",
+      "bytes": 43435417,
+      "sha256": "225a481a5de502619f74d938322326294ff3a83164620be0c79149ed84a21e90"
+    }
+  ],
+  "facts": {
+    "manualFiles": [
+      "jaguar-t05-archive"
+    ],
+    "manualProvenance": "Exact product currently links T05. Manufacturer PDF fetch timed out on 9 November, so reviewed the same T05 PDF archived during the 5 November MR-04 research.",
+    "battery": "Two exact product blocks conflict about where NiMH is permitted. Eight alkaline AAAs are supported by its main description and used in the budget."
+  },
+  "validation": {
+    "production": "npm run build and npm run check passed",
+    "preview": "npm run build and npm run check passed",
+    "desktop": "1440 × 1000 product box, exact hero, overview, editorial score, buy/skip and no-price check-price link inspected",
+    "mobile": "390 × 844 hero, title and layout checked without page overflow. Verified all exact ASINs, affiliate tag, sponsored and nofollow. Limitless cost table and gearing FAQ exercised."
+  },
+  "boundaries": [
+    "No Amazon API or credentials used. No fresh stock or offer assertions.",
+    "No fabricated physical testing, customer stars, runtime or reliability rates.",
+    "Static references are dated USD figures; editorial allowances are identified separately."
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Limitless 120 8S BLX",
+  "modelSlug": "limitless-120-8s-blx",
+  "sku": "ARA7816T2",
+  "headlineLines": [
+    "FIND THE VENUE.",
+    "THEN BUY THE CAR."
+  ],
+  "title": "ARRMA Limitless 120 8S BLX review: the venue comes first",
+  "dek": "The white and blue ARA7816T2 brings an assembled 1450Kv speed platform, two gearing configurations and a serious completion bill.",
+  "type": "On-road speed car",
+  "use": "Racing",
+  "terrain": [
+    "Smooth, dry, level closed pavement"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/7",
+  "format": "Assembled RTR with radio, drive batteries and charger separate",
+  "skill": "Experienced driver with access to an authorized closed paved venue",
+  "price": {
+    "amount": 799.99,
+    "currency": "USD",
+    "basis": "Horizon Hobby US reference for white/blue ARA7816T2",
+    "source": "https://www.horizonhobby.com/product/1-7-limitless-8s-avc-4x4-rtr-brushless-street-speed-white-blue/ARA7816T2.html",
+    "checked": "2026-11-09"
+  },
+  "purchaseNote": "The radio and four AAs are included. The documented paired 4S example totals USD 1,344.96 with a charger and a labeled charging-bag allowance, before tax, shipping and venue costs.",
+  "overview": "The Limitless RTR gives an experienced on-road driver an assembled 4WD chassis, Firma 4685 motor and separate DX3/AVC controls. Its real purchase constraints are suitable closed pavement, a compliant battery system and the maintenance that comes with large speed tires.",
+  "verdict": "A serious speed platform for a driver who already has the room",
+  "verdictText": "Buy the ARA7816T2 if you can justify it with stock gearing and already have a suitable closed course. Budget the complete power system and treat the optional speed hardware as a later decision.",
+  "pros": [
+    "Factory installed 4685 1450Kv motor, 160A ESC and dual cooling fans",
+    "DX3, separate AVC receiver and S665 metal gear servo included",
+    "Separate stock and optional gearing documented in the manual",
+    "Factory finished body, adjustable aero and wheel care instructions"
+  ],
+  "cons": [
+    "Requires a suitable closed paved venue and experienced operator",
+    "Drive packs, charger and charging bag add materially to the cost",
+    "Optional speed gearing requires work and extra inspection",
+    "No measured speed or stopping distance for your venue"
+  ],
+  "bestFor": [
+    "Experienced speed-run driver with controlled pavement",
+    "Buyer who values a complete assembled chassis over a roller build",
+    "Owner who will log gearing and check tires between sessions"
+  ],
+  "avoidIf": [
+    "You mainly drive on grass, gravel or near traffic",
+    "You need a first RC car for a shared neighborhood space",
+    "The purchase only makes sense at the headline speed"
+  ],
+  "quickSpecs": [
+    [
+      "Exact version",
+      "ARA7816T2 · white/blue RTR"
+    ],
+    [
+      "Motor",
+      "Firma 4685 1450Kv brushless"
+    ],
+    [
+      "ESC",
+      "Firma Smart V2 160A · 6S/8S"
+    ],
+    [
+      "Radio",
+      "DX3 / SR6200A AVC"
+    ],
+    [
+      "Gearing",
+      "21T/46T stock · 32T/34T optional"
+    ],
+    [
+      "Chassis",
+      "730 × 312 × 165 mm · 406 mm wheelbase"
+    ]
+  ],
+  "rating": {
+    "audience": "Experienced driver with a controlled paved venue and a verified battery plan",
+    "disclosure": "Research-led editorial assessment for the stated buyer. Five equally weighted categories determine the overall score; these are not physical test results or Amazon customer stars.",
+    "dimensions": [
+      {
+        "label": "Package integration",
+        "score": 9,
+        "reason": "Installed motor, cooling, electronics and radio make the package coherent."
+      },
+      {
+        "label": "Setup documentation",
+        "score": 8.5,
+        "reason": "Separate gearing tables and illustrated service operations give a clear baseline."
+      },
+      {
+        "label": "Venue flexibility",
+        "score": 5.5,
+        "reason": "Size, clearance and intended use sharply narrow suitable locations."
+      },
+      {
+        "label": "Service visibility",
+        "score": 8,
+        "reason": "Tire, aero and drivetrain work are documented, with distinct configurations to track."
+      },
+      {
+        "label": "Complete purchase value",
+        "score": 7.5,
+        "reason": "The installed hardware has value if the owner can support the power and venue costs."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "A straight-line car that starts with a location",
+      "paragraphs": [
+        "The ARA7816T2 makes sense when you already know where a 730 mm long speed car can accelerate, slow down and stop inside a controlled area. The attraction is that the motor, controller, steering and stability system arrive installed around a large pavement chassis. That saves the assembly and component selection that come with a roller. The place to drive it remains the buyer’s job. A broad surface with people moving through it still fails the basic venue test, even if it looks empty when you unload.",
+        "The white and blue car is the complete Limitless 120 8S BLX RTR. ARRMA lists the red and black ARA7816T1 as the other color in the same manual. Limitless rollers and custom builds use the same family name, and a photographed custom car says little about which motor, controller or center assembly you will receive. Compare the SKU, the word RTR and the included radio before comparing prices. Even within the correct box, the factory gearing and the loose speed hardware represent two different configurations.",
+        "RC Driver’s August 2025 announcement identifies the ARA7816 release and its main electronics. It reports the launch package and repeats ARRMA’s performance positioning. The manual provides the conditions for the advertised figure. This review evaluates what the package asks of a buyer, including the limits of using a marketing speed to plan a real course."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box and power",
+      "heading": "The electronics are installed and the power system is a separate purchase",
+      "paragraphs": [
+        "Horizon lists the assembled 4X4 vehicle, Firma 4685 1450Kv brushless motor, Firma Smart V2 160A controller, two motor fans, S665 servo, SR6200A receiver and DX3 transmitter. The box also has four transmitter AAs, tools and the manual. The speed pinion and spool are provided for the separate configuration. A buyer upgrading from a roller should value the completeness of the installed system without assuming that a drive pack or a charger comes tucked alongside it.",
+        "The manufacturer product page calls for a pair of 3S or 4S hardcase packs. The family manual also illustrates a single 6S or 8S pack under its prescribed connection arrangement and lists EC5 or IC5, a 6800 mAh and 120C minimum, and a tray maximum of 180 × 55 × 70 mm. The paired 4S budget below uses Horizon’s identified batteries and charger. Treat fit as a physical question too. A pack that fits on paper still has to secure correctly with its connectors and leads routed under the body.",
+        "In series, two matching 4S packs make the 8S voltage while their amp-hour capacity stays that of one pack. The charger has to support the individual batteries and their balance connection arrangement. Follow the vehicle, pack and charger instructions together. A pack you already own counts toward the budget only after checking its rating, condition, exact fit and the supported connection."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Gearing",
+      "heading": "The stock reduction and speed configuration do different jobs",
+      "paragraphs": [
+        "The stock gearing is 21 teeth at the pinion and 46 at the driven gear. The optional combination is 32 and 34, with a speed spool installed as part of the change. At the gear pair alone those numbers work out to about 2.19:1 and 1.06:1 respectively. That calculation explains how much mechanical reduction the gear change removes. It leaves out the rest of the drivetrain and gives no measured speed prediction. The change also alters the load seen by the motor and is more involved than selecting another position on the radio.",
+        "A spool mechanically couples the front and rear drive outputs through that assembly. On a turn, the two axles can need different average speeds. A locked link gives them less freedom to accommodate that difference. Think of the optional setup as a separate mechanical choice for the job ARRMA describes. Stock gearing is the useful baseline for learning what the complete car does on a familiar surface, and for identifying a change that appears after work on the drivetrain.",
+        "ARRMA’s chart places 120+ mph in the optional 32/34 column with 8S and its full throttle limit. The surrounding text attaches conditions, including sound fully charged packs, a smooth level area, weather and a skilled driver. The manual also calls for cooling between speed passes. There is no reason to make the speed conversion a prerequisite for using the car. I would leave it boxed until the stock car, the course and the service routine are familiar."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and setup",
+      "heading": "Set up the DX3 around the stock car first",
+      "paragraphs": [
+        "The DX3 and SR6200A give you steering control and AVC through a separate receiver. The throttle limit changes how much command the radio allows. AVC can make corrective inputs when the car changes heading. Those are distinct controls. A percentage on the transmitter is neither a guaranteed speed nor a promise about stopping room. The manual’s stock table lists 50, 75 and 100 percent positions against its own test configurations. Use the exact radio instructions to identify the functions before changing them.",
+        "Keep the stock 21/46 setup for a first session. Confirm the front wheels respond in the right direction, that neutral stays neutral, and that the car stops predictably at the pace you intend to use. The manual covers binding, calibration and the individual trim settings. Follow those sections if the equipment needs adjustment. A car that wanders after a strike needs a check for steering damage or driveline drag before you try to mask it with more correction.",
+        "The servo and receiver are identified parts, which is useful when you have to trace a symptom. A throttle trim problem, a steering link with play and an assistance setting can all feel like a car you no longer trust. Keep a written baseline for the radio and inspect the hardware before changing several controls in one pass."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Chassis and aero",
+      "heading": "Keep the aero configuration part of your setup notes",
+      "paragraphs": [
+        "The launch coverage describes an anodized 3 mm aluminum chassis, central brace, oil-filled big bore shocks and aluminum towers. That hardware supports a long, low pavement car. It does not erase the difference between a flat course and a patch with broken edges. A shock, body mount or wheel that changes position can alter clearance and tracking. Record the condition of all four corners before changing the stance or chasing an aero adjustment.",
+        "The front splitter, rear diffuser and rear wing are part of the car as supplied. The manual also documents front and rear aero tuning, including changes that may involve trimming. The balance matters because changing the front or rear independently changes what each end is being asked to do. There is no universal wing position for different speed, wind and surface conditions. Start with the stock body and record what is installed, including any replacement wing or mount on a secondhand car.",
+        "Inspect the splitter and rear assembly before adding speed after a scrape. A warped or loose piece changes the assembly even if the radio still steers. Plan to carry the shell in a way that protects those long front and rear edges on the way to the venue."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Surface and tires",
+      "heading": "Size the course for the stopping area and the return path",
+      "paragraphs": [
+        "Choose smooth, dry, level closed pavement with a clear view and enough room to stop. The width of the lane is only one measure. You also need to see where the car will turn around and how it will come back without crossing another route. If you cannot keep the full route clear of people, animals and traffic, choose a different venue. A public roadway, even one that looks quiet, does not give you control over the next car, cyclist or driveway.",
+        "The dBoots Hoons and low body belong to this speed platform. ARRMA’s manual includes a tire condition procedure and shows the wheel-nut tool. Check the tire and wheel as an assembly, including wear, obvious damage and retention. A change in vibration or tracking during a run is a reason to slow down and inspect. A manufacturer action image in dust does not establish that loose dirt is the recommended place to attempt a speed pass.",
+        "The long wheelbase and low body make smaller indoor tracks and rough parking-lot transitions poor substitutes. The Limitless is a specialized addition for someone with a location they can revisit. If the available space is a foam circuit or a short club layout, a smaller road car can offer more practice per session simply because you can use more of its intended driving envelope."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "Plan the inspection routine before the speed parts",
+      "paragraphs": [
+        "The manual breaks out body and bumper access, wheel checks, aero work and installation of the speed pinion and spool. Use its illustrations to identify which fasteners and supports belong to the operation you are doing. After service, check that the body is seated, the battery straps are secure and the leads remain clear of moving components. A car that will run straight on a stand still needs its wheels, body and driveline checked under the actual assembled setup.",
+        "The highest-load configuration also makes cooling and inspection part of a session. The motor has a heat sink and two fans, but an installed fan is no substitute for the cool-down intervals specified in the manual. I would plan for short runs and enough bench time to inspect tires and fasteners before returning to the course. If a fan stops, an ESC shuts down or a tire changes shape, investigate the cause before running again.",
+        "Storage and transport are part of ownership here. The manual gives a 406 mm wheelbase and 5.28 kg listed vehicle weight without making it a finished transport measurement for your battery choice. Measure the car, radio and charging equipment together for your carrying plan, and protect the vehicle from resting on the wing or splitter during transit."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup budget",
+      "heading": "Price the pair of packs as well as the car",
+      "paragraphs": [
+        "Horizon lists ARA7816T2 at USD 799.99 and shows SPMXB4S68 4S 6800 mAh 120C IC5 packs at USD 159.99 each alongside it. The listed SPMXC2000 dual-output AC charger is USD 199.99. Two packs add USD 319.98. Add a USD 25 allowance for a suitable charging bag and the example reaches USD 1,344.96 before tax and shipping. The radio cells are supplied. The allowance is a planning figure, and the manufacturer references were checked on 9 November 2026.",
+        "That is one complete power plan, with charger and pack fit still to confirm against the exact instructions. A compatible charger you own can change the cash outlay. A charger that needs a separate input supply or lacks the required balance arrangement can add costs. Separate venue fees and optional service equipment from the subtotal so that a lower car price does not hide an incomplete setup.",
+        "The alternative 6S path has its own compatible packs and charger requirements. Decide which baseline suits your existing equipment and venue before ordering a pair. Shopping by the number of cells alone risks buying equipment you cannot fit or charge correctly. The stock hardware can justify the car only if the whole startup basket fits your budget."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "USD startup planning example · 9 November 2026 · before tax/shipping",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "ARA7816T2",
+            "Horizon US vehicle reference",
+            "799.99"
+          ],
+          [
+            "2 × SPMXB4S68",
+            "Horizon reference at 159.99 each",
+            "319.98"
+          ],
+          [
+            "SPMXC2000",
+            "Horizon US charger reference",
+            "199.99"
+          ],
+          [
+            "Charging bag",
+            "Editorial allowance",
+            "25.00"
+          ],
+          [
+            "Example total",
+            "Before tax, shipping and venue costs",
+            "1,344.96"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other complete cars",
+      "heading": "Match the alternative to the session you actually want",
+      "paragraphs": [
+        "The Traxxas Mini Rally VXL Ford RS200 is a complete AWD rally car with a supplied stock 2S battery and charger. Its footprint and package suit a buyer who can use a smaller rally course and wants a different starting bill. Read its USB input requirements before assuming the box covers every power item. It gives up the Limitless’s large speed chassis and makes sense for a separate kind of driving.",
+        "The Kyosho Fazer Mk2 Dodge Charger VE is an on-road complete car to compare when a realistic body and a more conventional club-sized pavement layout matter. Check the exact charger and power equipment in its own review. It represents a different venue and ownership budget from the 8S speed car. Do not carry the Limitless battery limits or radio settings into that comparison.",
+        "The Kyosho MR-04 Porsche 911 GT3 RS makes the venue trade especially clear. It is a miniature RWD car intended for indoor driving and takes separate AAA cells. That could give an apartment or club driver regular practice with no access to a large closed straight. It is a useful alternative for someone drawn to pavement RC as a category, rather than a smaller attempt to reproduce the Limitless package."
+      ],
+      "sourceIndexes": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy it if the stock package earns its place",
+      "paragraphs": [
+        "I would shortlist the ARA7816T2 if the buyer already drives fast on-road cars, has reliable access to a suitable venue and can afford the actual power system. The complete chassis and documented gearing give that owner a sensible base to develop. The optional spool and taller pair stay a separate decision, with the manual’s conditions and maintenance requirements attached. The value comes from the complete platform you can drive and inspect regularly.",
+        "I would pass if the available route is a shared paved area or if the main plan is to reproduce a headline number immediately. A more modest on-road car can give you a route you can use more often. The Limitless makes sense when the car, course and operating routine fit together at the factory starting point. If one of those is missing, solve it before ordering."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU",
+      "ARA7816T2 white/blue"
+    ],
+    [
+      "Format",
+      "1/7 4X4 RTR"
+    ],
+    [
+      "Motor",
+      "Firma 4685 1450Kv brushless"
+    ],
+    [
+      "ESC",
+      "Firma 160A Smart V2 6S/8S"
+    ],
+    [
+      "Radio",
+      "DX3 2.4 GHz"
+    ],
+    [
+      "Receiver",
+      "SR6200A DSMR AVC"
+    ],
+    [
+      "Servo",
+      "Spektrum S665 digital metal gear"
+    ],
+    [
+      "Stock / optional gearing",
+      "21/46 and 32/34 with optional spool"
+    ],
+    [
+      "Tires",
+      "dBoots Hoons on speed wheels"
+    ],
+    [
+      "Dimensions",
+      "730 × 312 × 165 mm"
+    ],
+    [
+      "Wheelbase",
+      "406 mm"
+    ],
+    [
+      "Listed weight",
+      "5.28 kg"
+    ],
+    [
+      "Tray maximum",
+      "180 × 55 × 70 mm"
+    ],
+    [
+      "Drive batteries",
+      "Separate 6S or 8S system under exact manual"
+    ],
+    [
+      "Required charging equipment",
+      "Compatible charger and charging bag"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is ARA7816T2 a complete Limitless or a roller?",
+      "answer": "This white and blue RTR has installed electronics, radio and finished body. Its drive battery and charger are separate."
+    },
+    {
+      "question": "Is 120+ mph the factory-gearing claim?",
+      "answer": "ARRMA assigns that figure to its optional 32/34 configuration at 8S under specified conditions. The car ships with 21/46 gearing."
+    },
+    {
+      "question": "Can I use 6S?",
+      "answer": "ARRMA documents 6S as well as 8S. Follow the exact manual for the battery rating, physical fit, connector and configuration."
+    },
+    {
+      "question": "Does AVC change the throttle limit?",
+      "answer": "The DX3 throttle limit restricts command. AVC provides assistance through the receiver. Consult the manual for their separate controls."
+    },
+    {
+      "question": "How much does the paired 4S example cost?",
+      "answer": "USD 1,344.96 before tax, shipping and venue costs using the 9 November Horizon references and a charging-bag allowance."
+    },
+    {
+      "question": "Did RC Car King verify top speed?",
+      "answer": "The performance figures are attributed to ARRMA. This review assesses documented equipment and buyer fit."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby · white/blue ARA7816T2 and USD completion references",
+      "url": "https://www.horizonhobby.com/product/1-7-limitless-8s-avc-4x4-rtr-brushless-street-speed-white-blue/ARA7816T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "ARRMA · ARA7816T1/T2 manual, gearing, power and service",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw360568ec/Manuals/ARA7816-MANUAL-ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Driver · Paul Onorato’s ARA7816 launch coverage",
+      "url": "https://www.rcdriver.com/arrma-1-7-limitless-120-8s-blx-rtr-street-speed-car/",
+      "kind": "Independent publication · launch coverage",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Mini Rally VXL RS200",
+      "url": "https://rccarking.com/traxxas/mini-rally-vxl-ford-rs200/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · Fazer Mk2 Dodge Charger VE",
+      "url": "https://rccarking.com/kyosho/fazer-mk2-dodge-charger-ve/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "RC Car King · MR-04 Porsche GT3 RS",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete vehicle",
+      "checked": "2026-11-09"
+    }
+  ],
+  "seo": {
+    "title": "ARRMA Limitless 120 8S BLX Review | RC Car King",
+    "description": "Review the white/blue ARA7816T2 Limitless RTR, its 21/46 stock gearing, optional speed spool, closed-course requirements and complete 8S startup cost."
+  },
+  "published": "2026-11-09",
+  "updated": "2026-11-09",
+  "publishedAt": "2026-11-09T08:50:44.972Z",
+  "updatedAt": "2026-11-09T08:50:44.972Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of documented equipment and buyer fit; no physical testing or personal ownership is claimed."
+  },
+  "amazon": {
+    "asin": "B0FTZWJJPC",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA7816T2",
+    "detailPageUrl": "https://www.amazon.com/dp/B0FTZWJJPC?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:01.532Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "White/blue ARA7816T2 1/7 complete 4X4 Limitless 120 RTR with DX3, drive packs and charger separate",
+    "identityNote": "Historical exact-product identity from 2026-10-12T23:04:01.532Z: ARRMA, returned part ARA7816T2, model ARA7816T2. Reused without a new API call, offer, availability or price verification."
+  },
+  "image": "reviews/limitless-120-3.jpg",
+  "imageAlt": "Official ARRMA white and blue ARA7816T2 Limitless 120 RTR. Drive batteries and charger are separate.",
+  "imageCaption": "Official ARRMA white and blue ARA7816T2 Limitless 120 RTR. Drive batteries and charger are separate.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwc5c30105/Images/ARA/ARA7816T2_A43_ZSQ1L7V7.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/limitless-120-2.jpg",
+      "alt": "ARRMA promotional image of the white and blue Limitless. The review assesses the car for controlled, smooth pavement.",
+      "caption": "ARRMA promotional image of the white and blue Limitless. The review assesses the car for controlled, smooth pavement.",
+      "source": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw60d5ebc5/Images/ARA/ARA7816T2_A12_ZSQ1L7V7.jpg",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw60d5ebc5/Images/ARA/ARA7816T2_A12_ZSQ1L7V7.jpg"
+      }
+    },
+    {
+      "image": "reviews/limitless-120-1.jpg",
+      "alt": "ARRMA dimensional illustration showing the red and black sibling with the shared chassis dimensions.",
+      "caption": "ARRMA dimensional illustration showing the red and black sibling with the shared chassis dimensions.",
+      "source": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw10618cd6/Images/ARA/ARA7816T2_A93_ZSQ1L7V7.jpg",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw10618cd6/Images/ARA/ARA7816T2_A93_ZSQ1L7V7.jpg"
+      }
+    }
+  ],
+  "evidenceNote": "Research-led buying assessment using the exact manufacturer package, operating documentation and identified outside coverage. Manufacturer performance statements are attributed; we have not measured driving behavior, speed, runtime, impact resistance or service life. Scores are five equally weighted editorial category judgments for the named buyer. The Amazon identity is historical, not freshly verified commercial information.",
+  "revisionNote": "First published 9 November 2026. Official photographs are attributed; current public manufacturer research is separate from the retained historical affiliate identity."
+}

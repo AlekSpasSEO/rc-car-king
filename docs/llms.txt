@@ -16,10 +16,10 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
-- [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
+- [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
@@ -46,6 +46,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Limitless 120 8S BLX](https://alekspasseo.github.io/rc-car-king/arrma/limitless-120-8s-blx/): Review the white/blue ARA7816T2 Limitless RTR, its 21/46 stock gearing, optional speed spool, closed-course requirements and complete 8S startup cost.
+- [Kyosho MINI-Z MR-04 Jaguar XJR-14 No.4](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-jaguar-xjr-14-no4/): Review Kyosho’s pink 32369LE Readyset, its 102 mm MR-04W-LM chassis, wheel offsets, indoor course fit, lighting restriction and eight-AAA startup cost.
+- [Tamiya Nissan R91CP 1992](https://alekspasseo.github.io/rc-car-king/tamiya/nissan-r91cp-1992/): Review Tamiya’s 47531 Nissan R91CP kit, direct-drive chassis, foam tires, unfinished body, wheelbase discrepancy and complete electronics and paint budget.
 - [ARRMA Quake 223S DSC 2WD](https://alekspasseo.github.io/rc-car-king/arrma/quake-223s-dsc-2wd/): Full-size Quake 223S review: 4000Kv rear drive, DSC, hardcase battery needs, complete startup costs and the manufacturer’s conflicting dimensions.
 - [Team Associated RC10B7.1D Team Kit](https://alekspasseo.github.io/rc-car-king/team-associated/rc10b7-1d-team-kit/): RC10B7.1D dirt-kit review: ball differential, exact 90047 hardware, missing electronics and tires, class planning and a complete from-zero build budget.
 - [Traxxas Mini Rally VXL Ford RS200](https://alekspasseo.github.io/rc-car-king/traxxas/mini-rally-vxl-ford-rs200/): Mini Rally 108046-1 review: exact white RS200 package, AWD differentials, 2S charger limits, Training Mode, manual conflicts and a complete startup budget.
