@@ -1,0 +1,61 @@
+{
+  "article": "rc-car-toe-camber-alignment",
+  "checked": "2026-11-09",
+  "scope": "Static alignment and repair diagnosis. The original conceptual illustration shows viewing directions only.",
+  "findings": [
+    {
+      "sku": "90047",
+      "sourceIndex": 0,
+      "locator": "Filled dirt kit setup sheet and Bag 4 Step 2",
+      "verified": "19 mm ride height front and rear, −1° front and rear camber, 0° front toe, and separately labeled 3° rear kit toe-in at the arm mounts."
+    },
+    {
+      "sku": "70041",
+      "sourceIndexes": [
+        1,
+        2
+      ],
+      "locator": "Turnbuckles build diagrams and RTR feature list",
+      "verified": "Separate steering and camber links, handed thread marks, adjustable front toe and camber, and DVC-equipped receiver. No settings borrowed from the buggy."
+    },
+    {
+      "sourceIndexes": [
+        3,
+        4
+      ],
+      "verified": "Independent orientation and setup context. No generic numerical recommendations transferred to either vehicle."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Team Associated — 90047 RC10B7.1D instruction manual, 22 January 2026",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer assembly instructions and filled dirt kit setup sheet",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Team Associated — black 70041 Pro2 SC10SW instruction manual, 24 February 2026",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2SC10swrtr/Black/Pro2_SC10sw_Manual_2_24_2026.pdf",
+      "kind": "Manufacturer assembly instructions for turnbuckles and installed radio",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Team Associated — 70041 Pro2 SC10SW RTR product details",
+      "url": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+      "kind": "Manufacturer specification for adjustable camber, front toe and DVC steering assistance",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tony Phalen, CompetitionX — toe in and toe out, 26 March 2023",
+      "url": "https://www.competitionx.com/rc-toe-in-toe-out-explained/",
+      "kind": "Independent explanation of toe geometry and tuning context",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tony Phalen, CompetitionX — camber, 23 March 2023",
+      "url": "https://www.competitionx.com/rc-camber-explained/",
+      "kind": "Independent explanation of camber geometry and tuning context",
+      "checked": "2026-11-09"
+    }
+  ]
+}

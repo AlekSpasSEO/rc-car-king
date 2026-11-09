@@ -1,0 +1,191 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-toe-camber-alignment",
+  "intentKey": "measure-static-toe-and-camber-at-loaded-ride-height-and-diagnose-pull-after-rebuild-or-impact",
+  "status": "published",
+  "title": "How to check RC car toe and camber",
+  "dek": "Measure both angles at running ride height, restore your model’s baseline and find out why the car still pulls after a rebuild or a hit.",
+  "seo": {
+    "title": "How to Check RC Car Toe and Camber | RC Car King",
+    "description": "Measure RC car toe and camber at running ride height, diagnose a pull after a crash, and restore the baseline for your exact kit or RTR."
+  },
+  "published": "2026-11-09",
+  "updated": "2026-11-09",
+  "publishedAt": "2026-11-09T10:01:53.070Z",
+  "updatedAt": "2026-11-09T10:01:53.070Z",
+  "answer": "Settle the car on a flat board with its running weight installed and the steering centered. Check camber from the front or rear, then check front toe from above. If the readings change every time you settle the car, or one wheel sits at an odd angle after a hit, check for play or damage before turning a link. When the hardware is sound, use the exact model’s baseline and recheck both angles after each change.",
+  "scope": "This is a static alignment check for a hobby electric RC car. You can use it to inspect fixed geometry or to adjust a model with documented turnbuckles. It covers wheel angles at neutral steering and normal ride height. Caster, steering geometry through a turn and intentional drift alignments need their own setup procedures.",
+  "prerequisites": [
+    "A rigid, level setup board with space to roll the car forward and back.",
+    "The wheels and tires you will run, and the normal battery secured in its normal position. Leave the pack electrically disconnected during mechanical work.",
+    "A camber gauge, a toe gauge or model-compatible setup station for angle readings, and the wrench that fits the turnbuckle flats. A straightedge can help screen for a large mismatch.",
+    "The exact model and variant’s manual, its setup sheet if supplied, and a place to record before and after measurements."
+  ],
+  "conceptCaption": "Where to look for each alignment angle",
+  "concepts": [
+    {
+      "name": "Front or rear view",
+      "description": "Camber is the wheel’s lean from vertical. The top of the wheel leans toward the chassis with negative camber."
+    },
+    {
+      "name": "Overhead view",
+      "description": "Toe is the wheel’s direction relative to the car’s centerline. With toe-in, the leading edge of each wheel points toward that line."
+    },
+    {
+      "name": "Side view",
+      "description": "Ride height sets where in the suspension travel you measure. Settle the car before comparing one reading with another."
+    }
+  ],
+  "sections": [
+    {
+      "id": "read-the-angles",
+      "heading": "Read the wheel angle from the right view",
+      "sourceIndexes": [
+        3,
+        4
+      ],
+      "paragraphs": [
+        "Stand over the front axle and imagine extending a line forward from each wheel. If the two lines converge ahead of the car, that axle has toe-in. If they diverge, it has toe-out. The reference is the chassis centerline. Two front wheels pointing left together can look parallel and still steer the car left. A toe gauge that reports only the angle between those wheels will miss that offset, so check steering center as well as the combined reading.",
+        "Now put your eye at wheel height and look along the chassis. A tire can have inward lean in this view and still point straight ahead in the overhead view. Camber affects how the tread presents itself to the ground as the chassis rolls and the suspension moves. Toe changes the direction each wheel points before you start turning. Phalen’s CompetitionX explanations give examples of how these angles can affect grip and steering response. Treat those effects as things to check on your own surface. Tire shape, suspension travel and the amount of grip all change what you feel.",
+        "Write the convention next to the number. A gauge can show toe per wheel, total toe across the axle or a distance between the edges of the wheels. One degree inward per wheel on a symmetric axle is two degrees of total toe-in. A millimeter reading also depends on where across the wheel you measure. Keep the same gauge and convention when comparing runs, and write “in” or “out” alongside the value."
+      ]
+    },
+    {
+      "id": "bench-sequence",
+      "heading": "Measure first, then adjust one thing",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "steps": [
+        {
+          "heading": "Check the corner that took the hit",
+          "paragraphs": [
+            "With drive power disconnected, look for a ball cup partly off its stud, a visibly bent link, an unseated wheel or a hinge pin that has moved. Gently compare wheel play and suspension movement with the other side. Spin the wheel by hand and check whether the rim itself wobbles. If the reading changes when you lightly take up the play, solve the loose or damaged part before assigning an angle to that corner."
+          ]
+        },
+        {
+          "heading": "Load the car and establish steering neutral",
+          "paragraphs": [
+            "Fit the usual wheels and secure the normal battery in its running position for weight. Use the steering and radio instructions for your installed hardware to establish neutral. The front wheels should return to the same position after a left and right input. Follow the model’s procedure for safe radio setup and keep the drive battery disconnected when putting tools on the links. If the steering drifts away from center when power is removed, use the manufacturer’s setup method before trying to measure. Moving a gyro-equipped car can produce a steering correction, so let it settle and account for assistance using that radio’s instructions."
+          ]
+        },
+        {
+          "heading": "Set ride height and record camber",
+          "paragraphs": [
+            "Let the suspension settle at your model’s running ride height. Zero the gauge on the board if the tool calls for it. Place it against a repeatable reference on the wheel, following the gauge instructions. A bulging sidewall or raised lettering can tilt a gauge, so check its contact points before using the number. Record front left, front right, rear left and rear right. Roll the car a little, settle it again and check that the readings repeat."
+          ]
+        },
+        {
+          "heading": "Measure front toe and use the identified link",
+          "paragraphs": [
+            "Check each wheel against the car’s centerline where your equipment allows. Use the diagram to identify the steering tie rods for toe and the upper suspension links for camber on a turnbuckle-equipped model. With power disconnected, use the wrench on the flats and make a small change. Thread orientation can vary with installation, so observe whether the link actually got longer or shorter. Keep the ball cups properly engaged. If a fixed link or a rear mount sets the angle, use the documented hardware positions for that model. Leave the fixed setup alone if you only need a health check."
+          ]
+        },
+        {
+          "heading": "Settle, remeasure and check travel",
+          "paragraphs": [
+            "Measure both angles again, even if you touched only one link. A change at the upper link can move the steering point with it. Check steering movement both ways and look for contact as the suspension moves through its range under the manufacturer’s setup procedure. Put the car back together and take a low-speed pass on familiar, level ground with room to stop. Compare how it tracks and returns to center before making another change."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exact-baselines",
+      "heading": "Use the numbers that belong to your car",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "The Team Associated RC10B7.1D Team Kit, item 90047, has a filled dirt setup sheet in its manual. It gives 19 mm ride height at both ends, −1° camber at both ends and 0° front toe. The rear suspension assembly separately identifies the kit’s 3° toe-in configuration at the arm mounts. That rear figure belongs to the mount setup. Use the manual’s diagram and gauge convention before comparing it with a reading on a wheel. Keep the kit’s geometry positions on the same page as the angle notes so you know which hardware produced the result.",
+        "The black Team Associated Pro2 SC10SW RTR, item 70041, has adjustable camber and front toe on steel turnbuckles. Its assembly manual has distinct steering and camber link diagrams and marks the left-hand thread ends. It also documents a DVC receiver. Use the exact truck diagrams if a link has been replaced, and keep a record of the intact factory setup if you have it. A bench measurement taken while DVC is correcting can give a different picture of front toe from a settled neutral reading. The buggy’s dirt setup sheet belongs to the buggy."
+      ]
+    },
+    {
+      "id": "troubleshoot",
+      "heading": "If it still pulls, narrow down when it happens",
+      "paragraphs": [
+        "A pull that started immediately after a curb strike is a reason to inspect the corner again. Compare readings after steering left and after steering right, both returned to neutral. If one side fails to return reliably, inspect for linkage binding, servo saver play or contact at the wheel. If an angle changes as you roll the wheel on the board, check for runout or an uneven gauge contact surface.",
+        "A car that tracks straight on a gentle coast and pulls when you accelerate gives you a different clue. Check tire seating, tire condition and whether a wheel or the driveline binds with power disconnected. The running surface can also load the two tires differently. Try a low-speed pass in the opposite direction on the same safe stretch to see whether the pull follows the car or the slope. Stop after a recurring hard pull or binding. Extra trim can hide the symptom on one pass while the damaged or sticky corner still needs attention.",
+        "Keep a short log with the tires, surface, measured angles and what changed. If the second set of readings is repeatable and the car follows the same line in both directions, you have a baseline you can return to after the next repair. If a tuning change makes the truck harder to place, restore the recorded setting before trying a different variable."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Before the next run",
+    "items": [
+      "All wheel hardware and ball cups are seated, and both sides move freely.",
+      "The car was measured on level ground with its usual running load.",
+      "The steering returns to neutral consistently and each reading repeats.",
+      "Both angles were rechecked after adjusting a link, with toe units and direction written down.",
+      "The car clears its steering and suspension travel and tracks on a controlled low-speed pass."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "team-associated/rc10b7-1d-team-kit/",
+      "title": "Team Associated RC10B7.1D Team Kit",
+      "note": "Exact 90047 dirt kit, steering geometry and setup documentation."
+    },
+    {
+      "route": "team-associated/pro2-sc10sw-rtr/",
+      "title": "Team Associated Pro2 SC10SW RTR",
+      "note": "Exact black 70041 truck with adjustable links and DVC steering assistance."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can steering trim fix toe?",
+      "answer": "Trim shifts steering neutral. Toe is the alignment of the wheels at that neutral position. Inspect the hardware and measure each wheel before using trim to correct tracking."
+    },
+    {
+      "question": "Should I measure with the wheels off the ground?",
+      "answer": "Use the model’s documented setup method at running ride height for static readings. A setup station can replace the wheels with fixtures when it reproduces the specified position. Freely hanging suspension can give a different reading."
+    },
+    {
+      "question": "Does uneven tire wear prove the camber is wrong?",
+      "answer": "Uneven wear is a reason to measure. Also check toe, runout, tire condition and where you normally drive before choosing a change."
+    },
+    {
+      "question": "Does every car have adjustable rear toe?",
+      "answer": "Some set it through suspension mounts, inserts or molded geometry. Look up the rear hardware before turning a camber link or forcing an adjustment."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Team Associated — 90047 RC10B7.1D instruction manual, 22 January 2026",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/RC10B7.1D/Team_Kit/90047_RC10B71D_Manual_1_22_2026.pdf",
+      "kind": "Manufacturer assembly instructions and filled dirt kit setup sheet",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Team Associated — black 70041 Pro2 SC10SW instruction manual, 24 February 2026",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2SC10swrtr/Black/Pro2_SC10sw_Manual_2_24_2026.pdf",
+      "kind": "Manufacturer assembly instructions for turnbuckles and installed radio",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Team Associated — 70041 Pro2 SC10SW RTR product details",
+      "url": "https://60years.associatedelectrics.com/pro2-sc10sw-rtr-black/",
+      "kind": "Manufacturer specification for adjustable camber, front toe and DVC steering assistance",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tony Phalen, CompetitionX — toe in and toe out, 26 March 2023",
+      "url": "https://www.competitionx.com/rc-toe-in-toe-out-explained/",
+      "kind": "Independent explanation of toe geometry and tuning context",
+      "checked": "2026-11-09"
+    },
+    {
+      "name": "Tony Phalen, CompetitionX — camber, 23 March 2023",
+      "url": "https://www.competitionx.com/rc-camber-explained/",
+      "kind": "Independent explanation of camber geometry and tuning context",
+      "checked": "2026-11-09"
+    }
+  ],
+  "evidenceNote": "Exact package and settings come from the two manufacturer manuals. CompetitionX provides independent geometry context. The bench sequence and fault isolation are editorial guidance. The article contains no reported driving test.",
+  "revisionNote": "First published 9 November 2026."
+}
