@@ -1,0 +1,218 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-exploded-parts-diagrams",
+  "intentKey": "identify-exact-rc-repair-part-by-model-revision-assembly-callout-and-package-contents",
+  "status": "published",
+  "title": "How to read an RC car exploded parts diagram",
+  "dek": "Find the right drawing for your exact model, trace the part number and check what the replacement packet actually contains.",
+  "seo": {
+    "title": "How to Read RC Car Exploded Parts Diagrams | RC Car King",
+    "description": "Identify an RC car part using the exact model, assembly view and parts list. Check position, orientation, suffixes and package quantities before a repair."
+  },
+  "published": "2026-11-10",
+  "updated": "2026-11-10",
+  "publishedAt": "2026-11-10T10:01:49.226Z",
+  "updatedAt": "2026-11-10T10:01:49.226Z",
+  "answer": "Find the exact model code on the carton or in your records. Open its manufacturer assembly drawing, follow the line from the damaged piece to its callout, then read that number in the parts list. Check the mounting position, orientation and packet contents against the car. Use the service instructions to plan reassembly. A drawing can show where a screw goes while leaving its installation instructions to a different page.",
+  "scope": "This guide covers identifying hardware on hobby electric RC vehicles after wear, damage or disassembly. It uses two complete models as examples. A used vehicle may already have a different assembly installed, so compare the car on the bench with the factory documents before relying on an exact-model diagram.",
+  "prerequisites": [
+    "Your exact model code, including a meaningful suffix or revision, and any records of previous repairs or conversions.",
+    "The manufacturer’s owner manual, exploded view or build instructions, and parts list for the same model.",
+    "A clean bench, good lighting, a camera and a small tray for fasteners. Disconnect drive power before inspecting or opening an assembly."
+  ],
+  "conceptCaption": "Three documents that answer different repair questions",
+  "concepts": [
+    {
+      "name": "Owner or service manual",
+      "description": "Use the assembled views to orient yourself and the service instructions to find the correct procedure."
+    },
+    {
+      "name": "Exploded drawing",
+      "description": "Follow the leader line from the piece to its callout. Check the location, the adjacent pieces and the direction it faces."
+    },
+    {
+      "name": "Parts list",
+      "description": "Read the complete part number, package contents and any notes about options or related hardware."
+    }
+  ],
+  "sections": [
+    {
+      "id": "documents",
+      "heading": "Start with the truck on the bench",
+      "sourceIndexes": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "paragraphs": [
+        "Search for the exact model code and open its support documents. A family name can cover different wheelbases, axles and electronics. A carton suffix sometimes describes the body color or a bundle, while a revision can change the part at the exact corner you are trying to repair. Use the manufacturer’s product comparison to see what the suffix actually changes. Save the document title and revision alongside the number you find.",
+        "RC Team’s repair reference starts at the manufacturer’s support page and traces the affected piece to its callout. That approach becomes much more reliable if you have a photo of the car before taking it apart. Include enough of the neighboring hardware to recognize the view later. A close-up of a loose black plastic piece gives you fewer clues than an image of the same piece beside the axle, screw and link it came from."
+      ]
+    },
+    {
+      "id": "trace-a-part",
+      "heading": "Trace the part through the drawing and list",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "steps": [
+        {
+          "heading": "Choose the assembly before reading a number",
+          "paragraphs": [
+            "Identify where the suspect piece sits in the installed car. On a vehicle with several driven axles, establish which axle and which side of that axle you are looking at. On a steering problem, work from the wheel back toward the servo and decide whether the loose point is in a steering link, rack or support. Once you know the location, use the correct assembly view. It is easy to match the outline of a part while looking at the wrong end of the car."
+          ]
+        },
+        {
+          "heading": "Follow the leader line all the way",
+          "paragraphs": [
+            "Zoom in until you can follow the line from the number to the piece. Check the parts before and after it in the stack. A line that ends at a thin spacer beside a bearing belongs to the spacer. If two lines cross, rotate or enlarge the document and start tracing again at the component. Copy the suffix exactly and look for an option label, footnote or drawing legend before treating it as the installed part."
+          ]
+        },
+        {
+          "heading": "Check the packet against the whole repair",
+          "paragraphs": [
+            "Find the part in the manufacturer’s list and read its entire description. A number may identify one piece, a set of matching items or a complete assembly. The drawing might show four bearings installed while the packet quantity is given elsewhere. Count how many pieces you actually need, then confirm whether pins, clips, seals or screws are supplied in the packet or reused from the existing assembly."
+          ]
+        },
+        {
+          "heading": "Record the orientation and use the service steps",
+          "paragraphs": [
+            "Photograph the order of the pieces before lifting them off. Sort similar fasteners by where they came from, especially when two screws share a diameter and use different lengths or head shapes. Find the manual’s actual installation instructions before choosing where to tighten, grease or apply thread treatment. If a repaired mechanism binds during the manual’s unpowered movement check, stop and inspect the orientation before operating the car."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hauler-example",
+      "heading": "Traxxas TRX-6 Hauler 88086-84 and the rear driveline",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "The factory winch Hauler has a front, intermediate and rear axle. Use the underside view in its owner’s manual to tell where you are before opening the transmission drawing. The transmission sheet marks 8850 at the rear and labels the extra short shaft there. In the separate parts list, 8850 is a pair of extra short splined plastic halves. The carrier shaft gets its own callout and its own number, 8851. If your damaged part is a carrier shaft or a metal joint, the plastic halves alone do not cover the repair.",
+        "The chock hardware shows the same distinction in a place that is easy to see. The exact parts list calls 8844R one pair of wheel chocks, front or rear. The flatbed with chocks is a different entry, 8852X. Read the description before inferring what a trailing letter means. Traxxas marks optional accessories in bold in the list. The legend and the description are more useful than a rule that treats every suffix the same way."
+      ]
+    },
+    {
+      "id": "rat-rod-example",
+      "heading": "Team Associated Pro2 RT10SW and the steering rack",
+      "sourceIndexes": [
+        3,
+        4
+      ],
+      "paragraphs": [
+        "The black 70024 RTR and 70024C LiPo combo use the same documented RT10SW truck. Associated’s package comparison says the C box adds a drive pack and charger. To trace a rack part on either truck, open the RT10SW manual and find Front Top Plate and Steering Build. The first step uses 91391 to label several pieces in that assembly, including the rack, brace and crush tube. The repeated number tells you to check the set’s actual contents before assuming each drawing label is a separately supplied piece.",
+        "That step also calls out 91475 as a 3 × 7 × 3 mm bearing and shows an installed quantity. Read the size in the diagram, then check the package count in the parts list or manufacturer listing. The same section calls attention to rack orientation and free movement after assembly. Those are service checks. A bearing with the right label does not fix a rack that has been installed backward or tightened until it binds."
+      ]
+    },
+    {
+      "id": "keep-a-record",
+      "heading": "Make a repair note you can use at the bench",
+      "paragraphs": [
+        "Write down the model, the assembly, the location and the full number. Add how many pieces you need and which hardware you will reuse. For the Hauler example, write “rear center driveline” alongside 8850 so the number stays tied to the right location. Note whether the ends and retainers on the truck are intact. A repair note that only says “driveshaft” leaves the next person to rediscover which piece failed.",
+        "Take the same care with small hardware. For a loose RT10SW rack, write down the side and the point where the motion begins. Compare the joint that moves with the joint that should stay fixed. A drawing can show the pieces at that point, but you still need to inspect the actual stack for a missing spacer, a worn bearing or a screw backing out. Replacing a whole set because the drawing groups the pieces can leave the underlying fault in place.",
+        "Keep the drawing open when you unpack a replacement. Compare the pieces with the list and photograph them next to the old hardware before starting. If a supplied fastener has a different head or length, check for a documented change instead of assuming the newer-looking piece fits. Ask for confirmation if the numbers and physical fit still disagree. That is a good time to pause, while the original parts and their positions are still easy to identify."
+      ]
+    },
+    {
+      "id": "mismatch",
+      "heading": "When the drawing and the truck disagree",
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "paragraphs": [
+        "If the old piece looks different, check the installed assembly against a second view. A previous owner may have fitted a different axle, wheel hub or steering assembly. Photograph the mounting points and any molded or stamped numbers. Check the model code on the document again. If the old and new numbers differ, look for a manufacturer note that explicitly connects them. Similar product photos or a family name provide clues, but the actual mounting and revision details decide the match.",
+        "For a second opinion, send the manufacturer or a hobby shop the exact model code, drawing title, callout and one clear photo of the installed location. Include the part number you think you need and the other items the packet must cover. That gives them enough information to distinguish a complete assembly from a subset. Keep that small record with the car so the next repair starts from its actual configuration."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Before you put the car back together",
+    "items": [
+      "The document names the exact model and identifies the assembly you inspected.",
+      "The callout matches the actual position and orientation on the car.",
+      "You recorded the full number, including any suffix, and checked what comes in the packet.",
+      "You know which fasteners, spacers, pins and other hardware will be reused.",
+      "You have the service instructions and can verify free movement with drive power disconnected before running."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "traxxas/trx-6-ultimate-rc-hauler-winch/",
+      "title": "Traxxas TRX-6 Ultimate RC Hauler with Winch",
+      "note": "Exact 88086-84 factory winch version, three axle locations and service documentation."
+    },
+    {
+      "route": "team-associated/pro2-rt10sw-rat-rod-lipo-combo/",
+      "title": "Team Associated Pro2 RT10SW Rat Rod LiPo Combo",
+      "note": "Exact 70024C box contents and shared RT10SW service baseline."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why does one number point to several pieces?",
+      "answer": "It can identify a set. Check the manufacturer’s parts list for the items and quantity included under the full number."
+    },
+    {
+      "question": "Does a quantity in the diagram tell me how many come in the packet?",
+      "answer": "It often counts what the illustrated step uses. Use the parts list or manufacturer package description to confirm what is supplied."
+    },
+    {
+      "question": "Can I use a diagram from another model in the same family?",
+      "answer": "Use it to understand the layout, then confirm the full number and fit in documentation for your exact model and installed assembly."
+    },
+    {
+      "question": "Where should I look for installation instructions?",
+      "answer": "Use the service or build manual for steps, orientation and specified treatments. Use the exploded drawing to locate the pieces and compare the stack."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · 88086-84 factory winch owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-88086-84/2/88086-84-om-en-r00.pdf",
+      "kind": "Manufacturer manual and assembled chassis views",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · 88086-84 parts list, revision 230411",
+      "url": "https://traxxas.com/sites/default/files/88086-84_parts.pdf",
+      "kind": "Manufacturer parts list, package counts and option legend",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · 88086-84 transmission assembly, revision 231201-R02",
+      "url": "https://d3if9wubzr0anm.cloudfront.net/partsexplosions/TRX88086-84-BLK-8.pdf",
+      "kind": "Manufacturer drawing hosted by a hobby retailer",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Team Associated · Pro2 RT10SW instruction manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2_RT10SW/RTR/Pro2-RT10SW-Manual-2023.pdf",
+      "kind": "Manufacturer assembly instructions, steering steps and part labels",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Team Associated · 70024 and 70024C package comparison",
+      "url": "https://60years.associatedelectrics.com/pro2-rt10sw-rtr-black/",
+      "kind": "Manufacturer package and service documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "RC Team · Using an exploded view, 12 October 2023",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/how-do-i-use-the-exploded-view",
+      "kind": "Independent hobby retailer’s identification workflow",
+      "checked": "2026-11-10"
+    }
+  ],
+  "evidenceNote": "The exact callouts and kit differences come from Traxxas and Team Associated documentation. RC Team provides an independent reference for the lookup workflow. The document map and troubleshooting sequence are original editorial explanations.",
+  "revisionNote": "First published 10 November 2026."
+}

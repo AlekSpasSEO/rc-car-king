@@ -1,0 +1,64 @@
+{
+  "article": "rc-car-exploded-parts-diagrams",
+  "checked": "2026-11-10",
+  "scope": "Exact-model service document literacy for complete vehicles.",
+  "findings": [
+    {
+      "sku": "88086-84",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "locator": "Chassis Bottom View, Transmission Assembly R02, and parts list Driveline and Chassis Components",
+      "verified": "8850 plastic extra short splined halves and 8851 center carrier shaft are separate. 8844R is one pair of chocks and 8852X is the flatbed with chocks."
+    },
+    {
+      "sku": "70024C",
+      "sourceIndexes": [
+        3,
+        4
+      ],
+      "locator": "Front Top Plate and Steering Build Step 1 and manufacturer comparison chart",
+      "verified": "91391 labels multiple steering pieces, 91475 is the 3 × 7 × 3 mm bearing, and the C package adds battery and charger."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · 88086-84 factory winch owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-88086-84/2/88086-84-om-en-r00.pdf",
+      "kind": "Manufacturer manual and assembled chassis views",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · 88086-84 parts list, revision 230411",
+      "url": "https://traxxas.com/sites/default/files/88086-84_parts.pdf",
+      "kind": "Manufacturer parts list, package counts and option legend",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · 88086-84 transmission assembly, revision 231201-R02",
+      "url": "https://d3if9wubzr0anm.cloudfront.net/partsexplosions/TRX88086-84-BLK-8.pdf",
+      "kind": "Manufacturer drawing hosted by a hobby retailer",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Team Associated · Pro2 RT10SW instruction manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2_RT10SW/RTR/Pro2-RT10SW-Manual-2023.pdf",
+      "kind": "Manufacturer assembly instructions, steering steps and part labels",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Team Associated · 70024 and 70024C package comparison",
+      "url": "https://60years.associatedelectrics.com/pro2-rt10sw-rtr-black/",
+      "kind": "Manufacturer package and service documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "RC Team · Using an exploded view, 12 October 2023",
+      "url": "https://www.rcteam.com/en/blogs/the-rc-model-blog/how-do-i-use-the-exploded-view",
+      "kind": "Independent hobby retailer’s identification workflow",
+      "checked": "2026-11-10"
+    }
+  ]
+}
