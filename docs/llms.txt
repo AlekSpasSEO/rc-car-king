@@ -15,11 +15,11 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Publication feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
-- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
-- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
+- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
@@ -48,6 +48,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [Kyosho MINI-Z MR-04 Sauber-Mercedes C9 No. 61](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-sauber-mercedes-c9-no-61/): Review Kyosho’s 32362KR Sauber C9 with a 102 mm MR-04W-LM, exact wheel offsets, club eligibility checks, lighting fit and an eight-AAA startup budget.
+- [Team Associated Pro2 RT10SW Rat Rod LiPo Combo](https://alekspasseo.github.io/rc-car-king/team-associated/pro2-rt10sw-rat-rod-lipo-combo/): Review the black 70024C Pro2 RT10SW rat rod, including the Reedy 2S bundle, DVC steering, stock gearing, pavement fit and complete startup budget.
+- [Traxxas TRX-6 Ultimate RC Hauler with Winch](https://alekspasseo.github.io/rc-car-king/traxxas/trx-6-ultimate-rc-hauler-winch/): Review the black 88086-84 TRX-6 Hauler with factory winch, 6WD, bed dimensions, cargo chock fit, low-gear use and the complete startup budget.
 - [ARRMA Limitless 120 8S BLX](https://alekspasseo.github.io/rc-car-king/arrma/limitless-120-8s-blx/): Review the white/blue ARA7816T2 Limitless RTR, its 21/46 stock gearing, optional speed spool, closed-course requirements and complete 8S startup cost.
 - [Kyosho MINI-Z MR-04 Jaguar XJR-14 No.4](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-jaguar-xjr-14-no4/): Review Kyosho’s pink 32369LE Readyset, its 102 mm MR-04W-LM chassis, wheel offsets, indoor course fit, lighting restriction and eight-AAA startup cost.
 - [Tamiya Nissan R91CP 1992](https://alekspasseo.github.io/rc-car-king/tamiya/nissan-r91cp-1992/): Review Tamiya’s 47531 Nissan R91CP kit, direct-drive chassis, foam tires, unfinished body, wheelbase discrepancy and complete electronics and paint budget.

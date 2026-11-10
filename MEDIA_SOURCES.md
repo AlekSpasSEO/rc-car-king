@@ -146,3 +146,8 @@ Nine inspected official images cover white Traxxas Mini Rally VXL108046-1-WHT, r
 ## Weekday reviews · 9 November 2026
 
 The [media manifest](content/evidence/2026-11-09-review-media.json) credits nine official images for the white and blue ARRMA Limitless 120 ARA7816T2, Tamiya Nissan R91CP kit 47531 and pink Kyosho Jaguar XJR-14 Readyset 32369LE. The ARRMA gallery labels a shared dimensions illustration that shows the red sibling. Tamiya's photos show an assembled and painted example and identify separately required equipment. The Jaguar gallery shows both the car and the supplied transmitter. All vehicle photographs are manufacturer originals.
+
+
+## Weekday reviews · 10 November 2026
+
+The [media manifest](content/evidence/2026-11-10-review-media.json) credits the official Traxxas and Team Associated photos for the black factory-winch Hauler and the black RT10SW truck. The Kyosho set includes an exact 32362KR product photo and two manufacturer illustrations of the shared MR-04 platform, identified in the captions.

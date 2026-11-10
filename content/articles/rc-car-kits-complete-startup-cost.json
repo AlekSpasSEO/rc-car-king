@@ -10,9 +10,9 @@
     "description": "Compare five body-inclusive RC car kits by the total cost to drive. Exact SKUs, kit prices, electronics, paint, tools and full reviews."
   },
   "published": "2026-11-09",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "publishedAt": "2026-11-09T09:11:38.124Z",
-  "updatedAt": "2026-11-09T09:11:38.124Z",
+  "updatedAt": "2026-11-10T08:11:51.590Z",
   "answer": "Start with the Lunch Box for a casual van build or the BMW TT-02 for repeat laps on clean pavement. Choose the Nissan R91CP for a low rear-drive Group C build, the BBX for scale buggy driving on packed dirt, and the RC10B7.1D if you already know your local dirt class. The first-run examples range from $357.30 to $1,174.99 USD. The Nissan costs less in the carton than the BMW and more to get running in these examples.",
   "scope": "These are five electric assembly kits with bodywork and distinct uses. The figures assume an empty bench and one runnable car. All five have exact-model reviews in the archive. This is a documented equipment and fit comparison, with manufacturer photography and editorial terrain guidance.",
   "prerequisites": [
@@ -82,7 +82,7 @@
       },
       "fit": "A builder who wants the 1992 Daytona body and has access to smooth, clean pavement suitable for a low pan car.",
       "strength": "Direct rear drive, a ball differential and a T-bar rear end give this reissue a mechanical identity of its own.",
-      "reservation": "Budget for an ESC and lay out the radio gear before buying. Tamiya publishes conflicting widths across regions.",
+      "reservation": "Budget for an ESC and lay out the radio gear before buying. Tamiya publishes conflicting wheelbase figures across regions.",
       "included": "Clear Nissan body, finish details, wheels and foam tires, RS-540 Sport-Tuned motor and rear CVA damper.",
       "required": "Radio and receiver, standard-size steering servo, suitable brushed ESC, supported pack and charger, radio cells as required, model-specific finishing materials and tools.",
       "startupNote": "USD from an empty bench: $144.20 kit + $60.00 radio and receiver + $35.00 servo + $45.00 ESC + $40.00 drive pack + $45.00 charger + $8.00 radio cells + $35.00 paint + $35.00 tools = $447.20 before tax and delivery. Choose compact receiver and ESC dimensions from the exact manual and check clearance with the body before making permanent mounts."
@@ -209,7 +209,7 @@
       "heading": "3. Take the rear-drive Group C route",
       "paragraphs": [
         "There is a whole lesson in this rear axle. The motor drives the rear through a direct-drive layout with a ball differential. The T-bar allows movement of the rear pod and the CVA damper controls its motion. The front end uses kingpins. That architecture and the foam tires make the running surface part of the purchase decision. If your paved spot has expansion joints, loose gravel or repeated changes in height, walk it before you plan around this car. The BMW makes more sense if you want a more conventional shaft-driven touring build for regular use.",
-        "The motor in the carton takes one item off the list. The separate ESC still needs room under that low shell, and connector routing can consume the space left beside the receiver. Tape a paper footprint of each component over the layout in the manual before placing an order if size is in doubt. One more fit detail is unresolved in the documentation. The Japanese product page specifies 280 mm width and the English page specifies 270 mm. Verify the built dimension if a transport case, club rule or storage opening has a hard width limit."
+        "The motor in the carton takes one item off the list. The separate ESC still needs room under that low shell, and connector routing can consume the space left beside the receiver. Tape a paper footprint of each component over the layout in the manual before placing an order if size is in doubt. One more fit detail is unresolved in the documentation. The Japanese product page specifies a 280 mm wheelbase and the English page specifies 270 mm. Verify the built dimension if a body swap or class rule depends on exact axle spacing. Both pages list a 204 mm overall width."
       ],
       "sourceIndexes": [
         7,
@@ -432,5 +432,5 @@
     }
   ],
   "evidenceNote": "Kit price references were checked on 9 November 2026. Equipment amounts are editorial US dollar budgeting allowances. Manufacturer sources document chassis and package facts. Independent coverage provides historical or platform context. Product photos and the existing Amazon listing identities come from the linked exact-model reviews. Current Amazon prices and availability are not represented.",
-  "revisionNote": "First published 9 November 2026."
+  "revisionNote": "First published 9 November 2026. Corrected the Nissan dimension on 10 November 2026. Tamiya’s regional pages differ on wheelbase and agree on overall width."
 }

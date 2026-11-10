@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-10",
+  "route": "traxxas/trx-6-ultimate-rc-hauler-winch/",
+  "sku": "88086-84",
+  "coreWords": 2070,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/traxxas-search.json",
+    "checkedAt": "2026-10-12T23:03:58.236Z",
+    "asin": "B0BXDH4VWL",
+    "brand": "Traxxas",
+    "part": "88086-84-BLK",
+    "title": "Traxxas TRX-6 ULT RC Hauler W/Winch",
+    "model": "88086-84",
+    "note": "Archived exact-product verification from 2026-10-12T23:03:58.236Z for 88086-84-BLK. The Traxxas product page identifies the black color suffix BLK and its owner manual uses model 88086-84. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Traxxas · exact black 88086-84-BLK product and USD reference",
+      "url": "https://traxxas.com/trx-6-flatbed-hauler-wwinch-88086-84",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · 88086-84 operating manual, winch and chock chart",
+      "url": "https://traxxas.com/media/productattach/C-88086-84/2/88086-84-om-en-r00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · exact parts list and 2992 completion option",
+      "url": "https://traxxas.com/sites/default/files/88086-84_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Mark Twain Hobby Center · 2992 pack dimensions and contents",
+      "url": "https://www.hobby1.com/traxxas-single-charger-2s-lipo-battery-combo.html",
+      "kind": "US hobby retailer equipment reference",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Hub Hobby · exact black winch model and dimensions",
+      "url": "https://www.hubhobby.com/traxxas-88086-84blk-trx-6-ultimate-rc-hauler-w-win.html",
+      "kind": "US hobby retailer package cross-check",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Big Squid RC · original 88086-4 announcement",
+      "url": "https://www.bigsquidrc.com/traxxas-trx-6-ultimate-rc-hauler/",
+      "kind": "Independent launch coverage of original variant",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas TRX-4 Sport",
+      "url": "https://rccarking.com/traxxas/trx-4-sport/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas TRX-4 Ford Bronco",
+      "url": "https://rccarking.com/traxxas/trx-4-ford-bronco-2021/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Axial SCX10 III Jeep CJ-7 V2",
+      "url": "https://rccarking.com/axial/scx10-iii-jeep-cj-7-v2/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/hauler-20261110-1.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-3qtr-Rear_54002965.jpg",
+      "bytes": 166210,
+      "sha256": "caf0755653686a100b5df1b282db646771ab66f1397b0ed98c0c1ac02a779521"
+    },
+    {
+      "file": "reviews/hauler-20261110-2.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-Side-L-R-High_54002968.jpg",
+      "bytes": 125579,
+      "sha256": "9297ef041bf0ebf6a6d7b4dac21af5c20ccda48d4ad7b46eeacd846c60896806"
+    },
+    {
+      "file": "reviews/hauler-20261110-3.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/8/88086-4-TRX-6-Flatbed-Hauler-3qtr-Front-Low_54002962.jpg",
+      "bytes": 388920,
+      "sha256": "289365fdd1ca85606b2443ea0b4aeab26ade680503198fd74072d9ec6b34d081"
+    }
+  ]
+}

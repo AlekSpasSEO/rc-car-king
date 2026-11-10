@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-10",
+  "route": "team-associated/pro2-rt10sw-rat-rod-lipo-combo/",
+  "sku": "70024C",
+  "coreWords": 2028,
+  "identity": {
+    "cachePath": "output/batch-horizon/associated-search.json",
+    "checkedAt": "2026-10-12T23:04:27.282Z",
+    "asin": "B0D8CDHTKY",
+    "brand": "Team Associated",
+    "part": "ASC70024C",
+    "title": "Team Associated Pro2 RT10SW RTR LiPo Combo, Black, ASC70024C",
+    "model": "ASC70024C",
+    "note": "Archived exact-product verification from 2026-10-12T23:04:27.282Z for ASC70024C. Horizon Hobby uses the distributor prefix ASC for the manufacturer’s 70024C combo. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Associated Electrics · RT10SW variants, geometry and specifications",
+      "url": "https://60years.associatedelectrics.com/pro2-rt10sw-rtr-black/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Horizon Hobby · exact ASC70024C included equipment",
+      "url": "https://www.horizonhobby.com/product/1-10-pro2-rt10sw-2wd-rat-rod-rtr-lipo-combo/ASC70024C.html",
+      "kind": "Distributor product documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Associated Electrics · RT10SW instruction manual",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2_RT10SW/RTR/Pro2-RT10SW-Manual-2023.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Associated Electrics · XP120 DVC radio instructions",
+      "url": "https://img2.associatedelectrics.com/pdf/cars_and_trucks/Pro2_RT10SW/RTR/XP120_DVC_Manual_wAden_OnLine.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Reedy · 324-S charger and factory pack bundle",
+      "url": "https://60years.associatedelectrics.com/reedy-324-s-compact-balance-charger/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Send It RC · US exact combo reference",
+      "url": "https://www.senditrc.com/part/ASC70024C",
+      "kind": "US hobby retailer reference",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Hobbydex · RT10SW gearing and assemblies",
+      "url": "https://hobbydex.com/rc/releases/team-associated/70024/",
+      "kind": "Independent platform reference",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Pro2 SC10SW RTR",
+      "url": "https://rccarking.com/team-associated/pro2-sc10sw-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Reflex 14R Hoonicorn",
+      "url": "https://rccarking.com/team-associated/reflex-14r-hoonicorn/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Fazer Mk2 El Camino",
+      "url": "https://rccarking.com/kyosho/fazer-mk2-el-camino-ss396/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/rt10sw-20261110-1.jpg",
+      "credit": "Team Associated",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/260/3160/70024_RT10sw_3Q_IMG_2941_lg__94170.1725442176.jpg",
+      "bytes": 122526,
+      "sha256": "38292526a18f3a26ecaddc48db4c238c79afd50ce3f3598e64a75e910085aa0e"
+    },
+    {
+      "file": "reviews/rt10sw-20261110-2.jpg",
+      "credit": "Team Associated",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/260/3161/70024_RT10sw_SidePRO_IMG_2948_lg__38603.1725442176.jpg",
+      "bytes": 100163,
+      "sha256": "c06488138e6dbf61738d020a7a5779ad2c2c8ff6b8ff45c5e24d85a56ba4f773"
+    },
+    {
+      "file": "reviews/rt10sw-20261110-3.jpg",
+      "credit": "Team Associated",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/260/3162/70024_RT10sw_3QRRdr_IMG_2949_lg__46689.1725442176.jpg",
+      "bytes": 118907,
+      "sha256": "8bdaa6ff3a7ceda35869ac0443078338110dff35efdc58ec9ac93bb18c5524e4"
+    }
+  ]
+}

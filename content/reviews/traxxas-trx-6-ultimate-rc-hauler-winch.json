@@ -1,0 +1,512 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "TRX-6 Ultimate RC Hauler with Winch",
+  "modelSlug": "trx-6-ultimate-rc-hauler-winch",
+  "sku": "88086-84",
+  "headlineLines": [
+    "SIX DRIVEN WHEELS.",
+    "ONE BIG PARKING SPACE."
+  ],
+  "title": "Traxxas TRX-6 Ultimate RC Hauler review: the factory winch version",
+  "dek": "The black 88086-84 has a working winch, three driven axles and an adjustable flatbed. Measure the load and your route before buying.",
+  "type": "Scale flatbed trail truck",
+  "use": "Trail driving",
+  "terrain": [
+    "Hard level surfaces",
+    "Open, moderate trail routes in low gear"
+  ],
+  "motor": "Brushed",
+  "drive": "6WD",
+  "scale": "1/10",
+  "format": "Assembled Ready-To-Drive with radio and winch remote, battery and charger separate",
+  "skill": "Scale hauling enthusiast with room for a 953 mm truck",
+  "price": {
+    "amount": 749.95,
+    "currency": "USD",
+    "basis": "Traxxas US manufacturer reference for black 88086-84-BLK",
+    "source": "https://traxxas.com/trx-6-flatbed-hauler-wwinch-88086-84",
+    "checked": "2026-11-10"
+  },
+  "purchaseNote": "Add a compatible drive pack, charger and four alkaline AAs. The documented 2992 power-bundle planning example totals USD 895.95.",
+  "overview": "The black 88086-84-BLK is the factory winch version of Traxxas’s 6WD flatbed. The Titan 21T motor, two-speed transmission and selectable lockers are useful for deliberate scale driving. The 597 × 220 mm bed is the reason to buy it, provided your load fits the chocks and your route suits a nearly meter-long truck.",
+  "verdict": "Choose it when the flatbed will have a regular job",
+  "verdictText": "The winch, adjustable chocks and tie-downs make a coherent scale transporter. For solo crawling on a tight route or straightforward trail walking, compare a shorter truck before paying for the hauling hardware.",
+  "pros": [
+    "Factory Pro Scale winch and separate wireless remote",
+    "Documented bed size, chock chart and four-wheel tie-down procedure",
+    "Three driven portal axles and selectable differential locks",
+    "Ready-to-drive scale shell and factory lighting"
+  ],
+  "cons": [
+    "953 mm length and 4.83 kg listed weight affect carrying and storage",
+    "Drive pack, charger and radio AAs are separate",
+    "Loaded or off-road driving calls for low gear",
+    "Cargo compatibility depends on actual wheel and body fit"
+  ],
+  "bestFor": [
+    "Scale drivers who already have a suitable on-road RC car to carry",
+    "A club or household with room to stage an unload-and-drive route",
+    "Owners who want six-wheel trail hardware and an installed winch"
+  ],
+  "avoidIf": [
+    "Your usual terrain is narrow, steep or full of sharp turns",
+    "You have little room to carry and store a 953 mm truck",
+    "You want a small first crawler with a simple battery-included package"
+  ],
+  "quickSpecs": [
+    [
+      "Exact version",
+      "88086-84 · black 88086-84-BLK"
+    ],
+    [
+      "Power system",
+      "Titan 21T 550 brushed · XL-5 HV"
+    ],
+    [
+      "Drive",
+      "Shaft-driven 6WD · portal axles"
+    ],
+    [
+      "Transmission",
+      "Remote high/low · T-Lock differentials"
+    ],
+    [
+      "Bed",
+      "597 × 220 mm"
+    ],
+    [
+      "Overall length",
+      "953 mm"
+    ]
+  ],
+  "rating": {
+    "audience": "A scale RC transporter buyer with an identified cargo car and an open place to run",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Hauling equipment",
+        "score": 9,
+        "reason": "The factory winch, adjustable chocks and tie-down bands address a real scale job."
+      },
+      {
+        "label": "Drivetrain controls",
+        "score": 9,
+        "reason": "Two gears and three selectable axle lock states support different jobs at low speed."
+      },
+      {
+        "label": "Cargo fit documentation",
+        "score": 8.5,
+        "reason": "Traxxas gives a chock chart and bed dimensions. Unlisted cars still need actual measurements."
+      },
+      {
+        "label": "Handling and storage logistics",
+        "score": 6.5,
+        "reason": "The listed length and weight make transport and route planning a larger commitment."
+      },
+      {
+        "label": "Startup value",
+        "score": 7,
+        "reason": "The package justifies more of its cost when the owner regularly uses the bed and winch."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "The flatbed gives this TRX-6 a job",
+      "paragraphs": [
+        "Start by picturing the car you intend to carry. The six-wheel chassis is interesting on its own, but the purchase makes the most sense if the flatbed, wheel chocks and working winch have a role in your sessions. The right venue has room for a long approach, a broad turn and a level place to secure the load. A narrow crawler course can turn those same dimensions into an obstacle before you ever get to the rocks.",
+        "This review covers black 88086-84-BLK, the 88086-84 factory-winch model. Big Squid RC’s earlier announcement identifies 88086-4, the original hauler release. That article is useful history for the platform, but its price and equipment description belong to that older number. The Traxxas page and manual for 88086-84 identify the factory Pro Scale winch and its wireless control. Match those details if you are shopping used or comparing two listings with similar black bodies.",
+        "At 953 mm overall, the Hauler occupies a different place in a garage from a conventional TRX-4. The front axle to intermediate axle span is 471 mm, and the front axle to the rearmost axle is 603 mm. Those are different measurements. Give your storage plan the full outside dimensions, and use the axle figures to understand why the path through a corner can be wider than you expect from the 1/10 label."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "What is included",
+      "heading": "Separate the truck, its power system and the cargo car",
+      "paragraphs": [
+        "Traxxas supplies the assembled truck, finished black cab, flatbed, installed lighting and four-channel TQi driving radio. The exact model includes its winch and a separate wireless remote, plus tie-down bands and basic tools. The car shown on the back of a gallery truck illustrates the hauling role. Your own cargo car is a separate purchase if you do not already have one that fits.",
+        "The owner’s manual calls for four alkaline AA cells, a supported drive battery with the Traxxas High-Current connection and a suitable charger. It lists six- or seven-cell NiMH and 2S or 3S LiPo options for the installed XL-5 HV. Decide on an exact documented setup before buying a battery based on voltage alone. The cost example uses the 2S package that appears in the model’s parts list.",
+        "Inspect the bed before leaving the box behind. Identify the installed chock positions, count the tie-downs and find the winch handset so it does not get mistaken for unrelated packaging. A good first bench check is to compare the truck with the manual’s top-view diagram. That lets you see where the power lead, body mounts and lighting hardware sit before you put a load above them."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "6WD drivetrain",
+      "heading": "Three driven axles give the controls a purpose",
+      "paragraphs": [
+        "The Titan 21T 550 reverse-rotation brushed motor and XL-5 HV feed a remote-shifting two-speed transmission. The drivetrain then powers the front, middle and rear axles by shafts. Traxxas uses portal gears at the wheels, raising axle hardware relative to the wheel centers. The system gives you additional pieces to inspect after a bind and a clear reason to prefer slow, deliberate driving with the bed occupied.",
+        "T-Lock separates cornering freedom from the ability to keep power at a wheel with grip. The top transmitter switch selects unlocked differentials, front locked, or all locked. Start with room to turn and learn what each switch position is doing from the owner’s manual. On a tight high-grip corner with all three axles locked, the wheels have less freedom to take different paths. Choose a broad approach and use the locking states for the obstacle you actually have.",
+        "The model-specific loading section gives a narrower high-gear rule than a general description of the transmission. Use low gear loaded or off road, and reserve high gear for an unloaded truck on a hard, level surface. That is the baseline I would follow. An impressive lighting display or a full battery does not change the load the motor sees when the truck is trying to push over a blocked wheel."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Radio and winch",
+      "heading": "Treat the winch as its own controlled movement",
+      "paragraphs": [
+        "The driving handset handles steering, throttle, gear selection and differential locking. The separate winch handset controls line in and line out. Traxxas says the winch handset is bound at the factory and gives a procedure for a replacement or lost pairing. Learn the switches with the bed empty. It is easier to notice a mixed-up switch while the truck is parked on level ground than while the load is moving.",
+        "The winch manual describes a free-spool function and an automatic brake when you release the line button. Those features are part of the scale loading setup. Keep hands and bystanders clear of a moving or tensioned line, follow the manufacturer’s instructions, and stop if the mechanism stalls or goes into protection. The tie-downs secure a vehicle for driving. The winch line is not a substitute for that separate operation.",
+        "The ESC comes in Trail mode according to the 88086-84 manual. Neutral drag in that mode, the physical gear selection and the differential switches are independent tools. If you change one, record the change before diagnosing an unfamiliar response. Follow the manual’s battery detection instructions for your actual chemistry and keep the winch remote’s button cell and its compartment away from children."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Chassis and route",
+      "heading": "Plan the path for all three axles",
+      "paragraphs": [
+        "The front axle steers while the two following axles have to fit through the same turn. A wide front approach can still leave the inside rear tires close to a post. Walk the route once and check the space beside the outer edge of the bed. Move markers to make that first lap easy. The point is to learn how much room the truck needs before putting another car behind the cab.",
+        "With a load in place the setup becomes more top-heavy, even if it fits within the length and width of the bed. Secure it at all four wheels according to the manual and keep initial runs slow, level and predictable. Portal clearance helps at the axles. It does not increase the clearance of the rear corners or guarantee the load can pass through a side slope.",
+        "The manufacturer’s exploded drawings show the middle axle, rear driveshaft and locking cables. That distinction is useful after a stop or a bump in a rut. Check the running gear with power disconnected rather than repeatedly trying to drive past resistance. In a multi-axle driveline, a piece of debris at one axle can look like a problem farther forward."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Cargo fit",
+      "heading": "Use the chock chart and measure the body as well",
+      "paragraphs": [
+        "Traxxas specifies a 597 × 220 mm flatbed. The manual describes the standard chocks around a 256–288 mm range and shows alternative holes. The chart has examples such as the 256 mm 4-Tec 2.0, the 272 mm Supra GT4 and the 288 mm Corvette Stingray. It also shows alternate positions for the 300 mm Factory Five examples. Read the table as a list of documented fits, then measure your particular vehicle before treating any similar wheelbase as sufficient.",
+        "Wheelbase measures between axle centers. It cannot tell you how far the bumper overhangs, whether the tires sit squarely in the chocks, or whether you can reinstall the shell without touching the front wall of the bed. The manual describes removing the cargo car’s body, tying down each tire and refitting the shell. Rehearse that sequence on a stable surface before planning a loaded route.",
+        "For ordinary trail driving, use open ground where the long wheelbase and rear overhang can clear the obstacles. My preferred scale session would start with a level loading point, broad turns and a hard-packed path with room to stop. If the only available course is steep and narrow, choose the model around that course. The flatbed is worth paying for when you can give it a place to work.",
+        "Check the width at the tires where the straps sit, then check the widest part of the shell above them. A road car can fit the wheelbase chart and still be too wide for a comfortable strap path. If the tie-downs have to twist or the shell cannot sit squarely, stop and choose a different load. The chart is a good starting point for the specific models it names."
+      ],
+      "sourceIndexes": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "Make a place to carry, clean and service it",
+      "paragraphs": [
+        "The truck’s 4.83 kg listed weight and long outside dimensions are worth translating into a carrying plan. Measure the shelf, vehicle boot or doorway, then leave room around the cab trim and bed. Carry it with the load removed. During maintenance, use a stable support that lets you see all six tires and reach the axle hardware without letting the long chassis tip.",
+        "The manual lays out the hold-down, body mounts and lighting module. Check the routing before lifting or replacing the shell. A pinched lead can make a body problem look like an electrical one. On the rear end, inspect the winch line, chock fasteners and tie-down condition together. The factory lights are a visual feature and the manual still directs the owner away from night driving and public streets.",
+        "Use the exact 88086-84 diagrams for bed and winch hardware. The model shares recognizable TRX parts, but the carrier shaft, middle axle and bed-specific fittings make the truck different to service from a four-wheel model. After a dusty outing, clean the areas around the axle and the winch and record any part that begins to bind. Follow the dedicated wet-running maintenance instructions if water reaches the truck.",
+        "The bed also changes how you set the model down between runs. Make a level space long enough for the rear wheels and leave access to the battery. Leaning the rear of the truck against a wall makes it harder to inspect the line or remove a load. A flat bench with room behind the bed is more useful than a tight display shelf when the Hauler needs actual service."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup budget",
+      "heading": "The complete price has a separate power line",
+      "paragraphs": [
+        "Traxxas’s US page for black 88086-84-BLK showed USD 749.95 on 10 November 2026. The exact parts list identifies 2992, which pairs a 2843X 5800 mAh 2S LiPo and 2970 EZ-Peak Plus charger. Budget USD 120 for that set as an editorial allowance, USD 6 for four AAs and USD 20 for suitable LiPo charging provisions. The resulting USD 895.95 example is before tax and delivery.",
+        "Check the fit of the pack with the actual hold-down and wire routing before closing the body. The published battery case dimensions for the 2843X are 135 × 45 × 25 mm. The model’s parts list supports the bundle. The owner’s manual still governs installation, connection and LiPo detection. A compatible charger you own can change the bill, but it needs to support the actual pack and connector.",
+        "Keep any additional load car outside this base running total. If the point is to make a two-car display or transport session, price that separately after confirming fit. I would also measure for transport before ordering a case. A truck nearly a meter long can turn a cheap generic carrier into a second purchase if the cab is too tall or the bed touches the zip."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "table": {
+        "caption": "US startup budget checked 10 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Black TRX-6 with winch",
+            "Traxxas US exact model reference",
+            "749.95"
+          ],
+          [
+            "2992 pack and AC charger",
+            "Editorial planning allowance",
+            "120.00"
+          ],
+          [
+            "Four AAs",
+            "Editorial allowance",
+            "6.00"
+          ],
+          [
+            "LiPo charging provisions",
+            "Editorial allowance",
+            "20.00"
+          ],
+          [
+            "Example total",
+            "Before tax and delivery, cargo separate",
+            "895.95"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Other vehicles",
+      "heading": "Pick the truck for the job you repeat",
+      "paragraphs": [
+        "The TRX-4 Sport is the more direct choice if you want to drive a four-wheel trail truck and leave the hauling equipment behind. Compare the Sport for a simpler control layout and a shorter shape on twisting trails. The Hauler makes sense when the bed and the extra driven axle are part of the reason you go out.",
+        "The Traxxas TRX-4 2021 Ford Bronco gives you a scale body and several of the driving decisions that make the Hauler interesting, including selectable gearing and locking on the documented Bronco configuration. Choose between them by body, route and whether you have a cargo car. Compare the actual boot and shelf dimensions before spending.",
+        "The Axial SCX10 III Jeep CJ-7 V2 suits a buyer drawn to slow obstacle work with a different control mechanism and a conventional single rear axle. The DIG feature does a different job from the Hauler’s rear locker arrangement. Compare the individual reviews if your main priority is lining up a wheel on a tight obstacle rather than moving another model on a bed."
+      ],
+      "sourceIndexes": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the factory winch version for actual scale hauling",
+      "paragraphs": [
+        "I would shortlist 88086-84-BLK after measuring both the truck’s parking spot and the car it will carry. The manual gives enough dimensional and equipment detail to make that decision before checkout. The separate winch remote, movable chocks and four tire tie-downs make the loading routine part of the model’s appeal.",
+        "If the measurements work, set the first session up on level ground and learn the truck unloaded in low gear before adding cargo. If your real use is regular crawling on narrow ground, the length and separate power bill are reasons to pick a shorter complete trail truck. The Hauler earns its space when you use the equipment that takes up so much of it."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Model / color",
+      "88086-84 / black 88086-84-BLK"
+    ],
+    [
+      "Scale",
+      "1/10"
+    ],
+    [
+      "Drive",
+      "Full-time shaft-driven 6WD, portal axles"
+    ],
+    [
+      "Motor",
+      "Titan 21T 550 brushed, reverse rotation"
+    ],
+    [
+      "ESC",
+      "XL-5 HV"
+    ],
+    [
+      "Transmission",
+      "Remote two-speed high/low"
+    ],
+    [
+      "Locks",
+      "Unlocked, front only, or all three"
+    ],
+    [
+      "Radio",
+      "TQi 2.4 GHz four-channel"
+    ],
+    [
+      "Winch",
+      "Factory Pro Scale, separate wireless remote"
+    ],
+    [
+      "Overall length",
+      "953 mm"
+    ],
+    [
+      "Height",
+      "303 mm"
+    ],
+    [
+      "Listed weight",
+      "4.83 kg"
+    ],
+    [
+      "Wheelbases",
+      "471 mm front to middle, 603 mm front to rear"
+    ],
+    [
+      "Bed",
+      "597 × 220 mm"
+    ],
+    [
+      "Power required",
+      "6/7-cell NiMH or compatible 2S/3S LiPo and charger, four alkaline AAs"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Does this exact truck have a winch?",
+      "answer": "Yes. Black 88086-84-BLK has the factory-installed Pro Scale winch and wireless remote."
+    },
+    {
+      "question": "How big is the bed?",
+      "answer": "Traxxas specifies 597 × 220 mm. The owner’s manual shows chock positions for several named cars."
+    },
+    {
+      "question": "Can I use high gear while carrying another RC car?",
+      "answer": "Use low gear when loaded or off road. The model’s loading instructions reserve high gear for unloaded driving on a hard, level surface."
+    },
+    {
+      "question": "Is the drive battery included?",
+      "answer": "No. The truck requires a compatible drive pack and charger, plus four alkaline AAs for the handset."
+    },
+    {
+      "question": "Do all six wheels receive power?",
+      "answer": "Yes. It is a full-time shaft-driven 6WD model with portal axles and selectable differential locking."
+    },
+    {
+      "question": "Is 88086-4 the same listing?",
+      "answer": "It identifies the older Hauler version. This review is specifically for 88086-84 with the factory winch."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · exact black 88086-84-BLK product and USD reference",
+      "url": "https://traxxas.com/trx-6-flatbed-hauler-wwinch-88086-84",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · 88086-84 operating manual, winch and chock chart",
+      "url": "https://traxxas.com/media/productattach/C-88086-84/2/88086-84-om-en-r00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas · exact parts list and 2992 completion option",
+      "url": "https://traxxas.com/sites/default/files/88086-84_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Mark Twain Hobby Center · 2992 pack dimensions and contents",
+      "url": "https://www.hobby1.com/traxxas-single-charger-2s-lipo-battery-combo.html",
+      "kind": "US hobby retailer equipment reference",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Hub Hobby · exact black winch model and dimensions",
+      "url": "https://www.hubhobby.com/traxxas-88086-84blk-trx-6-ultimate-rc-hauler-w-win.html",
+      "kind": "US hobby retailer package cross-check",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Big Squid RC · original 88086-4 announcement",
+      "url": "https://www.bigsquidrc.com/traxxas-trx-6-ultimate-rc-hauler/",
+      "kind": "Independent launch coverage of original variant",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas TRX-4 Sport",
+      "url": "https://rccarking.com/traxxas/trx-4-sport/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Traxxas TRX-4 Ford Bronco",
+      "url": "https://rccarking.com/traxxas/trx-4-ford-bronco-2021/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Axial SCX10 III Jeep CJ-7 V2",
+      "url": "https://rccarking.com/axial/scx10-iii-jeep-cj-7-v2/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    }
+  ],
+  "seo": {
+    "title": "Traxxas TRX-6 Ultimate RC Hauler Winch Review",
+    "description": "Review the black 88086-84 TRX-6 Hauler with factory winch, 6WD, bed dimensions, cargo chock fit, low-gear use and the complete startup budget."
+  },
+  "published": "2026-11-10",
+  "updated": "2026-11-10",
+  "publishedAt": "2026-11-10T08:11:51.615Z",
+  "updatedAt": "2026-11-10T08:11:51.615Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/hauler-20261110-1.jpg",
+  "imageAlt": "Official Traxxas rear three-quarter view of the black 88086-84 Hauler with factory winch and flatbed.",
+  "imageCaption": "Official Traxxas rear three-quarter view of the black 88086-84 Hauler with factory winch and flatbed.",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-3qtr-Rear_54002965.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/hauler-20261110-2.jpg",
+      "alt": "Official Traxxas side view of the black 88086-84 factory winch model.",
+      "caption": "Official Traxxas side view of the black 88086-84 factory winch model.",
+      "source": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-Side-L-R-High_54002968.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-Side-L-R-High_54002968.jpg"
+      }
+    },
+    {
+      "image": "reviews/hauler-20261110-3.jpg",
+      "alt": "Official Traxxas front three-quarter view illustrating the cab and front wheel layout in the manufacturer’s 88086-84 gallery.",
+      "caption": "Official Traxxas front three-quarter view illustrating the cab and front wheel layout in the manufacturer’s 88086-84 gallery.",
+      "source": "https://traxxas.com/media/catalog/product/8/8/88086-4-TRX-6-Flatbed-Hauler-3qtr-Front-Low_54002962.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/8/8/88086-4-TRX-6-Flatbed-Hauler-3qtr-Front-Low_54002962.jpg"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0BXDH4VWL",
+    "marketplace": "www.amazon.com",
+    "sku": "88086-84",
+    "apiSku": "88086-84-BLK",
+    "detailPageUrl": "https://www.amazon.com/dp/B0BXDH4VWL?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:03:58.236Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "Black 88086-84-BLK complete 1/10 TRX-6 flatbed with factory Pro Scale winch and separate wireless winch remote",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:03:58.236Z for 88086-84-BLK. The Traxxas product page identifies the black color suffix BLK and its owner manual uses model 88086-84. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 10 November 2026."
+}

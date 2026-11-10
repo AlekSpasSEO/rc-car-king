@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-10",
+  "route": "kyosho/mini-z-mr04-sauber-mercedes-c9-no-61/",
+  "sku": "32362KR",
+  "coreWords": 2009,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/kyosho-initial.json",
+    "checkedAt": "2026-10-12T23:04:27.828Z",
+    "asin": "B0F787VY4K",
+    "brand": "Kyosho",
+    "part": "32362KR",
+    "title": "Kyosho Minute RWD MR-04 Ready Set Sauber-Mercedes Gruppe-C-Rennsportwagen C9 Nr.61 LM1988 Electric Radio Control 32362KR",
+    "model": "32362KR",
+    "note": "Archived exact-product verification from 2026-10-12T23:04:27.828Z for 32362KR.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Kyosho · exact 32362KR product and technical data",
+      "url": "https://rc.kyosho.com/en/32362kr.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Kyosho · T05 operating manual linked from 32362KR",
+      "url": "https://www.kyosho.com/jpn/support/instructionmanual/mini-z/pdf/MINIZRWDMR04-T05_im.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Kyosho · exact 32362KR compatibility list",
+      "url": "https://rc.kyosho.com/en/compatible/index/index/product_id/44953/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Houston RC · local Mini-Z class rules",
+      "url": "https://houstonrc.net/pages/rules",
+      "kind": "Published track rules, local example",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Houston RC · exact 32362KR US reference",
+      "url": "https://houstonrc.net/products/mini-z-rwd-mr-04-readyset-sauber-mercedes-gruppe-c-rennsportwagen-c9-61-1988-lm-32362kr",
+      "kind": "US hobby retailer price basis",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "24 Hours of Le Mans · Sauber constructor record",
+      "url": "https://www.24h-lemans.com/en/track-record/constructors/sauber",
+      "kind": "Race organizer archive",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Endurance-Info · Sauber-Mercedes at Le Mans in 1988",
+      "url": "https://www.endurance-info.com/classic/article/97177-sauber-mercedes-en-1988-le-retour-manque",
+      "kind": "Independent motorsport reporting",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "MINI-Z Jaguar XJR-14 No. 4",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-jaguar-xjr-14-no4/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "MINI-Z Porsche 911 GT3 RS",
+      "url": "https://rccarking.com/kyosho/mini-z-mr04-porsche-911-gt3-rs/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "MINI-Z AWD Initial D Toyota AE86",
+      "url": "https://rccarking.com/kyosho/mini-z-awd-initial-d-toyota-ae86/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-10"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/sauber-c9-20261110-1.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32362/32362KR_600_1.jpg",
+      "bytes": 101685,
+      "sha256": "0dfa13dc62a66988a9c79c4b6ea9018becd960727843473b0d949f1cec8227f5"
+    },
+    {
+      "file": "reviews/sauber-c9-20261110-2.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32363/32363PR_600_4.jpg",
+      "bytes": 124480,
+      "sha256": "4209647d86318fc627d1b009d81098087a7c77cdb3d85cdb645e49ecd9617814"
+    },
+    {
+      "file": "reviews/sauber-c9-20261110-3.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32363/32363PR_600_6.jpg",
+      "bytes": 124785,
+      "sha256": "94192d0f10aebce59312a39528e0bf29963941f1d16d148db5015ad06730ffd0"
+    }
+  ]
+}

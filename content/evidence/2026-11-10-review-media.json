@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-10",
+  "scope": "Official product images for the black RT10SW and black factory-winch TRX-6. Kyosho supplies the exact No. 61 hero and two captioned MR-04 platform illustrations.",
+  "media": [
+    {
+      "file": "reviews/rt10sw-20261110-1.jpg",
+      "credit": "Team Associated",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/260/3160/70024_RT10sw_3Q_IMG_2941_lg__94170.1725442176.jpg",
+      "bytes": 122526,
+      "sha256": "38292526a18f3a26ecaddc48db4c238c79afd50ce3f3598e64a75e910085aa0e"
+    },
+    {
+      "file": "reviews/rt10sw-20261110-2.jpg",
+      "credit": "Team Associated",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/260/3161/70024_RT10sw_SidePRO_IMG_2948_lg__38603.1725442176.jpg",
+      "bytes": 100163,
+      "sha256": "c06488138e6dbf61738d020a7a5779ad2c2c8ff6b8ff45c5e24d85a56ba4f773"
+    },
+    {
+      "file": "reviews/rt10sw-20261110-3.jpg",
+      "credit": "Team Associated",
+      "url": "https://cdn11.bigcommerce.com/s-jl18qwfl9e/images/stencil/1280w/products/260/3162/70024_RT10sw_3QRRdr_IMG_2949_lg__46689.1725442176.jpg",
+      "bytes": 118907,
+      "sha256": "8bdaa6ff3a7ceda35869ac0443078338110dff35efdc58ec9ac93bb18c5524e4"
+    },
+    {
+      "file": "reviews/hauler-20261110-1.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-3qtr-Rear_54002965.jpg",
+      "bytes": 166210,
+      "sha256": "caf0755653686a100b5df1b282db646771ab66f1397b0ed98c0c1ac02a779521"
+    },
+    {
+      "file": "reviews/hauler-20261110-2.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/8/88086-84-TRX-6-Flatbed-Hauler-w-Winch-Side-L-R-High_54002968.jpg",
+      "bytes": 125579,
+      "sha256": "9297ef041bf0ebf6a6d7b4dac21af5c20ccda48d4ad7b46eeacd846c60896806"
+    },
+    {
+      "file": "reviews/hauler-20261110-3.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/8/88086-4-TRX-6-Flatbed-Hauler-3qtr-Front-Low_54002962.jpg",
+      "bytes": 388920,
+      "sha256": "289365fdd1ca85606b2443ea0b4aeab26ade680503198fd74072d9ec6b34d081"
+    },
+    {
+      "file": "reviews/sauber-c9-20261110-1.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32362/32362KR_600_1.jpg",
+      "bytes": 101685,
+      "sha256": "0dfa13dc62a66988a9c79c4b6ea9018becd960727843473b0d949f1cec8227f5"
+    },
+    {
+      "file": "reviews/sauber-c9-20261110-2.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32363/32363PR_600_4.jpg",
+      "bytes": 124480,
+      "sha256": "4209647d86318fc627d1b009d81098087a7c77cdb3d85cdb645e49ecd9617814"
+    },
+    {
+      "file": "reviews/sauber-c9-20261110-3.jpg",
+      "credit": "Kyosho",
+      "url": "https://rc.kyosho.com/media/wysiwyg/catalog/product2/32363/32363PR_600_6.jpg",
+      "bytes": 124785,
+      "sha256": "94192d0f10aebce59312a39528e0bf29963941f1d16d148db5015ad06730ffd0"
+    }
+  ]
+}
