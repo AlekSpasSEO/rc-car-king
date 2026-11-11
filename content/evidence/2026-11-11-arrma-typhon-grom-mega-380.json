@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-11",
+  "route": "arrma/typhon-grom-mega-380/",
+  "sku": "ARA2106T2",
+  "coreWords": 2187,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/arrma-search.json",
+    "checkedAt": "2026-10-12T23:04:01.532Z",
+    "asin": "B0CY8YRWBD",
+    "brand": "ARRMA",
+    "part": "ARA2106T2",
+    "title": "ARRMA Typhon GROM 4x4 RC Buggy, RTR, Red/White ARA2106T2",
+    "model": "ARA2106T2",
+    "note": "Archived exact-product verification from 2026-10-12T23:04:01.532Z for ARA2106T2.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby exact ARA2106T2 product and package",
+      "url": "https://www.horizonhobby.com/product/1-14-typhon-grom-4x4-rtr-brushed-buggy-battery-and-charger-included-red-white/ARA2106T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA ARA2106 technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/ARA2106_PARTS_TECH_PACK_ML.PDF",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Spektrum S10 SPMXC0040 charging instructions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/SPMXC0040-Manual-MULTI.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Big Squid RC brushed Typhon GROM launch coverage",
+      "url": "https://www.bigsquidrc.com/arrma-small-scale-typhon-grom-mega-brushed-4x4-rtr/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Typhon GROM 223S review",
+      "url": "https://rccarking.com/arrma/typhon-grom-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Mojave GROM RTA review",
+      "url": "https://rccarking.com/arrma/mojave-grom-rta/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Losi Micro-B review",
+      "url": "https://rccarking.com/losi/micro-b/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/typhon-mega-20261111-1.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwd0f10ed5/Images/ARA/ARA2106T2_A29_JAGRV7T6.jpg",
+      "bytes": 160325,
+      "sha256": "f101644e1af7ced692c7278b999bb426c60244ba27eb50d5ca12df5c68e5f38a"
+    },
+    {
+      "file": "reviews/typhon-mega-20261111-2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1cac2773/Images/ARA/ARA2106T2_A22_JAGRV7T6.jpg",
+      "bytes": 106733,
+      "sha256": "004ccaffb27bb62692af37300bbfdc86221a3746deeda31c7f3ad986f69502f6"
+    },
+    {
+      "file": "reviews/typhon-mega-20261111-3.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw65bff105/Images/ARA/ARA2106T2_A61_JAGRV7T6.jpg",
+      "bytes": 305579,
+      "sha256": "71ccace427d988a93a62eec1f822eca41a6b2ad6fbc04da832cc50c9b08bf8fb"
+    }
+  ]
+}

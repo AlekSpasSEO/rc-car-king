@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-11",
+  "route": "traxxas/xo-1/",
+  "sku": "64077-3-GRN",
+  "coreWords": 2043,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/traxxas-search.json",
+    "checkedAt": "2026-10-12T23:03:58.236Z",
+    "asin": "B0CMDFZQYJ",
+    "brand": "Traxxas",
+    "part": "64077-3-GRN",
+    "title": "Traxxas 64077-3 - XO-1 1/7 AWD Supercar RTR w/TQi Radio & TSM, Green",
+    "note": "Archived exact-product verification from 2026-10-12T23:03:58.236Z for 64077-3-GRN.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Traxxas revised XO-1 64077-3 product and green variant",
+      "url": "https://traxxas.com/xo-1-supercar-64077-3",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas 64077-3 exact owner manual",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/2/64077-3-om-en-r00-new.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas 64077-3 exact parts list and completion equipment",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/3/64077-3_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "HobbyTown exact green 64077-3 package",
+      "url": "https://www.hobbytown.com/traxxas-xo1-1-7-rtr-electric-4wd-onroad-sedan-green-tra64077-3-grn/p1435753",
+      "kind": "Independent hobby retailer",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Big Squid RC revised XO-1 launch coverage, 20 July 2022",
+      "url": "https://www.bigsquidrc.com/traxxas-updates-the-xo-1/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Limitless 120 8S BLX review",
+      "url": "https://rccarking.com/arrma/limitless-120-8s-blx/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas 4-Tec 2.0 Nissan 240SX VX3 AWD review",
+      "url": "https://rccarking.com/traxxas/4-tec-2-0-nissan-240sx-vx3-awd/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Team Associated Pro2 RT10SW Rat Rod LiPo Combo review",
+      "url": "https://rccarking.com/team-associated/pro2-rt10sw-rat-rod-lipo-combo/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/xo-1-20261111-1.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-grn_53983207.jpg",
+      "bytes": 188533,
+      "sha256": "88cb3e74f33d01e4e2acc6c719ddaac4a01a4b3646de9747fe907c552f1bbf6a"
+    },
+    {
+      "file": "reviews/xo-1-20261111-2.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-side-view-grn_53983209.jpg",
+      "bytes": 145088,
+      "sha256": "b4c3f259558f54b88df99e265fd13bbddea60338b4bb0856c07d1ea7135b9163"
+    },
+    {
+      "file": "reviews/xo-1-20261111-3.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-left-grn_53983206.jpg",
+      "bytes": 169212,
+      "sha256": "30357ef600da9d6fc02049ef4f8d14acfe96b88192705db53b71ba11c601d486"
+    }
+  ]
+}

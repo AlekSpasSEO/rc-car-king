@@ -15,10 +15,10 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [Publication feed](https://alekspasseo.github.io/rc-car-king/feed.xml)
 
 ## Brand archives
+- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
+- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
-- [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
-- [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
@@ -49,6 +49,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Typhon GROM MEGA 380](https://alekspasseo.github.io/rc-car-king/arrma/typhon-grom-mega-380/): Review the red and white ARRMA ARA2106T2 brushed buggy, included 2S battery and charger, throttle limits, terrain fit and first-session cost.
+- [Traxxas Maxx Ultimate](https://alekspasseo.github.io/rc-car-king/traxxas/maxx-ultimate/): Review the blue Traxxas 89087-4-BLUE Maxx Ultimate, its factory tires and steering, differences from the standard Maxx and the complete 4S startup budget.
+- [Traxxas XO-1](https://alekspasseo.github.io/rc-car-king/traxxas/xo-1/): Review the green Traxxas XO-1 AWD supercar, its factory power, tires and aero, the two-pack charging budget and the closed course it needs.
 - [Kyosho MINI-Z MR-04 Sauber-Mercedes C9 No. 61](https://alekspasseo.github.io/rc-car-king/kyosho/mini-z-mr04-sauber-mercedes-c9-no-61/): Review Kyosho’s 32362KR Sauber C9 with a 102 mm MR-04W-LM, exact wheel offsets, club eligibility checks, lighting fit and an eight-AAA startup budget.
 - [Team Associated Pro2 RT10SW Rat Rod LiPo Combo](https://alekspasseo.github.io/rc-car-king/team-associated/pro2-rt10sw-rat-rod-lipo-combo/): Review the black 70024C Pro2 RT10SW rat rod, including the Reedy 2S bundle, DVC steering, stock gearing, pavement fit and complete startup budget.
 - [Traxxas TRX-6 Ultimate RC Hauler with Winch](https://alekspasseo.github.io/rc-car-king/traxxas/trx-6-ultimate-rc-hauler-winch/): Review the black 88086-84 TRX-6 Hauler with factory winch, 6WD, bed dimensions, cargo chock fit, low-gear use and the complete startup budget.

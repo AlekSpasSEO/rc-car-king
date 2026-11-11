@@ -1,0 +1,495 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "XO-1",
+  "modelSlug": "xo-1",
+  "sku": "64077-3-GRN",
+  "headlineLines": [
+    "LONG COURSE.",
+    "LOW CHASSIS."
+  ],
+  "title": "Traxxas XO-1 review: the green 64077-3 and the cost of a proper course",
+  "dek": "The green 64077-3 is a factory-built 1/7 AWD speed car. Its tire, aero and power package only make sense when you can drive on a controlled closed course.",
+  "type": "On-road speed car",
+  "use": "Racing",
+  "terrain": [
+    "Dry smooth closed paved course"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/7",
+  "format": "Assembled RTR, two drive packs and charger separate",
+  "skill": "Expert on-road driver with a controlled closed course",
+  "price": {
+    "amount": 799.95,
+    "currency": "USD",
+    "basis": "Traxxas US exact green XO-1 vehicle reference",
+    "source": "https://traxxas.com/xo-1-supercar-64077-3",
+    "checked": "2026-11-11"
+  },
+  "purchaseNote": "Requires two identical compatible drive batteries, a compatible LiPo balance charger and four AA transmitter batteries. Budget for controlled closed-course access separately.",
+  "overview": "The revised green XO-1 combines a long aluminum chassis, shaft AWD, a 1650Kv Big Block motor and the Castle Mamba Monster Extreme controller. Two drive packs and charging equipment are separate. Read the exact manual and secure a proper venue before buying.",
+  "verdict": "Buy it when you already have the course",
+  "verdictText": "The factory package suits experienced drivers who want a dedicated large on-road car and can use a controlled closed facility. Choose a lower-speed, smaller vehicle for ordinary cornering practice.",
+  "pros": [
+    "Complete factory-built AWD speed-car package",
+    "Documented exact-model aero and power requirements",
+    "Belted staggered tires and adjustable GTR shocks",
+    "TQi radio, Link module and TSM included"
+  ],
+  "cons": [
+    "Dedicated closed facility and spotter are central to use",
+    "Two matching packs and charger add to startup cost",
+    "15 mm clearance leaves little margin for broken pavement",
+    "Tires, body and aero require careful inspection"
+  ],
+  "bestFor": [
+    "Expert drivers with reliable closed-course access",
+    "Buyers looking for a factory 1/7 on-road package",
+    "Drivers willing to budget a matched two-pack setup"
+  ],
+  "avoidIf": [
+    "You only have access to public roads or shared lots",
+    "You want a car for grass, mixed terrain or tight circuits",
+    "You are learning hobby-grade steering and braking"
+  ],
+  "quickSpecs": [
+    [
+      "Exact SKU",
+      "64077-3-GRN · green"
+    ],
+    [
+      "Motor",
+      "1650Kv Big Block sensorless brushless"
+    ],
+    [
+      "Controller",
+      "Castle Mamba Monster Extreme"
+    ],
+    [
+      "Drive",
+      "Shaft AWD"
+    ],
+    [
+      "Wheelbase / clearance",
+      "404 mm / 15 mm"
+    ],
+    [
+      "Power to buy",
+      "Two identical compatible LiPo drive packs"
+    ]
+  ],
+  "rating": {
+    "audience": "An expert driver with reliable access to a smooth closed course",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Purpose fit",
+        "score": 9,
+        "reason": "The long chassis, aero and belted tires fit the dedicated on-road brief."
+      },
+      {
+        "label": "Factory integration",
+        "score": 9,
+        "reason": "The motor, ESC, radio and aero are sold as a documented complete car."
+      },
+      {
+        "label": "Service documentation",
+        "score": 8.5,
+        "reason": "The manual and parts sheet help trace the installed hardware and distinct wheel sizes."
+      },
+      {
+        "label": "Venue flexibility",
+        "score": 5.5,
+        "reason": "Even this buyer needs reliable access to a controlled facility and suitable conditions."
+      },
+      {
+        "label": "Startup value",
+        "score": 7,
+        "reason": "The vehicle includes the electronics. The matched pack pair, charger and course access still need a budget."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "Before the car, book the course",
+      "paragraphs": [
+        "The first question for the XO-1 is where you can operate it. Put the exact green 64077-3 next to a normal touring car and you have 686 mm of body, a 404 mm wheelbase and a power system intended for expert use. It needs dry, smooth pavement, controlled access, barricades and room to see and stop the car. If you cannot name a facility where the operator has agreed to the use, keep the money on the bench.",
+        "This is the revised green 64077-3-GRN. Big Squid RC covered the updated XO-1 in July 2022, including changes to the body and aerodynamics. The review uses the exact current model page and the matching Traxxas manual and parts sheet. Those records are more useful for ownership than a speed claim on a listing or a clip of an earlier car. The green suffix identifies a finished complete package with its electronics, radio and body.",
+        "An experienced driver still needs to judge the venue and equipment on the day. The score is weighted for somebody who can do that and is looking for a factory-built dedicated speed car. It gives the XO-1 credit for integration and documentation, and it takes away points for the limits that will determine how often you can drive it."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Power system",
+      "heading": "Why the two-pack requirement matters",
+      "paragraphs": [
+        "The motor is a 1650Kv sensorless Big Block and the ESC is the Castle Mamba Monster Extreme supplied for this XO-1. The motor rating by itself does not tell you ground speed or how the car will respond under a particular load. Gear ratio, rolling diameter, battery condition and the selected configuration all matter. Traxxas documents a factory configuration and a separate maximum-speed setup with specific requirements. Use the factory baseline while you evaluate the car and course.",
+        "The manual calls for two identical compatible LiPo packs. Their voltages add in series, while capacity in amp-hours remains the capacity of one matching pack. The controller sees the series system, so an ill-matched or weak pack matters even when the other one looks healthy. Buy and treat the pair as a set. Check the tray, hold-down, connector and manufacturer limits together, and follow the manuals for charging and storage.",
+        "The parts sheet lists a completion option with two 2872X 5000 mAh 3S iD packs and a 2972 dual balance charger. That makes a concrete example for a budget comparison. With another documented configuration, compare the exact packs and charger in their own instructions. A connector adapter or a larger number on a label does not establish a safe substitute."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Chassis",
+      "heading": "Long, low and dependent on the surface",
+      "paragraphs": [
+        "The scale number is less useful than the actual footprint. The 686 by 329 mm body needs room to turn and a tote that holds it without pressing on the wing or nose. Traxxas lists 15 mm of central ground clearance. A small stone, abrupt pavement seam or shallow pothole can matter to this chassis even if it barely registers when you walk through it. Sweep and walk the driving line and braking area before considering a run.",
+        "An aluminum chassis supports the AWD layout. The front and rear gear differentials let the two wheels on each axle turn at different rates, and the center driveline takes drive to both ends. Independent suspension and oil-filled GTR shocks give each corner a way to move over small changes in surface height. That is useful on sound pavement with grip. The available travel and tire design still establish the operating surface.",
+        "Leave factory ride height and alignment in place for the first checks. If the car rubs the pavement or body, record where and investigate the setup and surface before changing links. Check left and right components and use the actual manual for measurements. An apparently simple ride-height change can alter how the splitter, suspension and tires move relative to the road."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "First checks",
+      "heading": "Prove steering and braking at low speed",
+      "paragraphs": [
+        "The TQi system comes with the Traxxas Link Wireless Module and TSM. TSM makes steering corrections. Treat it as part of the radio setup and follow the manufacturer baseline before adjusting sensitivity. Start with fresh transmitter batteries and perform the exact manual radio and range checks in the venue. Investigate any intermittent response before the car goes back onto the driving line.",
+        "With the facility clear and a spotter in place, get to know steering and braking at low speed. Set a visible stop marker where you have room beyond it. Learn to approach it and stop consistently while the car is still easy to see. A marker that disappears in glare or against a seam is a problem to fix at walking pace. So is an uneven braking lane that makes the car move across your intended line.",
+        "If steering drifts, work from tire condition and mechanical centering to trim and the radio checks. If the braking response varies, stop and inspect the car and controls using the manual. A phone screen can show radio settings, but the useful evidence is how the vehicle responds repeatedly on the course. End the session if you lose clear sight of the car or cannot verify the controls."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Tires and aero",
+      "heading": "The stock body, wing and tires are working parts",
+      "paragraphs": [
+        "The XO-1 has belted slicks with different front and rear widths. The internal reinforcement helps retain the intended shape as the wheel turns faster. The two positions are listed separately in the parts sheet, so order by axle as well as by diameter and hub. Before driving, check each tire for cuts, deformation and lifting glue, and check the wheel nuts. Park the car if you cannot establish why it vibrates or pulls.",
+        "Traxxas designed the front and rear aero pieces as part of a system, and the manual gives an additional rear-wing requirement for the separate maximum-speed configuration. A loose mount or a damaged piece deserves the same attention as a steering fault. Keep the correct wing and splitter for the configuration in the manual. If a used car arrives with an aftermarket body, do not assume it preserves any of the factory operating limits.",
+        "The lowest chassis hardware and aerodynamic surfaces are also the pieces most exposed when the venue is wrong. Look for a new rub mark, a bent support or clearance that changed after a knock. Inspect the underside with the batteries disconnected and compare both sides. It is useful to store the car so the body and wing are supported without being loaded by other equipment."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Course fit",
+      "heading": "A large car can run out of usable pavement early",
+      "paragraphs": [
+        "A closed course is a site with controlled pedestrian access and appropriate barricades, as the Traxxas instructions describe. An empty-looking public road or shared parking lot still has entrances, blind spots and people with every reason to enter it. Arrange explicit permission and walk the site with the person spotting for you. Agree where you can stand safely and how the spotter will signal that the course has to stop.",
+        "Check the surface beyond the straight. Braking needs continuous usable pavement, and the car needs space to settle and turn without aiming it toward people. Dry pavement matters for the slicks, while afternoon glare or shadows can shorten the part of the course where you can see reliably. Conditions can change during a session. A shorter, slower session or ending early is the appropriate choice when the course no longer meets the manual requirements.",
+        "This is also an ownership cost. If you can use the venue only on rare event days, the XO-1 is an event car for you. That can still make sense if that is the hobby you want. A smaller pavement car can be used more often if your real goal is steering practice. Judge the purchase by the number of realistic outings you can plan, not the size of the straight in a listing photo."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "Keep the exact parts sheet beside the car",
+      "paragraphs": [
+        "Before the next outing, check the body mount, wing, splitter, steering linkages and tires. Remove the drive packs before service. The exploded views and parts list can tell you where a fastener belongs and whether a change is visible from underneath. Use the 64077-3 documents, especially for body and aero. A seller may use XO-1 in a title for several years of parts and configurations.",
+        "The center driveline and steel CV assemblies include joints and boots to inspect. If you hear a new sound after a rough stop, start with wheel retention and visible damage and then follow the manual’s drivetrain inspection guidance. A bent wheel or damaged tire can feel like a driveline fault. Find the source before buying a complete assembly or powering the car to see whether it clears itself.",
+        "Buying used changes the amount of evidence you have. Ask for the exact color and model code, the current gear and aero configuration, and clear images of the chassis underside, wheel interfaces, connectors and radio. Price the appropriate tires, wing or power system if their condition cannot be established. A low price is less attractive when you have to restore several independent systems before you can operate the car."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Price two packs, a charger and access",
+      "paragraphs": [
+        "Traxxas showed $799.95 for the green XO-1 when we checked on 11 November 2026. The finished car, installed drive electronics and radio are supplied. Four AA cells, the two matching drive packs and a compatible balance charger remain separate. The estimate uses the manufacturer-listed 2990 combination as the reference configuration for pack and charger fit, with a planning allowance rather than a current seller quote.",
+        "The example allocates $270 for the compatible pack pair and charger, $6 for AAs and $25 for battery care provisions. That totals $1,100.95 before tax and delivery. Add your real venue fee and travel separately. If you already own a documented compatible pair and charger, use your own outlay, but check condition, fit and cell counts before removing them from the budget.",
+        "Ask what it costs to replace the exact front and rear tire assemblies and the aero pieces used by your configuration. Those are ownership expenses beyond the startup table. The historic affiliate identity gives you the correct green vehicle page to check, while the manufacturer and hobby retailer references show the basis for the vehicle number used here."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "table": {
+        "caption": "US startup budget checked 11 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Green 64077-3-GRN",
+            "Traxxas US reference",
+            "$799.95"
+          ],
+          [
+            "Compatible pack pair and balance charger",
+            "Editorial allowance",
+            "$270.00"
+          ],
+          [
+            "Four AAs and battery care",
+            "Editorial allowances",
+            "$31.00"
+          ],
+          [
+            "Example total",
+            "Before tax, delivery and venue costs",
+            "$1,100.95"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Choose for the kind of pavement driving you will do",
+      "paragraphs": [
+        "The ARRMA Limitless 120 8S BLX is another complete factory speed car for an experienced driver with access to a proper venue. Its power system, package and startup budget differ. Read the exact vehicle review before assuming the charging setup you would use with the XO-1 carries over. For both cars, availability of a suitable site is the first comparison.",
+        "The Traxxas 4-Tec 2.0 Nissan 240SX VX3 AWD gives a buyer a smaller pavement car with a different set of choices around battery and space. It makes more sense if you want to practice placing the nose through corners on a suitable paved RC course. Confirm that you are looking at the VX3 AWD version. The separate 4-Tec Drift Nissan shares the body name and comes with a different driving brief.",
+        "The Team Associated Pro2 RT10SW Rat Rod LiPo Combo suits a driver who likes the body shape, wants a rear-drive street car and can use a clear paved venue. Its exact combo includes its drive pack and charger, which changes the completion budget. That is a more relevant comparison for relaxed pavement sessions than putting a second dedicated speed car beside the XO-1."
+      ],
+      "sourceIndexes": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the XO-1 when it has a place on your calendar",
+      "paragraphs": [
+        "The green XO-1 makes sense as an integrated machine for a very specific hobby. The chassis, belted tires, radio and power system come assembled, and the manual gives an owner a concrete starting point. The ownership work is organizing the facility, maintaining the factory configuration and checking the vehicle before it uses that space. That work is part of the appeal for the right driver.",
+        "If you want an everyday RC car for a nearby mixed surface or a first paved circuit, the clearance and venue needs should decide the issue early. More suitable cars can give you useful driving time on a course you can actually visit. If you have the closed facility, quote the pack and charger setup before buying, make sure you can get the correct tires, and set aside time for the exact manual.",
+        "For the experienced buyer with that plan, confirm 64077-3-GRN on the listing and treat the first outing as a control and inspection session. A complete radio check, a repeatable stop and an easy return to the bench tell you whether the car and venue are working together. That is a stronger basis for a purchase than an advertised maximum."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        5
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact model",
+      "64077-3-GRN, revised green RTR"
+    ],
+    [
+      "Scale",
+      "1/7"
+    ],
+    [
+      "Length × width × height",
+      "686 × 329 × 128 mm"
+    ],
+    [
+      "Wheelbase",
+      "404 mm"
+    ],
+    [
+      "Center ground clearance",
+      "15 mm"
+    ],
+    [
+      "Manufacturer listed weight",
+      "3.9 kg"
+    ],
+    [
+      "Motor",
+      "Traxxas Big Block 1650Kv sensorless brushless"
+    ],
+    [
+      "ESC",
+      "Castle Mamba Monster Extreme"
+    ],
+    [
+      "Drive",
+      "Shaft AWD with front and rear gear differentials"
+    ],
+    [
+      "Shocks",
+      "Oil-filled GTR"
+    ],
+    [
+      "Tires",
+      "Staggered belted slicks"
+    ],
+    [
+      "Radio",
+      "TQi 2.4 GHz, Link Wireless Module and TSM"
+    ],
+    [
+      "Example drive pair",
+      "Two matching 2872X 5000 mAh 3S LiPo packs, separate"
+    ],
+    [
+      "Operating venue",
+      "Controlled dry, smooth closed paved course with spotter"
+    ]
+  ],
+  "sources": [
+    {
+      "name": "Traxxas revised XO-1 64077-3 product and green variant",
+      "url": "https://traxxas.com/xo-1-supercar-64077-3",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas 64077-3 exact owner manual",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/2/64077-3-om-en-r00-new.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas 64077-3 exact parts list and completion equipment",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/3/64077-3_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "HobbyTown exact green 64077-3 package",
+      "url": "https://www.hobbytown.com/traxxas-xo1-1-7-rtr-electric-4wd-onroad-sedan-green-tra64077-3-grn/p1435753",
+      "kind": "Independent hobby retailer",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Big Squid RC revised XO-1 launch coverage, 20 July 2022",
+      "url": "https://www.bigsquidrc.com/traxxas-updates-the-xo-1/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Limitless 120 8S BLX review",
+      "url": "https://rccarking.com/arrma/limitless-120-8s-blx/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas 4-Tec 2.0 Nissan 240SX VX3 AWD review",
+      "url": "https://rccarking.com/traxxas/4-tec-2-0-nissan-240sx-vx3-awd/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Team Associated Pro2 RT10SW Rat Rod LiPo Combo review",
+      "url": "https://rccarking.com/team-associated/pro2-rt10sw-rat-rod-lipo-combo/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    }
+  ],
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "publishedAt": "2026-11-11T08:19:06.415Z",
+  "updatedAt": "2026-11-11T08:19:06.415Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/xo-1-20261111-1.jpg",
+  "imageAlt": "Green Traxxas XO-1 64077-3-GRN in a front three-quarter view",
+  "imageCaption": "Green Traxxas XO-1 64077-3-GRN in a front three-quarter view",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-grn_53983207.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/xo-1-20261111-2.jpg",
+      "alt": "Side profile of the green XO-1 showing the low body and rear wing",
+      "caption": "Side profile of the green XO-1 showing the low body and rear wing",
+      "source": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-side-view-grn_53983209.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-side-view-grn_53983209.jpg"
+      }
+    },
+    {
+      "image": "reviews/xo-1-20261111-3.jpg",
+      "alt": "Alternate front three-quarter view of the green Traxxas XO-1",
+      "caption": "Alternate front three-quarter view of the green Traxxas XO-1",
+      "source": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-left-grn_53983206.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-left-grn_53983206.jpg"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0CMDFZQYJ",
+    "marketplace": "www.amazon.com",
+    "sku": "64077-3-GRN",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CMDFZQYJ?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:03:58.236Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "64077-3-GRN green revised XO-1 complete assembled 1/7 AWD supercar",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:03:58.236Z for 64077-3-GRN.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 11 November 2026.",
+  "seo": {
+    "title": "Traxxas XO-1 64077-3 Review",
+    "description": "Review the green Traxxas XO-1 AWD supercar, its factory power, tires and aero, the two-pack charging budget and the closed course it needs."
+  },
+  "faqs": [
+    {
+      "question": "Is 64077-3-GRN a complete car?",
+      "answer": "Yes. It includes the green body, assembled chassis, installed motor and controller, and TQi radio. The drive batteries, charger and transmitter AAs are separate."
+    },
+    {
+      "question": "Can the XO-1 run on an empty street?",
+      "answer": "Use a closed paved course with controlled access and barricades, as the Traxxas instructions specify. Public streets and shared lots are unsuitable."
+    },
+    {
+      "question": "Do I need two batteries?",
+      "answer": "Yes. Use two identical compatible packs in the configurations covered by the exact manual."
+    },
+    {
+      "question": "Are the front and rear tires interchangeable?",
+      "answer": "They have different widths. Confirm the proper axle-specific assembly and fit in the exact parts sheet."
+    },
+    {
+      "question": "Does this review include a measured top speed?",
+      "answer": "No. It evaluates the documented vehicle and buyer fit. Traxxas specifies separate configuration and venue requirements for maximum-speed operation."
+    },
+    {
+      "question": "What did the manufacturer change in the revised car?",
+      "answer": "The 2022 update included body and aerodynamic revisions. Consult the 64077-3 manual and parts sheet when matching aero pieces."
+    }
+  ]
+}

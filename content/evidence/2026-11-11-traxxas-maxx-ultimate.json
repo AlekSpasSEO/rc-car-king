@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-11",
+  "route": "traxxas/maxx-ultimate/",
+  "sku": "89087-4",
+  "coreWords": 2110,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/traxxas-search.json",
+    "checkedAt": "2026-10-12T23:03:58.236Z",
+    "asin": "B0FTGHJCVF",
+    "brand": "Traxxas",
+    "part": "89087",
+    "title": "Traxxas 89087-4-BLUE - Maxx Ultimate 1/10 4X4 Monster Truck RTR, Blue",
+    "model": "TRX89087-4-BLUE",
+    "note": "Archived exact-product verification from 2026-10-12T23:03:58.236Z for 89087. The archived part field gives the 89087 family stem. The listing title and model field identify 89087-4-BLUE, matching the manufacturer product data for the complete blue truck. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Traxxas Maxx Ultimate 89087-4 product and blue variant",
+      "url": "https://traxxas.com/maxx-ultimate-89087-4",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Maxx Ultimate exact 89087-4 owner manual R01",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/2/89087-4-OM-EN-R01.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Maxx Ultimate exact 89087-4 parts list",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/3/89087-4_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Mark Twain Hobby Center exact blue package",
+      "url": "https://www.hobby1.com/traxxas-maxx-ultimate-1-10-4wd-rtr-monster-truck-blue-89087-4.html",
+      "kind": "Independent hobby retailer",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Maxx review",
+      "url": "https://rccarking.com/traxxas/maxx/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Rustler 4X4 Ultimate review",
+      "url": "https://rccarking.com/traxxas/rustler-4x4-ultimate/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Kraton 6S BLX V6 review",
+      "url": "https://rccarking.com/arrma/kraton-6s-v6/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/maxx-ultimate-20261111-1.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-3Qtr-Front-BLUE_v.jpg",
+      "bytes": 175784,
+      "sha256": "9568babc0314ba50e9318b62e821706093d0146c8de5f63e741702e41b97ecfc"
+    },
+    {
+      "file": "reviews/maxx-ultimate-20261111-2.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Side-BLUE_v.jpg",
+      "bytes": 161909,
+      "sha256": "305586efb21ceede09ca416ed500cd217307acc869f16fce77fafe38a6bd30de"
+    },
+    {
+      "file": "reviews/maxx-ultimate-20261111-3.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Chassis-Overhead-BLUE_v.jpg",
+      "bytes": 278603,
+      "sha256": "cec71670fa706afb482163157494c14431a19322242c2feab84b0b93f396f0db"
+    }
+  ]
+}

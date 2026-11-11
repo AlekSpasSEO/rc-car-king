@@ -1,0 +1,483 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Typhon GROM MEGA 380",
+  "modelSlug": "typhon-grom-mega-380",
+  "sku": "ARA2106T2",
+  "headlineLines": [
+    "SMALL BUGGY.",
+    "SHORT STRAIGHT."
+  ],
+  "title": "ARRMA Typhon GROM MEGA 380 review: the brushed buggy that fits a small track",
+  "dek": "The red and white ARA2106T2 comes with 2S power, a charger and three throttle limits. See what the brushed Typhon does well and where its small tires set the pace.",
+  "type": "Buggy",
+  "use": "Bashing",
+  "terrain": [
+    "Packed dirt",
+    "Clean pavement",
+    "Low-profile short grass"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/14",
+  "format": "Assembled RTR with 2S pack and charger",
+  "skill": "First-time buggy driver or small-space club driver",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "basis": "Horizon Hobby US exact red and white ARA2106T2 vehicle reference",
+    "source": "https://www.horizonhobby.com/product/1-14-typhon-grom-4x4-rtr-brushed-buggy-battery-and-charger-included-red-white/ARA2106T2.html",
+    "checked": "2026-11-11"
+  },
+  "purchaseNote": "Includes the drive battery, IC2 USB-C charger and four transmitter AAs. Confirm a compatible USB power source for the charger.",
+  "overview": "A 296 mm long 4WD buggy with a 380-size brushed motor, full-time shaft drive and a low clipless body. The included 2S pack, charger and AAs keep the first shopping list short. Its best case is a marked circuit on clean pavement or firm dirt with short straights.",
+  "verdict": "Buy it for small courses and repeatable laps",
+  "verdictText": "Pick ARA2106T2 when you value a short shopping list, a manageable throttle and an open-wheel buggy for close-range driving. Move up a class if your usual surface is deep grass or large, broken ground.",
+  "pros": [
+    "Drive pack, charger and radio AAs included",
+    "Three transmitter throttle limits",
+    "Clipless body access",
+    "Shaft 4WD and manufacturer parts documentation"
+  ],
+  "cons": [
+    "Charger still needs suitable USB input",
+    "Small wheels struggle when terrain gets deep",
+    "Combined receiver and ESC complicates electronics swaps",
+    "Front wing and wheels need clear margins around hard edges"
+  ],
+  "bestFor": [
+    "Packed-dirt loops and clear paved spaces",
+    "Drivers learning braking and steering placement",
+    "A small off-road RTR with most starting equipment included"
+  ],
+  "avoidIf": [
+    "Your main terrain is deep grass or loose stone",
+    "You plan to race under a specific class rulebook",
+    "You already want a brushless electronics package"
+  ],
+  "quickSpecs": [
+    [
+      "Exact SKU",
+      "ARA2106T2 · red and white"
+    ],
+    [
+      "Motor",
+      "MEGA 380 · 28T brushed"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD"
+    ],
+    [
+      "Wheelbase",
+      "196 mm"
+    ],
+    [
+      "Drive pack",
+      "2S 1400 mAh Smart G2 LiPo · IC2"
+    ],
+    [
+      "Control",
+      "SLT2 · 50%, 75%, 100% throttle limits"
+    ]
+  ],
+  "rating": {
+    "audience": "A first buggy buyer with a small packed-dirt or paved course",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Package completeness",
+        "score": 9,
+        "reason": "Drive pack, charger and radio batteries are supplied. The charger still needs USB input."
+      },
+      {
+        "label": "Small-course fit",
+        "score": 9,
+        "reason": "A short footprint and selectable throttle suit repeated laps in a modest area."
+      },
+      {
+        "label": "Terrain range",
+        "score": 7,
+        "reason": "The compact chassis makes surface selection important once grass, ruts or gravel deepen."
+      },
+      {
+        "label": "Serviceability",
+        "score": 8,
+        "reason": "Body access and manufacturer support help. A combined receiver and ESC narrows repair choices."
+      },
+      {
+        "label": "Startup value",
+        "score": 8.5,
+        "reason": "The battery and charger are in the exact package, leaving a short completion list."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "The GROM to buy when the straight is short",
+      "paragraphs": [
+        "Imagine a corner that leads into six car lengths of straight before you have to set up for the next turn. That is where the brushed Typhon makes sense. The objective is to place the nose where you want it and arrive with enough room to turn again. The ARA2106T2 pairs a 196 mm wheelbase with a familiar buggy silhouette and an SLT2 transmitter that can limit throttle. You can run a useful session with a modest stretch of pavement and soft course markers.",
+        "The full package name matters. ARA2106T2 is the red and white Typhon GROM with a 380 brushed motor. The separately reviewed 223S version shares the Typhon GROM name and shape but comes with brushless electronics. Big Squid RC covered the brushed model at launch as a small-scale buggy, and Horizon now lists this SKU as 1/14. The physical dimensions tell you more than a scale shorthand if you are sizing a tote, picking a course, or comparing it to the brushless car.",
+        "Our rating is for the driver who starts with an empty bench and wants practice they can repeat. It gives weight to the equipment in the box and the transmitter limits. A buyer who has a large open site and wants a platform to grow into with a different power system should weigh electronics and space more heavily."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box contents",
+      "heading": "The USB charger is included. Plan its power source.",
+      "paragraphs": [
+        "Horizon lists the buggy assembled with its brushed motor and combination receiver and speed control installed. The SLT2 transmitter, four AA batteries, a hard-case Spektrum Smart G2 2S 1400 mAh drive pack and the S10 IC2 USB-C charger are included. Those details separate this package from a listing that mentions the vehicle and photographs a battery as an accessory. Save the box label and use the model code on a parts search before assuming a listing applies to your car.",
+        "The charger manual specifies DC 5 V input with a 3 A maximum and support for the compatible IC2 Smart G2 2S LiPo battery type. Check that you have the manufacturer-specified USB supply before counting the charger as ready for the first session. A cable that physically plugs in cannot establish electrical compatibility. Follow the charger and battery instructions for charging, handling and storage, and stay with the supplied combination while you get familiar with its indicator lights.",
+        "If the charger indicates a fault, stop and consult its status table. Inspect the pack and connector and verify the power source against the instructions before trying again. Treat damaged equipment as a separate service issue. The included charger and pack make a coherent setup on day one, and keeping the manual with them is worth more than adding a collection of adapters."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "What the brushed 380 and shaft drive give you",
+      "paragraphs": [
+        "The MEGA 380 is a 28-turn brushed motor. The brushed label tells you which motor and controller are paired, and it helps keep the choice separate from the 223S. Power goes down a shaft to the front and rear gear differentials. Their job is to let the inside and outside wheels on an axle turn at different rates through a corner. Shaft four-wheel drive still depends on the tires finding usable traction. Deep, loose debris can leave a compact buggy spinning or resting on its underside.",
+        "The factory package couples the motor to a Spektrum SLT 25A receiver and ESC in one unit. That reduces the number of electronic boxes to fit under the body. It also matters if you later want to replace the controller or change radio systems. Work out which functions a replacement needs to cover, along with the available space and connectors, before buying hardware on the strength of a motor size alone.",
+        "The drivetrain already supports the driving this version makes affordable. Start with the stock motor, tires and gearing and pay attention to how the car enters and leaves a turn. If it runs wide when you get back on the throttle, try delaying that input by a little and compare two otherwise similar laps. A change you can reproduce is worth more than a parts swap with an unclear purpose."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "First setup",
+      "heading": "Put the throttle switch to work",
+      "paragraphs": [
+        "Use the radio and vehicle setup sequence in the ARRMA instructions. With the stock car checked and a clear course marked, the 50 percent transmitter setting is the sensible first baseline. Give yourself two easy corners and one braking marker on the straight. The percentages are transmitter throttle limits, so they should not be read as speed measurements on a particular surface or battery.",
+        "Use the first few laps to get a repeatable stop. Set the steering trim during a slow pass on flat ground, and check that steering returns reliably before you add throttle. Adjust steering rate if a small movement is making the buggy change direction too sharply for the space. Keep those changes separate from throttle changes so you can tell whether you improved placement or simply slowed down.",
+        "Only try the next throttle setting after you can complete the route and stop where you intend. If you spend more of the run rescuing the nose from the edge of the course, return to the earlier setting and move the marker before trying again. Plan for turns in both directions. A driver can get comfortable with one tight turn while still struggling to place the car on the opposite side of a loop."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Troubleshooting",
+      "heading": "Follow the symptom back to a system",
+      "paragraphs": [
+        "If the car steers but pulls away poorly, note whether the symptom appears on the bench check, on pavement, or only on a heavy surface. Verify the transmitter limit and the pack condition using the instructions. With the pack disconnected, inspect for a wheel fouled by string or grass or a suspension arm pressing on a tire after a knock. Address obvious drag before judging the motor or buying a battery.",
+        "If steering is inconsistent, check the transmitter batteries, trim, front wheel movement and radio setup as documented. Start again at low speed in a clear space only after you have resolved the issue. If both steering and drive are intermittent, treat it as a power or radio problem and stop driving until you have found the cause. Water resistance claims for a component do not establish that the full car or an exposed charging setup can be immersed.",
+        "A single symptom can come from different places. For example, a curved launch might be a tire slipping on dust, steering trim, or something dragging on one side. A slow pass on flat, clean pavement and a comparison with the earlier run can narrow it down. Write down which surface, setting and pack you used. That note is especially useful if you need help from a hobby shop or another driver with the same SKU."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Choose the surface by tire size and clearance",
+      "paragraphs": [
+        "Horizon publishes 30 mm of ride height. On an actual route the skid, suspension and tires are working together, and a rock near that height can still interrupt a lap. Look at the surface from the level of the front tires. A shallow rut across the lane can be more disruptive than a longer smooth patch of dirt. Pick a path with enough room to turn around the worst spots before you try to drive straight through them.",
+        "Clean, level pavement is the easiest place to check trim and learn the brakes. Packed dirt introduces useful variation in grip without burying the buggy. A patch of short, even grass can be passable, but use a very short test at a low setting and switch terrain if the car bogs or the underbody drags. Dense grass is a poor reason to buy this SKU. For loose gravel, choose a cleaner route and avoid a line where stones can jam around the wheels.",
+        "The open-wheel layout gives you an obvious reference for how close the buggy is to a marker. It also puts the tire and suspension near the edge of the car. Use low, soft markers and leave a recovery lane beyond them. If the circuit includes a curb, put a boundary far enough inside it that a wide exit still gives you room to stop."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "Lift the clipless shell and check the car in daylight",
+      "paragraphs": [
+        "The clipless body is an ownership benefit because you open it for every battery session. Check how the shell seats and latches before driving. If the shell does not close normally, verify that the pack is seated and its leads are clear of the body and rotating parts. Closing the shell by force can hide a wire or latch problem that you will have to deal with later.",
+        "After dusty runs, disconnect the pack and use the manufacturer care guidance to clear grit around the wheels, suspension and chassis. Look for grass wound near a hub and compare how the left and right suspension return. A wheel that points differently after an impact warrants a check of its links, mounting and free movement before you reach for the steering trim. Trim can compensate for a small offset, but it cannot restore a bent or obstructed part.",
+        "The parts diagrams are where to start when you need to identify a fastener or see the order of an assembly. The product showcase lists oil-filled differentials and aluminum shocks among options. Treat that as a reference for later decisions. The useful question is whether a stock part needs replacement or a particular course exposes a limit you can name. If the buggy drives clean laps as delivered, leave that money in the next-session budget."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "A realistic first-session budget for ARA2106T2",
+      "paragraphs": [
+        "The red and white buggy was listed at $149.99 by Horizon Hobby when we checked on 11 November 2026. That is the exact US manufacturer storefront reference. The box includes the battery, charger and transmitter AAs. If you need to buy a compatible USB source, the table sets aside $15 as an editorial allowance. It includes a further $20 for battery care provisions appropriate to the manufacturer instructions. Check the actual requirements and prices before ordering.",
+        "On those assumptions the working total is $184.99 before tax and delivery. If you already have suitable equipment, the extra outlay can be lower. If you need a different approved charging solution, use its real quote in the calculation. Keep replacement and convenience items out of the first-drive total so you can compare this package fairly against other cars. A second compatible pack can be priced separately once you know how often you actually drive.",
+        "For a gift, confirm that the person receiving it has a place to charge according to the instructions and an appropriate place to run. A vehicle with a shorter shopping list still needs time to read the manuals and check the course. The affiliate link leads to the historically verified package. Use the seller page to check current contents and terms."
+      ],
+      "sourceIndexes": [
+        0,
+        2
+      ],
+      "table": {
+        "caption": "US startup budget checked 11 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "ARA2106T2 buggy bundle",
+            "Horizon Hobby US reference",
+            "$149.99"
+          ],
+          [
+            "Compatible USB supply",
+            "Editorial allowance if needed",
+            "$15.00"
+          ],
+          [
+            "Battery care provisions",
+            "Editorial allowance",
+            "$20.00"
+          ],
+          [
+            "Example total",
+            "Before tax and delivery",
+            "$184.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Three other complete cars change the brief",
+      "paragraphs": [
+        "Choose the Typhon GROM 223S if you specifically want the brushless Typhon package and have a course where there is a reason to use its extra power headroom. Compare the exact version and box contents, because the brushless family is offered in different packages. The brushed car makes a more convincing first purchase when you intend to leave the power system alone and the room you drive in is small.",
+        "Choose the Mojave GROM RTA if assembly is part of the attraction and you prefer the covered-wheel short-course shape. The RTA is a different kind of purchase even when it shares the GROM size class. It moves some of the first session to the bench and gives you a view of how the vehicle is put together. Confirm its included tools and equipment from its own review before budgeting.",
+        "Choose the Losi Micro-B if your available circuit is an indoor surface where the smaller footprint changes what you can build. On an outdoor packed-dirt loop the Typhon gives you more physical car to see across the course. Indoors that same footprint and its 4WD layout are reasons to think about what you can safely fit. Pick the car around the tightest corner you plan to use every week."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "The best reason to keep this Typhon stock",
+      "paragraphs": [
+        "The red and white MEGA is most compelling when you can describe the route you will drive and the driving skill you want to practice. If that route has a short straight, two corners and firm ground, the box already answers much of the equipment question. The throttle limit gives a new driver room to work up to the car, and the clipless shell makes battery access straightforward. Those two details matter on every session.",
+        "Skip this exact package if your priority is deep terrain or a project that starts by changing the motor and controller. The small wheel diameter and low chassis still define what the buggy can cross, and an electronics conversion changes the value of the included package. Work from the car you need at the end of the project. A different factory model can make more sense than buying the stock drivetrain twice in effect.",
+        "For everyone else, check the listing says ARA2106T2 and shows the complete bundle with the pack and charger. Keep the instructions for both the car and the S10 in reach. On the first outing, judge the purchase by how easy it is to set up a few laps and finish them in control. A car that fits your regular course gives you more chances to get good at driving it."
+      ],
+      "sourceIndexes": [
+        0,
+        3,
+        4
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Manufacturer model",
+      "ARA2106T2, red and white"
+    ],
+    [
+      "Scale as currently listed",
+      "1/14"
+    ],
+    [
+      "Length × width × height",
+      "296 × 188 × 96 mm"
+    ],
+    [
+      "Wheelbase",
+      "196 mm"
+    ],
+    [
+      "Listed ride height",
+      "30 mm"
+    ],
+    [
+      "Listed weight",
+      "0.82 kg with supplied battery"
+    ],
+    [
+      "Motor",
+      "MEGA 380 28T brushed"
+    ],
+    [
+      "Drivetrain",
+      "Shaft-driven 4WD, front and rear gear differentials"
+    ],
+    [
+      "Speed control / receiver",
+      "Spektrum SLT 25A 2-in-1"
+    ],
+    [
+      "Steering servo",
+      "Spektrum SX110 metal gear"
+    ],
+    [
+      "Transmitter",
+      "Spektrum SLT2, four AA included"
+    ],
+    [
+      "Drive pack",
+      "Spektrum Smart G2 2S 1400 mAh 30C hard case, IC2"
+    ],
+    [
+      "Included charger",
+      "Spektrum S10 IC2 USB-C, SPMXC0040"
+    ],
+    [
+      "Body",
+      "Red and white clipless buggy shell"
+    ]
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby exact ARA2106T2 product and package",
+      "url": "https://www.horizonhobby.com/product/1-14-typhon-grom-4x4-rtr-brushed-buggy-battery-and-charger-included-red-white/ARA2106T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA ARA2106 technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/ARA2106_PARTS_TECH_PACK_ML.PDF",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Spektrum S10 SPMXC0040 charging instructions",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/SPMXC0040-Manual-MULTI.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Big Squid RC brushed Typhon GROM launch coverage",
+      "url": "https://www.bigsquidrc.com/arrma-small-scale-typhon-grom-mega-brushed-4x4-rtr/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Typhon GROM 223S review",
+      "url": "https://rccarking.com/arrma/typhon-grom-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Mojave GROM RTA review",
+      "url": "https://rccarking.com/arrma/mojave-grom-rta/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Losi Micro-B review",
+      "url": "https://rccarking.com/losi/micro-b/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    }
+  ],
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "publishedAt": "2026-11-11T08:19:06.391Z",
+  "updatedAt": "2026-11-11T08:19:06.391Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/typhon-mega-20261111-1.jpg",
+  "imageAlt": "Red and white ARRMA Typhon GROM MEGA 380, model ARA2106T2",
+  "imageCaption": "Red and white ARRMA Typhon GROM MEGA 380, model ARA2106T2",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwd0f10ed5/Images/ARA/ARA2106T2_A29_JAGRV7T6.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/typhon-mega-20261111-2.jpg",
+      "alt": "Side profile of the red and white ARA2106T2 buggy",
+      "caption": "Side profile of the red and white ARA2106T2 buggy",
+      "source": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1cac2773/Images/ARA/ARA2106T2_A22_JAGRV7T6.jpg",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1cac2773/Images/ARA/ARA2106T2_A22_JAGRV7T6.jpg"
+      }
+    },
+    {
+      "image": "reviews/typhon-mega-20261111-3.jpg",
+      "alt": "ARRMA dimensions and size comparison graphic for the red and white Typhon GROM",
+      "caption": "ARRMA dimensions and size comparison graphic for the red and white Typhon GROM",
+      "source": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw65bff105/Images/ARA/ARA2106T2_A61_JAGRV7T6.jpg",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw65bff105/Images/ARA/ARA2106T2_A61_JAGRV7T6.jpg"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0CY8YRWBD",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA2106T2",
+    "detailPageUrl": "https://www.amazon.com/dp/B0CY8YRWBD?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:01.532Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "ARA2106T2 red and white brushed 4WD buggy with 2S pack and USB-C charger",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:04:01.532Z for ARA2106T2.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 11 November 2026.",
+  "seo": {
+    "title": "ARRMA Typhon GROM MEGA 380 Review",
+    "description": "Review the red and white ARRMA ARA2106T2 brushed buggy, included 2S battery and charger, throttle limits, terrain fit and first-session cost."
+  },
+  "faqs": [
+    {
+      "question": "Is ARA2106T2 the brushless Typhon GROM?",
+      "answer": "No. It is the brushed MEGA 380 red and white bundle. The Typhon GROM 223S is a different power package."
+    },
+    {
+      "question": "What do I need to buy before I drive it?",
+      "answer": "The box includes the drive pack, charger and radio AAs. Check that you have a compatible USB supply for the S10 and appropriate battery care provisions."
+    },
+    {
+      "question": "What is the best place for a first drive?",
+      "answer": "Use flat, clean pavement or a compact loop on firm dirt, with ample braking room. Start at the lowest transmitter throttle setting."
+    },
+    {
+      "question": "Can it drive in grass?",
+      "answer": "Short, even grass may be workable. Deep grass and ruts can bog down the small wheels and low chassis."
+    },
+    {
+      "question": "What scale is the brushed Typhon GROM?",
+      "answer": "Horizon lists the exact SKU as 1/14. Check the 296 mm length and 196 mm wheelbase when planning storage or a course."
+    },
+    {
+      "question": "Does the included charger support every 2S pack?",
+      "answer": "Use the compatible 2S IC2 Smart G2 LiPo type specified by the charger manual. A matching cell count alone does not establish compatibility."
+    }
+  ]
+}

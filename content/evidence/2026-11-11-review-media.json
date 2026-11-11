@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-11",
+  "scope": "Official product photographs for red and white ARRMA Typhon GROM ARA2106T2, blue Traxxas Maxx Ultimate 89087-4-BLUE, and green Traxxas XO-1 64077-3-GRN. The Typhon set includes an attributed manufacturer dimensions graphic.",
+  "media": [
+    {
+      "file": "reviews/typhon-mega-20261111-1.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwd0f10ed5/Images/ARA/ARA2106T2_A29_JAGRV7T6.jpg",
+      "bytes": 160325,
+      "sha256": "f101644e1af7ced692c7278b999bb426c60244ba27eb50d5ca12df5c68e5f38a"
+    },
+    {
+      "file": "reviews/typhon-mega-20261111-2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1cac2773/Images/ARA/ARA2106T2_A22_JAGRV7T6.jpg",
+      "bytes": 106733,
+      "sha256": "004ccaffb27bb62692af37300bbfdc86221a3746deeda31c7f3ad986f69502f6"
+    },
+    {
+      "file": "reviews/typhon-mega-20261111-3.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw65bff105/Images/ARA/ARA2106T2_A61_JAGRV7T6.jpg",
+      "bytes": 305579,
+      "sha256": "71ccace427d988a93a62eec1f822eca41a6b2ad6fbc04da832cc50c9b08bf8fb"
+    },
+    {
+      "file": "reviews/maxx-ultimate-20261111-1.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-3Qtr-Front-BLUE_v.jpg",
+      "bytes": 175784,
+      "sha256": "9568babc0314ba50e9318b62e821706093d0146c8de5f63e741702e41b97ecfc"
+    },
+    {
+      "file": "reviews/maxx-ultimate-20261111-2.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Side-BLUE_v.jpg",
+      "bytes": 161909,
+      "sha256": "305586efb21ceede09ca416ed500cd217307acc869f16fce77fafe38a6bd30de"
+    },
+    {
+      "file": "reviews/maxx-ultimate-20261111-3.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Chassis-Overhead-BLUE_v.jpg",
+      "bytes": 278603,
+      "sha256": "cec71670fa706afb482163157494c14431a19322242c2feab84b0b93f396f0db"
+    },
+    {
+      "file": "reviews/xo-1-20261111-1.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-grn_53983207.jpg",
+      "bytes": 188533,
+      "sha256": "88cb3e74f33d01e4e2acc6c719ddaac4a01a4b3646de9747fe907c552f1bbf6a"
+    },
+    {
+      "file": "reviews/xo-1-20261111-2.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-side-view-grn_53983209.jpg",
+      "bytes": 145088,
+      "sha256": "b4c3f259558f54b88df99e265fd13bbddea60338b4bb0856c07d1ea7135b9163"
+    },
+    {
+      "file": "reviews/xo-1-20261111-3.jpg",
+      "credit": "Traxxas",
+      "url": "https://traxxas.com/media/catalog/product/6/4/64077-3-xo-1-2022-3qtr-front-left-grn_53983206.jpg",
+      "bytes": 169212,
+      "sha256": "30357ef600da9d6fc02049ef4f8d14acfe96b88192705db53b71ba11c601d486"
+    }
+  ]
+}

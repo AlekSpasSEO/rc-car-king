@@ -151,3 +151,7 @@ The [media manifest](content/evidence/2026-11-09-review-media.json) credits nine
 ## Weekday reviews · 10 November 2026
 
 The [media manifest](content/evidence/2026-11-10-review-media.json) credits the official Traxxas and Team Associated photos for the black factory-winch Hauler and the black RT10SW truck. The Kyosho set includes an exact 32362KR product photo and two manufacturer illustrations of the shared MR-04 platform, identified in the captions.
+
+## Weekday reviews · 11 November 2026
+
+The [media manifest](content/evidence/2026-11-11-review-media.json) credits official product imagery for the red and white brushed ARRMA Typhon GROM ARA2106T2, blue Traxxas Maxx Ultimate 89087-4-BLUE and green Traxxas XO-1 64077-3-GRN. The Typhon gallery includes the manufacturer’s dimensions graphic. The Maxx gallery includes the blue chassis with its body removed.

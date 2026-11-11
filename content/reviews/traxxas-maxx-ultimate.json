@@ -1,0 +1,494 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "Maxx Ultimate",
+  "modelSlug": "maxx-ultimate",
+  "sku": "89087-4",
+  "headlineLines": [
+    "FACTORY HARDWARE.",
+    "4S HEART."
+  ],
+  "title": "Traxxas Maxx Ultimate review: is the factory hardware worth the premium?",
+  "dek": "The blue 89087-4-BLUE puts steel CV shafts, belted tires and a higher-spec steering assembly around the familiar 4S power system. See who should pay for that bundle.",
+  "type": "Monster truck",
+  "use": "Bashing",
+  "terrain": [
+    "Firm dirt",
+    "Short grass",
+    "Rough open ground"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/10",
+  "format": "Assembled RTR, drive battery and charger separate",
+  "skill": "Experienced recreational monster-truck driver",
+  "price": {
+    "amount": 899.95,
+    "currency": "USD",
+    "basis": "Traxxas US blue Maxx Ultimate vehicle reference",
+    "source": "https://traxxas.com/maxx-ultimate-89087-4",
+    "checked": "2026-11-11"
+  },
+  "purchaseNote": "Allow for one compatible drive pack, a suitable balance charger and four AA transmitter batteries. The example uses the manufacturer-recommended 4S setup.",
+  "overview": "The 89087-4-BLUE is an assembled WideMaxx 4WD truck with a 2400Kv 540XL motor, VXL-4s controller and an extensive factory hardware package. Its value rests on whether you would actually buy its tires, steering hardware and drivetrain parts for a standard Maxx.",
+  "verdict": "Buy it if you want the factory package as a whole",
+  "verdictText": "Choose the Ultimate for the documented wheel, driveline and steering equipment if you already have room to drive a heavy 4S truck. Price the standard Maxx first if you would leave its stock hardware alone.",
+  "pros": [
+    "Belted Sledgehammer tires and 17 mm splined hardware included",
+    "Factory steel CV shafts and 2085RL metal-gear servo",
+    "TQi transmitter with wireless module already installed",
+    "WideMaxx stance and reinforced clipless body"
+  ],
+  "cons": [
+    "$899.95 vehicle reference leaves power equipment to buy",
+    "405 mm width and 4.63 kg listed weight need real space",
+    "Some replacement parts differ from the standard Maxx",
+    "Heavy wheels and grip reward a deliberate braking setup"
+  ],
+  "bestFor": [
+    "A driver who wants the included Maxx options from day one",
+    "Large open dirt and short-grass sites with braking room",
+    "Owners who prefer one factory parts diagram over a mixed build"
+  ],
+  "avoidIf": [
+    "You are buying mainly for a larger voltage number",
+    "Your only venue is a narrow or shared space",
+    "You want standard Maxx running costs and are satisfied with its stock setup"
+  ],
+  "quickSpecs": [
+    [
+      "Exact variant",
+      "89087-4-BLUE"
+    ],
+    [
+      "Power",
+      "Velineon 540XL 2400Kv · VXL-4s"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD with center differential"
+    ],
+    [
+      "Wheelbase",
+      "352 mm"
+    ],
+    [
+      "Tires",
+      "Belted Sledgehammer · 17 mm splined hubs"
+    ],
+    [
+      "Box power",
+      "Drive pack, charger and four AAs separate"
+    ]
+  ],
+  "rating": {
+    "audience": "An experienced basher who intends to keep the truck in its factory Ultimate configuration",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Factory equipment",
+        "score": 9.5,
+        "reason": "The included tires, shafts, steering and radio hardware are substantive changes for this buyer."
+      },
+      {
+        "label": "Terrain fit",
+        "score": 8.5,
+        "reason": "The width and clearance fit open rough terrain. Tight spaces bring out the physical size of the truck."
+      },
+      {
+        "label": "Adjustability",
+        "score": 8.5,
+        "reason": "TQi and the documented suspension give the owner useful baselines and adjustments."
+      },
+      {
+        "label": "Serviceability",
+        "score": 8.5,
+        "reason": "The parts list is detailed. Verify the Ultimate assembly number and wheel fit for each repair."
+      },
+      {
+        "label": "Startup value",
+        "score": 7,
+        "reason": "This is an expensive vehicle-only package. Its value depends on how many factory options you would choose anyway."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "Pay for the equipment you can point to",
+      "paragraphs": [
+        "Start with the body off. The blue Maxx Ultimate makes its case with steel CV shafts, belted tires, a metal-gear steering servo and the factory-installed Link module. Those are visible differences with consequences for setup and repair. The 540XL 2400Kv motor and VXL-4s controller remain in the 4S Maxx class. If the purchase needs to change what you can do with the truck, work through the hardware list and your venue before letting the trim name set your budget.",
+        "The exact blue manufacturer number is 89087-4-BLUE. The 89087-4 manual covers the shared Ultimate chassis, and the model also comes in other colors. A listing can shorten the model name to Maxx, which does little to separate it from the 89086-4 we reviewed earlier. Check the suffix, wheels, servo and parts sheet when comparing a seller listing, especially if you are looking at a truck advertised as upgraded.",
+        "The standard Maxx is the comparison to put on the other side of the bench. A buyer who expects to install comparable shafts, wheels and steering can price that actual shopping list and factor in their time. If your list consists of a battery and some afternoons in a field, the Ultimate premium is harder to make back in use."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box contents",
+      "heading": "What comes in the blue box",
+      "paragraphs": [
+        "The complete 89087-4-BLUE has the painted clipless body, Sledgehammer wheel assemblies and installed electronics. It includes the TQi transmitter with the Link module already in place, and Traxxas lists its basic maintenance tools with the truck. A compatible 4S pack, balance charger and four AA cells are the separate items to quote. The radio module helps with adjustments after you download the app. It does not make a phone part of the power package.",
+        "Before ordering a used or open-box truck, ask whether the transmitter, shell and maintenance tools are all present. Check the wheel and steering parts if they determine the price you are willing to pay. A photo of the blue body establishes the color of the shell. The factory model code and the supplied hardware establish which truck you are buying."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "A 4S system with substantial hardware around it",
+      "paragraphs": [
+        "The 540XL is a sensorless brushless motor rated at 2400Kv. That rating describes motor speed per volt under its reference condition. Tire size, gearing, battery voltage under load and terrain all affect what the truck does on the ground. The VXL-4s controller and its motor should be considered together. Use the supported battery and gearing combinations in the exact manual instead of treating a physically fitting pinion or pack as a supported setup.",
+        "The center differential is part of how the front and rear axles share drive while allowing a speed difference. The front and rear gear differentials do a corresponding job between the wheels on each axle. Steel CV shafts connect that system to the corners, and the splined hub locates the stock wheel. The stronger factory components still have service points. A tight or dirty bearing, damaged boot or loose wheel nut deserves attention on its own.",
+        "Start with stock gearing and stock-diameter tires. A larger tire effectively asks the motor to move the truck farther for each turn of the wheel. Extra load also shows up on heavy grass, in repeated hard starts, and when something is binding. If the truck slows or displays a warning, use the ESC status instructions and inspect the car before driving again. More throttle is a poor way to diagnose increasing drag."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "First setup",
+      "heading": "Set up the truck for your site before changing a setting",
+      "paragraphs": [
+        "Start with the pack specified for the exact truck, the correct balance charger and fresh transmitter AAs. Read the Quick Start and the battery and radio sections before first power. Check that the pack sits properly in the tray, the latch captures it, and leads have room away from moving parts. Check wheel retention, tire condition and body seating. A truck this size benefits from those checks every time it comes out of the car.",
+        "The included TQi radio has the Link Wireless Module and supports Traxxas Stability Management. TSM provides steering assistance. Begin with the factory setup, establish trim on clear ground as directed, and then change only one variable at a time. If you want to compare a lower TSM setting, make two passes through the same turn at a steady speed and leave the throttle profile and tires alone for the comparison.",
+        "Use the available low-power driving profile according to the VXL-4s manual when getting comfortable with a smaller area. Pick a visible brake marker and watch where the truck stops before adding speed. Leave room beyond the marker, especially on loose dirt. The radio and software can help you tune the controls. The braking margin still comes from the course and where you decide to lift."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering",
+      "heading": "Why the 2085RL and belted tires belong in the same discussion",
+      "paragraphs": [
+        "Traxxas pairs the 2085RL metal-gear servo with a double-shear aluminum horn and WideMaxx steering geometry. With a 405 mm wide truck and large, aggressive tires, steering hardware has real work to do, particularly when the tread is digging in on the spot. The fact that the servo is factory fitted matters for a buyer who wants the pieces designed to work together without sorting horn fit and linkage geometry.",
+        "The Sledgehammer tires have internal belting that limits expansion, and the factory wheel fits a keyed 17 mm splined hub. When replacing a wheel, read the hub, wheel offset and tire diameter together. A listing that only says 17 mm does not settle the shape of the drive interface or how much clearance you will have at full steering and suspension travel. Consult the Ultimate diagram and inspect the wheel when it goes on.",
+        "Leave the factory alignment as a reference. After a hit, check the servo saver, steering linkage and free movement with power disconnected before changing trim. With the vehicle operating safely according to the manual, verify it tracks straight at low speed. A drift caused by a bent link or a tire catching bodywork needs a physical correction. Adjusting the radio first can make the same fault harder to see."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Give the WideMaxx stance enough room to work",
+      "paragraphs": [
+        "The Ultimate is 572 mm long, 405 mm wide and listed at 4.63 kg. Put those measurements next to the patch of ground you actually drive. Open dirt and short grass give the tires room to work and let you set up a turn well before the edge of the route. On a small lawn, a few strides of apparently clear ground disappear quickly once you account for corners, braking and a recovery lane.",
+        "The listed center clearance is 67 mm. That helps over uneven ground, but the ends of the truck and suspension still meet obstacles at their own heights and angles. Walk the route for roots, holes and stony transitions before driving. Begin with lower speeds, then repeat a line after it is clear you have grip and room to stop. Watch for ground that catches one wheel and can pitch a tall truck into a roll.",
+        "Use a wide, predictable run-in for a low jump only if you can see the landing and the runoff. Leave the rougher line for later if it cuts across your braking zone. On mixed surfaces, use the lowest-grip part of the route when planning the stop. This truck earns its place on a site that lets you drive a full line without having to spend the whole battery managing the boundary."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "Service the actual Ultimate assembly",
+      "paragraphs": [
+        "The reinforced clipless shell is a practical feature. It comes off for the battery, debris inspection and a closer look after a rollover. Check both the latch and the supports rather than judging the shell by its paint. A displaced mount can keep the shell from settling normally. With the battery disconnected, look for a pinched lead, dirt around the latch or an obvious crack before trying to close it again.",
+        "After a run, remove grass from the wheel areas and check the CV boots and wheel retention. Compare left and right suspension movement if a corner starts to sit lower. The aluminum shock bodies, blue links and heavy-duty steering do not erase normal wear. The useful ownership habit is to find a part number from the exact diagram, then verify whether it is shared with the regular Maxx before placing an order.",
+        "For a used truck, ask the seller to show the blue model code, both axles, the steering servo label, the wheel interfaces and the Link module. A standard truck can wear an Ultimate body. It is also possible for a real Ultimate to have replacement hardware that no longer matches the factory list. If there is a mismatch, use the price of the truck as it sits and budget any restoration you want. The included manual and diagrams give both buyers a useful reference for that conversation.",
+        "Pay particular attention to tires before a return to open ground. A change in vibration, visible damage or glue lifting at the rim deserves inspection and repair according to the manual. Replace with compatible assemblies so differences in diameter or fit do not become a new variable. Keep a small service log with the pack, surface, symptom and last change. It makes a parts conversation much easier than trying to recreate the issue from a short video."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Budget the truck, one pack and a charger",
+      "paragraphs": [
+        "Traxxas showed $899.95 for the blue Ultimate in the US on 11 November 2026. The truck and TQi radio are in the box. Traxxas lists a compatible 4S iD LiPo, charger and four alkaline transmitter AAs as separate equipment for the example here. Check the exact battery dimensions, connector and approved charger when you quote a setup, even if you already use another Traxxas vehicle.",
+        "The table budgets $145 for a compatible drive pack and $100 for a suitable balance charger. Those are editorial allowances for planning, with a further $6 for AAs and $20 for battery care provisions. The example total is $1,170.95 before tax and delivery. A compatible pack and charger you already own can make a large difference. Read the manual and confirm fit and support before deducting them.",
+        "Keep your comparison against the standard truck on the same basis. Write down a first-session total for each, and then list the options you actually plan to add to the standard truck. Separate consumables and spares that both trucks will need. If the premium still makes sense and the hardware fits your plan, the Ultimate gives you the factory configuration from the first run. The check-price link identifies the archived exact blue package."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ],
+      "table": {
+        "caption": "US startup budget checked 11 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Blue Maxx Ultimate",
+            "Traxxas US reference",
+            "$899.95"
+          ],
+          [
+            "Compatible 4S pack",
+            "Editorial allowance",
+            "$145.00"
+          ],
+          [
+            "Compatible balance charger",
+            "Editorial allowance",
+            "$100.00"
+          ],
+          [
+            "Four AAs and battery care",
+            "Editorial allowances",
+            "$26.00"
+          ],
+          [
+            "Example total",
+            "Before tax and delivery",
+            "$1,170.95"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Three complete trucks to price against it",
+      "paragraphs": [
+        "Choose the standard Traxxas Maxx if the 4S class and familiar monster-truck layout are what you want. The deciding question is whether you would fit the Ultimate hardware after purchase. For a buyer who prefers to drive stock and replace things as they wear, the standard truck lets those decisions happen later. Compare the exact standard SKU and check which wheels and shafts it supplies.",
+        "Choose the Traxxas Rustler 4X4 Ultimate if you want a lower stadium-truck shape with factory upgrades and your usual site has flatter ground and tighter turns. It is a different vehicle, with different terrain and battery considerations. Compare clearance and course width rather than reading both Ultimate names as equivalent performance labels.",
+        "Choose the ARRMA Kraton 6S BLX V6 if you have room for a larger 6S speed-truck package and want to compare a different chassis and parts ecosystem. Plan its own battery and charger costs from the exact review. A large open venue can make either purchase practical. Your preferred driving lines, support and power equipment are better tiebreakers than counting cells. If your usual site is compact, neither truck gains space because you buy it at a good price."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the whole configuration or keep the standard truck",
+      "paragraphs": [
+        "The blue Maxx Ultimate makes sense when you already know how and where you will drive it. The wide footprint and tire choice suit rough recreational routes. The servo, shafts and radio are the pieces that distinguish the purchase. You can see exactly where the money went, and you have a model-specific parts list for putting the truck back to factory condition.",
+        "For the driver who wants a familiar 4S truck and will only take it onto uncomplicated ground, the standard Maxx deserves the first quote. The Ultimate only earns the added expense when its equipment is something you want on the car. If you are coming from a smaller truck, try describing the corner and braking zone you have available. The larger vehicle is a genuine change in where you can drive comfortably.",
+        "Check for 89087-4-BLUE before ordering, price a compatible power setup, and keep the wheel and driveline pages in reach. Spend the first session establishing a clean stop, a repeatable turn and a known baseline. Then decide which adjustments improve the truck where you drive. There is little reason to undo a carefully matched factory package until you can identify a problem it leaves unsolved."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        4
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact model",
+      "89087-4-BLUE"
+    ],
+    [
+      "Scale",
+      "1/10"
+    ],
+    [
+      "Length × width × height",
+      "572 × 405 × 232 mm"
+    ],
+    [
+      "Wheelbase",
+      "352 mm"
+    ],
+    [
+      "Center clearance",
+      "67 mm"
+    ],
+    [
+      "Manufacturer listed weight",
+      "4.63 kg"
+    ],
+    [
+      "Motor",
+      "Velineon 540XL, 2400Kv sensorless brushless"
+    ],
+    [
+      "ESC",
+      "Velineon VXL-4s"
+    ],
+    [
+      "Drive",
+      "Shaft 4WD, steel CV shafts, center differential"
+    ],
+    [
+      "Steering",
+      "2085RL metal-gear servo"
+    ],
+    [
+      "Wheels and tires",
+      "Belted Sledgehammer, 17 mm splined hubs"
+    ],
+    [
+      "Radio",
+      "TQi 2.4 GHz with TSM and Link Wireless Module"
+    ],
+    [
+      "Suspension",
+      "WideMaxx arms and GT-Maxx oil-filled shocks"
+    ],
+    [
+      "Power equipment",
+      "Compatible drive pack and balance charger, four AAs separate"
+    ]
+  ],
+  "sources": [
+    {
+      "name": "Traxxas Maxx Ultimate 89087-4 product and blue variant",
+      "url": "https://traxxas.com/maxx-ultimate-89087-4",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Maxx Ultimate exact 89087-4 owner manual R01",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/2/89087-4-OM-EN-R01.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Maxx Ultimate exact 89087-4 parts list",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/3/89087-4_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Mark Twain Hobby Center exact blue package",
+      "url": "https://www.hobby1.com/traxxas-maxx-ultimate-1-10-4wd-rtr-monster-truck-blue-89087-4.html",
+      "kind": "Independent hobby retailer",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Maxx review",
+      "url": "https://rccarking.com/traxxas/maxx/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas Rustler 4X4 Ultimate review",
+      "url": "https://rccarking.com/traxxas/rustler-4x4-ultimate/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "ARRMA Kraton 6S BLX V6 review",
+      "url": "https://rccarking.com/arrma/kraton-6s-v6/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-11"
+    }
+  ],
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "publishedAt": "2026-11-11T08:19:06.414Z",
+  "updatedAt": "2026-11-11T08:19:06.414Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/maxx-ultimate-20261111-1.jpg",
+  "imageAlt": "Blue Traxxas Maxx Ultimate 89087-4-BLUE in a front three-quarter view",
+  "imageCaption": "Blue Traxxas Maxx Ultimate 89087-4-BLUE in a front three-quarter view",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-3Qtr-Front-BLUE_v.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/maxx-ultimate-20261111-2.jpg",
+      "alt": "Side profile of the blue Maxx Ultimate and its Sledgehammer tires",
+      "caption": "Side profile of the blue Maxx Ultimate and its Sledgehammer tires",
+      "source": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Side-BLUE_v.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Side-BLUE_v.jpg"
+      }
+    },
+    {
+      "image": "reviews/maxx-ultimate-20261111-3.jpg",
+      "alt": "Body-off overhead view of the blue Maxx Ultimate chassis",
+      "caption": "Body-off overhead view of the blue Maxx Ultimate chassis",
+      "source": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Chassis-Overhead-BLUE_v.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/8/9/89087-4-Maxx-Ultimate-Chassis-Overhead-BLUE_v.jpg"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0FTGHJCVF",
+    "marketplace": "www.amazon.com",
+    "sku": "89087-4",
+    "apiSku": "89087",
+    "detailPageUrl": "https://www.amazon.com/dp/B0FTGHJCVF?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:03:58.236Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "89087-4-BLUE factory Maxx Ultimate 4S brushless monster truck, blue",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:03:58.236Z for 89087. The archived part field gives the 89087 family stem. The listing title and model field identify 89087-4-BLUE, matching the manufacturer product data for the complete blue truck. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 11 November 2026.",
+  "seo": {
+    "title": "Traxxas Maxx Ultimate 4S Review",
+    "description": "Review the blue Traxxas 89087-4-BLUE Maxx Ultimate, its factory tires and steering, differences from the standard Maxx and the complete 4S startup budget."
+  },
+  "faqs": [
+    {
+      "question": "How is the Maxx Ultimate different from the standard Maxx?",
+      "answer": "It adds factory equipment including steel CV shafts, belted Sledgehammers, 17 mm splined hubs, a 2085RL servo and the installed Link module. Both are in the 4S Maxx class."
+    },
+    {
+      "question": "Does the blue package come with a battery or charger?",
+      "answer": "No. Budget a compatible drive pack, balance charger and four AA transmitter batteries."
+    },
+    {
+      "question": "What does the blue suffix identify?",
+      "answer": "89087-4-BLUE identifies the exact blue factory Ultimate package. The shared manual uses 89087-4."
+    },
+    {
+      "question": "Can I fit any wheel described as 17 mm?",
+      "answer": "Check the splined interface, wheel offset, tire diameter and actual clearance. The width designation alone is insufficient."
+    },
+    {
+      "question": "What is a useful first terrain?",
+      "answer": "Open, firm dirt with a clear turn and braking area. Start on stock gearing and follow the setup instructions for the power equipment and radio."
+    },
+    {
+      "question": "Does TSM apply the brakes?",
+      "answer": "It is steering assistance. The driver still chooses the speed, line and braking point."
+    }
+  ]
+}
