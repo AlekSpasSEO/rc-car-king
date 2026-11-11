@@ -1,0 +1,152 @@
+{
+  "article": "rc-wheel-hex-offset-tire-fit",
+  "checked": "2026-11-11",
+  "coreWords": 1350,
+  "scope": "Unpowered fitment, axle position and clearance checks on complete electric vehicles.",
+  "archiveIntent": "Different from the exploded-parts guide (identify a part), alignment guide (measure wheel angles) and pre-run checklist (general inspection).",
+  "findings": [
+    {
+      "sku": "ARA2306ST2",
+      "sourceIndexes": [
+        0
+      ],
+      "locator": "Blue variant and Product Specifications / Wheel Hex Size",
+      "verified": "12 mm hex on the exact blue factory bundle."
+    },
+    {
+      "sku": "89087-4-BLUE",
+      "sourceIndexes": [
+        1,
+        2
+      ],
+      "locator": "Product overview / Wheels and Tires and owner’s manual / Wheels and Tires",
+      "verified": "17 mm splined wheel fit, belted Sledgehammer assembly, and deliberate wheel dimensions and offset."
+    },
+    {
+      "sku": "64077-3-GRN",
+      "sourceIndexes": [
+        3,
+        4
+      ],
+      "locator": "Parts list / Tires & Wheels and owner’s manual / Safety Precautions",
+      "verified": "17 mm splined hub and separate front and rear assemblies. Exact tire inspection and operating limits remain model-specific."
+    },
+    {
+      "system": "Pro-Line 6×30",
+      "sourceIndexes": [
+        5,
+        6
+      ],
+      "locator": "Offset chart, page 1, and Big Squid RC launch coverage",
+      "verified": "The same hub size can be paired with narrow and wide adapter offsets within the system. Pro-Line’s measurement reference is system-specific."
+    }
+  ],
+  "calculations": {
+    "outwardChange": "2 mm per side × 2 = 4 mm outside-to-outside, constant tire width and geometry",
+    "diameterChange": "(70/65 − 1) × 100 ≈ 7.7% unloaded circumference increase",
+    "radialChange": "(70 − 65)/2 = 2.5 mm; no fit or load claim"
+  },
+  "illustration": "Original three-part HTML concept diagram. No third-party images republished.",
+  "sources": [
+    {
+      "name": "Horizon Hobby · Typhon GROM 223S ARA2306ST2",
+      "url": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+      "kind": "Manufacturer exact package and wheel hex specification",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · Maxx Ultimate 89087-4",
+      "url": "https://traxxas.com/maxx-ultimate-89087-4",
+      "kind": "Manufacturer exact package and splined wheel description",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · Maxx Ultimate 89087-4 owner’s manual R01",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/2/89087-4-OM-EN-R01.pdf",
+      "kind": "Manufacturer instructions on tires, offset and supported setup",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · XO-1 64077-3 parts list",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/3/64077-3_parts.pdf",
+      "kind": "Manufacturer front and rear wheel assemblies and splined hub",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · XO-1 64077-3 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/2/64077-3-om-en-r00-new.pdf",
+      "kind": "Manufacturer wheel inspection and operating limits",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Pro-Line · 6×30 removable hex offset chart",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1a96171e/Manuals/Pro-Line-Hex-Chart.pdf",
+      "kind": "Manufacturer adapter measurement convention for this system",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr on removable hex wheels, 22 January 2019",
+      "url": "https://www.bigsquidrc.com/pro-line-raid-2-8-removable-hex-wheels/",
+      "kind": "Independent launch coverage of the removable insert design",
+      "checked": "2026-11-11"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "name": "arrma",
+      "url": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+      "status": 200,
+      "sha256": "35258b2e1d65799787c547f8409e03fa34783cf2aed46e4b0722f8bac84481b6",
+      "bytes": 2640033
+    },
+    {
+      "name": "maxx",
+      "url": "https://traxxas.com/maxx-ultimate-89087-4",
+      "status": 200,
+      "sha256": "6a6848c9cdec93ea04cc0c7a3249e75375b886ec9ba7435c422f9d54dd7fd93a",
+      "bytes": 417416
+    },
+    {
+      "name": "maxx-manual",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/2/89087-4-OM-EN-R01.pdf",
+      "status": 200,
+      "sha256": "5b16bc0fb896b05d82f9eea65a0746e55af8d7f946358dfb3897a15cd1283429",
+      "bytes": 9863366
+    },
+    {
+      "name": "maxx-parts",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/3/89087-4_parts.pdf",
+      "status": 200,
+      "sha256": "239b15e731808bb5bded00b6f617428706e7079d4ac02dacb53fdbefe9a4f050",
+      "bytes": 739937
+    },
+    {
+      "name": "xo-manual",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/2/64077-3-om-en-r00-new.pdf",
+      "status": 200,
+      "sha256": "be976aa362d56421b9133f1c6ef209a0eaaad7fb43d515e7107a92ee8c67f712",
+      "bytes": 8799494
+    },
+    {
+      "name": "xo-parts",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/3/64077-3_parts.pdf",
+      "status": 200,
+      "sha256": "591dffd2ba6bbfea9a806c0e52c4f557adc7fe18e06e2c5998ef02c79c77fd39",
+      "bytes": 680606
+    },
+    {
+      "name": "big-squid",
+      "url": "https://www.bigsquidrc.com/pro-line-raid-2-8-removable-hex-wheels/",
+      "status": 200,
+      "sha256": "96f161dc166a4916b2efe508109dd06f0c79148392124e2e61ac08b0d7c2ff3f",
+      "bytes": 51896
+    },
+    {
+      "name": "proline-chart",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1a96171e/Manuals/Pro-Line-Hex-Chart.pdf",
+      "status": 200,
+      "sha256": "b1160a8a27b44c008320681f8202419b69dc115d6c7d9e0240928e14cd073226",
+      "bytes": 1402766
+    }
+  ]
+}

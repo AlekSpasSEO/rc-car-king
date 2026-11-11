@@ -1,0 +1,257 @@
+{
+  "kind": "guide",
+  "slug": "rc-wheel-hex-offset-tire-fit",
+  "intentKey": "check-rc-wheel-fitment-by-drive-interface-mounting-position-tire-envelope-and-axle-specific-clearance",
+  "status": "published",
+  "title": "How to check RC wheel hex size, offset and tire fit",
+  "dek": "A wheel can slide over the axle and still sit wrong. Use the stock assembly to check the drive interface, where the tire sits and what it clears.",
+  "seo": {
+    "title": "RC Wheel Hex Size, Offset and Tire Fit Guide",
+    "description": "Check RC wheel fit with the stock assembly as a baseline. Compare hub engagement, wheel offset, tire diameter and clearance at steering lock and compression."
+  },
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "publishedAt": "2026-11-11T10:08:33.359Z",
+  "updatedAt": "2026-11-11T10:08:33.359Z",
+  "answer": "Check the exact drive shape and seating face first, then compare the mounted tire’s inner edge, outer edge and outside diameter with the stock assembly. With the car off and its battery disconnected, confirm that the wheel seats fully and clears the body and suspension through steering and suspension travel. A matching hex size is only the first check.",
+  "scope": "This is an unpowered bench check for a complete electric RC vehicle with removable wheels. It is for comparing a proposed assembly with a known-correct one and spotting a mismatch before driving. The manufacturer’s exact-model wheel, hardware and operating limits still apply. The example dimensions in the calculation are illustrative.",
+  "prerequisites": [
+    "Exact model number and the applicable owner’s manual and parts drawing",
+    "One known-correct wheel and tire assembly for the same axle and side",
+    "The specified wheel tool, a stable stand, a flat bench and a place to keep small hardware",
+    "A ruler or calipers and a straightedge for comparison measurements"
+  ],
+  "conceptCaption": "Three checks that answer different questions about the same wheel",
+  "concepts": [
+    {
+      "name": "Drive interface",
+      "description": "Look into the wheel. The socket must match the hub shape and depth and seat on the intended face."
+    },
+    {
+      "name": "Mounting position",
+      "description": "Compare where the mounted tire sits relative to that face. Check the inboard and outboard edges separately."
+    },
+    {
+      "name": "Tire envelope",
+      "description": "Check outside diameter and width at the shoulders and tread. Then see what those surfaces clear as the suspension and steering move."
+    }
+  ],
+  "sections": [
+    {
+      "id": "read-the-dimensions",
+      "heading": "Read the hub, wheel and tire as separate measurements",
+      "paragraphs": [
+        "The wheel hex is the interface that transmits torque from the hub to the wheel. On a conventional hex, the size is measured across two opposite flats. Measure the hub or the matching socket, rather than the tool you use on the wheel nut. Check the actual drive profile too. A splined interface has a different shape from a plain six-sided socket, and the depth of engagement and the way the nut seats matter after you have matched the nominal size.",
+        "The rim and mounted tire each have dimensions of their own. A rim diameter describes the wheel or bead seat in the maker’s specification. The outside diameter measures the tread that actually rolls on the ground. Also record mounted tire width at its widest point. A shoulder or sidewall can be the first thing to touch an upright, even if the tread clears. If a maker uses different inside and outside bead sizes, compare the specified rim and tire profile as a pair.",
+        "Offset describes where the wheel sits relative to a reference face or centerline. Read the diagram for the exact wheel system before comparing offset labels across brands. Pro-Line’s 6×30 chart, for example, measures its adapter offset from the back of the wheel mounting surface to the hex face and identifies narrow and wide options even at the same hex size. Big Squid RC covered the removable insert system when it launched. For an unknown assembly, a side-by-side measurement against the original is easier to interpret than a number whose reference you cannot see."
+      ],
+      "sourceIndexes": [
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "bench-fit",
+      "heading": "Check fit on the bench before you drive",
+      "sourceIndexes": [
+        0,
+        2,
+        4
+      ],
+      "steps": [
+        {
+          "heading": "Mark the original wheel positions",
+          "paragraphs": [
+            "Disconnect and remove the drive battery as the manual directs, then support the car securely. Mark front and rear, and note left and right if the tires or wheels have a specified direction or side. Check the drawing before removing a wheel so you know which pins, washers or spacers belong in the assembly. Keep them in order. One known-correct wheel on the same axle is your reference if the wheel you removed was already loose or damaged."
+          ]
+        },
+        {
+          "heading": "Inspect the hub and seat before you reach for the nut",
+          "paragraphs": [
+            "Look for debris, rounded drive faces, a displaced pin or damaged threads. Compare the socket shape, depth and mounting face on both wheels. The proposed wheel should reach the intended face with normal hand pressure. Follow the exact manual for hardware, seating and tightening. If the wheel rocks, stays proud, or leaves the retainer without its intended engagement, remove it and find the mismatch. Tightening the nut cannot correct a socket that has bottomed out on the wrong surface."
+          ]
+        },
+        {
+          "heading": "Compare the edges with the stock wheel",
+          "paragraphs": [
+            "With each correct assembly seated in turn, measure from a fixed chassis reference at the same steering angle and suspension position. Write down where the tire’s inside and outside edges land. A straightedge against the tire shoulder makes the change easier to see. Compare outside diameter on the bench as a separate measurement. Check both the actual tire and the rim barrel because either can be the first point of contact."
+          ]
+        },
+        {
+          "heading": "Check the sweep with the body fitted",
+          "paragraphs": [
+            "Rotate the wheel by hand where the manual permits. With the car still unpowered, move through the steering range and gently compress the suspension through its free travel. Stop if the mechanism resists and use the manufacturer’s inspection procedure. Look behind the wheel for clearance at the upright, links and shock and outside it at the body or bumper. Check combined turn and compression where safely accessible. A straight, unloaded wheel can hide a rub that appears on the first corner."
+          ]
+        },
+        {
+          "heading": "Restore the hardware and make a controlled first check",
+          "paragraphs": [
+            "Verify wheel retention using the manual and inspect all positions affected by the change. Refit the body and only power the car after it passes the bench checks and the wheel configuration is approved for that vehicle. Use the maker’s operating instructions and a suitable clear site for a low-speed check. Stop at the first scrape, wobble or loss of control and disconnect power before inspecting it. For a dedicated speed car, follow its specific tire and course requirements."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "what-changes",
+      "heading": "Work out what moved before you blame the suspension",
+      "paragraphs": [
+        "Suppose two identical-width tires sit 2 mm farther outward on each side after a documented fit change. With the same stance, the outside-to-outside width grows by 4 mm and each tire has about 2 mm less room at the outer body edge before the wheels turn. That does not predict full-lock clearance. The steering axis stays put, so moving the tire sideways changes the arc its corners sweep. A wider tire can also occupy more room on both sides at once.",
+        "Diameter changes another part of the problem. In an illustrative change from a 65 mm to a 70 mm outside diameter, unloaded rolling circumference rises by about 7.7 percent because circumference is proportional to diameter. The unloaded radius increases 2.5 mm, so the tire also reaches about 2.5 mm farther toward nearby bodywork from its center. Actual loaded height and rolling distance depend on the tire and surface. The calculation helps explain why larger tires change effective gearing and clearance even if the pinion and spur stay put.",
+        "The Maxx Ultimate manual treats offsets and dimensions as deliberate and discusses the load implications of larger tires in its wheel-and-tire section. Use your own manual for supported sizes and gearing. Clearance on a stand answers a physical-fit question. Suitability under load also depends on the tire construction, dimensions, weight, and how the manufacturer intends the vehicle to be used."
+      ],
+      "sourceIndexes": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": "factory-examples",
+      "heading": "Three factory examples show why the number is only a start",
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "paragraphs": [
+        "Use these examples to locate the relevant evidence for your own car. The checks differ by model even when the wheels look similar in product photos.",
+        "For the blue Typhon GROM 223S bundle, start with ARA2306ST2 and the 12 mm figure in Horizon’s specifications. A 12 mm wheel from a different car can still have a socket that is too shallow, a barrel that catches the steering assembly or a tire that reaches the body. The useful comparison is with the original wheel on that axle, with the buggy’s shell fitted.",
+        "The two Traxxas examples illustrate separate issues. The Maxx Ultimate uses keyed, splined 17 mm hardware with belted Sledgehammers. The green XO-1 also uses 17 mm splined hubs, but its own parts list names separate front and rear wheel-and-tire assemblies. Shared nominal hub size does not establish interchangeability between the vehicles or between axles. Keep the XO-1’s front and rear positions and manufacturer tire requirements together."
+      ],
+      "table": {
+        "caption": "Factory references for three complete RC vehicles",
+        "columns": [
+          "Exact vehicle",
+          "Documented wheel detail",
+          "First thing to verify"
+        ],
+        "rows": [
+          [
+            "ARRMA Typhon GROM 223S, ARA2306ST2",
+            "12 mm wheel hex in the manufacturer specifications",
+            "Confirm socket depth and buggy clearance against its stock assembly."
+          ],
+          [
+            "Traxxas Maxx Ultimate, 89087-4-BLUE",
+            "17 mm splined hub and belted Sledgehammer assembly",
+            "Match the drive profile, retainer and wheel geometry."
+          ],
+          [
+            "Traxxas XO-1, 64077-3-GRN",
+            "17 mm splined hub and separate front and rear assemblies",
+            "Check axle position and the exact model’s tire requirements."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "troubleshoot",
+      "heading": "Follow the first symptom back to its cause",
+      "paragraphs": [
+        "If the wheel turns freely when loose but binds when tightened, inspect its seating face and the hardware stack. A wrong nut, missing spacer or barrel touching the upright can become obvious when the wheel is held in its final position. Compare with the correct assembly on that corner. Resolve the stack and engagement before you investigate toe or steering trim.",
+        "If the tire marks the inside shoulder or the body at only one steering angle, reproduce that angle on the bench with power disconnected. A clean, narrow strip of paper can help you see whether a gap closes during gentle movement. If the original wheel also rubs, check that the body is seated properly and compare the left and right arms and links for damage or a displaced mount. Return to the documented setup before deciding the wheel itself is responsible.",
+        "If the car develops a rhythmic wobble after the change, stop. Check for a wheel that is incompletely seated, a bent rim, debris in the socket or a damaged tire. Compare the assembly with the known-good wheel by turning it by hand. A loose tire bond or a wheel that does not retain properly needs correction before running. Do not use a powered free-spin to find the fault."
+      ],
+      "sourceIndexes": [
+        2,
+        4
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Before the battery goes back in",
+    "items": [
+      "Model, axle position and any tire direction match the manufacturer documentation.",
+      "Hub profile and socket depth allow the wheel to seat fully.",
+      "Correct hardware retains the wheel without rocking or binding.",
+      "Inside and outside tire edges clear the body and suspension through the permitted sweep.",
+      "Tire size and construction fit the vehicle’s documented operating limits."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "arrma/typhon-grom-223s/",
+      "title": "ARRMA Typhon GROM 223S DSC BLX",
+      "note": "Blue ARA2306ST2 brushless bundle and its stock small-buggy configuration."
+    },
+    {
+      "route": "traxxas/maxx-ultimate/",
+      "title": "Traxxas Maxx Ultimate",
+      "note": "Blue 89087-4-BLUE with factory Sledgehammers and splined wheel hardware."
+    },
+    {
+      "route": "traxxas/xo-1/",
+      "title": "Traxxas XO-1",
+      "note": "Green 64077-3-GRN with staggered slicks and model-specific operating limits."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will any 12 mm hex wheel fit a 12 mm RC car?",
+      "answer": "No. Check the socket’s depth and the hub engagement, then compare wheel position, tire width and diameter, hardware and clearance with the original assembly."
+    },
+    {
+      "question": "Is wheel offset the same as hex size?",
+      "answer": "No. Hex size describes the drive interface. Offset describes where the wheel or its adapter positions the tire relative to a stated reference. Check the manufacturer’s measurement convention."
+    },
+    {
+      "question": "Can I swap front and rear wheels if they have the same hub?",
+      "answer": "Check the exact model’s parts list. Some cars have separate front and rear assemblies. The XO-1 64077-3 is one example. Preserve the specified position and any directional markings."
+    },
+    {
+      "question": "Why does the tire only rub when I turn or compress the suspension?",
+      "answer": "The tire follows a moving path relative to the upright and body. Check both movements together on the unpowered car as the manual permits. Compare against the stock assembly at the same position."
+    },
+    {
+      "question": "Will a larger tire change gearing if I leave the pinion alone?",
+      "answer": "The mechanical gear ratio stays the same. A larger rolling circumference moves the car farther per wheel revolution and changes effective gearing. Check the manufacturer’s allowed tire and gearing combinations."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby · Typhon GROM 223S ARA2306ST2",
+      "url": "https://www.horizonhobby.com/product/arrma-1-14-typhon-grom-223s-dsc-4x4-rtr-brushless-buggy-battery-and-charger-included/ARA2306S.html",
+      "kind": "Manufacturer exact package and wheel hex specification",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · Maxx Ultimate 89087-4",
+      "url": "https://traxxas.com/maxx-ultimate-89087-4",
+      "kind": "Manufacturer exact package and splined wheel description",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · Maxx Ultimate 89087-4 owner’s manual R01",
+      "url": "https://traxxas.com/media/productattach/C-89087-4/2/89087-4-OM-EN-R01.pdf",
+      "kind": "Manufacturer instructions on tires, offset and supported setup",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · XO-1 64077-3 parts list",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/3/64077-3_parts.pdf",
+      "kind": "Manufacturer front and rear wheel assemblies and splined hub",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Traxxas · XO-1 64077-3 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-64077-3/2/64077-3-om-en-r00-new.pdf",
+      "kind": "Manufacturer wheel inspection and operating limits",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Pro-Line · 6×30 removable hex offset chart",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw1a96171e/Manuals/Pro-Line-Hex-Chart.pdf",
+      "kind": "Manufacturer adapter measurement convention for this system",
+      "checked": "2026-11-11"
+    },
+    {
+      "name": "Big Squid RC · Tim Mohr on removable hex wheels, 22 January 2019",
+      "url": "https://www.bigsquidrc.com/pro-line-raid-2-8-removable-hex-wheels/",
+      "kind": "Independent launch coverage of the removable insert design",
+      "checked": "2026-11-11"
+    }
+  ],
+  "evidenceNote": "The model examples come from manufacturer specifications, manuals and assembly listings. Big Squid RC supplies launch context for the removable insert example. The clearance workflow and arithmetic are editorial explanations. No cross-model wheel fit or driving performance was physically tested for this guide.",
+  "revisionNote": "First published 11 November 2026."
+}
