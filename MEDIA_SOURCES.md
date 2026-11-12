@@ -155,3 +155,7 @@ The [media manifest](content/evidence/2026-11-10-review-media.json) credits the 
 ## Weekday reviews · 11 November 2026
 
 The [media manifest](content/evidence/2026-11-11-review-media.json) credits official product imagery for the red and white brushed ARRMA Typhon GROM ARA2106T2, blue Traxxas Maxx Ultimate 89087-4-BLUE and green Traxxas XO-1 64077-3-GRN. The Typhon gallery includes the manufacturer’s dimensions graphic. The Maxx gallery includes the blue chassis with its body removed.
+
+## Weekday reviews · 12 November 2026
+
+The [media manifest](content/evidence/2026-11-12-review-media.json) credits official imagery for the black Axial SCX30 Chevrolet K10 AXI-2260T2, black and red ARRMA Talion 6S EXB V6 ARA7707V6T1, and orange and black Traxxas Slash Late Model 104364-74-FOX. Captions identify Axial’s exact package photograph, ARRMA’s promotional airborne image and the shared Late Model chassis view.

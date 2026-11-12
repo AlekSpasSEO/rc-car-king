@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-12",
+  "route": "traxxas/slash-late-model-bl-2s/",
+  "sku": "104364-74-FOX",
+  "coreWords": 2020,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/search-0.json",
+    "checkedAt": "2026-10-12T23:04:14.885Z",
+    "asin": "B0FGZHZ78N",
+    "brand": "Traxxas",
+    "part": "104364",
+    "title": "Traxxas Slash Late Model 1/10 Scale 2WD Dirt Oval Race Car (Fox)",
+    "model": "104364-74",
+    "note": "Archived exact-product verification from 2026-10-12T23:04:14.885Z for 104364. The archived part field abbreviates the family to 104364. The same record gives model 104364-74 and names the complete Fox car. Traxxas identifies that exact livery as 104364-74-FOX in its product data. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Traxxas Slash Late Model 104364-74 manufacturer product and Fox variant",
+      "url": "https://traxxas.com/slash-late-model-bl-2s-104364-74",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas exact 104364-74 owner manual R00",
+      "url": "https://traxxas.com/media/productattach/C-104364-74/2/104364-74-OM-EN-R00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas 104364-74 parts list and equipment references",
+      "url": "https://traxxas.com/media/productattach/C-104364-74/3/104364-74_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "RC Driver Slash Late Model and Fox Edition launch feature",
+      "url": "https://www.rcdriver.com/traxxas-slash-late-model-rtr-a-new-era-for-dirt-oval-racing/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Mark Twain Hobby Center exact Fox and 2992 package reference",
+      "url": "https://www.hobby1.com/traxxas-slash-late-model-bl-2s-fox-tra104364-74fox.html",
+      "kind": "Independent hobby retailer",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas Slash 2WD XL-5 review",
+      "url": "https://rccarking.com/traxxas/slash-2wd-xl-5/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Team Associated Pro2 SC10SW RTR review",
+      "url": "https://rccarking.com/team-associated/pro2-sc10sw-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas Rustler 2WD XL-5 review",
+      "url": "https://rccarking.com/traxxas/rustler-2wd-xl-5/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/slash-late-20261112-1.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-late-model-3qtr-front-fox_54131960.jpg",
+      "credit": "Traxxas",
+      "bytes": 175695,
+      "sha256": "58676ab3103b3db81330d3c53c3252dce4df551729bf2ed7bd563be23eead325"
+    },
+    {
+      "file": "reviews/slash-late-20261112-2.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-Slash-Late-Model-Chassis-Overhead_54132027.jpg",
+      "credit": "Traxxas",
+      "bytes": 212533,
+      "sha256": "b13e2f10109b388758f44d43e9f1ddddaa861c1a747b8b8c9acfe072dc1acd61"
+    },
+    {
+      "file": "reviews/slash-late-20261112-3.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-Late-Model-Side-Left-FOX_54131965.jpg",
+      "credit": "Traxxas",
+      "bytes": 119809,
+      "sha256": "0e37415b1bd1fcdd20c25e806717a00f84d22baa483a6702727c11aa76475bfc"
+    }
+  ],
+  "findings": [
+    "The manufacturer product data names the complete Fox variant and $399.95 reference. The parts list differentiates the 10423-FOX body and lists the 2992 completion pack with 2843X and 2970.",
+    "The product table pairs 12.3 inches and 333 mm for the wheelbase, which differ when converted. The owner manual uses 2.72 as the internal factor for the final-drive calculation, while the product table labels 9.10:1 internal. These conflicts are disclosed."
+  ],
+  "productPageSha256": "07ae4dfbabb29decf7e0957d1e6ecf66b0a23f6639ee9cf335e6b6d25c473a39"
+}

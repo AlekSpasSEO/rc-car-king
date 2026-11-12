@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-12",
+  "route": "arrma/talion-6s-exb-v6/",
+  "sku": "ARA7707V6T1",
+  "coreWords": 2095,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/search-12.json",
+    "checkedAt": "2026-10-12T23:05:01.328Z",
+    "asin": "B0H297QQ97",
+    "brand": "ARRMA",
+    "part": "ARA7707V6T1",
+    "title": "ARRMA RC Truck 1/7 Talion 4x4 6S EXB BLX Brushless V6 Speed Truck RTR (Lipo Battery and Charger Not Included) Black, ARA7707V6T1",
+    "model": "ARA7707V6T1",
+    "note": "Archived exact-product verification from 2026-10-12T23:05:01.328Z for ARA7707V6T1.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby exact ARA7707V6T1 package and US reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-talion-6s-exb-4x4-rtr-brushless-speed-truck-black/ARA7707V6.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "ARRMA ARA7707V6 exact owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/ARA7707V6_MANUAL_MULTI.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "ARRMA ARA7707V6 technical pack",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/ARA7707V6_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "RC Driver / Greg Vogel exact ARA7707V6T1 feature, 25 April 2026",
+      "url": "https://www.rcdriver.com/arrma-talion-6s-blx/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "ARRMA Talion V6 product showcase and battery specifications",
+      "url": "https://www.arrma-rc.com/en/product-showcase?pid=ARA7707V6",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Horizon Hobby Spektrum SPMX54S100H5 reference pack",
+      "url": "https://www.horizonhobby.com/product/spektrum-14.8v-5000mah-4s-100c-smart-g2-hardcase-lipo-battery-ic5/SPMX54S100H5.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "ARRMA Kraton 6S BLX V6 review",
+      "url": "https://rccarking.com/arrma/kraton-6s-v6/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "ARRMA Mojave 4S review",
+      "url": "https://rccarking.com/arrma/mojave-4s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "ARRMA Mini Kraton 3S review",
+      "url": "https://rccarking.com/arrma/mini-kraton-3s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/talion-20261112-1.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwc76125cc/Images/ARA/ARA7707V6T1_A0_YD4N31Q2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 243965,
+      "sha256": "2866ae29b359d1c2e4a97515795c8121d9658de7f986ef40f3bf6f475d6d2612"
+    },
+    {
+      "file": "reviews/talion-20261112-2.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw10af16fa/Images/ARA/ARA7707V6_A1_HNTVJX6K.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 495297,
+      "sha256": "06c93de7410275472d8371015b52ceb4d60a8ad70691686155d7dde4b4f09828"
+    },
+    {
+      "file": "reviews/talion-20261112-3.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw53081866/Images/ARA/ARA7707V6T1_A39_YD4N31Q2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 690509,
+      "sha256": "dafade9afec7088e1c84de12882e2fb8a2a1fed6997b2f6838154d7be8ae1a21"
+    }
+  ],
+  "findings": [
+    "Manual required equipment and ESC tables specify 50C minimum at 5000 mAh. The ARRMA showcase lists 35C at the same capacity. Use the stricter manual specification and manufacturer-recommended 100C example.",
+    "The first page of the technical pack calls out the 15T pinion. The product specification lists a 50T spur and a 23T optional pinion.",
+    "The product page lists 11.64 lb and 5.2 kg. These differ slightly when converted, and the weighing configuration is unspecified."
+  ],
+  "productPageSha256": "85d15d46cff8b8bb95d1896ee98bf276446450124d7233b2c43c9aae912b46fb"
+}

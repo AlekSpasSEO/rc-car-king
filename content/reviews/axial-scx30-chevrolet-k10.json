@@ -1,0 +1,485 @@
+{
+  "brand": "Axial",
+  "brandSlug": "axial",
+  "model": "SCX30 Chevrolet K10",
+  "modelSlug": "scx30-chevrolet-k10",
+  "sku": "AXI-2260T2",
+  "headlineLines": [
+    "SMALL TRUCK.",
+    "SLOW LINE."
+  ],
+  "title": "Axial SCX30 Chevrolet K10 review: the black 1/30 crawler",
+  "dek": "The black K10 combines a detailed hard body, 65T brushed motor and locked four-wheel drive. Its best course fits in a small room.",
+  "seo": {
+    "title": "Axial SCX30 Chevrolet K10 Review",
+    "description": "Review the black AXI-2260T2 K10, its locked 4WD, included 2S battery and charger, 99 mm wheelbase and the indoor routes that suit it."
+  },
+  "type": "Rock crawler",
+  "use": "Crawling",
+  "terrain": [
+    "Compact indoor courses",
+    "Dry firm rock",
+    "Low-profile obstacles"
+  ],
+  "motor": "Brushed",
+  "drive": "4WD",
+  "scale": "1/30",
+  "format": "Assembled RTR with 2S pack, USB charger and transmitter batteries",
+  "skill": "First-time crawler buyer or scale-truck driver with limited space",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "basis": "Horizon Hobby US exact black AXI-2260T2 vehicle reference",
+    "source": "https://www.horizonhobby.com/product/1-30-scx30-chevrolet-k10-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-black/AXI-2260T2.html",
+    "checked": "2026-11-12"
+  },
+  "purchaseNote": "Drive pack, USB charger and four radio AAs are included. Check that you have the USB input specified in the manual.",
+  "overview": "The 161 mm long K10 puts a hard Chevrolet pickup body on a 99 mm-wheelbase SCX30 chassis. The included 2S power equipment and proportional radio make it a compact setup for slow obstacle practice. The low clearance and small tires matter most when you choose a route.",
+  "verdict": "Buy it for compact crawling and the black hard body",
+  "verdictText": "Pick AXI-2260T2 if you want to build short, technical routes and keep the factory look. Choose a larger crawler if your usual route has loose stones, deep gaps or obstacles you cannot scale down.",
+  "pros": [
+    "Includes drive pack, USB charger and transmitter AAs",
+    "Compact enough for a deliberately built indoor route",
+    "Hard Chevrolet body with scale details",
+    "Locked 4WD and a high published reduction ratio"
+  ],
+  "cons": [
+    "Low wheel and axle clearance limits mixed outdoor terrain",
+    "Tall hard body rewards a careful line across side slopes",
+    "Tiny connectors and hardware require patient handling",
+    "Combined ESC and receiver narrow electronics swap options"
+  ],
+  "bestFor": [
+    "Small indoor obstacle courses with a low, stable base",
+    "Stock-scale pickup fans",
+    "A first crawler buyer starting without radio or charging equipment"
+  ],
+  "avoidIf": [
+    "You intend to drive across coarse rock, tall grass or deep ruts",
+    "You want a fast compact truck",
+    "You are shopping for a competition build with extensive electronics changes"
+  ],
+  "quickSpecs": [
+    [
+      "Exact model",
+      "AXI-2260T2 · black"
+    ],
+    [
+      "Wheelbase",
+      "99 mm"
+    ],
+    [
+      "Power",
+      "Axial 65T brushed motor"
+    ],
+    [
+      "Drive",
+      "Locked 4WD"
+    ],
+    [
+      "Included battery",
+      "2S 160 mAh 30C LiPo"
+    ],
+    [
+      "Included charger",
+      "2S USB · JST-XH 3-pin"
+    ]
+  ],
+  "rating": {
+    "audience": "A driver building a small-scale crawling course at home",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Space fit",
+        "score": 9.5,
+        "reason": "The 161 mm body can use obstacles that would barely register under a larger crawler."
+      },
+      {
+        "label": "Package",
+        "score": 9,
+        "reason": "The motor, radio, drive battery, charger and AAs are present. A suitable USB source is still needed."
+      },
+      {
+        "label": "Scale execution",
+        "score": 8.5,
+        "reason": "The hard body and narrow small-truck profile provide much of the appeal."
+      },
+      {
+        "label": "Terrain range",
+        "score": 7,
+        "reason": "The short chassis and small tire diameter reward carefully scaled terrain."
+      },
+      {
+        "label": "Service access",
+        "score": 7.5,
+        "reason": "Parts documentation helps. Battery connectors and assemblies are physically small."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "A complete pickup for a short, technical course",
+      "paragraphs": [
+        "The black K10 makes sense if you want a route that takes time to solve even when it only crosses a small section of floor. At 161 mm long with a 99 mm wheelbase, it turns a modest rise into an obstacle with an approach, a crest and a descent. That gives the owner something to work on besides pulling more throttle. A successful first session can be three short sections linked together, each with enough room to stop and choose where to place the front tires.",
+        "AXI-2260T2 is the black Chevrolet package. The larger SCX24 Chevrolet C10 and the other SCX30 bodies belong in the comparison, but they should not be used as the specification sheet for this truck. Axial lists a hard ABS shell, 65-turn brushed motor and a supplied 2S charging setup. RC Driver’s SCX30 K10 feature is useful for seeing the shape and scale of the model. The buying assessment here uses the manufacturer’s configuration and the kind of terrain it implies.",
+        "For the buyer who likes the classic pickup shape, the hard shell is part of the value even though it sits above the chassis. A lower center of mass would serve a different build. Decide whether you are buying a stock pickup to drive or planning a custom competition project before judging the price."
+      ],
+      "sourceIndexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box contents",
+      "heading": "The battery and radio are part of the black RTR",
+      "paragraphs": [
+        "Horizon lists the complete assembled chassis, body, motor and electronics, the Spektrum SLT2, four AA radio cells, a 2S 160 mAh LiPo and the matching USB charger. The 65T motor and the SPMXSE3225RX receiver and speed control are installed. This is useful to someone who is setting up a course at home and wants to spend the first session on placement instead of sorting out a separate radio, pack and charger.",
+        "The spec table identifies the vehicle’s drive connection as JST PH2.0 2-pin. The box contents identify the charger connection as 3-pin JST-XH. Those are separate roles on the supplied pack. When you look at the two leads, use the exact manual and the stock equipment to establish which goes where. A 2S description or a connector that looks close in a thumbnail does not establish that a substitute will suit both the truck and the charger.",
+        "Use an input source that meets the supplied charger’s instructions and follow the battery and vehicle manual for handling. If a connector resists, stop and check its orientation and role. The small wiring and short leads make it especially useful to lay the car and charger out where you can see what you are doing. Nothing in the box list calls for a larger pack or a different voltage."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "What 65 turns and locked axles mean on a short climb",
+      "paragraphs": [
+        "Axial calls out a 65T brushed motor and lists a 131.58 overall gear ratio. The turns describe the motor winding, while the ratio tells you how much rotation is traded for wheel movement. The two figures help explain the crawling brief, but they do not measure minimum speed or the amount of grip at the tire. A truck on a smooth ramp can still lose the line because it unloads a wheel or approaches a step at the wrong angle.",
+        "The locked four-wheel drive changes how it turns. A locked axle keeps the two wheels on that axle rotating together. When the truck turns, the outside wheel travels a longer path. On high-grip flooring, the tires may scrub as they accommodate that difference. On a small climb, the same locked layout can keep a tire with traction useful when the other side is light. Start by judging what the tires are doing rather than diagnosing every small turn as a steering or motor problem.",
+        "The SCX30 layout is most useful at a scale where you can see individual tread blocks move. A smooth trigger input before the step makes the truck’s reaction easier to read. If it gets stuck at the crest, see whether the chassis is resting on the obstacle before asking the motor for more."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "Controls",
+      "heading": "Use the transmitter to place the front tires",
+      "paragraphs": [
+        "Set up the SLT2 according to the AXI-2260 instructions and use a flat section before trying a climb. At crawling speed the steering trim is most useful when you can run a short straight and see the front wheels return consistently. If the truck needs large corrections on both sides, compare the front tires, linkage and obstacle alignment. A turn on a textured mat tells you less about straight-line trim than a few feet on a flat and even surface.",
+        "For the first pass, put two visible markers on the flat area and try to stop with the front axle between them. Then make the same approach to a small step. Use enough steering to aim a tire at the step and return the wheel toward center once it is climbing. This lets you find out whether the limit comes from the approach angle, the available grip or steering input. There is little reason to solve all three at once.",
+        "On a small surface, a change in trigger movement can be easier to observe if you stay close enough to see the truck’s front corners. Add a flat resting area before the obstacle so you can begin from the same position each time. Judge improvement by how often you can repeat the line."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering",
+      "heading": "Know when a tight turn is asking too much",
+      "paragraphs": [
+        "On a small course, a sharp turn right at the foot of a ramp looks like an easy way to add difficulty. It also puts the front tires near the inside edge at the point where they are trying to climb. With locked axles and foam-backed crawler tires, the wheel can be working against scrub or an edge of the course. Give yourself a short straight entry first and add the tight approach when you understand how the truck behaves.",
+        "If steering looks different left to right, switch off and disconnect the pack before checking the front end. Inspect whether the body edge, a wheel, or debris around the axle is limiting movement. Compare the opposite side in the parts drawing and avoid forcing a linkage past its stop. A bunched carpet fiber behind a tiny wheel can look like an adjustment issue when the cause is under the truck.",
+        "The stock electronics combine the receiver and ESC. The practical service implication is that a radio or speed-control change may involve more than replacing one box. That is a reason to first establish whether the problem is mechanical, limited to the surface, or present on level ground with the wheels clear. The stock arrangement makes sense for a buyer who intends to keep the factory controls."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Scale the gaps and the landing as well as the climb",
+      "paragraphs": [
+        "The Interco Super Swamper tires and 99 mm wheelbase set the useful size of the course. Begin with firm, dry obstacles that will stay put. A strip of textured mat laid over a low block can make one continuous ramp, and a second flat patch after the crest gives the rear axle a place to follow. The K10’s width is listed as 77 mm. Add working room around that number so you can choose a diagonal line without putting the tires at the edge of the base.",
+        "A rock that stands well clear of the front bumper is only one measure of difficulty. A short crest can lift an axle while the underside catches. A steep descent can unload the rear and bring the nose down. Try turning the same obstacle around before you add height. That changes the approach and departure while preserving the surface, which is a useful way to see what caused a hang-up.",
+        "Build at floor level so an ordinary misjudgment cannot become a fall from furniture. Outdoors, use a short section of firm rock with shallow gaps and good visibility. Large gravel, wet ground and grass stems can dominate a route at this size. If the route needs a tall truck to bridge it, choose a larger model or rebuild the obstacle."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "Keep the black shell and the small hardware in order",
+      "paragraphs": [
+        "The black ABS shell is the part you see every time the truck crests a line. It also changes how you inspect it. Use the illustrated body and battery access in the manual, and check that the shell is secured before the run. Watch where the wiring rests when you close up. An exposed lead should not rub a moving part, and a plug should never have to be pulled by its wires just to remove the pack.",
+        "A scale pickup rewards a brush and a good light more than an elaborate repair kit on the first day. After a dry crawl, disconnect the pack and look around the axles, tire bead and links. Use a tray for the small pieces when you do have to open an assembly. If one corner moves differently, first compare it with the other corner. The exploded drawing is a useful second reference when a fastener or link seems out of place.",
+        "Before replacing a wheel, axle assembly or a body component, find the K10’s exact drawing. SCX30 is the chassis family and can appear on parts pages covering other shapes. The fastener count, link position and exact package are more useful than assuming every SCX30 label points to the same assembly."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "What $99.99 gets you from an empty bench",
+      "paragraphs": [
+        "Horizon showed $99.99 for the exact black truck on 12 November 2026. The box already includes the drive pack, charger and four transmitter cells. If you have a suitable USB supply and the charging provisions the manual calls for, there is no second radio or charger bill to add to the vehicle reference. The following estimate allows for an appropriate USB source and battery care supplies if you need both.",
+        "With $15 and $15 set aside for those two items, the example starts at $129.99 before taxes and delivery. The allowances are editorial planning numbers. Start the course with clean materials you already have. A stable base and a few low obstacles do more for this model than buying a large course kit whose spacing was designed for something else.",
+        "The extra outlay that is easy to miss is a work surface where screws and retainers do not disappear. A tray and a light you already own cover much of that job. Put spare packs, appearance changes and course purchases in a separate column so the first-session comparison with a larger crawler stays useful. The affiliate destination identifies the previously verified black package and lets you check seller terms."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "table": {
+        "caption": "US startup budget checked 12 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Black AXI-2260T2",
+            "Horizon Hobby US reference",
+            "$99.99"
+          ],
+          [
+            "Compatible USB input if needed",
+            "Editorial allowance",
+            "$15.00"
+          ],
+          [
+            "Battery care provisions if needed",
+            "Editorial allowance",
+            "$15.00"
+          ],
+          [
+            "Example total",
+            "Before tax and delivery",
+            "$129.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Decide whether the body or the footprint comes first",
+      "paragraphs": [
+        "The SCX30 Ford Bronco is the closest comparison if the 1/30 footprint is your first priority and you prefer a different body. Compare the exact tire and body clearances from the two reviews, along with access to the battery. For someone building a course around realistic scale looks, body shape is a valid tiebreaker because the footprint stays in the same general class.",
+        "The SCX24 Chevrolet C10 moves the pickup idea into a larger size class. Look there if the obstacles you can use at home or outside have wider gaps and deeper crests. Check the exact C10 package for included equipment. Buy around the route, especially if the limiting obstacle is something you cannot change, such as gaps between stones on a yard path.",
+        "The TRX-4M Ford Bronco goes larger again. It takes up more shelf and course space, which can be worthwhile if you prefer a more visible truck at a longer distance and have a place to run it. A larger model does not automatically make a tiny course better. Build or mark one representative obstacle and compare the exact model widths and wheelbases before choosing."
+      ],
+      "sourceIndexes": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "A scale crawler for the space you already have",
+      "paragraphs": [
+        "The black SCX30 K10 earns its place for a driver who wants the look of a Chevrolet pickup and has room for a few deliberately scaled obstacles. Its stock motor, locked drivetrain and supplied electronics are a coherent package for slow work. There is enough going on at the tires to make a short route worth repeating, especially if you pay attention to how the vehicle approaches and leaves an obstacle.",
+        "The reservation is the physical size. A 99 mm wheelbase and 77 mm width make this truck easy to use indoors, and they also establish which outdoor routes make sense. The hard shell is another reason to stay within the truck’s brief. It brings the detail that makes the K10 attractive, and a driver chasing maximum side-slope performance would have a different set of priorities.",
+        "Check that the listing specifies AXI-2260T2 and includes the stock battery and charger. Give it a course with a flat start, a low obstacle and room to stop on the other side. If that sounds like the kind of driving you want to do regularly, the small footprint is what you are paying for."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact package",
+      "AXI-2260T2, black"
+    ],
+    [
+      "Scale",
+      "1/30"
+    ],
+    [
+      "Length × width × height",
+      "161 × 77 × 75 mm"
+    ],
+    [
+      "Wheelbase",
+      "99 mm"
+    ],
+    [
+      "Motor",
+      "Axial 65T brushed AXI-3066"
+    ],
+    [
+      "Drivetrain",
+      "Locked 4WD"
+    ],
+    [
+      "Published overall gear ratio",
+      "131.58:1"
+    ],
+    [
+      "Receiver and ESC",
+      "Spektrum SPMXSE3225RX 2-in-1"
+    ],
+    [
+      "Transmitter",
+      "Spektrum SLT2, four AAs included"
+    ],
+    [
+      "Stock battery",
+      "Spektrum SPMX-1122, 2S 160 mAh 30C LiPo"
+    ],
+    [
+      "Vehicle connector",
+      "JST PH2.0 2-pin"
+    ],
+    [
+      "Charger",
+      "USB 2S, 0.5 A, JST-XH 3-pin as listed"
+    ],
+    [
+      "Tires",
+      "Licensed Interco Super Swamper with foam inserts"
+    ],
+    [
+      "Body",
+      "Black Chevrolet K10 ABS hard body"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "What does AXI-2260T2 identify?",
+      "answer": "The black complete SCX30 Chevrolet K10 with its stock 65T motor, radio, 2S pack and charger."
+    },
+    {
+      "question": "Does the K10 include radio batteries?",
+      "answer": "Yes. Horizon lists four AA transmitter batteries in the box."
+    },
+    {
+      "question": "Will any 2S pack fit it?",
+      "answer": "No. Check the exact pack size, vehicle connector and compatible charging connection. The supplied SPMX-1122 is the documented baseline."
+    },
+    {
+      "question": "Can I use it on deep gravel?",
+      "answer": "Choose firm ground with gaps and steps scaled to the small wheels. Deep, shifting gravel is a poor fit for the 1/30 truck."
+    },
+    {
+      "question": "Why do the tires scrub in a tight turn?",
+      "answer": "The locked axles constrain the wheels on each axle to the same speed. On a grippy floor they may scrub because the outside wheel travels farther."
+    },
+    {
+      "question": "Is the SCX30 K10 the same truck as the SCX24 C10?",
+      "answer": "They are separate complete vehicles in different size classes. Use each vehicle’s own parts and power documentation."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby exact black AXI-2260T2 package and specs",
+      "url": "https://www.horizonhobby.com/product/1-30-scx30-chevrolet-k10-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-black/AXI-2260T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial AXI-2260 English owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI-2260-MANUAL-EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial Chevrolet K10 exploded drawing, Hobby Wholesale mirror",
+      "url": "https://hobbywholesale.com/amfile/file/download/file/3526/product/57432/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "RC Driver SCX30 K10 platform feature",
+      "url": "https://www.rcdriver.com/axial-scx30-k10/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial SCX30 Ford Bronco review",
+      "url": "https://rccarking.com/axial/scx30-ford-bronco/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial SCX24 Chevrolet C10 review",
+      "url": "https://rccarking.com/axial/scx24-chevrolet-c10-1967-1972/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas TRX-4M Ford Bronco review",
+      "url": "https://rccarking.com/traxxas/trx-4m-ford-bronco/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    }
+  ],
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "publishedAt": "2026-11-12T09:29:46.001Z",
+  "updatedAt": "2026-11-12T09:29:46.001Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/k10-20261112-1.jpg",
+  "imageAlt": "Black Axial SCX30 Chevrolet K10 AXI-2260T2 posed on rock in an official Axial photograph",
+  "imageCaption": "Black Axial SCX30 Chevrolet K10 AXI-2260T2 posed on rock in an official Axial photograph",
+  "imageCredit": {
+    "name": "Axial / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw6639a928/Images/AXI/AXI-2260T2_A7_YKTPPKW8.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/k10-20261112-2.jpg",
+      "alt": "Axial package photograph showing the black K10, radio, drive battery, USB charger and four AAs",
+      "caption": "Axial package photograph showing the black K10, radio, drive battery, USB charger and four AAs",
+      "source": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwcf239b02/Images/AXI/AXI-2260T2_A23_YKTPPKW8.jpg",
+      "creditName": "Axial / Horizon Hobby",
+      "credit": {
+        "name": "Axial / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwcf239b02/Images/AXI/AXI-2260T2_A23_YKTPPKW8.jpg"
+      }
+    },
+    {
+      "image": "reviews/k10-20261112-3.jpg",
+      "alt": "Axial manufacturer close-up of the SCX30 K10 battery compartment",
+      "caption": "Axial manufacturer close-up of the SCX30 K10 battery compartment",
+      "source": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwbabf6436/Images/AXI/AXI-2260T2_A1_YKTPPKW8.jpg",
+      "creditName": "Axial / Horizon Hobby",
+      "credit": {
+        "name": "Axial / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwbabf6436/Images/AXI/AXI-2260T2_A1_YKTPPKW8.jpg"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0GKQYK98L",
+    "marketplace": "www.amazon.com",
+    "sku": "AXI-2260T2",
+    "detailPageUrl": "https://www.amazon.com/dp/B0GKQYK98L?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:06:35.890Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "AXI-2260T2 black 1/30 Chevrolet K10 4WD RTR with battery and charger",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:06:35.890Z for AXI-2260T2.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 12 November 2026."
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-12",
+  "route": "axial/scx30-chevrolet-k10/",
+  "sku": "AXI-2260T2",
+  "coreWords": 2085,
+  "identity": {
+    "cachePath": "output/batch-horizon/axial-bronco.json",
+    "checkedAt": "2026-10-12T23:06:35.890Z",
+    "asin": "B0GKQYK98L",
+    "brand": "Axial",
+    "part": "AXI-2260T2",
+    "title": "Axial SCX30 Chevrolet K10 4X4 RTR RC Truck 1/30, Black",
+    "model": "AXI-2260T2",
+    "note": "Archived exact-product verification from 2026-10-12T23:06:35.890Z for AXI-2260T2.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby exact black AXI-2260T2 package and specs",
+      "url": "https://www.horizonhobby.com/product/1-30-scx30-chevrolet-k10-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-black/AXI-2260T2.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial AXI-2260 English owner manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/Manuals/AXI-2260-MANUAL-EN.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial Chevrolet K10 exploded drawing, Hobby Wholesale mirror",
+      "url": "https://hobbywholesale.com/amfile/file/download/file/3526/product/57432/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "RC Driver SCX30 K10 platform feature",
+      "url": "https://www.rcdriver.com/axial-scx30-k10/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial SCX30 Ford Bronco review",
+      "url": "https://rccarking.com/axial/scx30-ford-bronco/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Axial SCX24 Chevrolet C10 review",
+      "url": "https://rccarking.com/axial/scx24-chevrolet-c10-1967-1972/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas TRX-4M Ford Bronco review",
+      "url": "https://rccarking.com/traxxas/trx-4m-ford-bronco/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/k10-20261112-1.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw6639a928/Images/AXI/AXI-2260T2_A7_YKTPPKW8.jpg",
+      "credit": "Axial / Horizon Hobby",
+      "bytes": 285752,
+      "sha256": "b88d8315363ab85a8633a3c1ce83859a1ab58632ff4571a68a5c81f38bcca226"
+    },
+    {
+      "file": "reviews/k10-20261112-2.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwcf239b02/Images/AXI/AXI-2260T2_A23_YKTPPKW8.jpg",
+      "credit": "Axial / Horizon Hobby",
+      "bytes": 142200,
+      "sha256": "4aa8755e6726fa34bab8dc010483425572cfc5d4d4143f2db15debc8f36f73cb"
+    },
+    {
+      "file": "reviews/k10-20261112-3.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwbabf6436/Images/AXI/AXI-2260T2_A1_YKTPPKW8.jpg",
+      "credit": "Axial / Horizon Hobby",
+      "bytes": 235648,
+      "sha256": "0a33bf35ec2d3bb2b24fc251625cb6036e50e40845b015f4a154ab27f4486ea3"
+    }
+  ],
+  "findings": [
+    "The exact black product page contains the SKU, 65T motor, locked 4WD, 99 mm wheelbase and equipment list. JST PH2.0 2P is the vehicle connection and JST-XH 3P is the charger connection."
+  ],
+  "productPageSha256": "c6e6104496644c957729991d33f33b4e44d5241be9270412d379943861ba84f1"
+}

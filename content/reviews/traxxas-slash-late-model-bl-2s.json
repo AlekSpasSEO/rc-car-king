@@ -1,0 +1,491 @@
+{
+  "brand": "Traxxas",
+  "brandSlug": "traxxas",
+  "model": "Slash Late Model BL-2s",
+  "modelSlug": "slash-late-model-bl-2s",
+  "sku": "104364-74-FOX",
+  "headlineLines": [
+    "LOW BODY.",
+    "LEFT TURNS."
+  ],
+  "title": "Traxxas Slash Late Model BL-2s review: Fox Edition for dirt oval",
+  "dek": "The Fox Edition is a complete rear-drive oval car with a low chassis, full fenders and a no-reverse Race profile. Check the local class and complete 2S budget first.",
+  "seo": {
+    "title": "Traxxas Slash Late Model BL-2s Fox Edition Review",
+    "description": "Review the Traxxas 104364-74-FOX dirt oval RTR, with BL-2s power, Magnum 272R transmission, stock tires, class fit and a complete 2S startup budget."
+  },
+  "type": "Dirt oval car",
+  "use": "Racing",
+  "terrain": [
+    "Prepared dirt oval",
+    "Smooth practice surface when permitted"
+  ],
+  "motor": "Brushless",
+  "drive": "2WD",
+  "scale": "1/10",
+  "format": "Assembled RTR, drive battery and charger separate",
+  "skill": "New or experienced dirt-oval driver with access to a suitable track",
+  "price": {
+    "amount": 399.95,
+    "currency": "USD",
+    "basis": "Traxxas US exact Fox Edition vehicle reference",
+    "source": "https://traxxas.com/slash-late-model-bl-2s-104364-74",
+    "checked": "2026-11-12"
+  },
+  "purchaseNote": "The car, BL-2s electronics and TQ radio are supplied. Budget a supported drive pack, compatible charger and four transmitter AAs. Confirm local class equipment before buying.",
+  "overview": "The orange and black Fox Edition is a 2WD dirt-oval Slash with a low-CG chassis, 3300Kv BL-2s motor, Magnum 272R transmission and a purpose-built full-fender shell. It is a complete car with power equipment sold separately. Its strongest case starts with a local class that accepts it.",
+  "verdict": "Buy it when you have a class or a prepared oval to run",
+  "verdictText": "Choose 104364-74-FOX for the factory late-model chassis and body if you will use them on a suitable oval. Choose a short-course or stadium truck if your outings revolve around rough terrain and a variety of routes.",
+  "pros": [
+    "Dirt-oval body and low chassis arrive assembled",
+    "Magnum 272R drivetrain and adjustable slipper supplied",
+    "BL-2s Race profile disables reverse",
+    "Adjustable alignment and battery position allow a documented baseline"
+  ],
+  "cons": [
+    "Battery, charger and transmitter cells sold separately",
+    "A local club may restrict tires, batteries or allowed changes",
+    "The low body is a poor match for rough ground",
+    "Published wheelbase figures conflict"
+  ],
+  "bestFor": [
+    "Drivers with a prepared dirt oval and a compatible class",
+    "Buyers who want a factory-built 2WD late model",
+    "Drivers willing to learn repeatable lines on stock setup"
+  ],
+  "avoidIf": [
+    "Your only terrain is uneven grass or broken ground",
+    "Your club uses another chassis, tire, body or motor rule",
+    "You want a vehicle with the drive power and charger in the box"
+  ],
+  "quickSpecs": [
+    [
+      "Exact model",
+      "104364-74-FOX · orange and black"
+    ],
+    [
+      "Drivetrain",
+      "Rear 2WD · Magnum 272R"
+    ],
+    [
+      "Power",
+      "BL-2s 3300Kv sensorless brushless"
+    ],
+    [
+      "Radio",
+      "TQ 2.4 GHz"
+    ],
+    [
+      "Track width",
+      "313 mm front and rear as listed"
+    ],
+    [
+      "Battery",
+      "Compatible 2S LiPo or 6–7-cell NiMH, separate"
+    ]
+  ],
+  "rating": {
+    "audience": "A driver entering a local dirt-oval class that accepts the factory Late Model",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Class-oriented package",
+        "score": 9,
+        "reason": "The complete chassis, body, radio and tires give an eligible class a coherent starting point."
+      },
+      {
+        "label": "Chassis adjustment",
+        "score": 8.5,
+        "reason": "Battery position and alignment can be recorded and changed within the local rules."
+      },
+      {
+        "label": "Factory drivetrain",
+        "score": 8.5,
+        "reason": "The 272R, gear differential and slipper give the buyer a documented maintenance baseline."
+      },
+      {
+        "label": "Terrain flexibility",
+        "score": 6.5,
+        "reason": "The shell and low chassis are specialized for a smooth, prepared course."
+      },
+      {
+        "label": "Startup value",
+        "score": 8,
+        "reason": "The car is assembled and the example power budget is predictable. Confirm track extras first."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "Start with the local class sheet",
+      "paragraphs": [
+        "The Fox Edition is for the person who sees a dirt oval and wants to put the same car through the same turn several ways. It is a 1/10 rear-drive car with a low chassis and a shell shaped for late-model racing. It shares the Slash name with a short-course truck, but it makes a different decision about what the tires, body and suspension should do. If you want to clear rough ground or set up jumps, that decision does not help you.",
+        "Check what your club runs before you buy. Ask whether the exact 104364-74 platform and BL-2s motor are eligible, whether it has a stock tire rule, and what it requires for the battery and timing transponder. A factory race profile or a licensed body design does not establish class legality. RC Driver’s launch feature shows the oval configuration and identifies the Fox livery among the variants. The rules still come from the track.",
+        "The black and orange shell is the Fox variant of the complete car, with factory electronics already installed. The box or listing should identify the complete 104364-74 model. A Fox body from the parts list can look almost identical in a storefront thumbnail. Verify the assembled vehicle and the exact variant together."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box contents",
+      "heading": "The power package and timing equipment are separate decisions",
+      "paragraphs": [
+        "Traxxas supplies the assembled car with body, BL-2s motor and speed control, steering and TQ transmitter, plus the basic tools listed in the manual. The drive pack, charger and four transmitter AAs are separate. The manual supports a compatible 2S LiPo or the documented six- or seven-cell NiMH configuration. The startup example uses a compatible 2S setup. Match the chemistry, connector and charger to the exact pack, and use the controller’s documented battery protection configuration.",
+        "The extended tray accommodates different approved packs and lets you adjust battery position. That is useful because the pack has appreciable mass relative to the rest of the car. It still needs to be secured with the proper hold-down and any required spacer. Confirm that the lead exit and routing work without putting pressure on the body, linkages or gear cover.",
+        "The chassis provides a transponder mounting location, which is useful if you race. It is a place for timing hardware, not evidence that timing hardware is included or required at every club. Ask about a loaner or the club’s system before including a transponder in the purchase. If your class specifies a pack model or case style, use that in your quote instead of assuming the example below will pass tech."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "Rear drive, gear differential and an adjustable slipper",
+      "paragraphs": [
+        "The BL-2s 3300Kv sensorless motor sends drive to the rear through a Magnum 272R transmission. The gear differential allows different wheel speeds through a corner. The slipper clutch sits at the input and can limit the torque spike sent into that drivetrain. Those are separate mechanisms. If the rear tires light up on a dusty exit, use a gentler entry and exit at stock setup before deciding that the clutch or differential needs adjustment.",
+        "The manual’s internal reduction factor is 2.72 in its final-drive formula. The product page lists 9.10:1 under a label that calls it internal. Those figures should not be treated as two interchangeable gearbox reductions. If you are checking gearing against a class rule, identify the actual pinion and spur and use the manual’s stated method. Do not order a gear based only on the marketing table’s label.",
+        "With a stock motor and tires, set a useful baseline by running the same few laps before changing any gearing or clutch setting. A car that slows partway through a run can be encountering a protection mode or mechanical drag. Inspect it using the BL-2s status and maintenance instructions before drawing conclusions from the throttle response."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "First setup",
+      "heading": "Use the race profile for reverse lockout where required",
+      "paragraphs": [
+        "The BL-2s manual describes Sport, Race and Training profiles. The Race profile preserves forward and braking and disables reverse. The Training profile reduces forward and reverse command while retaining braking, and Sport is the documented default with reverse. Use the exact manual and check the club’s requirements before a heat. The name of the profile tells you what the controller will allow. It does not make the car corner differently by itself.",
+        "Check the battery protection indication separately from the driving profile. For the LiPo example, use the LiPo protection setting in the manual. If a car from a previous owner arrives with unknown settings, confirm the stock procedures and do the vehicle checks in a clear space before making any running assumption. A controller that gives no reverse in Race mode may be operating exactly as intended.",
+        "Keep the first session simple. Choose a repeatable place to lift before the turn, a point where you can let the car take a set and a point where you begin to feed in throttle. A marked line gives you something to compare when you return with another surface or setup."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Steering",
+      "heading": "Keep a written alignment and battery baseline",
+      "paragraphs": [
+        "Adjustable links and multiple suspension settings can help a driver adapt the car to a local surface, but they also let two otherwise identical cars start from quite different places. Before making a change, record the axle positions, battery location and the link settings you can verify. If you inherit a used car, compare those against the factory manual and current class rules before trying to solve its behavior with extra steering trim.",
+        "The body gives a useful clue during a check. If the front tires brush the shell when turned and compressed, fix the fit or restore the correct wheel position before changing the toe. The parts sheet distinguishes front and rear wheel applications on the 2WD car. That is a useful reason to label the wheels when they come off, even when the tread looks similar across both axles.",
+        "A class check goes better if you can show what is still stock. Keep a photo of the mounted wheels, a note of the actual pack and a record of any alignment or body work. If the track permits a transponder, verify where its mount and lead sit with the shell closed. Use the existing mounting location and the timing system’s own instructions. Before your first heat, check with the club that the system counts your laps. This is easier to diagnose in practice than while other cars are on the clock.",
+        "The steering and battery positions affect different things. Steering geometry changes the direction and angle of the tire as it moves. Moving the battery changes where some of the mass sits. Change one variable within the rules, drive a consistent line and record whether you can reproduce the effect. The most useful setting is one you can restore."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "The low shell earns its space on prepared dirt",
+      "paragraphs": [
+        "A smooth oval has a repeatable entry and exit even when its grip changes over the course of an event. The low chassis and enclosed body suit that job. On broken ground or long grass, the low edges and covered wheels can run into material the stock Slash short-course body handles differently. Walk the route and find where the surface breaks, especially just off the line you intend to use.",
+        "The printed front and rear track measurements are 313 mm, and Traxxas lists a 656 mm length. That makes the car longer than the first glance at a 1/10 label suggests. Traxxas’s current product page pairs 333 mm with 12.3 inches for the wheelbase. Those values differ when converted, so confirm the physical dimension directly if you are fitting a storage tray, a body or a class gauge.",
+        "If the track offers practice time, use it to learn how grip changes across the corner. Begin with one steady line and see where the rear tires first begin to slide. An earlier, smoother lift can be more useful than making several chassis changes at once. A purpose-built car makes the most sense where you can repeat that experiment."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "The Fox shell and oval wheels belong in the service notes",
+      "paragraphs": [
+        "The orange and black body uses a clipless mounting system and covers the rear wheels. Check that its mounts and the side protection are properly seated, particularly after contact. Look for a wheel rub before assuming the car needs a wider or narrower setup. A bent mount or a displaced bumper can put a previously correct tire against a fender. Inspect it with power disconnected.",
+        "On dry dirt, check the wheel assemblies, links and transmission area after the session. The 272R has a documented parts breakdown, and the slipper adjustment and gear cover have their own locations. If the vehicle seems to lose drive, follow the exact inspection and status guidance. A faulty controller, loose wheel interface and slipping clutch can all feel similar through the trigger, so identify the system before replacing a part.",
+        "Keep the model code with your setup notes. The regular Slash offers many parts with similar names, while this car has oval-specific mounts, wheels and body details. Use the Late Model drawing to identify the assembly and the Fox entry when you need the exact appearance. A part that fits the chassis family may still change clearance or legality."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "A complete 2S example comes to $555.90",
+      "paragraphs": [
+        "Traxxas showed $399.95 for the Fox Edition on 12 November 2026. Mark Twain Hobby Center listed the 2992 completion package at $129.95 as an option on its exact Fox listing. The Traxxas parts sheet identifies that completion package as a 2843X 5800 mAh 2S iD battery and a 2970 charger. Use those figures as dated US references and confirm the actual checkout terms and class rules.",
+        "The example adds $6 for four transmitter AAs and $20 for battery care provisions as editorial allowances. That is $555.90 before tax, delivery and track costs. Compare other supported power setups on the same basis. If your track requires a different pack or you already have compatible equipment, replace the applicable line with your real price or existing setup.",
+        "Keep club membership, entry fees, a transponder and any class-specific tire requirements out of the vehicle subtotal and add your actual quotes separately. Those items can determine whether you race regularly. A buyer who just wants to practice on a permitted oval may not need every race-day item, while an entrant should confirm them before ordering. Use the affiliate destination to check current seller terms for the exact car."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "table": {
+        "caption": "US startup budget checked 12 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Fox Edition vehicle",
+            "Traxxas US reference",
+            "$399.95"
+          ],
+          [
+            "2992 battery and charger package",
+            "Mark Twain Hobby Center option reference",
+            "$129.95"
+          ],
+          [
+            "Four AAs and battery care",
+            "Editorial allowances",
+            "$26.00"
+          ],
+          [
+            "Example total",
+            "Before tax, delivery and track costs",
+            "$555.90"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Other complete cars make sense on other tracks",
+      "paragraphs": [
+        "Choose the Slash 2WD XL-5 if you want the conventional short-course layout and the exact brushed package fits your course or class. Look at its box contents and race rules separately. The late-model body and low chassis are the reasons to pay attention to the Fox car. A shared name will not make either stock setup a direct substitute for the other.",
+        "The Team Associated Pro2 SC10SW is a complete short-course truck for a driver who wants a different rear-drive chassis and the associated body and equipment. It is worth comparing when you run recreational short-course lines rather than a club’s late-model class. Read the exact package review to establish the startup gear and battery compatibility.",
+        "The Rustler 2WD XL-5 uses a stadium-truck shape with exposed wheels. Pick it if a low fendered body works against what you drive most often or if the primary goal is learning throttle control on ordinary recreational ground. On a prepared oval with a rule set built around the Late Model, buy the vehicle that meets the rule and fits the line."
+      ],
+      "sourceIndexes": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the oval car for the oval you actually have",
+      "paragraphs": [
+        "The Fox Edition gives a dirt-oval driver a coherent place to start. The low chassis, enclosed shell, BL-2s electronics and 272R transmission are already installed. The setup adjustments will keep a careful driver interested, and the no-reverse profile addresses a specific race-day need. The value depends on being able to use those pieces at a track.",
+        "If you only have rough ground or if your club runs a different spec, move on to a car that fits those conditions. Check local class rules and power equipment before you price the car, and make a plan for your first practice session. The stock line on a familiar oval will teach you more about the purchase than a motor swap made before the first lap.",
+        "Confirm 104364-74-FOX, keep a record of the battery position and leave time for one small adjustment at a time. For an eligible racer who wants to buy a complete, assembled late model with its factory livery, this is a straightforward starting point."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact SKU",
+      "104364-74-FOX, orange and black Fox Edition"
+    ],
+    [
+      "Scale",
+      "1/10"
+    ],
+    [
+      "Length",
+      "656 mm listed"
+    ],
+    [
+      "Front and rear track",
+      "313 mm each, listed"
+    ],
+    [
+      "Wheelbase",
+      "Traxxas lists 333 mm and 12.3 in together, which do not agree"
+    ],
+    [
+      "Manufacturer listed mass",
+      "2.55 kg, basis as listed"
+    ],
+    [
+      "Motor",
+      "BL-2s 3300Kv sensorless brushless"
+    ],
+    [
+      "Controller",
+      "Traxxas BL-2s with Sport, Race and Training profiles"
+    ],
+    [
+      "Drivetrain",
+      "Rear 2WD, Magnum 272R, gear differential and adjustable slipper"
+    ],
+    [
+      "Chassis",
+      "Low-CG Slash Late Model with adjustable battery position"
+    ],
+    [
+      "Radio",
+      "TQ 2.4 GHz, four AAs sold separately"
+    ],
+    [
+      "Body",
+      "Clipless orange and black Fox late-model shell"
+    ],
+    [
+      "Required drive equipment",
+      "Documented 2S LiPo or 6–7-cell NiMH pack and matching charger"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the Fox Edition a full RC car?",
+      "answer": "Yes. 104364-74-FOX is the assembled vehicle with body, electronics and radio. The 10423-FOX replacement shell is a separate part."
+    },
+    {
+      "question": "Does it come with a battery?",
+      "answer": "The drive battery, charger and four radio AAs are sold separately."
+    },
+    {
+      "question": "Does Race mode change the battery protection setting?",
+      "answer": "Race mode changes the available drive commands by disabling reverse. Confirm the separate low-voltage protection setting for the battery chemistry using the manual."
+    },
+    {
+      "question": "Can I race it at any club?",
+      "answer": "Check local rules for the exact chassis, motor, tires, battery and transponder. The manufacturer’s RTR designation does not establish local eligibility."
+    },
+    {
+      "question": "What gearing number should I use when checking a class rule?",
+      "answer": "Use the installed pinion and spur and the manual’s method. The manual specifies a 2.72 internal factor. Traxxas’s website labels 9.10:1 as internal, so verify the installed gears and follow the manual’s calculation."
+    },
+    {
+      "question": "Can I run it on a rough lawn?",
+      "answer": "The stock low chassis and fendered body are aimed at prepared dirt. A rough lawn can interfere with the shell and consume clearance."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas Slash Late Model 104364-74 manufacturer product and Fox variant",
+      "url": "https://traxxas.com/slash-late-model-bl-2s-104364-74",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas exact 104364-74 owner manual R00",
+      "url": "https://traxxas.com/media/productattach/C-104364-74/2/104364-74-OM-EN-R00.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas 104364-74 parts list and equipment references",
+      "url": "https://traxxas.com/media/productattach/C-104364-74/3/104364-74_parts.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "RC Driver Slash Late Model and Fox Edition launch feature",
+      "url": "https://www.rcdriver.com/traxxas-slash-late-model-rtr-a-new-era-for-dirt-oval-racing/",
+      "kind": "Independent RC publication",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Mark Twain Hobby Center exact Fox and 2992 package reference",
+      "url": "https://www.hobby1.com/traxxas-slash-late-model-bl-2s-fox-tra104364-74fox.html",
+      "kind": "Independent hobby retailer",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas Slash 2WD XL-5 review",
+      "url": "https://rccarking.com/traxxas/slash-2wd-xl-5/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Team Associated Pro2 SC10SW RTR review",
+      "url": "https://rccarking.com/team-associated/pro2-sc10sw-rtr/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas Rustler 2WD XL-5 review",
+      "url": "https://rccarking.com/traxxas/rustler-2wd-xl-5/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-12"
+    }
+  ],
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "publishedAt": "2026-11-12T09:29:46.048Z",
+  "updatedAt": "2026-11-12T09:29:46.048Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/slash-late-20261112-1.jpg",
+  "imageAlt": "Traxxas Slash Late Model BL-2s 104364-74-FOX in a front three-quarter view",
+  "imageCaption": "Traxxas Slash Late Model BL-2s 104364-74-FOX in a front three-quarter view",
+  "imageCredit": {
+    "name": "Traxxas",
+    "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-late-model-3qtr-front-fox_54131960.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/slash-late-20261112-2.jpg",
+      "alt": "Traxxas overhead photograph of the shared 104364-74 chassis with body removed",
+      "caption": "Traxxas overhead photograph of the shared 104364-74 chassis with body removed",
+      "source": "https://traxxas.com/media/catalog/product/1/0/104364-74-Slash-Late-Model-Chassis-Overhead_54132027.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-Slash-Late-Model-Chassis-Overhead_54132027.jpg"
+      }
+    },
+    {
+      "image": "reviews/slash-late-20261112-3.jpg",
+      "alt": "Side profile of the orange and black Traxxas Slash Late Model Fox Edition",
+      "caption": "Side profile of the orange and black Traxxas Slash Late Model Fox Edition",
+      "source": "https://traxxas.com/media/catalog/product/1/0/104364-74-Late-Model-Side-Left-FOX_54131965.jpg",
+      "creditName": "Traxxas",
+      "credit": {
+        "name": "Traxxas",
+        "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-Late-Model-Side-Left-FOX_54131965.jpg"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0FGZHZ78N",
+    "marketplace": "www.amazon.com",
+    "sku": "104364-74-FOX",
+    "apiSku": "104364",
+    "detailPageUrl": "https://www.amazon.com/dp/B0FGZHZ78N?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:04:14.885Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "104364-74-FOX orange and black Fox Edition 1/10 2WD dirt-oval RTR",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:04:14.885Z for 104364. The archived part field abbreviates the family to 104364. The same record gives model 104364-74 and names the complete Fox car. Traxxas identifies that exact livery as 104364-74-FOX in its product data. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 12 November 2026."
+}

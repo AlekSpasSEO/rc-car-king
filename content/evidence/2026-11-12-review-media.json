@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-12",
+  "scope": "Nine official manufacturer images for the black Axial SCX30 K10, black and red ARRMA Talion 6S EXB V6 and orange and black Traxxas Slash Late Model Fox Edition.",
+  "media": [
+    {
+      "file": "reviews/k10-20261112-1.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw6639a928/Images/AXI/AXI-2260T2_A7_YKTPPKW8.jpg",
+      "credit": "Axial / Horizon Hobby",
+      "bytes": 285752,
+      "sha256": "b88d8315363ab85a8633a3c1ce83859a1ab58632ff4571a68a5c81f38bcca226"
+    },
+    {
+      "file": "reviews/k10-20261112-2.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwcf239b02/Images/AXI/AXI-2260T2_A23_YKTPPKW8.jpg",
+      "credit": "Axial / Horizon Hobby",
+      "bytes": 142200,
+      "sha256": "4aa8755e6726fa34bab8dc010483425572cfc5d4d4143f2db15debc8f36f73cb"
+    },
+    {
+      "file": "reviews/k10-20261112-3.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwbabf6436/Images/AXI/AXI-2260T2_A1_YKTPPKW8.jpg",
+      "credit": "Axial / Horizon Hobby",
+      "bytes": 235648,
+      "sha256": "0a33bf35ec2d3bb2b24fc251625cb6036e50e40845b015f4a154ab27f4486ea3"
+    },
+    {
+      "file": "reviews/talion-20261112-1.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dwc76125cc/Images/ARA/ARA7707V6T1_A0_YD4N31Q2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 243965,
+      "sha256": "2866ae29b359d1c2e4a97515795c8121d9658de7f986ef40f3bf6f475d6d2612"
+    },
+    {
+      "file": "reviews/talion-20261112-2.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw10af16fa/Images/ARA/ARA7707V6_A1_HNTVJX6K.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 495297,
+      "sha256": "06c93de7410275472d8371015b52ceb4d60a8ad70691686155d7dde4b4f09828"
+    },
+    {
+      "file": "reviews/talion-20261112-3.jpg",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw53081866/Images/ARA/ARA7707V6T1_A39_YD4N31Q2.jpg",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 690509,
+      "sha256": "dafade9afec7088e1c84de12882e2fb8a2a1fed6997b2f6838154d7be8ae1a21"
+    },
+    {
+      "file": "reviews/slash-late-20261112-1.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-late-model-3qtr-front-fox_54131960.jpg",
+      "credit": "Traxxas",
+      "bytes": 175695,
+      "sha256": "58676ab3103b3db81330d3c53c3252dce4df551729bf2ed7bd563be23eead325"
+    },
+    {
+      "file": "reviews/slash-late-20261112-2.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-Slash-Late-Model-Chassis-Overhead_54132027.jpg",
+      "credit": "Traxxas",
+      "bytes": 212533,
+      "sha256": "b13e2f10109b388758f44d43e9f1ddddaa861c1a747b8b8c9acfe072dc1acd61"
+    },
+    {
+      "file": "reviews/slash-late-20261112-3.jpg",
+      "url": "https://traxxas.com/media/catalog/product/1/0/104364-74-Late-Model-Side-Left-FOX_54131965.jpg",
+      "credit": "Traxxas",
+      "bytes": 119809,
+      "sha256": "0e37415b1bd1fcdd20c25e806717a00f84d22baa483a6702727c11aa76475bfc"
+    }
+  ]
+}

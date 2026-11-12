@@ -16,11 +16,11 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
+- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
 - [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
-- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 
@@ -50,6 +50,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Talion 6S EXB V6](https://alekspasseo.github.io/rc-car-king/arrma/talion-6s-exb-v6/): Review ARRMA ARA7707V6T1, its 411 mm wheelbase, belted tires, 4S and 6S power requirements, open-terrain fit and complete 4S startup budget.
+- [Axial SCX30 Chevrolet K10](https://alekspasseo.github.io/rc-car-king/axial/scx30-chevrolet-k10/): Review the black AXI-2260T2 K10, its locked 4WD, included 2S battery and charger, 99 mm wheelbase and the indoor routes that suit it.
+- [Traxxas Slash Late Model BL-2s](https://alekspasseo.github.io/rc-car-king/traxxas/slash-late-model-bl-2s/): Review the Traxxas 104364-74-FOX dirt oval RTR, with BL-2s power, Magnum 272R transmission, stock tires, class fit and a complete 2S startup budget.
 - [ARRMA Typhon GROM MEGA 380](https://alekspasseo.github.io/rc-car-king/arrma/typhon-grom-mega-380/): Review the red and white ARRMA ARA2106T2 brushed buggy, included 2S battery and charger, throttle limits, terrain fit and first-session cost.
 - [Traxxas Maxx Ultimate](https://alekspasseo.github.io/rc-car-king/traxxas/maxx-ultimate/): Review the blue Traxxas 89087-4-BLUE Maxx Ultimate, its factory tires and steering, differences from the standard Maxx and the complete 4S startup budget.
 - [Traxxas XO-1](https://alekspasseo.github.io/rc-car-king/traxxas/xo-1/): Review the green Traxxas XO-1 AWD supercar, its factory power, tires and aero, the two-pack charging budget and the closed course it needs.
