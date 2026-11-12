@@ -1,0 +1,259 @@
+{
+  "kind": "guide",
+  "slug": "rc-dirt-oval-first-race",
+  "intentKey": "prepare-for-first-rc-dirt-oval-event-check-class-eligibility-timing-and-heat",
+  "status": "published",
+  "title": "How to prepare for your first RC dirt oval race",
+  "dek": "Check your exact car against the local class rules, get a lap to count in practice, and know where to go when your first heat ends.",
+  "seo": {
+    "title": "First RC Dirt Oval Race: Class Rules, Timing & Race Day",
+    "description": "Prepare for your first RC dirt oval race. Check class rules against your exact car, register your transponder, verify practice laps and get through your first heat."
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "publishedAt": "2026-11-12T10:11:02.640Z",
+  "updatedAt": "2026-11-12T10:11:02.640Z",
+  "answer": "Send your exact model number and current setup to the race director before buying anything for your first RC dirt oval race. Confirm the class, tires, battery, reverse rule and timing system for that event. On race day, make sure several practice laps count under your name before you worry about pace. Then find the staging area, the exit and your marshal spot.",
+  "scope": "This guide is for a first club dirt oval event with a complete electric RC car. The rules below show how two tracks describe eligibility; they do not approve either example car for another venue or even a later event at the same track. Use the event organizer for race rules and the manufacturer’s exact manual for operating limits.",
+  "prerequisites": [
+    "The event announcement, a dated class rulebook and a way to contact the organizer",
+    "Your exact model number, owner’s manual and a record of any changes from stock",
+    "A legal and manufacturer-compatible battery, its compatible charger if needed, and the radio batteries the manual specifies",
+    "A track-compatible personal or loan transponder if required, plus any mounting hardware the maker specifies"
+  ],
+  "conceptCaption": "Three checks between the workbench and a scored heat",
+  "concepts": [
+    {
+      "name": "Car identity",
+      "description": "Write down the exact SKU and what is actually installed."
+    },
+    {
+      "name": "Event rules",
+      "description": "Compare that setup with one named class for one specific race."
+    },
+    {
+      "name": "Scored practice",
+      "description": "Confirm that your laps show under your entry before lining up."
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-rules",
+      "heading": "Start with the event and class, then look at the car",
+      "sourceIndexes": [
+        0,
+        2,
+        4,
+        5,
+        7
+      ],
+      "paragraphs": [
+        "A dirt oval late model looks ready for a race when you set it on the bench. The rulebook sees a chassis, a motor, a speed control, a set of tires and a battery. If one of those puts you in another class, the body shape will not move you back. Start with the particular event you can attend. Find out whether it is open practice, a club race or a special event with its own rules. Write down the name of the class you plan to enter and the date or revision of its rules.",
+        "For a concrete example, the Traxxas Slash Late Model BL-2s 104364-74-FOX is a rear-drive late model with a low center of gravity chassis and a brushless BL-2s system. Traxxas describes the package and hardware, and Greg Vogel’s RC Driver first run treats it as a dedicated late model rather than an ordinary Slash wearing a different shell. Neither source makes it legal for a particular race. The Silver Dollar 2022 rules for Sport-Mod-Spec Slash exclude the low chassis and call for the Titan 12T and XL-5 electronics. The Fox conflicts with both requirements in that written example.",
+        "The brushed Traxxas Slash 2WD XL-5 58234-8 makes the other half of the point. Its factory motor and speed control match those two Silver Dollar requirements by name, but its included seven-cell NiMH pack is not the 2S hard-case LiPo described in that class. Gearing, body, tires and chassis still have to pass. At Palm Desert, the 2026 Modified Late Model rules describe buggy-based cars, and a separate Spec Tire class names particular front and rear tires. Ask which class accepts your actual chassis before treating the name Late Model as an invitation."
+      ],
+      "table": {
+        "caption": "Examples of checks to make before committing to a class",
+        "columns": [
+          "Published example",
+          "What to compare",
+          "What to ask"
+        ],
+        "rows": [
+          [
+            "Silver Dollar Sport-Mod-Spec Slash (2022)",
+            "Chassis layout, stock XL-5 and Titan 12T, battery case and approval, gearing, body and tires",
+            "Is this version of the class running at my event? Will my exact model and setup pass tech?"
+          ],
+          [
+            "Palm Desert Modified Late Model (2026)",
+            "Buggy-based chassis requirement, battery and open rubber tire rule",
+            "Does the event accept my chassis, and which tire rules apply that day?"
+          ],
+          [
+            "Palm Desert Modified Late Model – Spec Tire (2026)",
+            "Specified JConcepts ReHab tires as well as chassis and battery rules",
+            "Which tire, compound and prep are permitted for my entry?"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "before-you-go",
+      "heading": "Get your entry and pit setup sorted before race day",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "steps": [
+        {
+          "heading": "Send the race director a short setup list",
+          "paragraphs": [
+            "Include the exact model number and anything you changed: chassis, motor, speed control, gearing, tires and battery. Add the battery chemistry, case type and capacity from its label. If the rules mention approval or a particular tire compound, give the exact pack and tire identifiers. Ask whether the car fits a named class as it sits and what tech will check. A reply about your car and a specific event is more useful than advice for the brand in general.",
+            "Ask separately about the rookie class or a practice session. At Palm Desert, the 2026 Rookie entry has its own battery wording and the track reserves the option to move a driver to another class. Rookie does not mean every configuration can run. If your car is outside the rules, see whether there is a class for it or a permitted practice option before buying a different power system."
+          ]
+        },
+        {
+          "heading": "Check reverse and battery rules separately",
+          "paragraphs": [
+            "Ask whether reverse must be disabled and how tech checks it. The exact Traxxas 104364-74 manual shows a BL-2s Race profile with forward and brake but no reverse. It also shows Sport and Training profiles that keep reverse. On that speed control, a reduced power setting and a race setting solve different problems. Use the instructions for your installed controller. The XL-5 truck has its own manual, and aftermarket electronics may have different controls again.",
+            "The local battery rule and the vehicle’s electrical limit both have to be satisfied. A pack can be legal in class yet unsuitable for the car, tray or charger. Conversely, the pack that came in the box can fit the vehicle and still fail tech. Keep the manufacturer’s battery protection requirements in place and use only compatible equipment. Ask about charging and pit rules in advance so you are not trying to borrow an unfamiliar charger at the last minute."
+          ]
+        },
+        {
+          "heading": "Arrange timing and pack for access",
+          "paragraphs": [
+            "Ask which timing system the club uses, whether a personal transponder is required and whether a loaner is available. The MYLAPS system, for example, reads an identifier when the car crosses a timing loop. The car needs a compatible device and the timing desk needs that device assigned to your entry. Write down the ID, and tell the desk if you change cars or swap in a loaner.",
+            "Traxxas identifies a transponder mounting location on the 104364-74 chassis. That gives you somewhere to start checking the fit; confirm mounting and power with the instructions for the transponder and your electronics. With power disconnected as directed by the manuals, check body clearance and that the wiring stays clear of moving parts. Pack the manuals, the tools you actually need to remove a wheel or body, and something to keep your driver number and transponder ID together."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "at-the-track",
+      "heading": "Use practice to verify timing, then run a clean first heat",
+      "sourceIndexes": [
+        4,
+        6
+      ],
+      "steps": [
+        {
+          "heading": "Check in and walk the pit route",
+          "paragraphs": [
+            "Get your class and transponder assignment confirmed. Ask when tech opens, when you can practice, and where to stage, enter and exit the oval. Find the marshal area before you drive. The Silver Dollar rulebook is one example of a venue that directs drivers to designated areas for entry and exit and calls for turn marshaling after a race. Ask how your event assigns it and where to report."
+          ]
+        },
+        {
+          "heading": "Make a few clean laps that count",
+          "paragraphs": [
+            "In an authorized practice session, start at a pace that lets you put the car where you want it. Give the car ahead room. Once you have crossed the line on several consecutive laps, look for them under your entry on the timing display or ask the timing desk to check. A single lap can confirm a read; a string of laps tells you more about whether the system is consistently seeing your car.",
+            "If laps are missing or assigned to someone else, take the car off at the designated exit and ask the desk to verify the ID. If the assignment is correct, check the mounting and connection against the device instructions with the car powered down. Ask for another permitted practice check before the heat. When a lap is missed in a race, follow the organizer’s reporting procedure promptly."
+          ]
+        },
+        {
+          "heading": "Learn the line and finish the race-day handoff",
+          "paragraphs": [
+            "Watch one group before yours if the schedule permits. Notice how drivers leave space at the entrance to the first corner and how slower cars stay predictable. For your first heat, pick a line you can repeat and leave yourself a little room on corner entry. A car that stays pointed the right way gives you more useful laps than a car that dives inside every time it sees a gap.",
+            "If you spin, regain control when there is room. If the car is stranded, release the throttle and let the assigned marshals recover it according to the club’s instructions. Never step onto a live oval for it. At the finish, wait for the signal to exit, take the car to tech if called, and report for your marshal assignment."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "troubleshooting",
+      "heading": "Fix the issue that could keep you out of the next heat",
+      "sourceIndexes": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paragraphs": [
+        "If the car fails tech, ask for the exact rule and which part of the setup fails it. A chassis exclusion will not go away with a different tire, and a hard-case pack requirement is separate from the cell count. If a compatible, legal correction is not practical at the track, ask about a different class or practice instead. Keep the existing setup written down so you can make an informed change later.",
+        "If the car drives but never appears on the timing screen, confirm the race desk is showing your session before touching the car. Then check the registered ID, the timing system and the transponder installation in that order. If tech reports that reverse is still enabled, verify the exact installed speed control and its manual. Leave gearing, tire prep and suspension tuning alone until the entry, timing and required controls are sorted. That keeps one issue from turning into four."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "First race completion checklist",
+    "items": [
+      "The organizer confirmed the class for my exact car and event.",
+      "Tires, gearing, battery and reverse behavior meet the rules and the vehicle’s documented limits.",
+      "I checked in and verified successive practice laps under my own entry.",
+      "I know when to stage and where to enter, exit and marshal.",
+      "I can drive a repeatable line without relying on the marshal to finish every lap."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "traxxas/slash-late-model-bl-2s/",
+      "title": "Traxxas Slash Late Model BL-2s review",
+      "note": "The 104364-74-FOX factory package, with its low chassis, brushless electronics and separate battery and charger requirements."
+    },
+    {
+      "route": "traxxas/slash-2wd-xl-5/",
+      "title": "Traxxas Slash 2WD XL-5 review",
+      "note": "The brushed 58234-8 package and the equipment it includes before you check any class rules."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I race a stock Traxxas Slash Late Model BL-2s?",
+      "answer": "Only if the rules for your specific event and class accept its chassis, motor, speed control, tires, battery and other required equipment. Send the race director the exact SKU and setup."
+    },
+    {
+      "question": "Do I need to buy a transponder before my first race?",
+      "answer": "Ask the track which timing system it uses, whether a personal transponder is required and whether it lends compatible devices. Get an ID assigned to your entry and verify it in practice."
+    },
+    {
+      "question": "Can I use the battery that came with my RC car?",
+      "answer": "Yes if the event permits that exact pack and the vehicle and charger support it. The Slash XL-5 58234-8 comes with NiMH; that does not meet a rule specifying hard-case 2S LiPo."
+    },
+    {
+      "question": "Does training mode disable reverse?",
+      "answer": "It depends on the installed speed control. On the 104364-74 BL-2s, Training mode keeps reverse and Race mode disables it. Use the exact controller manual and confirm what your class requires."
+    },
+    {
+      "question": "What if my practice laps are missing?",
+      "answer": "Ask the timing desk to confirm the session and assigned ID, then check compatibility, mounting and connection as the equipment instructions direct. Recheck during authorized practice before racing."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · Slash Late Model BL-2s 104364-74",
+      "url": "https://traxxas.com/slash-late-model-bl-2s-104364-74",
+      "kind": "Manufacturer chassis, electronics and transponder location",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas · Slash Late Model BL-2s owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-104364-74/2/104364-74-OM-EN-R00.pdf",
+      "kind": "Manufacturer BL-2s profiles and battery requirements",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas · Slash 2WD XL-5 with battery 58234-8",
+      "url": "https://traxxas.com/slash-2wd-xl-5-with-battery-58234-8",
+      "kind": "Manufacturer stock electronics and included NiMH package",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas · Slash 2WD XL-5 58234-8 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "kind": "Manufacturer instructions for the separate XL-5 model",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "AMain Tracks · Silver Dollar Dirt Oval Rules (2022)",
+      "url": "https://www.amaintracks.com/dirt-oval-rules/",
+      "kind": "Track rulebook example for Sport-Mod-Spec Slash and race-day procedure",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Palm Desert R/C Track · 2026 Dirt Oval Rules",
+      "url": "https://www.palmdesertrctrack.com/pages/2026-dirt-oval-rules",
+      "kind": "Track rules for Modified Late Model, Spec Tire and Rookie",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "MYLAPS · RC timing system",
+      "url": "https://mylaps.com/motorsports/timing/rc-drone-system/",
+      "kind": "Timing manufacturer’s description of transponders and loop detection",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · Traxxas Slash Late Model RTR",
+      "url": "https://www.rcdriver.com/traxxas-slash-late-model-rtr-a-new-era-for-dirt-oval-racing/",
+      "kind": "Independent first run, June 30, 2025",
+      "checked": "2026-11-12"
+    }
+  ],
+  "evidenceNote": "The class examples come from published track rules with different dates. Model facts come from exact manufacturer pages and manuals; the independent first run adds context about the dedicated late model. The race-day sequence is editorial guidance. RC Car King did not run a race or verify class admission at either track.",
+  "revisionNote": "First published November 12, 2026. Recheck the event announcement and ask the race director before entering."
+}

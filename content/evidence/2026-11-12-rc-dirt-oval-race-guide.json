@@ -1,0 +1,100 @@
+{
+  "article": "rc-dirt-oval-first-race",
+  "checked": "2026-11-12",
+  "coreWords": 1350,
+  "scope": "This guide is for a first club dirt oval event with a complete electric RC car. The rules below show how two tracks describe eligibility; they do not approve either example car for another venue or even a later event at the same track. Use the event organizer for race rules and the manufacturer’s exact manual for operating limits.",
+  "archiveIntent": "An event-specific sequence for entry, class verification, scored practice and a first heat. Separate from general inspection, chassis setup, wheel fit and vehicle reviews.",
+  "findings": [
+    {
+      "sku": "104364-74-FOX",
+      "sourceIndexes": [
+        0,
+        1,
+        7
+      ],
+      "locator": "Product features and chassis / owner’s manual BL-2s profile selection / RC Driver first run",
+      "verified": "2WD low center of gravity platform with BL-2s electronics and designated transponder location; Race profile removes reverse while Training keeps it."
+    },
+    {
+      "sku": "58234-8",
+      "sourceIndexes": [
+        2,
+        3
+      ],
+      "locator": "Product electronics and included battery / exact owner’s manual",
+      "verified": "Titan 12T and XL-5 with factory NiMH. The included battery differs from the hard-case 2S requirement in the cited class example."
+    },
+    {
+      "sourceIndexes": [
+        4
+      ],
+      "locator": "Sport-Mod-Spec Slash and general race procedure",
+      "verified": "The 2022 example specifies chassis, motor, ESC, battery, gearing, body and tires. It documents transponder, missed-lap and marshal practices. Current event eligibility was not confirmed."
+    },
+    {
+      "sourceIndexes": [
+        5
+      ],
+      "locator": "Modified Late Model, Modified Late Model – Spec Tire and Rookie",
+      "verified": "The 2026 classes have separate tire and eligibility rules; the modified classes call for buggy-based chassis and the rookie rules give the track discretion to reassign drivers."
+    },
+    {
+      "sourceIndexes": [
+        6
+      ],
+      "locator": "How it works",
+      "verified": "A transponder identifier read at the loop is used by the timing system to count and time passes."
+    }
+  ],
+  "illustration": "Original three-part HTML diagram. No third-party image republished.",
+  "sources": [
+    {
+      "name": "Traxxas · Slash Late Model BL-2s 104364-74",
+      "url": "https://traxxas.com/slash-late-model-bl-2s-104364-74",
+      "kind": "Manufacturer chassis, electronics and transponder location",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas · Slash Late Model BL-2s owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-104364-74/2/104364-74-OM-EN-R00.pdf",
+      "kind": "Manufacturer BL-2s profiles and battery requirements",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas · Slash 2WD XL-5 with battery 58234-8",
+      "url": "https://traxxas.com/slash-2wd-xl-5-with-battery-58234-8",
+      "kind": "Manufacturer stock electronics and included NiMH package",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Traxxas · Slash 2WD XL-5 58234-8 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-58234-8/2/58234-8-om-en-r00.pdf",
+      "kind": "Manufacturer instructions for the separate XL-5 model",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "AMain Tracks · Silver Dollar Dirt Oval Rules (2022)",
+      "url": "https://www.amaintracks.com/dirt-oval-rules/",
+      "kind": "Track rulebook example for Sport-Mod-Spec Slash and race-day procedure",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Palm Desert R/C Track · 2026 Dirt Oval Rules",
+      "url": "https://www.palmdesertrctrack.com/pages/2026-dirt-oval-rules",
+      "kind": "Track rules for Modified Late Model, Spec Tire and Rookie",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "MYLAPS · RC timing system",
+      "url": "https://mylaps.com/motorsports/timing/rc-drone-system/",
+      "kind": "Timing manufacturer’s description of transponders and loop detection",
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · Traxxas Slash Late Model RTR",
+      "url": "https://www.rcdriver.com/traxxas-slash-late-model-rtr-a-new-era-for-dirt-oval-racing/",
+      "kind": "Independent first run, June 30, 2025",
+      "checked": "2026-11-12"
+    }
+  ]
+}
