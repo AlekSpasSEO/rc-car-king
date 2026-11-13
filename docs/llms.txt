@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [How to check if a battery fits your RC car](https://alekspasseo.github.io/rc-car-king/guides/rc-car-battery-compatibility/): Check RC car battery compatibility by exact model, chemistry, cell count, connector, tray clearance and charger. See three documented examples.
 - [How to prepare for your first RC dirt oval race](https://alekspasseo.github.io/rc-car-king/guides/rc-dirt-oval-first-race/): Prepare for your first RC dirt oval race. Check class rules against your exact car, register your transponder, verify practice laps and get through your first heat.
 - [How to check RC wheel hex size, offset and tire fit](https://alekspasseo.github.io/rc-car-king/guides/rc-wheel-hex-offset-tire-fit/): Check RC wheel fit with the stock assembly as a baseline. Compare hub engagement, wheel offset, tire diameter and clearance at steering lock and compression.
 - [How to read an RC car exploded parts diagram](https://alekspasseo.github.io/rc-car-king/guides/rc-car-exploded-parts-diagrams/): Identify an RC car part using the exact model, assembly view and parts list. Check position, orientation, suffixes and package quantities before a repair.

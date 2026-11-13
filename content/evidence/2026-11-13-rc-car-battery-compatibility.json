@@ -1,0 +1,75 @@
+{
+  "article": "rc-car-battery-compatibility",
+  "checked": "2026-11-13",
+  "coreWords": 1248,
+  "scope": "This is a compatibility check for a complete electric RC vehicle with its documented factory electronics. A used car may have a different electronic speed control (ESC) or harness. Identify those parts and obtain their instructions before applying any of the examples. Check the battery, vehicle and charger manuals for operating and charging limits.",
+  "archiveIntent": "Vehicle, pack, connector, hold-down and charger compatibility. The RTR vs kit guide inventories what comes in the box, and the steering troubleshooting guide diagnoses a car that already powers on.",
+  "findings": [
+    {
+      "sku": "AXI-2260T2",
+      "sourceIndexes": [
+        0,
+        1
+      ],
+      "locator": "Exact product in-box list and AXI-2260 manual box contents and charging instructions",
+      "verified": "Supplied SPMX-1122 2S 160 mAh pack, PH vehicle connection and JST-XH 3P charging connection on the included USB 2S charger."
+    },
+    {
+      "sku": "58434-4-BLK",
+      "sourceIndexes": [
+        2,
+        3
+      ],
+      "locator": "Traxxas manual battery safety and pack/charger tables (printed pp. 5, 13–14), and RC Driver model identification",
+      "verified": "VX3 uses approved 2S or 3S iD LiPo. 2827X, 2849X and 2970 are listed. NiMH and battery connector adapters are excluded by the exact manual."
+    },
+    {
+      "sku": "ARA7604V3T1",
+      "sourceIndexes": [
+        4,
+        5
+      ],
+      "locator": "Horizon Needed to Complete, and ARRMA owner’s manual specifications and ESC table (p. 19)",
+      "verified": "Four supported single or paired IC5 hardcase arrangements, with 5000 mAh / 50C minimum and 5000 mAh / 100C recommended in the ESC table."
+    }
+  ],
+  "illustration": "Original three-part HTML concept diagram. No third-party images republished.",
+  "sources": [
+    {
+      "name": "Horizon Hobby · black SCX30 K10 AXI-2260T2 package",
+      "url": "https://www.horizonhobby.com/product/1-30-scx30-chevrolet-k10-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-black/AXI-2260T2.html",
+      "kind": "Manufacturer exact package and supplied battery",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Axial · AXI-2260 owner’s manual",
+      "url": "https://assets.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dweba16f3f/Manuals/AXI-2260-MANUAL-EN.pdf",
+      "kind": "Manufacturer package and charging instructions",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Traxxas · Slash Brushless 58434-4 owner’s manual",
+      "url": "https://hobbywholesale.com/amfile/file/download/file/3966/product/60540/",
+      "kind": "Manufacturer owner’s manual hosted by Hobby Wholesale",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · 2026 Slash Brushless",
+      "url": "https://www.rcdriver.com/traxxas-slash-brushless-2026-release/",
+      "kind": "Independent exact-model feature, August 10, 2026",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Horizon Hobby · blue ARRMA Mojave 6S V3 ARA7604V3T1",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+      "kind": "Manufacturer exact package and required equipment",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA · ARA7604V3 owner’s manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw649833c7/Manuals/ARA7604V3_MANUAL_ML.pdf",
+      "kind": "Manufacturer battery and ESC specifications",
+      "checked": "2026-11-13"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-battery-compatibility",
+  "intentKey": "check-exact-rc-vehicle-battery-chemistry-cell-count-connectors-retention-and-charger",
+  "status": "published",
+  "title": "How to check if a battery fits your RC car",
+  "dek": "Check the speed control, the tray, the vehicle connector and the charger before ordering a pack or trying one you already own.",
+  "seo": {
+    "title": "RC Car Battery Compatibility and Fit Guide",
+    "description": "Check RC car battery compatibility by exact model, chemistry, cell count, connector, tray clearance and charger. See three documented examples."
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13",
+  "publishedAt": "2026-11-13T10:06:35.570Z",
+  "updatedAt": "2026-11-13T10:06:35.570Z",
+  "answer": "Start with the exact vehicle model and its installed speed control. Match the battery chemistry, cell count and any discharge requirements in the manual. Check the drive connector, tray and hold-down, then verify that the charger supports the exact pack and its charging connection. If any of those checks is unresolved, leave the battery disconnected and confirm the part number with the manufacturer.",
+  "scope": "This is a compatibility check for a complete electric RC vehicle with its documented factory electronics. A used car may have a different electronic speed control (ESC) or harness. Identify those parts and obtain their instructions before applying any of the examples. Check the battery, vehicle and charger manuals for operating and charging limits.",
+  "prerequisites": [
+    "Exact model number, installed ESC identity and the applicable vehicle manual",
+    "A readable pack label or manufacturer part number, plus the pack and charger manuals",
+    "A ruler and the original tray, hold-down and required spacers for a disconnected fit check",
+    "The original battery or a manufacturer parts listing if you need a reference"
+  ],
+  "conceptCaption": "Trace the same battery through three compatibility checks",
+  "concepts": [
+    {
+      "name": "Vehicle electronics",
+      "description": "Confirm chemistry, cell count, electrical ratings and the specified drive connection."
+    },
+    {
+      "name": "Physical fit",
+      "description": "Allow for the case, leads, hold-down and clearance with the body in place."
+    },
+    {
+      "name": "Charging equipment",
+      "description": "Match the chemistry, cell count, charging connection and supported current range."
+    }
+  ],
+  "sections": [
+    {
+      "id": "label-and-manual",
+      "heading": "Start with the exact model and the pack label",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "paragraphs": [
+        "A pack has several numbers that answer different questions. The S number describes how many cells are connected in series. The mAh number describes rated capacity. The C rating on a discharge label describes the battery maker’s stated discharge capability relative to that capacity. A pack can match the cell count and still fail a minimum discharge rating or be too tall for the strap. Check each requirement against the documentation for the installed ESC and the vehicle.",
+        "Write down the car’s model number before searching a battery chart. Greg Vogel’s RC Driver coverage identifies the 2026 Slash 2WD Brushless as model 58434-4 with the VX3 and V3200. The matching Traxxas manual calls for a supported 2S or 3S iD LiPo. It expressly excludes NiMH. The Slash name alone will take you to manuals for several other generations and packages, including brushed trucks sold with NiMH. If you inherited the car, inspect what is installed before using a chart for the factory build."
+      ],
+      "table": {
+        "caption": "What to check on three documented factory vehicles",
+        "columns": [
+          "Exact vehicle",
+          "Documented example",
+          "Check before connecting"
+        ],
+        "rows": [
+          [
+            "Axial SCX30 Chevrolet K10 AXI-2260T2",
+            "Supplied Spektrum SPMX-1122 2S 160 mAh LiPo and supplied USB 2S charger",
+            "Two-pin PH drive connection and separate three-pin JST-XH charge connection"
+          ],
+          [
+            "Traxxas Slash 2WD Brushless 58434-4-BLK",
+            "One approved 2S or 3S iD LiPo. The manual lists 2827X and 2849X as examples",
+            "Check the exact pack list, iD balance charger and latched tray. VX3 excludes NiMH"
+          ],
+          [
+            "ARRMA Mojave 6S V3 ARA7604V3T1",
+            "One approved 4S or 6S pack, or an approved pair of 2S or 3S hardcase IC5 packs",
+            "Check total cell count, exact harness arrangement, pack dimensions and ESC discharge requirements"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "compatibility-steps",
+      "heading": "Check the battery in this order",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "steps": [
+        {
+          "heading": "Confirm chemistry, cell count and ratings on paper",
+          "paragraphs": [
+            "Read the manual’s battery section before checking whether a connector plugs in. Match the chemistry first. Then match the permitted cell count and any stated capacity, discharge or case requirements. The Mojave V3 owner’s manual gives 5000 mAh and 50C as the minimum in the ESC table, with 5000 mAh and 100C recommended. Those are requirements and recommendations for that system. The AXI-2260 K10 comes with a much smaller 160 mAh pack designed for its own electronics.",
+            "Where a manual gives a rating and the store title gives only a cell count, use the battery maker’s detailed label or data sheet. Make the check before you compare price or capacity. A missing specification stays unresolved until the pack maker or vehicle maker confirms it.",
+            "Read the way a pack arrangement is written. Horizon lists a pair of 2S packs for the Mojave’s supported 4S setup, and a pair of 3S packs for its supported 6S setup. Each pair is an arrangement described by ARRMA. A single 2S or 3S pack on the bench does not meet that description. Use the manufacturer’s setup for the exact car, including the required harness arrangement. If you have one pack from each of two different sets, confirm a supported matched set before proceeding."
+          ]
+        },
+        {
+          "heading": "Identify the drive and charging connections separately",
+          "paragraphs": [
+            "Find the connector the car uses to draw power. Then look at the connection the charger requires. On the stock SCX30 K10, the vehicle uses a two-pin PH connection, while the supplied 2S USB charger is identified by its three-pin JST-XH connection. The manual names the stock battery by part number, so you can verify the complete package even if several small plugs look alike. Match the documented connector type, pin assignment and application.",
+            "Traxxas iD uses a different arrangement. Follow the pack and charger instructions for a listed Slash VX3 battery and an appropriate iD balance charger. In that manual, the 2970 is one of the listed AC charger options. A charger with a similar-looking socket still needs the right chemistry, cell count and charging interface. A USB input on a charger describes its power source. It does not identify which battery belongs on its output."
+          ]
+        },
+        {
+          "heading": "Check the tray and latch with the pack disconnected",
+          "paragraphs": [
+            "Compare length, width and height with the dimensions the manufacturer gives for the exact vehicle. Measure room for the pack case and for the leads where they exit. With the vehicle switched off and the pack disconnected, check that the case sits flat in the intended position. Fit the specified spacer if required and close the hold-down normally. Refit the body and look for pressure on the cable, connector or case. On a narrow tray, a connector pointing in the wrong direction can use the last bit of clearance even when the case dimensions match.",
+            "The pack should stay in position under the factory restraint without pressing on the wiring. If it shifts, find the documented hold-down position or spacer for that configuration. If the latch stops short, recheck case height and the cable path with the body off. Stop if the fit requires bending the case, pinching a lead or forcing the latch."
+          ]
+        },
+        {
+          "heading": "Check the charger against the pack before the first use",
+          "paragraphs": [
+            "Use the charger instructions and pack label together. Check the supported chemistry and cell count, the required balance or manufacturer-specific connection and whether the charger supports the pack’s prescribed charge current. A charger intended for a large pack can have a minimum supported current or a different interface than a tiny crawler pack needs. The K10’s included battery and charger are an example of a documented combination. Keep its instructions with the car so the three-pin connection still makes sense after the original box is gone.",
+            "If the charger rejects the battery or reports a chemistry or cell-count mismatch, stop and check the labels, selected mode and supported connections against the manuals. Keep battery protections enabled as specified. Leave any pack with damage, swelling, missing identification or damaged wiring out of use and follow the battery maker’s directions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "troubleshooting",
+      "heading": "Resolve the first mismatch before looking for a workaround",
+      "sourceIndexes": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "paragraphs": [
+        "If the battery fits but the plug differs, compare the exact vehicle and pack identifiers with the manufacturer’s compatibility information. An apparently suitable adapter does not establish pinout, current capacity, chemistry, voltage or charging compatibility. The 58434-4 manual also prohibits adapters in its iD battery connection guidance. The next useful piece of information is usually the original battery part number or a written compatibility answer for your installed electronics.",
+        "If a pack is listed for the car and the body still sits high, inspect the lead exit and the path over the tray. Close the hold-down without forcing it and check the body independently. A wrong-height spacer, a cable under the latch or a case intended for a different tray can each show up as the same raised corner. Compare against the original assembly before deciding the shell is bent.",
+        "When a shop lists the pack you want under a shorter name, compare its full part number with the car’s manual. Record the charger model separately. The 58434-4 pack table, for example, gives you identifiers for both a 2S 2827X and a 3S 2849X, while the charger table gives you its own identifiers. If you own several cars, label each set of instructions with the vehicle model and the pack it covers. You can then check a replacement from the label on the bench instead of relying on a memory of which truck used a black plug.",
+        "If you are choosing between two manual-approved packs, record what the difference buys you. A larger rated capacity may give more energy to use on the same setup, with possible changes in mass, clearance and handling. Runtime also depends on the vehicle, load and driving. A smaller approved pack that fits the stock latch cleanly can be the better baseline for a first run. Save the exact part number and charger setup with the model so the next replacement is easier to verify."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Battery compatibility checklist",
+    "items": [
+      "The exact vehicle and installed ESC match the instructions I used.",
+      "The pack meets chemistry, cell count, discharge and any case requirements.",
+      "The drive connector and charger connection each match the documentation.",
+      "The disconnected pack is secure and the body closes with the leads clear.",
+      "The charger supports the exact pack and its prescribed charging settings."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "axial/scx30-chevrolet-k10/",
+      "title": "Axial SCX30 Chevrolet K10 review",
+      "note": "See the exact black package and its supplied battery and USB charger."
+    },
+    {
+      "route": "traxxas/slash-2wd-brushless-vx3/",
+      "title": "Traxxas Slash 2WD Brushless VX3 review",
+      "note": "See the black 58434-4 package, its 2S and 3S options and a startup budget."
+    },
+    {
+      "route": "arrma/mojave-6s-v3/",
+      "title": "ARRMA Mojave 6S V3 review",
+      "note": "See the blue standard V3 package and the cost of a complete 4S setup."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can two 2S packs replace one 4S pack?",
+      "answer": "Only when the vehicle manufacturer lists that paired setup. The ARRMA Mojave V3 lists both arrangements. Use the exact manual to check the required pack and harness configuration."
+    },
+    {
+      "question": "Does a matching connector mean the battery is compatible?",
+      "answer": "The connector is one check. Verify chemistry, cell count, ratings, tray fit and charger compatibility as well."
+    },
+    {
+      "question": "Can I run the Slash VX3 with the NiMH pack from a brushed Slash?",
+      "answer": "Traxxas excludes NiMH on model 58434-4. Choose a supported 2S or 3S iD LiPo from that vehicle’s documentation."
+    },
+    {
+      "question": "Why does the Axial K10 battery use different connections for driving and charging?",
+      "answer": "The stock vehicle uses a two-pin PH drive connector. Its supplied USB 2S charger uses the three-pin JST-XH connection described in the Axial manual."
+    },
+    {
+      "question": "Does higher mAh guarantee longer runtime?",
+      "answer": "Capacity is one factor. Pack condition, vehicle load, driving and the protection settings affect actual runtime. Check compatibility and fit before comparing capacity."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby · black SCX30 K10 AXI-2260T2 package",
+      "url": "https://www.horizonhobby.com/product/1-30-scx30-chevrolet-k10-4x4-rtr-brushed-rock-crawler-battery-and-charger-included-black/AXI-2260T2.html",
+      "kind": "Manufacturer exact package and supplied battery",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Axial · AXI-2260 owner’s manual",
+      "url": "https://assets.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dweba16f3f/Manuals/AXI-2260-MANUAL-EN.pdf",
+      "kind": "Manufacturer package and charging instructions",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Traxxas · Slash Brushless 58434-4 owner’s manual",
+      "url": "https://hobbywholesale.com/amfile/file/download/file/3966/product/60540/",
+      "kind": "Manufacturer owner’s manual hosted by Hobby Wholesale",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · 2026 Slash Brushless",
+      "url": "https://www.rcdriver.com/traxxas-slash-brushless-2026-release/",
+      "kind": "Independent exact-model feature, August 10, 2026",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Horizon Hobby · blue ARRMA Mojave 6S V3 ARA7604V3T1",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+      "kind": "Manufacturer exact package and required equipment",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA · ARA7604V3 owner’s manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw649833c7/Manuals/ARA7604V3_MANUAL_ML.pdf",
+      "kind": "Manufacturer battery and ESC specifications",
+      "checked": "2026-11-13"
+    }
+  ],
+  "evidenceNote": "The vehicle examples follow the exact package pages and manufacturer manuals. RC Driver corroborates the identity of the 2026 Slash VX3. The checking sequence is editorial guidance based on those documents and the scope above.",
+  "revisionNote": "First published November 13, 2026."
+}
