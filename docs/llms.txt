@@ -16,11 +16,11 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 
 ## Brand archives
 - [ARRMA](https://alekspasseo.github.io/rc-car-king/arrma/)
-- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
+- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Traxxas](https://alekspasseo.github.io/rc-car-king/traxxas/)
+- [Axial](https://alekspasseo.github.io/rc-car-king/axial/)
 - [Kyosho](https://alekspasseo.github.io/rc-car-king/kyosho/)
 - [Team Associated](https://alekspasseo.github.io/rc-car-king/team-associated/)
-- [Tamiya](https://alekspasseo.github.io/rc-car-king/tamiya/)
 - [Losi](https://alekspasseo.github.io/rc-car-king/losi/)
 - [Redcat Racing](https://alekspasseo.github.io/rc-car-king/redcat/)
 
@@ -51,6 +51,9 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 - [RC steering trim, dual rate and gyro: a first-run setup guide](https://alekspasseo.github.io/rc-car-king/guides/rc-steering-trim-dual-rate-gyro/): Set up RC steering in the right order: direction, trim, dual rate and gyro. Includes exact-model examples, troubleshooting and a first-run checklist.
 
 ## Reviews
+- [ARRMA Mojave 6S 4X4 V3](https://alekspasseo.github.io/rc-car-king/arrma/mojave-6s-v3/): Review the blue ARRMA Mojave 6S V3 ARA7604V3T1: clipless body, 4WD drivetrain, 4S and 6S battery choices, running space and full startup budget.
+- [Tamiya Hornet EVO](https://alekspasseo.github.io/rc-car-king/tamiya/hornet-evo-58742/): See what the Tamiya Hornet EVO 58742 changes from the original, how its rear-drive chassis works, and what you need to budget to build and run it.
+- [Traxxas Slash 2WD Brushless VX3](https://alekspasseo.github.io/rc-car-king/traxxas/slash-2wd-brushless-vx3/): Read the 58434-4-BLK Slash review: V3200 and VX3 power, low chassis, stock setup, LiPo compatibility and startup costs versus the brushed Slash.
 - [ARRMA Talion 6S EXB V6](https://alekspasseo.github.io/rc-car-king/arrma/talion-6s-exb-v6/): Review ARRMA ARA7707V6T1, its 411 mm wheelbase, belted tires, 4S and 6S power requirements, open-terrain fit and complete 4S startup budget.
 - [Axial SCX30 Chevrolet K10](https://alekspasseo.github.io/rc-car-king/axial/scx30-chevrolet-k10/): Review the black AXI-2260T2 K10, its locked 4WD, included 2S battery and charger, 99 mm wheelbase and the indoor routes that suit it.
 - [Traxxas Slash Late Model BL-2s](https://alekspasseo.github.io/rc-car-king/traxxas/slash-late-model-bl-2s/): Review the Traxxas 104364-74-FOX dirt oval RTR, with BL-2s power, Magnum 272R transmission, stock tires, class fit and a complete 2S startup budget.

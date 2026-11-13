@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-13",
+  "route": "arrma/mojave-6s-v3/",
+  "sku": "ARA7604V3T1",
+  "coreWords": 2112,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/search-15.json",
+    "checkedAt": "2026-10-12T23:05:12.922Z",
+    "asin": "B0HHYGS27R",
+    "brand": "ARRMA",
+    "part": "ARA7604V3T1",
+    "title": "ARRMA 1/7 RC Truck Mojave 6S 4X4 RTR Brushless Desert Truck, Blue",
+    "model": "ARA7604V3T1",
+    "note": "Archived exact-product verification from 2026-10-12T23:05:12.922Z for ARA7604V3T1.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Horizon Hobby · blue ARA7604V3T1 package and US reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA ARA7604V3 exact owner’s manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw649833c7/Manuals/ARA7604V3_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA ARA7604V3 parts and exploded views",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw92f19e6f/Manuals/ARA7604V3_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "RC Newb · Next-generation Mojave 6S",
+      "url": "https://rcnewb.com/arrma-1-7-mojave-6s-v3/",
+      "kind": "Independent launch reporting",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Ian Jones · documented standard V3, beige",
+      "url": "https://www.isjdesigns.com/blog/arrma-mojave-6s-v3-2026-review",
+      "kind": "Independent owner photographs and observations; not republished",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Michael’s RC Hobbies · exact blue V3 and specification table",
+      "url": "https://www.michaelsrchobbies.com/ara7604v3t1-17-mojave-6s-4x4-rtr-brushless-desert.html",
+      "kind": "Independent hobby retailer and technical reference",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Mojave 4S",
+      "url": "https://rccarking.com/arrma/mojave-4s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Mojave GROM 223S",
+      "url": "https://rccarking.com/arrma/mojave-grom-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Talion 6S EXB V6",
+      "url": "https://rccarking.com/arrma/talion-6s-exb-v6/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/mojave-20261113-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw08e5d7b2/Images/ARA/ARA7604V3T1_A3_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 190345,
+      "sha256": "7fb79aa6e9fd8a1f795ca2b5b6e099306e96d5563d6ab51dd38ab2c34c0905d4"
+    },
+    {
+      "file": "reviews/mojave-20261113-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc136fef3/Images/ARA/ARA7604V3T1_A90_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 296664,
+      "sha256": "a61a9748eb0035fc258d088794854565939e4f84e47f6c61898f95180089dccb"
+    },
+    {
+      "file": "reviews/mojave-20261113-5.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwaa552574/Images/ARA/ARA7604V3T1_A11_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 236665,
+      "sha256": "945545703c2af383450b3467fdc711d66dfd85c2458183e196c4eed412b875a1"
+    }
+  ],
+  "findings": [
+    "Exact standard blue ARA7604V3T1 is the standard V3, not the ARA7704V3 EXB. Horizon’s included and required lists distinguish radio cells from the separately required drive pack and charger.",
+    "2S and 3S packs appear only as pairs in the vehicle’s requirements. The supplied body graphic and manual cover supported arrangements.",
+    "Owner’s manual p.19 specifies 14.8–22.2 V total, 5000 mAh / 50C minimum and 5000 mAh / 100C recommended. The SLT3 control diagram p.21 shows the 50/75/100 limiter."
+  ],
+  "productPageSha256": "43a360716b318d1bec2d66fa4e420c71596df8df913b5c79b6035a02393065c1",
+  "manualSha256": "c2434219674d6659414e7343d5d1d6a1d4659a152c267e672ff887994529c504"
+}

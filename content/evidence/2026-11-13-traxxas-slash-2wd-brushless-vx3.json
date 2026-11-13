@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-13",
+  "route": "traxxas/slash-2wd-brushless-vx3/",
+  "sku": "58434-4-BLK",
+  "coreWords": 2033,
+  "identity": {
+    "cachePath": "output/batch-traxxas-arrma/search-2.json",
+    "checkedAt": "2026-10-12T23:04:21.947Z",
+    "asin": "B0HBFVBR6M",
+    "brand": "Traxxas",
+    "part": "58434-4",
+    "title": "Traxxas Slash 2WD Brushless 1/10 Scale Short Course Truck (Black)",
+    "model": "58434-4",
+    "note": "Archived exact-product verification from 2026-10-12T23:04:21.947Z for 58434-4. The archived product names the black livery and the Velineon 3s short-course truck. The retailer identifies the matching black package as 58434-4-BLK; the exact owner’s manual identifies the 58434-4 family. The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Superstition Hobbies · exact black Slash 58434-4-BLK",
+      "url": "https://superstitionhobbies.com/products/traxxas-slash-2wd-brushless-black",
+      "kind": "US hobby retailer, vehicle reference and photo provenance",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Traxxas 58434-4 owner’s manual R00",
+      "url": "https://hobbywholesale.com/amfile/file/download/file/3966/product/60540/",
+      "kind": "Manufacturer owner’s manual, retailer-hosted PDF",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Traxxas 58434-4 EHD parts list",
+      "url": "https://hobbywholesale.com/amfile/file/download/file/3963/product/60540/",
+      "kind": "Manufacturer parts list, retailer-hosted PDF",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · 2026 Slash Brushless",
+      "url": "https://www.rcdriver.com/traxxas-slash-brushless-2026-release/",
+      "kind": "Independent RC publication, August 10, 2026",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Hobby Wholesale · 58434-4 black model specifications and drawings",
+      "url": "https://hobbywholesale.com/radio-control/cars-trucks/electric/off-road-rtr/slash-hd-vx3-bl-2wd-rtr-black-1-10-tra584344blk.html",
+      "kind": "Independent hobby retailer and manufacturer document index",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Traxxas Slash 2WD XL-5",
+      "url": "https://rccarking.com/traxxas/slash-2wd-xl-5/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Senton 223S",
+      "url": "https://rccarking.com/arrma/senton-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Traxxas Slash Late Model BL-2s",
+      "url": "https://rccarking.com/traxxas/slash-late-model-bl-2s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/slash-20261113-1.jpg",
+      "url": "https://superstitionhobbies.com/cdn/shop/files/58434-4-Slash-2WD-VX3-3qrtr-Front-BLK_60308751.jpg?width=1200",
+      "credit": "Traxxas (manufacturer image supplied by Superstition Hobbies)",
+      "bytes": 156727,
+      "sha256": "03e14ef19a09c49b593ec58284aa31d89464074538dbb751350517f201c347d7"
+    },
+    {
+      "file": "reviews/slash-20261113-2.jpg",
+      "url": "https://superstitionhobbies.com/cdn/shop/files/58434-4-Slash-2WD-VX3-Chassis-Top_60308795_18244d0d-f08d-4503-a717-813d1889099a.jpg?width=1200",
+      "credit": "Traxxas (manufacturer image supplied by Superstition Hobbies)",
+      "bytes": 119691,
+      "sha256": "bb044b2c006e1a5bc3befb3994aa11bf5bc505a2d221a2f822d4df6f79cf5436"
+    },
+    {
+      "file": "reviews/slash-20261113-3.jpg",
+      "url": "https://superstitionhobbies.com/cdn/shop/files/58434-4-Slash-2WD-Side-BLK_60308771.jpg?width=1200",
+      "credit": "Traxxas (manufacturer image supplied by Superstition Hobbies)",
+      "bytes": 106334,
+      "sha256": "7f0c76adcef5221296177754af9e15e43796ca3551c12d3389684852cefab4a3"
+    }
+  ],
+  "findings": [
+    "Archived ASIN model and part fields both say 58434-4. The title names black and the features identify the Velineon 3s truck and no battery or charger. Superstition Hobbies ties the exact black package to 58434-4-BLK.",
+    "Manual lists only 2S and 3S iD LiPo and explicitly excludes NiMH. Gear chart and 2.72 multiplier are primary; listed retail dimensions are attributed and no conflicting weight or inferred stock ratio is reproduced."
+  ],
+  "productPageSha256": "7776182522cc4df0a05586e297c620e3f8166e602c663f2d6bd951fb88ba367e"
+}

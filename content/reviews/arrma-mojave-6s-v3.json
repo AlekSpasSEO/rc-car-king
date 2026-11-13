@@ -1,0 +1,506 @@
+{
+  "brand": "ARRMA",
+  "brandSlug": "arrma",
+  "model": "Mojave 6S 4X4 V3",
+  "modelSlug": "mojave-6s-v3",
+  "sku": "ARA7604V3T1",
+  "title": "ARRMA Mojave 6S V3 review: the blue 1/7 desert truck",
+  "headlineLines": [
+    "BIG DIRT TRUCK.",
+    "ROOM TO BRAKE."
+  ],
+  "dek": "The blue ARA7604V3T1 gets the new clipless shell, updated Firma electronics and a long 4WD chassis. Before going to 6S, price a 4S setup and find a wide place to run.",
+  "seo": {
+    "title": "ARRMA Mojave 6S V3 Blue RTR Review | RC Car King",
+    "description": "Review the blue ARRMA Mojave 6S V3 ARA7604V3T1: clipless body, 4WD drivetrain, 4S and 6S battery choices, running space and full startup budget."
+  },
+  "type": "Desert truck",
+  "use": "Bashing",
+  "terrain": [
+    "Wide dirt and gravel",
+    "Open sand and firm mixed off-road terrain",
+    "Open pavement with braking room"
+  ],
+  "motor": "Brushless",
+  "drive": "4WD",
+  "scale": "1/7",
+  "format": "Assembled RTR, drive battery and charger separate",
+  "skill": "Experienced off-road driver with room for a large truck",
+  "price": {
+    "amount": 719.99,
+    "currency": "USD",
+    "basis": "Horizon Hobby US exact blue ARA7604V3T1 vehicle reference",
+    "source": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+    "checked": "2026-11-13"
+  },
+  "purchaseNote": "The truck, radio, steering and four transmitter AAs are supplied. Price a manual-compatible IC5 hardcase LiPo arrangement, the appropriate charger and a charging bag.",
+  "overview": "The blue standard V3 is a 715 mm long, shaft-drive 4WD desert truck with a clipless shell and a 2050Kv Firma system. It suits a driver with a wide off-road route and a compatible 4S or 6S setup. The usual catch is space and the complete cost of power gear.",
+  "verdict": "Buy for a wide desert-style route and budget the power setup",
+  "verdictText": "Choose the blue standard V3 for large-scale dirt runs, quick shell access and the documented 4S/6S power options. A Mojave 4S or GROM will suit a smaller site or easier transport better.",
+  "pros": [
+    "Long 420 mm wheelbase and 4WD suit open uneven routes",
+    "Side-release clipless body with integrated inner arches",
+    "4S or 6S total with documented single and paired pack options",
+    "Separate front, center and rear differential service references"
+  ],
+  "cons": [
+    "At 715 mm and 6.49 kg listed with electronics, it takes room to store and stop",
+    "No drive pack or balance charger in the box",
+    "Inner arches do not seal the chassis from dust",
+    "The old Mojave, the 4S and the V3 EXB need separate parts checks"
+  ],
+  "bestFor": [
+    "Experienced off-road drivers with access to open dirt or gravel",
+    "A buyer who wants a large clipless desert truck with 4S as an option",
+    "Owners ready to transport and service a 715 mm truck"
+  ],
+  "avoidIf": [
+    "Most sessions happen in a small yard or around pedestrians",
+    "The budget assumes packs and a charger come with the truck",
+    "You want an exact match to a previous Mojave’s body and mounts"
+  ],
+  "quickSpecs": [
+    [
+      "Exact model",
+      "ARA7604V3T1 · blue standard RTR, 2026 V3"
+    ],
+    [
+      "Wheelbase",
+      "420 mm listed"
+    ],
+    [
+      "Motor",
+      "Spektrum Firma 4074 2050Kv brushless"
+    ],
+    [
+      "ESC",
+      "Spektrum Firma 150A Smart V2, 4S or 6S total"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD with front, center and rear gear differentials"
+    ],
+    [
+      "Stock tires and hubs",
+      "dBoots Fortress, 17 mm hex"
+    ]
+  ],
+  "rating": {
+    "audience": "An experienced driver with a wide dirt site and a large-truck startup budget",
+    "disclosure": "Research-led buying assessment. The overall rating averages five equally weighted editorial judgments for this buyer.",
+    "dimensions": [
+      {
+        "label": "Terrain package",
+        "score": 9,
+        "reason": "The long wheelbase, broad stance and Fortress tires suit open terrain."
+      },
+      {
+        "label": "Power choices",
+        "score": 8.6,
+        "reason": "Documented 4S and 6S configurations allow different budgets and pace."
+      },
+      {
+        "label": "Routine access",
+        "score": 8.6,
+        "reason": "The side-release shell and visible battery area help with routine inspection."
+      },
+      {
+        "label": "Transport and site fit",
+        "score": 6.8,
+        "reason": "The physical size and braking space limit where the truck makes sense."
+      },
+      {
+        "label": "Startup value",
+        "score": 7.9,
+        "reason": "The standard RTR includes the radio hardware; compatible drive and charge equipment are significant extras."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "nav": "Buyer fit",
+      "heading": "The blue standard V3 needs a reason to be this big",
+      "paragraphs": [
+        "The Mojave 6S V3 starts to make sense when your usual drive includes wide turns, loose dirt and enough straight ground to brake without rushing. The blue ARA7604V3T1 is 715 mm long with a 420 mm wheelbase. That length is useful when the route opens up, and it will be the first thing you notice when trying to store it. Measure the shelf or vehicle you will carry it in as carefully as you measure the battery tray.",
+        "This is the 2026 standard RTR, not the ARA7704V3 EXB or an earlier clipped Mojave wearing new graphics. RC Newb describes the rocker-side body release and electronics update. Ian Jones’s independently documented beige standard V3 shows the body structure and how he uses the platform for controlled passes on loose ground. The body color differs, and we use that account for context, with no independent speed or endurance result claimed for the exact blue truck."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "package",
+      "nav": "Box contents",
+      "heading": "The box supplies the controls and steering, not the drive pack",
+      "paragraphs": [
+        "Horizon lists an assembled and decorated truck, Spektrum SLT3 transmitter, SR315 receiver, S665 digital servo, Firma 4074 motor and 150A Smart V2 controller. It lists a pinion gear, documentation and four radio AAs as well. The drive pack or packs, compatible LiPo charger and charging bag remain on the completion list. This is a fully assembled vehicle, but you cannot drive it from the box without that power equipment.",
+        "Look for the ARA7604V3T1 code on the order and again when it arrives. A photographed blue truck could be a different generation, and another 6S label could be the EXB. If comparing the vehicles used, ask for a photo of the identification and the installed electronics, plus both sides of the body and its retention points. A modified truck can make sense, but its battery and receiver requirements then need to be checked against what is actually installed."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "drivetrain",
+      "nav": "Drivetrain",
+      "heading": "The long platform and three diffs do different jobs",
+      "paragraphs": [
+        "The mid-mounted 4074 motor drives the center gear differential and sends torque through shafts to the front and rear gear differentials. The center allows the axles to turn at different speeds when they need to; the end differentials allow that across each axle. That helps a 4WD truck use the surface without binding the way a solid drive would. It also gives a new owner three separate service points, with factory oil choices that need not be identical. Use the V3 technical documents when deciding what to refill or replace.",
+        "The 7075-T6 aluminum XLWB plate, split center brace and steel drive hardware are part of the standard chassis. They are reasons to consider the stock package on its own, without paying EXB money by default. An upgraded material is also not evidence that a bent plate or damaged mount will straighten itself out. If a heavy contact leaves the truck pulling or the drivetrain sounding different, work through the shafts, mounts and wheel play with the battery disconnected before changing differential oil or steering trim.",
+        "Those three gear cases are also a useful way to organize a service bench. If a wheel spins without driving the truck as expected, look at the outboard hex and shaft before assuming that the center differential is at fault. The technical pack separates the drivetrain assemblies and gives you a way to trace which side of the truck a symptom belongs to. The point of starting from the exploded view is to identify the hardware and its intended fit, not to replace every part from the center to the rim at once."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "controls",
+      "nav": "First setup",
+      "heading": "Choose the total voltage before you choose the battery count",
+      "paragraphs": [
+        "The supported configurations are a single 4S, single 6S, pair of 2S packs for 4S total, or pair of 3S packs for 6S total. Horizon calls for hardcase packs with IC5. Two lower-voltage packs listed together are a paired arrangement; a single 2S or 3S is not the equivalent. Do not improvise mixed pairs or a connector workaround. Follow the manual for the harness or plug arrangement, pack dimensions, ratings and charging requirements. The manual’s ESC table specifies a 5000 mAh, 50C minimum and recommends 5000 mAh at 100C. The published maximum dimensions are useful for screening but do not eliminate the need to check leads and straps.",
+        "I would start with a compatible 4S setup and the factory gears. There is no reason to make your first comparison on full 6S when you have yet to see how much space the truck takes to slow down on your regular surface. The SLT3 has a 50/75/100 throttle limit selector, useful to cut available input while you check steering and route boundaries. That switch does not alter the supported battery configuration or reduce the need for room around the truck. Keep the driving plan conservative when visibility or traction changes.",
+        "Plan the charging layout at the same time as the power choice. A single supported pack is one item to secure and check; a paired setup adds a second pack and an extra set of leads to account for. ARRMA’s battery graphic depicts paired 2S and 3S options alongside the approved single 4S and 6S options. Read it with the exact manual, particularly if you come from a smaller GROM that uses a very different setup. Verify the strap and connector routing before locking the shell, where loose leads would be harder to see."
+      ],
+      "sourceIndexes": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "steering",
+      "nav": "Suspension",
+      "heading": "Set the truck down with its intended pack before judging the stance",
+      "paragraphs": [
+        "The stock S665 moves the front steering through a saver, and the four oil shocks support a chassis whose running weight changes with your battery choice. A heavier or differently positioned pack arrangement is a reason to recheck how the truck settles at rest, not a reason to copy someone else’s oil chart. Use a level setup surface, look for matched left and right operation on each axle, and note where the chassis and tires sit before touching the stock adjustments.",
+        "Horizon lists reinforced wheel hardware and 17 mm hexes. That hex size identifies a drive interface, not the entire wheel fitment. The offset, inside wheel profile and tire envelope still matter with the body and inner arches fitted. Keep the Fortress assemblies as your first reference, and check that both axles remain free and the front clears at steering lock before deciding a different wheel is an improvement. Changes in rolling diameter can also change how hard the motor works."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "terrain",
+      "nav": "Terrain",
+      "heading": "Use the ground this chassis was built to cover",
+      "paragraphs": [
+        "This is a truck for a route with a broad surface, modest rises and turns that let it settle before the next throttle input. On a wide dirt or gravel lot with permission, the 420 mm wheelbase gives you something to use. At a cramped spot full of blind exits, the same dimensions become another thing to manage. Freshly watered clay, deep sand and scrub each change the load and available steering. A surface listed by the manufacturer is a possible use, rather than a guarantee that every patch of it suits the truck.",
+        "Grass is a good example of why the surface label needs context. On a closely mown patch the truck has room to roll. In taller growth the tires can keep pushing against the stems while the body hides how much material has wound around the wheels. Start on ground where you can see the obstacles and stop if the truck begins to drag or collect debris. The extra mass and power do not make a narrow strip of lawn into a useful desert course. This is one of the reasons to compare the physical route before comparing voltage ceilings.",
+        "For a first route, stand where you can see both ends of the straight and leave an exit lane that does not point toward people, pets, parked cars or the road. Make a few slow loops and find where loose stone or washboard changes your braking. A large desert truck works best when you can choose your line around a rough edge. If all of the usable area is one stop-and-start ribbon, the smaller truck is the better fit even when the big truck technically fits through it."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "body",
+      "nav": "Ownership",
+      "heading": "The body comes away with its inner arches",
+      "paragraphs": [
+        "The two side releases lift away the clipless shell, and the inner structure includes arches and supports. This helps block some debris near the wheels during driving and exposes the center of the truck when the shell is off. It also gives you specific surfaces to inspect at a battery change. Check that the catches close without interference, then look at the contact areas where a folded edge or grit could stop a latch seating properly. Roof skids and bumpers are inspectable wear points, rather than a promise about any particular landing.",
+        "Keep the ARA7604V3 diagrams near the bench when replacing a latch, arch, hub or shaft. An older Mojave exploded drawing may look familiar while showing a different mount. After dirt sessions, check the wheel hexes and drive cups for play and the guards for trapped debris. Follow the maker’s wet-running and drying procedure if the truck gets wet. A controller described as waterproof does not mean the bearings, fasteners, motor and tires need no attention afterward.",
+        "The inner body frame is worth looking at as an assembly rather than thinking of it as a piece of paint. It carries the covers that reduce the open path around the tires and participates in the quick-release fit. If a latch changes feel after a run, look at its alignment and the neighboring guard before blaming the outer shell. Keep track of which fix goes with which side. If you buy a spare complete shell, ask whether the mounting and inner hardware you need come with it. A bare painted panel and a usable spare body assembly are different purchases."
+      ],
+      "sourceIndexes": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "cost",
+      "nav": "Startup cost",
+      "heading": "Price 4S completion first; compare 6S as a separate basket",
+      "paragraphs": [
+        "Horizon’s US reference for ARA7604V3T1 is $719.99. The basket uses one compatible 4S hardcase IC5 pack, a matching balance charger and charging bag. The last three lines use rounded allowances, rather than advertised offers. Four transmitter cells are included in the published box list. If you already own a charger, check its supported cell count, pack connector and balance method before deducting it. The 4S calculation only applies to the setup it describes.",
+        "If you choose a dual 3S arrangement for 6S total, quote two compatible matching packs and the appropriate charging setup, even when you already own one. Horizon shows an SPMX53S100H5 3S pack at $87.99 each and an S2200 charger at $319.99 on the model page as optional reference equipment, before the bag. That is one documented retail comparison and not the only compatible equipment or a live Amazon offer. If completing 6S makes the price hard to justify, the truck still has a supported 4S route."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ],
+      "table": {
+        "caption": "US startup budget checked 13 November 2026, before tax and delivery",
+        "columns": [
+          "Item",
+          "Basis",
+          "USD"
+        ],
+        "rows": [
+          [
+            "ARA7604V3T1 vehicle",
+            "Horizon Hobby US reference",
+            "$719.99"
+          ],
+          [
+            "Compatible single 4S hardcase IC5 pack",
+            "Planning allowance",
+            "$115.00"
+          ],
+          [
+            "Compatible LiPo balance charger",
+            "Planning allowance",
+            "$110.00"
+          ],
+          [
+            "LiPo charging bag",
+            "Planning allowance",
+            "$20.00"
+          ],
+          [
+            "Radio AAs",
+            "Four supplied",
+            "$0.00"
+          ],
+          [
+            "Example total",
+            "Before tax and delivery",
+            "$964.99"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "alternatives",
+      "nav": "Alternatives",
+      "heading": "Keep the desert shape or keep the large-scale footprint",
+      "paragraphs": [
+        "The ARRMA Mojave 4S is the first alternative if you want the desert truck body and 4WD but can use a smaller machine. Its own RTR configuration has a different price, battery and parts list. The Mojave GROM 223S takes the same general style to an even smaller course. Check the exact GROM package for included power gear. Both are stronger fits than the 1/7 truck when space to store it or slow it down is the constraint.",
+        "The ARRMA Talion 6S EXB V6 goes the other way: it keeps the large-scale power and space requirements while putting its emphasis on a lower truggy form. Pick it if the exposed-wheel chassis and its intended terrain appeal more than the Mojave’s enclosed desert truck body. Do not choose the Talion simply because both say 6S or assume it is cheaper to complete. Compare the exact packs and the type of open terrain you can use.",
+        "Scale labels are useful for sorting the catalog, but use physical dimensions when you compare the three Mojaves. The scale says very little about whether your storage bin closes, where you can set the car down at the site, or whether you can easily carry it back after a run. Walk your intended line without the truck once. If it is mostly pedestrian crossings, corners you cannot see around and little room to brake, none of the V3’s good hardware changes that."
+      ],
+      "sourceIndexes": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "verdict",
+      "nav": "Verdict",
+      "heading": "Buy the standard V3 if you can put its length to work",
+      "paragraphs": [
+        "The strongest buyer is someone who can already name a wide off-road spot and knows how they will charge, carry and put away the truck. The side-release body and standard power options are features you can use before buying an upgrade. The long chassis gives you a reason to pick it over the GROM, but only if you are happy to give that chassis the space and complete power setup it deserves.",
+        "I would choose the blue ARA7604V3T1 with a supported 4S setup for learning the truck on stock tires. Verify the running area first, and compare the 4S truck or the GROM if your regular spot demands constant braking. The standard V3 stands on its own when wide dirt turns and repeatable passes are what you want; an EXB badge, a second pack or an advertised speed number should not decide it for you."
+      ],
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "specs": [
+    [
+      "Exact model",
+      "ARA7604V3T1 · blue standard RTR, 2026 V3"
+    ],
+    [
+      "Scale",
+      "1/7"
+    ],
+    [
+      "Size",
+      "715 × 355 × 270 mm listed"
+    ],
+    [
+      "Wheelbase",
+      "420 mm listed"
+    ],
+    [
+      "Mass",
+      "6.49 kg listed with electronics"
+    ],
+    [
+      "Motor",
+      "Spektrum Firma 4074 2050Kv brushless"
+    ],
+    [
+      "ESC",
+      "Spektrum Firma 150A Smart V2, 4S or 6S total"
+    ],
+    [
+      "Drivetrain",
+      "Shaft 4WD with front, center and rear gear differentials"
+    ],
+    [
+      "Chassis",
+      "7075-T6 aluminum XLWB, split center brace"
+    ],
+    [
+      "Radio",
+      "Spektrum SLT3 and SR315 receiver"
+    ],
+    [
+      "Servo",
+      "Spektrum S665 digital"
+    ],
+    [
+      "Stock tires and hubs",
+      "dBoots Fortress, 17 mm hex"
+    ],
+    [
+      "Battery compartment",
+      "158 × 48 × 70 mm published maximum; check exact layout and routing"
+    ],
+    [
+      "Required drive equipment",
+      "IC5 hardcase LiPo arrangement; manual lists 5000 mAh / 50C minimum; matching balance charger and bag separate"
+    ],
+    [
+      "Body",
+      "Painted and decaled clipless blue desert-truck shell with integrated inner arches"
+    ]
+  ],
+  "faqs": [
+    {
+      "question": "Is the blue ARA7604V3T1 the EXB?",
+      "answer": "No. It is the standard Mojave 6S V3 RTR. The V3 EXB uses the ARA7704V3 family number."
+    },
+    {
+      "question": "Can it drive on 4S total?",
+      "answer": "Yes. The manufacturer documents a supported single 4S or paired 2S arrangement, and a single 6S or paired 3S arrangement. Check the exact manual for fit and connection."
+    },
+    {
+      "question": "What comes with the RTR?",
+      "answer": "The assembled truck, installed electronics, transmitter, four radio AAs, pinion and documentation are listed. Drive power, compatible charger and bag are separate."
+    },
+    {
+      "question": "Does the shell still use loose body clips?",
+      "answer": "The V3 uses side releases for its clipless body. Check both catches seat and the inner arches are free of debris."
+    },
+    {
+      "question": "Can I buy older Mojave wheels or body mounts by name?",
+      "answer": "Use the V3 parts drawings. A matching name or 17 mm hex does not establish the same offset, body mounting system or clearance."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Horizon Hobby · blue ARA7604V3T1 package and US reference",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA ARA7604V3 exact owner’s manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw649833c7/Manuals/ARA7604V3_MANUAL_ML.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA ARA7604V3 parts and exploded views",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw92f19e6f/Manuals/ARA7604V3_TECH_PACK.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "RC Newb · Next-generation Mojave 6S",
+      "url": "https://rcnewb.com/arrma-1-7-mojave-6s-v3/",
+      "kind": "Independent launch reporting",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Ian Jones · documented standard V3, beige",
+      "url": "https://www.isjdesigns.com/blog/arrma-mojave-6s-v3-2026-review",
+      "kind": "Independent owner photographs and observations; not republished",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Michael’s RC Hobbies · exact blue V3 and specification table",
+      "url": "https://www.michaelsrchobbies.com/ara7604v3t1-17-mojave-6s-4x4-rtr-brushless-desert.html",
+      "kind": "Independent hobby retailer and technical reference",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Mojave 4S",
+      "url": "https://rccarking.com/arrma/mojave-4s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Mojave GROM 223S",
+      "url": "https://rccarking.com/arrma/mojave-grom-223s/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "ARRMA Talion 6S EXB V6",
+      "url": "https://rccarking.com/arrma/talion-6s-exb-v6/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    }
+  ],
+  "published": "2026-11-13",
+  "updated": "2026-11-13",
+  "publishedAt": "2026-11-13T08:19:49.484Z",
+  "updatedAt": "2026-11-13T08:19:49.484Z",
+  "status": "published",
+  "reviewType": "Research-led specification review",
+  "handsOn": false,
+  "vehicleScope": "Complete RC car",
+  "power": "Electric",
+  "author": {
+    "name": "The Garage Editor",
+    "role": "RC Car King editorial voice",
+    "note": "Original editorial analysis of the documented configuration and buyer fit."
+  },
+  "image": "reviews/mojave-20261113-1.jpg",
+  "imageAlt": "Official front three-quarter view of the blue ARRMA Mojave 6S V3 ARA7604V3T1.",
+  "imageCaption": "Official front three-quarter view of the blue ARRMA Mojave 6S V3 ARA7604V3T1.",
+  "imageCredit": {
+    "name": "ARRMA / Horizon Hobby",
+    "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw08e5d7b2/Images/ARA/ARA7604V3T1_A3_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+    "kind": "Official manufacturer photography"
+  },
+  "gallery": [
+    {
+      "image": "reviews/mojave-20261113-3.jpg",
+      "alt": "ARRMA’s official power equipment illustration for the standard V3.",
+      "caption": "ARRMA’s official power equipment illustration for the standard V3.",
+      "source": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc136fef3/Images/ARA/ARA7604V3T1_A90_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc136fef3/Images/ARA/ARA7604V3T1_A90_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit"
+      }
+    },
+    {
+      "image": "reviews/mojave-20261113-5.jpg",
+      "alt": "ARRMA’s promotional image of the blue V3 truck running on dirt.",
+      "caption": "ARRMA’s promotional image of the blue V3 truck running on dirt.",
+      "source": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwaa552574/Images/ARA/ARA7604V3T1_A11_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "creditName": "ARRMA / Horizon Hobby",
+      "credit": {
+        "name": "ARRMA / Horizon Hobby",
+        "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwaa552574/Images/ARA/ARA7604V3T1_A11_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit"
+      }
+    }
+  ],
+  "amazon": {
+    "asin": "B0HHYGS27R",
+    "marketplace": "www.amazon.com",
+    "sku": "ARA7604V3T1",
+    "detailPageUrl": "https://www.amazon.com/dp/B0HHYGS27R?tag=coffeedant03-20&linkCode=osi&th=1&psc=1",
+    "provider": "Amazon Creators API",
+    "verifiedAt": "2026-10-12T23:05:12.922Z",
+    "partnerTag": "coffeedant03-20",
+    "variant": "Blue standard 1/7 Mojave 6S V3 brushless desert truck RTR",
+    "identityNote": "Archived exact-product verification from 2026-10-12T23:05:12.922Z for ARA7604V3T1.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "evidenceNote": "This review assesses the published equipment, operating documentation and buyer fit. The score reflects editorial judgment for the named buyer. The affiliate identity comes from the dated verification record.",
+  "revisionNote": "First published 13 November 2026."
+}

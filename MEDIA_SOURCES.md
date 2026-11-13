@@ -159,3 +159,8 @@ The [media manifest](content/evidence/2026-11-11-review-media.json) credits offi
 ## Weekday reviews · 12 November 2026
 
 The [media manifest](content/evidence/2026-11-12-review-media.json) credits official imagery for the black Axial SCX30 Chevrolet K10 AXI-2260T2, black and red ARRMA Talion 6S EXB V6 ARA7707V6T1, and orange and black Traxxas Slash Late Model 104364-74-FOX. Captions identify Axial’s exact package photograph, ARRMA’s promotional airborne image and the shared Late Model chassis view.
+
+
+## Weekday reviews · 13 November 2026
+
+The [media manifest](content/evidence/2026-11-13-review-media.json) credits the manufacturer photos of the assembled and painted Tamiya Hornet EVO 58742, the black Traxxas Slash VX3 58434-4-BLK and blue ARRMA Mojave 6S V3 ARA7604V3T1. The Traxxas images were supplied through Superstition Hobbies. The Mojave gallery labels the official battery equipment illustration and the promotional dirt photo.

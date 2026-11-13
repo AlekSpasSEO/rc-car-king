@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-13",
+  "route": "tamiya/hornet-evo-58742/",
+  "sku": "58742",
+  "coreWords": 2073,
+  "identity": {
+    "cachePath": "output/batch-tamiya-kyosho/tamiya-hornet.json",
+    "checkedAt": "2026-10-12T23:04:54.492Z",
+    "asin": "B0DHRNWF58",
+    "brand": "TAMIYA",
+    "part": "58742",
+    "title": "TAMIYA 1/10 RC Hornet EVO. TAM58742",
+    "model": "58742",
+    "note": "Archived exact-product verification from 2026-10-12T23:04:54.492Z for 58742.  The stored link identifies the reviewed package. Check the destination for current seller and terms."
+  },
+  "sources": [
+    {
+      "name": "Tamiya global 58742 product page",
+      "url": "https://www.tamiya.com/english/products/58742/index.html",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Tamiya USA 58742 package and MSRP",
+      "url": "https://www.tamiyausa.com/shop/-road-buggies/rc-hornet-evo/",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Tamiya 58742 instruction manual",
+      "url": "https://cdn.simba-dickie-group.de/downloads/300058742/300058742_Anleitung-Instruction.pdf",
+      "kind": "Manufacturer assembly manual hosted by Tamiya distributor",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · Hornet EVO build and dirt run",
+      "url": "https://www.rcdriver.com/tamiya-hornet-evo/",
+      "kind": "Independent RC publication, December 3, 2024",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Tamiya USA 58742 service parts",
+      "url": "https://www.tamiyausa.com/parts/36872",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Tamiya USA February 2026 price list",
+      "url": "https://www.tamiyausa.com/media/files/map-feb-2026-1239-08db.pdf",
+      "kind": "Manufacturer documentation",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Tamiya Hornet 58336",
+      "url": "https://rccarking.com/tamiya/hornet/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Tamiya Fighter NXGEN DT-04",
+      "url": "https://rccarking.com/tamiya/fighter-nxgen-dt-04/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    },
+    {
+      "name": "Losi Mini-B Brushless",
+      "url": "https://rccarking.com/losi/mini-b-brushless/",
+      "kind": "Related complete-vehicle review",
+      "checked": "2026-11-13"
+    }
+  ],
+  "media": [
+    {
+      "file": "reviews/hornet-20261113-1.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_1.jpg",
+      "credit": "Tamiya",
+      "bytes": 102273,
+      "sha256": "955b7c29d6c2e78ac21565358c192a9a5a5c5f56bcd8eb4dd25670b9c1d807ad"
+    },
+    {
+      "file": "reviews/hornet-20261113-2.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_4c1.jpg",
+      "credit": "Tamiya",
+      "bytes": 88728,
+      "sha256": "ae0db22f3f4bc6bbe4915d2646e4a45ed6029ff6199b894e4c2e3b8ee8b9ae8f"
+    },
+    {
+      "file": "reviews/hornet-20261113-3.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_4c7.jpg",
+      "credit": "Tamiya",
+      "bytes": 149589,
+      "sha256": "27e8865f8bb0ea4c43f3451fa203a6f5611fe7a089c7927a825b7795a70eb2aa"
+    }
+  ],
+  "findings": [
+    "Tamiya USA identifies the Hobbywing THW 1060 in its export package. Global copy identifies the ESC as supplied for export but its separately required equipment line also mentions an ESC. Verify the actual regional box.",
+    "Tamiya’s parts list names #400 shock oil; its global vehicle table identifies 17T and 9.28:1."
+  ],
+  "productPageSha256": "b8a179c3cddecb918eec6606e4a207205fa286fb13909efc7ed0df3c008cee85",
+  "manualSha256": "1f660f45334dfd494dccd449c4780399231794d448113e79042ea89c0f93e7c7"
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-13",
+  "images": [
+    {
+      "file": "reviews/hornet-20261113-1.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_1.jpg",
+      "credit": "Tamiya",
+      "bytes": 102273,
+      "sha256": "955b7c29d6c2e78ac21565358c192a9a5a5c5f56bcd8eb4dd25670b9c1d807ad"
+    },
+    {
+      "file": "reviews/hornet-20261113-2.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_4c1.jpg",
+      "credit": "Tamiya",
+      "bytes": 88728,
+      "sha256": "ae0db22f3f4bc6bbe4915d2646e4a45ed6029ff6199b894e4c2e3b8ee8b9ae8f"
+    },
+    {
+      "file": "reviews/hornet-20261113-3.jpg",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_4c7.jpg",
+      "credit": "Tamiya",
+      "bytes": 149589,
+      "sha256": "27e8865f8bb0ea4c43f3451fa203a6f5611fe7a089c7927a825b7795a70eb2aa"
+    },
+    {
+      "file": "reviews/slash-20261113-1.jpg",
+      "url": "https://superstitionhobbies.com/cdn/shop/files/58434-4-Slash-2WD-VX3-3qrtr-Front-BLK_60308751.jpg?width=1200",
+      "credit": "Traxxas (manufacturer image supplied by Superstition Hobbies)",
+      "bytes": 156727,
+      "sha256": "03e14ef19a09c49b593ec58284aa31d89464074538dbb751350517f201c347d7"
+    },
+    {
+      "file": "reviews/slash-20261113-2.jpg",
+      "url": "https://superstitionhobbies.com/cdn/shop/files/58434-4-Slash-2WD-VX3-Chassis-Top_60308795_18244d0d-f08d-4503-a717-813d1889099a.jpg?width=1200",
+      "credit": "Traxxas (manufacturer image supplied by Superstition Hobbies)",
+      "bytes": 119691,
+      "sha256": "bb044b2c006e1a5bc3befb3994aa11bf5bc505a2d221a2f822d4df6f79cf5436"
+    },
+    {
+      "file": "reviews/slash-20261113-3.jpg",
+      "url": "https://superstitionhobbies.com/cdn/shop/files/58434-4-Slash-2WD-Side-BLK_60308771.jpg?width=1200",
+      "credit": "Traxxas (manufacturer image supplied by Superstition Hobbies)",
+      "bytes": 106334,
+      "sha256": "7f0c76adcef5221296177754af9e15e43796ca3551c12d3389684852cefab4a3"
+    },
+    {
+      "file": "reviews/mojave-20261113-1.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw08e5d7b2/Images/ARA/ARA7604V3T1_A3_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 190345,
+      "sha256": "7fb79aa6e9fd8a1f795ca2b5b6e099306e96d5563d6ab51dd38ab2c34c0905d4"
+    },
+    {
+      "file": "reviews/mojave-20261113-3.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwc136fef3/Images/ARA/ARA7604V3T1_A90_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 296664,
+      "sha256": "a61a9748eb0035fc258d088794854565939e4f84e47f6c61898f95180089dccb"
+    },
+    {
+      "file": "reviews/mojave-20261113-5.jpg",
+      "url": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dwaa552574/Images/ARA/ARA7604V3T1_A11_BUX8AQPR.jpg?sw=1600&sh=1600&sm=fit",
+      "credit": "ARRMA / Horizon Hobby",
+      "bytes": 236665,
+      "sha256": "945545703c2af383450b3467fdc711d66dfd85c2458183e196c4eed412b875a1"
+    }
+  ]
+}
