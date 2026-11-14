@@ -1,0 +1,197 @@
+{
+  "kind": "guide",
+  "slug": "rc-car-after-wet-run",
+  "intentKey": "care-for-electric-rc-car-after-permitted-freshwater-wet-run-clean-dry-inspect-and-store",
+  "status": "published",
+  "title": "How to clean and dry an RC car after a wet run",
+  "dek": "Get the battery out, clean the areas your manual permits, and check where water can hide before the car goes back on the shelf.",
+  "seo": {
+    "title": "How to Clean and Dry an RC Car After a Wet Run",
+    "description": "Clean and dry an electric RC car after wet grass or mud. Check the manual, find trapped moisture, inspect bearings and know when the car needs service."
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14",
+  "publishedAt": "2026-11-14T10:05:57.637Z",
+  "updatedAt": "2026-11-14T10:05:57.637Z",
+  "answer": "Switch off and remove the drive battery as the manual directs. Remove loose debris, then use the cleaning and drying method specified for your model. Check the wheel hubs, tire vents, drive cups and other places where water collects. Leave the car open to dry as directed, and resolve any water in the electronics or battery before trying to run or charge it.",
+  "scope": "This guide covers surface cleaning and follow-up inspection after freshwater splash, wet grass or mud on an electric model that permits such use. The examples are the Traxxas TRX-4 Sport 82224-4 and blue ARRMA Mojave 6S V3 ARA7604V3T1. Submersion, contaminated water, erratic electronics and suspected battery water ingress call for the manufacturer’s support before power is restored.",
+  "prerequisites": [
+    "The exact vehicle, battery and radio manuals, including any wet-conditions instructions",
+    "A dry bench, towel, soft brush and the tools specified for removing the body and wheels",
+    "The drying and corrosion-protection supplies listed for the model, with any specified eye protection",
+    "A separate place to set the disconnected battery while you check the battery maker’s instructions"
+  ],
+  "conceptCaption": "Check three places on the way from the trail to the bench",
+  "concepts": [
+    {
+      "name": "Around the body",
+      "description": "Look beneath fenders, guards and trays for wet grass and mud that stayed with the shell."
+    },
+    {
+      "name": "At the wheels",
+      "description": "Check vents, inserts, hubs and drive cups, where water and grit collect."
+    },
+    {
+      "name": "Around electronics",
+      "description": "Inspect connectors, wire entries and seals using the exact model’s instructions."
+    }
+  ],
+  "sections": [
+    {
+      "id": "wet-conditions",
+      "heading": "Read the wet-conditions page for the exact model",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "paragraphs": [
+        "A wet run leaves different signs from a dry run. A dusty truck mainly brings home loose grit. A truck driven through wet grass can look clean from above while its wheel wells, battery tray or drive cups hold water. Mud can pack around the hubs and stay wet after the body looks dry. The cleanup therefore starts with the paths moisture took into the car, followed by the parts that need service on that particular model.",
+        "Start with the vehicle’s model number and the electronics installed inside it. The 82224-4 TRX-4 Sport manual describes water-resistant protection for the installed receiver, servo and ESC. Its transmitter must stay dry, and the wet-operation section prohibits LiPo use in those conditions even though the truck supports documented LiPo packs for normal running. Check the battery maker’s wet-use instructions as well. Big Squid RC’s review covers an earlier TRX-4 Sport. It provides context for the trail-truck layout, while the current manual determines how to care for the 82224-4.",
+        "The Mojave V3 manual describes a water-resistant vehicle with waterproof electronics and identifies separate precautions for the transmitter, battery and mechanical parts. It calls for extra attention to bearings, hinge pins, fasteners and cable contacts after a wet session. Saltwater and contaminated water are outside the permitted conditions in these manuals. Check the exact instructions if the car was in beach water or runoff, or if the water rose into the electronics. Keep it unpowered while you ask for advice."
+      ],
+      "table": {
+        "caption": "Where the factory care instructions differ",
+        "columns": [
+          "Vehicle",
+          "Manual calls out",
+          "Use this section"
+        ],
+        "rows": [
+          [
+            "Traxxas TRX-4 Sport 82224-4",
+            "Wheel vents, receiver box cover and its seal, portal gearboxes and motor service",
+            "Driving Your Model, printed pages 23–25"
+          ],
+          [
+            "ARRMA Mojave 6S V3 ARA7604V3T1",
+            "Battery disconnection, exposed metal, bearings, transmission cases and differentials",
+            "Wet Conditions Maintenance, printed page 3"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cleanup-steps",
+      "heading": "Work from the battery tray out to the wheels",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "steps": [
+        {
+          "heading": "Disconnect the battery and expose the damp areas",
+          "paragraphs": [
+            "Follow the vehicle’s shutdown order, remove the pack and take off the body. Separate the pack from the wet chassis. Inspect the case, wires and connector before considering any charge. If the pack was submerged, shows damage or may have water inside it, leave it unused and follow the battery manufacturer’s directions. A dry outside face cannot tell you what happened inside its case.",
+            "Set the car on a towel or tray where drips are easy to see. Lift loose grass and sticks from the suspension and inner body before wiping the wet marks. The Mojave V3’s inner arches lift with the clipless shell, so turn the removed body over and check both sides of those arches and the latch areas. The TRX-4 Sport’s portal housings and their surroundings deserve a separate look down at each wheel."
+          ]
+        },
+        {
+          "heading": "Remove mud using the method your manual allows",
+          "paragraphs": [
+            "Start with accessible debris you can lift away without pushing it into an opening. Both example manuals specify gentle cleaning and exclude pressure washing. For the 82224-4, Traxxas permits low-pressure rinsing to remove excess mud and directs the owner to keep water away from bearings and the transmission. The Mojave manual also describes a gentle rinse as an option and says to avoid rinsing the bearings and transmission. Use a cloth for a thin film where the manual permits it and leave the can of solvent for a service procedure that actually calls for it.",
+            "Clean the body and chassis as separate pieces. Wipe the inside of the body where drips can collect at recesses and screw heads. When you turn back to the chassis, look around the axle ends and suspension pivots before cleaning past electrical connections. If your model has a different receiver layout or an open enclosure, stop and check its instructions before adding water to any part of the cleanup."
+          ]
+        },
+        {
+          "heading": "Check the wheels and dry the exposed areas",
+          "paragraphs": [
+            "If the manual calls for wheel removal, keep the hardware in order and note which wheel came off each axle. Check the visual path from the tread and rim vents to the wheel hub. A wheel that releases water or feels different from its counterpart may hold moisture in the insert. The 82224-4 manual discusses protecting the wheel vents before wet use. That is a model-specific preparation step. For a wheel already wet, follow the care instructions for its actual wheel and tire assembly.",
+            "Dry and apply the corrosion protection specified for exposed metal. The example manuals describe a water-displacing light oil for designated areas. The Mojave instructions keep it away from the motor. The Traxxas manual specifies separate motor service after extended wet use. Use the instructions for each assembly and let the chassis drain on an absorbent surface. Grit at a bearing, moisture at a connector and oil on an intended service point are three different things to inspect."
+          ]
+        },
+        {
+          "heading": "Check enclosures and decide whether the car needs service",
+          "paragraphs": [
+            "Traxxas directs 82224-4 owners to remove the receiver box cover as a drying precaution after wet running. Follow its sealing directions when putting the cover back, including seating the O-ring and checking the wire entry. Keep that instruction tied to this receiver box. Consult the appropriate manual or support for a different enclosure. With the battery disconnected, gently check wheel rotation and suspension movement for a change from their normal feel.",
+            "The Mojave manual calls for closer inspection and service of axle bearings, transmission cases and differentials after wet use. The Sport manual identifies its own portal gearboxes, transmission and Titan motor service. Use those sections if the run was prolonged or the car is going into storage as specified. If an assembly binds after cleaning, identify where it binds before a powered check. A seized wheel or gritty bearing needs attention before the motor is asked to turn it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "before-storage",
+      "heading": "Check again before storage or the next run",
+      "sourceIndexes": [
+        0,
+        1,
+        2
+      ],
+      "paragraphs": [
+        "A towel can look dry while a pocket under a guard is still damp. Turn the body over, inspect the underside of the battery restraint and look at newly exposed fasteners with good light. Check the tire bead and vent area again if the wheel took on water. If a connector shows residue, green corrosion or damaged insulation, keep power off and consult the equipment maker. Water retained in a sealed area deserves a service decision, especially if you saw an unexpected reset or loss of steering during the run.",
+        "Check the truck a second time after it has stood. Fresh drops under one hub tell you where to look, even if the toweling and brushing are finished. If you remove several wheels or covers, leave their fasteners with the corresponding assembly. That makes it easier to check which corners have been inspected and which still need to be reassembled before the next run.",
+        "Put covers, seals and wheels back as their manuals direct once the relevant areas are dry. Compare wheel movement across an axle by hand. If there is new roughness, verify the hardware is seated and follow the service instructions for that hub or bearing. Store the car with its drive battery removed. On the next dry outing, perform the manufacturer’s normal control checks and start with a short, slow pass. Stop if you hear a new noise or the controls behave inconsistently."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Wet-run care checklist",
+    "items": [
+      "The drive battery is disconnected and checked separately.",
+      "The body, tray, wheel wells and hubs are clean and dry.",
+      "I checked the vents and followed the documented bearing and drivetrain care.",
+      "The required seals, caps and wheels are back in place.",
+      "I resolved unusual resistance, corrosion and any concern about the electronics before reconnecting power."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "traxxas/trx-4-sport/",
+      "title": "Traxxas TRX-4 Sport 82224-4 review",
+      "note": "The exact brushed trail truck with portal axles and an XL-5 HV speed control."
+    },
+    {
+      "route": "arrma/mojave-6s-v3/",
+      "title": "ARRMA Mojave 6S V3 review",
+      "note": "The blue standard V3 with a clipless body and integrated inner arches."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I use a pressure washer on my RC car?",
+      "answer": "The two example manuals exclude pressure washing. Use the cleaning method allowed for your exact vehicle and keep water away from the areas named in its directions."
+    },
+    {
+      "question": "Can I run the TRX-4 Sport 82224-4 on LiPo in wet grass?",
+      "answer": "Traxxas prohibits LiPo in wet conditions for this model. It also requires keeping the transmitter dry and checking the battery manufacturer’s wet-use instructions."
+    },
+    {
+      "question": "Do I have to open every receiver box after a wet run?",
+      "answer": "Follow the exact model manual. Traxxas specifies opening the 82224-4 receiver box cover as a precaution and gives instructions for restoring its seal."
+    },
+    {
+      "question": "How long should I leave the car to dry?",
+      "answer": "Use your model’s directions and check for trapped water under the body, around wheel vents, near connectors and inside any enclosure the manual says to inspect. Damp conditions and trapped water can extend drying time."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Traxxas · TRX-4 Sport 82224-4 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-82224-4/2/82224-4-om-en-r00.pdf",
+      "kind": "Manufacturer wet-operation limits, cleaning and receiver box instructions",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "ARRMA · Mojave 6S V3 ARA7604V3 owner’s manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw649833c7/Manuals/ARA7604V3_MANUAL_ML.pdf",
+      "kind": "Manufacturer wet-conditions precautions and maintenance",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Horizon Hobby · blue Mojave 6S V3 ARA7604V3T1",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+      "kind": "Manufacturer product documentation for the exact blue package",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Big Squid RC · Traxxas TRX-4 Sport review",
+      "url": "https://www.bigsquidrc.com/review-traxxas-trx-4-sport/",
+      "kind": "Independent coverage of an earlier Sport for layout context",
+      "checked": "2026-11-14"
+    }
+  ],
+  "evidenceNote": "The cleanup sequence is editorial guidance. Vehicle-specific limits and service steps come from the exact factory manuals. The older Sport review supplies platform context.",
+  "revisionNote": "First published November 14, 2026."
+}

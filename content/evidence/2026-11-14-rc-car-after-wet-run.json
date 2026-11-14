@@ -1,0 +1,60 @@
+{
+  "article": "rc-car-after-wet-run",
+  "checked": "2026-11-14",
+  "coreWords": 1213,
+  "scope": "This guide covers surface cleaning and follow-up inspection after freshwater splash, wet grass or mud on an electric model that permits such use. The examples are the Traxxas TRX-4 Sport 82224-4 and blue ARRMA Mojave 6S V3 ARA7604V3T1. Submersion, contaminated water, erratic electronics and suspected battery water ingress call for the manufacturer’s support before power is restored.",
+  "archiveIntent": "Follow-up care after permitted freshwater exposure. The general inspection checklist covers dry use, and the grass guide addresses terrain choice and pre-run restrictions.",
+  "findings": [
+    {
+      "sku": "82224-4",
+      "sourceIndexes": [
+        0
+      ],
+      "locator": "Driving Your Model, printed pages 23–25",
+      "verified": "Wet running excludes LiPo, transmitter moisture and salt or contaminated water. The exact procedure includes battery removal, gentle cleaning, targeted corrosion protection, cover removal and seal care. Extended wet use brings separate portal, transmission and motor procedures."
+    },
+    {
+      "sku": "ARA7604V3T1",
+      "sourceIndexes": [
+        1,
+        2
+      ],
+      "locator": "Manufacturer manual p. 3, Wet Conditions Maintenance, and the exact blue package listing",
+      "verified": "Manual distinguishes electronics protection from whole-vehicle limits and requires distinct wet care for exposed metal, bearings, transmission and differentials. The MOTOR is excluded from the exposed-metal water-displacing-oil step."
+    },
+    {
+      "sourceIndexes": [
+        3
+      ],
+      "locator": "Earlier Sport complete vehicle review",
+      "verified": "Context on the Sport format only. The exact 82224-4 manual provides every operation and maintenance limit used here."
+    }
+  ],
+  "illustration": "Original HTML diagram of inspection areas.",
+  "sources": [
+    {
+      "name": "Traxxas · TRX-4 Sport 82224-4 owner’s manual",
+      "url": "https://traxxas.com/media/productattach/C-82224-4/2/82224-4-om-en-r00.pdf",
+      "kind": "Manufacturer wet-operation limits, cleaning and receiver box instructions",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "ARRMA · Mojave 6S V3 ARA7604V3 owner’s manual",
+      "url": "https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-master/default/dw649833c7/Manuals/ARA7604V3_MANUAL_ML.pdf",
+      "kind": "Manufacturer wet-conditions precautions and maintenance",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Horizon Hobby · blue Mojave 6S V3 ARA7604V3T1",
+      "url": "https://www.horizonhobby.com/product/arrma-1-7-mojave-6s-4x4-rtr-brushless-desert-truck-blue/ARA7604V3.html",
+      "kind": "Manufacturer product documentation for the exact blue package",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Big Squid RC · Traxxas TRX-4 Sport review",
+      "url": "https://www.bigsquidrc.com/review-traxxas-trx-4-sport/",
+      "kind": "Independent coverage of an earlier Sport for layout context",
+      "checked": "2026-11-14"
+    }
+  ]
+}

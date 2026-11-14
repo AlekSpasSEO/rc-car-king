@@ -27,6 +27,7 @@ Current reviews cover complete cars and body-inclusive kits. Editorial ratings d
 ## Guides and listicles
 - [Guides](https://alekspasseo.github.io/rc-car-king/guides/)
 - [Listicles](https://alekspasseo.github.io/rc-car-king/listicles/)
+- [How to clean and dry an RC car after a wet run](https://alekspasseo.github.io/rc-car-king/guides/rc-car-after-wet-run/): Clean and dry an electric RC car after wet grass or mud. Check the manual, find trapped moisture, inspect bearings and know when the car needs service.
 - [How to check if a battery fits your RC car](https://alekspasseo.github.io/rc-car-king/guides/rc-car-battery-compatibility/): Check RC car battery compatibility by exact model, chemistry, cell count, connector, tray clearance and charger. See three documented examples.
 - [How to prepare for your first RC dirt oval race](https://alekspasseo.github.io/rc-car-king/guides/rc-dirt-oval-first-race/): Prepare for your first RC dirt oval race. Check class rules against your exact car, register your transponder, verify practice laps and get through your first heat.
 - [How to check RC wheel hex size, offset and tire fit](https://alekspasseo.github.io/rc-car-king/guides/rc-wheel-hex-offset-tire-fit/): Check RC wheel fit with the stock assembly as a baseline. Compare hub engagement, wheel offset, tire diameter and clearance at steering lock and compression.
