@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {readFile,readdir} from 'node:fs/promises';
-import {loadArticles,articleRoute} from './articles.mjs';
+import {loadArticles,articleRoute,publishedArticles} from './articles.mjs';
 
 // Read-only verification: never follows purchase links or calls the Amazon API.
 const args=process.argv.slice(2);
@@ -13,7 +13,8 @@ const absolute=route=>new URL(base+'/'+route.replace(/^\//,''),origin).href;
 const today=new Intl.DateTimeFormat('en-CA',{timeZone:config.timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const files=(await readdir('content/reviews')).filter(f=>f.endsWith('.json'));
 const reviews=(await Promise.all(files.map(f=>readFile('content/reviews/'+f,'utf8').then(JSON.parse)))).filter(r=>r.status==='published'&&r.published<=today);
-const articles=(await loadArticles()).filter(a=>a.status==='published'&&a.published<=today);
+const articles=publishedArticles(await loadArticles(),today);
+const homepageArticles=new Set(articles.slice(0,2).map(articleRoute));
 const date=option('--date')??reviews.map(r=>r.published).sort().at(-1);
 assert.match(date,/^\d{4}-\d{2}-\d{2}$/,'Use --date YYYY-MM-DD');
 const selected=[...reviews.filter(r=>r.published===date).map(r=>({record:r,route:`${r.brandSlug}/${r.modelSlug}/`,kind:'review'})),...articles.filter(a=>a.published===date).map(a=>({record:a,route:articleRoute(a),kind:a.kind}))];
@@ -36,7 +37,11 @@ for(const {record:r,route,kind}of selected){
   for(const m of links){const href=m[1].match(/href="([^"]+)"/)?.[1]?.replaceAll('&amp;','&');const target=new URL(href);assert.equal(target.searchParams.get('tag'),r.amazon.partnerTag,url+' affiliate tag');assert(target.pathname.includes('/dp/'+r.amazon.asin),url+' exactASIN');assert(/\brel="[^"]*\bsponsored\b/.test(m[1])&&/\brel="[^"]*\bnofollow\b/.test(m[1]),url+' affiliate attributes');}
   const image=await fetch(absolute('assets/'+r.image),{method:'HEAD',signal:AbortSignal.timeout(20000)});assert.equal(image.status,200,url+' official photo');assert(image.headers.get('content-type')?.startsWith('image/'),url+' image type');
  }
- const archives=['','sitemap/','pages-sitemap.xml','feed.xml','llms.txt',kind==='review'?r.brandSlug+'/':kind==='guide'?'guides/':'listicles/'];
+ const section=kind==='review'?r.brandSlug+'/':kind==='guide'?'guides/':'listicles/';
+ const home=await get('');
+ const homeTarget=kind==='review'||homepageArticles.has(route)?route:section;
+ assert(home.includes('href="'+base+'/'+homeTarget+'"'),absolute('')+' must link to '+homeTarget);
+ const archives=['sitemap/','pages-sitemap.xml','feed.xml','llms.txt',section];
  for(const archive of archives)assert((await get(archive)).includes('/'+route),absolute(archive)+' must discover '+route);
  results.push({url,kind,status:200,canonical:true,schema:true,discovery:true});
 }
