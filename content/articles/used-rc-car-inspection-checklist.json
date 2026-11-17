@@ -1,0 +1,254 @@
+{
+  "kind": "listicle",
+  "slug": "used-rc-car-inspection-checklist",
+  "intentKey": "assess-secondhand-electric-complete-vehicle-condition-equipment-and-cost-before-purchase",
+  "status": "published",
+  "title": "6 checks before you buy a used RC car",
+  "dek": "Identify the exact car, inspect its load points, check the included gear and price the repairs before you make an offer.",
+  "seo": {
+    "title": "6 Checks Before Buying a Used RC Car | RC Car King",
+    "description": "Buying a used RC car? Check the chassis, drivetrain, battery and radio, request a useful demo, and compare what it costs to get the exact car running."
+  },
+  "answer": "Confirm the exact model with body-off photos, then check the chassis, rolling gear, included electronics and a slow demonstration. Add missing equipment and confirmed repairs to the asking price before comparing it with a complete alternative. If the seller cannot show a major feature working, treat it as unknown when you set your offer.",
+  "scope": "These checks are for a complete secondhand hobby-grade electric car or a body-inclusive kit someone already assembled. Use them in person or to make a remote seller’s photos and video more informative. They are an initial inspection. The exact vehicle and electronics manuals determine what you can safely operate and how the car goes together.",
+  "prerequisites": [
+    "The exact model’s product page, instructions and parts drawings when available.",
+    "Good light, a flat surface and the seller’s permission before touching or running the car.",
+    "An inventory of what is included and an agreed compatible setup if the seller will demonstrate it."
+  ],
+  "image": "reviews/hornet-20261113-1.jpg",
+  "imageAlt": "Tamiya Hornet EVO 58742 assembled and painted in the factory illustration scheme.",
+  "imageCaption": "Tamiya’s official finished Hornet EVO 58742. Ask for current chassis photos when comparing a used example with the stock kit.",
+  "imageCredit": {
+    "name": "Tamiya",
+    "url": "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/5/58742/58742_1.jpg",
+    "kind": "Official manufacturer photography"
+  },
+  "sections": [
+    {
+      "id": "identify-the-car",
+      "heading": "Match the chassis and exact version",
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ],
+      "paragraphs": [
+        "Ask for a picture with the body removed, a clear underside photo and the model number from the box, receipt or manual if the seller has it. Compare the chassis layout and equipment photos with the manufacturer’s documentation for that number. The box identifies what was originally sold. The pictures identify what is on the bench now. The two can diverge after a shell swap, a repair or an electronics upgrade.",
+        "The Tamiya Hornet EVO 58742 is a good example. It retains the familiar Hornet silhouette. The EVO’s four independent suspension corners and oil dampers give you better visual clues than the decals. Tamiya’s build manual supplies the assembly drawings, and Greg Vogel’s RC Driver coverage shows the revised kit and drivetrain. If the seller calls it a Hornet but cannot confirm the generation, ask for front and rear suspension close-ups before you look up service parts.",
+        "List the changes the seller can identify and mark every unresolved item as unknown. A build sheet is particularly valuable on a kit because the steering servo, receiver and speed control can differ from another owner’s build. If a modified mount or drilled chassis keeps an assembly in place, ask how the original part attaches and whether it comes with the sale. That decides whether a future repair uses a factory part number or a new fabrication job.",
+        "Keep the photos and make a short record of the current build. A chassis with a factory-style body and a different receiver may still be a straightforward buy. A chassis with different axle housings, suspension mounts and a different transmission needs more identification work. Ask whether the owner has the manuals or old part numbers. When a listing gives only the body name and a claimed scale, a current underside photo and one clear shot of the radio labels will answer more than another three-quarter picture of the shell."
+      ],
+      "table": {
+        "caption": "What each check changes about your offer",
+        "columns": [
+          "Check",
+          "Evidence to ask for",
+          "What changes your decision"
+        ],
+        "rows": [
+          [
+            "Identity",
+            "Model number and current chassis photos",
+            "You can find the correct manual and diagrams."
+          ],
+          [
+            "Structure",
+            "Underside and suspension mounting points",
+            "A crack or distorted mount adds parts and labor."
+          ],
+          [
+            "Rolling gear",
+            "Side-to-side movement and slow hand rotation",
+            "Roughness or asymmetry calls for diagnosis."
+          ],
+          [
+            "Included gear",
+            "Labels, connectors and a written inventory",
+            "Missing or uncertain equipment raises the cost to run."
+          ],
+          [
+            "Operation",
+            "Slow controlled run or continuous video",
+            "Steering, drive and claimed functions can be priced with more confidence."
+          ],
+          [
+            "Total cost",
+            "Repair estimate and a comparable complete package",
+            "The decision includes the work before your first run."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "structural-condition",
+      "heading": "Follow the load through the chassis",
+      "sourceIndexes": [
+        1,
+        3,
+        6
+      ],
+      "paragraphs": [
+        "With the car switched off and the drive battery disconnected, look underneath in good light. Trace each bumper back to where it fastens, then follow the suspension arms or axle links to their mounts. Scrape marks on a skid tell you where the vehicle contacted the ground. A cracked screw boss, torn hinge-pin mount or split rail attachment changes how an assembly carries load. A straight-looking shell can hide any of those repairs.",
+        "View the car straight on from the front and rear with its wheels on a level surface. Check for a wheel sitting unusually far back and for an arm touching the chassis before its counterpart would. Try the same gentle suspension movement on each side of the same axle. Note any corner that sticks or returns in stages. The left and right geometry gives you a comparison. Different front and rear spring choices are common, so judge each axle on its own.",
+        "Slowly compress a corner while watching the mount and damper. An oily shock shaft may deserve cleaning and another look. A persistent wet trail, damaged shaft or loose mount can change the repair plan. On a used kit such as the 58742, compare questionable hardware with the relevant drawing before assuming a missing washer or unusual screw belongs there. Ask the seller to show the underside behind an obstructing guard if it comes off easily and they agree."
+      ]
+    },
+    {
+      "id": "rolling-gear",
+      "heading": "Feel for roughness before asking for throttle",
+      "sourceIndexes": [
+        1,
+        3,
+        6
+      ],
+      "paragraphs": [
+        "Support the unpowered car so the wheels you are checking can move. Turn a tire slowly and gently and listen for a repeating rub or tight spot. Compare left and right on that axle. Then steady the steering or axle assembly and feel for play at the wheel. Watch where the movement starts. A loose rim, moving hub, worn bearing and loose steering link can all look like the same wobble from a distance.",
+        "Read the drivetrain drawings before using wheel behavior to diagnose a differential. Turning one tire on an open differential can turn its partner in the other direction under some conditions. A locked crawler axle couples the sides. Motor drag, gearing and the other wheels touching the ground can change the feel. A comparison under the same conditions gives you better evidence than treating one familiar response as universal.",
+        "A gritty corner or a click under gentle movement is a symptom. It may come from grit, a bearing, a drive joint, gear damage or interference with the body. Ask whether it follows the wheel through a complete revolution and whether it changes as the suspension moves. If the seller cannot demonstrate the cause without taking something apart, budget for diagnosis. On a curbside visit, leave covers and gearbox fasteners alone unless removal is agreed.",
+        "Take one extra look at the tires when every wheel seems to sit straight. Check both shoulders and the sidewall near the rim. A loose bead or torn sidewall can hide on the inner face, and a collapsed insert may reveal itself only when you put the vehicle back on its wheels. On a two-wheel-drive buggy the front and rear tires may have different sizes or tread patterns from the factory. Compare like positions and check the manual before putting a full set into your repair estimate."
+      ]
+    },
+    {
+      "id": "included-gear",
+      "heading": "Inventory the radio, battery and charger",
+      "sourceIndexes": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "paragraphs": [
+        "Write down the transmitter and receiver models, the electronic speed control, the drive battery label and the charger model. Ask which ones are included. A red and white ARRMA Typhon GROM MEGA 380 ARA2106T2 was sold with a Spektrum drive pack and USB charger, in addition to the vehicle and transmitter. A used example missing either power item has a different startup basket. A built Hornet EVO has a different baseline again because the builder chose essential radio equipment separately.",
+        "Photograph the connector and the battery restraint with the power disconnected. With modified electronics, compatibility follows the installed equipment’s documentation and the physical fit of the car. Check chemistry, voltage, connectors, polarity, balance requirements, retention and clearance before treating a pack and charger as a pair. Ask about the charger’s input supply too. A charge lead is one item in the kit. You may still need its documented power source.",
+        "Give an included battery its own condition decision. A seller who can name the pack and show its label helps you verify compatibility, while prior storage and damage are separate questions. If the pack is swollen, visibly damaged or has damaged leads, leave it out of the demonstration and budget for a documented compatible replacement. Follow the pack maker’s handling instructions. A useful rule for comparison shopping is to value a pack of unknown condition at zero until it can be assessed safely."
+      ]
+    },
+    {
+      "id": "controlled-demo",
+      "heading": "Ask for a short, continuous demonstration",
+      "sourceIndexes": [
+        2,
+        3,
+        6
+      ],
+      "paragraphs": [
+        "Agree on the equipment and a clear, permitted space before any powered check. Have the seller follow the vehicle and radio manuals and use known-good compatible equipment. Ask to see the steering move both directions and return to center, then a slow forward roll, controlled stop and reverse if the installed control mode supports it. The purpose is to check basic drive and control. Slow movement gives you time to spot a significant hesitation, tire wobble or a noise that appears only under load.",
+        "Check any extra function that materially affects the asking price. Axial’s SCX10 III Jeep CJ-7 V2 manual identifies a dedicated DIG servo and the transmitter’s momentary channel-three control. A seller advertising working DIG should demonstrate it using the installed radio and its instructions. If a different servo, receiver or radio has gone in, ask for a clear view of that equipment and its documentation as well. A lighting effect or specialty function can be worth paying for when it is present and works on the actual car.",
+        "For a remote purchase, ask for an uncut clip beginning with a close view of the same chassis and transmitter and ending with the slow pass. A good running clip lets you hear the car, see the surface and compare it with the photos. A short demo still leaves battery capacity, long-run behavior and hidden wear unknown. If the seller can provide only body-on footage or cannot safely run it, use the evidence you actually have when deciding what to offer."
+      ]
+    },
+    {
+      "id": "cost-to-run",
+      "heading": "Price the work before your first run",
+      "sourceIndexes": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ],
+      "paragraphs": [
+        "Use the asking price, delivery and the practical cost of reaching a working first session. Add missing gear, confirmed repairs and the consumables you need before driving. Price the exact part number from the correct exploded diagram and check whether the seller includes the hardware needed to fit it. This is where a missing charger and a crack in an out-of-stock suspension mount separate into very different buying problems.",
+        "Compare total costs on the same basis. If you already own a compatible radio or battery setup, write down what you can reuse and why it fits. For a new complete package, include any drive battery, charger, radio cells or paint it still requires. For a used package, include shipping and the parts you can identify. Record the currency, date and source for each quote. Ask for a second estimate when you cannot tell whether a supplier sells one small part or a complete assembly.",
+        "For example, suppose your own written quotes leave a $65 difference between a complete new basket and a used car’s asking price plus delivery. If a confirmed wheel repair will cost you $25 and you need a compatible charger quoted at $30, your initial difference falls to $10. This is an illustrative calculation in USD. You would still need to assign time or money to any unconfirmed fault. In that situation, a known running package and a known repair matter more to the decision than the headline difference between the two vehicle prices.",
+        "Keep an unresolved fault as a separate cost. If the car drives fine but just needs a set of tires you can identify, you can calculate a reasonable offer. If the receiver drops out or a driveline binds under load and the cause is unknown, decide how much troubleshooting you want to buy. For a first car that needs to run this weekend, the unconfirmed repair weighs heavily. For a bench project, make sure the price and the accessibility of parts still leave you room to enjoy it.",
+        "Before you pay, summarize the deal in a message both buyer and seller can refer to. Include the model number, body, working radio, drive gear, charger, extras and the known faults. Separate things you saw working from claims someone made about past use. For a remote purchase, confirm the shown items are the ones being sent. If matching current pictures or a promised feature disappears before the sale, review the price again."
+      ]
+    }
+  ],
+  "checklist": {
+    "title": "Before you make an offer",
+    "items": [
+      "I know the model number, chassis version and changes that affect service or compatibility.",
+      "I have checked the body-off chassis and compared wheel and suspension movement side to side.",
+      "I know what comes in the sale and which functions were actually demonstrated.",
+      "I have priced the work and equipment needed for my first run separately from unresolved faults."
+    ]
+  },
+  "reviewLinks": [
+    {
+      "route": "tamiya/hornet-evo-58742/",
+      "title": "Tamiya Hornet EVO 58742 review",
+      "note": "Compare the kit’s stock suspension and transmission with the version in a listing."
+    },
+    {
+      "route": "arrma/typhon-grom-mega-380/",
+      "title": "ARRMA Typhon GROM MEGA 380 review",
+      "note": "Check the original ARA2106T2 package to see which power equipment should be itemized."
+    },
+    {
+      "route": "axial/scx10-iii-jeep-cj-7-v2/",
+      "title": "Axial SCX10 III Jeep CJ-7 V2 review",
+      "note": "See how the AXI03008V2T1 package documents its radio and installed DIG hardware."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I judge a used RC car from a driving video?",
+      "answer": "Use an uncut slow demo to check basic control and ask for chassis, underside and equipment-label photos as well. Budget separately for wear or a battery condition the seller cannot demonstrate."
+    },
+    {
+      "question": "What if the wheels feel stiff when I turn them by hand?",
+      "answer": "Compare sides under the same conditions and consult the drivetrain diagram. Gearing and differential design affect normal resistance. A distinct tight spot or repeated click deserves further inspection before a powered run."
+    },
+    {
+      "question": "Is a used ready-to-run car supposed to include its battery and charger?",
+      "answer": "Check the exact stock package and the seller’s inventory. Some RTR boxes supplied both items and some required both separately. A secondhand listing can differ from the original box in either case."
+    },
+    {
+      "question": "Can I base my offer on what the seller paid for upgrades?",
+      "answer": "Price the equipment you can identify, use and service for your driving. Ask to see any expensive claimed function working and include replacement or setup costs for anything that does not fit your plans."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tamiya · Hornet EVO 58742 product documentation",
+      "url": "https://www.tamiya.com/english/products/58742/index.html",
+      "kind": "Manufacturer exact kit identity and stock chassis features",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Tamiya · Hornet EVO 58742 assembly manual",
+      "url": "https://cdn.simba-dickie-group.de/downloads/300058742/300058742_Anleitung-Instruction.pdf",
+      "kind": "Manufacturer assembly instructions and component illustrations",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Horizon Hobby · ARRMA Typhon GROM MEGA 380 ARA2106T2",
+      "url": "https://www.horizonhobby.com/product/1-14-typhon-grom-4x4-rtr-brushed-buggy-battery-and-charger-included-red-white/ARA2106T2.html",
+      "kind": "Manufacturer exact red/white RTR package and power equipment",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Axial · SCX10 III Jeep CJ-7 V2 manual",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw8bb490fa/Manuals/AXI03008V2-MANUAL-ML.pdf",
+      "kind": "Manufacturer stock equipment, radio and DIG operation",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Spektrum · Lithium Polymer Battery Safety Guidelines",
+      "url": "https://www.spektrumrc.com/on/demandware.static/-/Sites-horizon-master/default/dw83017e44/Manuals/60555.1%20SPMX%20SMART%20Batteries%20Safety%20Sheet%20Update.pdf",
+      "kind": "Manufacturer battery inspection and damaged-pack precautions",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · Tamiya Hornet Evo",
+      "url": "https://www.rcdriver.com/tamiya-hornet-evo/",
+      "kind": "Independent coverage of the 58742 kit and its revised suspension and transmission, 3 December 2024",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "RC Paddock · Buying a used RC car",
+      "url": "https://rc-paddock.com/guides/buying-used-rc-cars-checklist",
+      "kind": "Independent marketplace editorial on remote photos and hands-on checks",
+      "checked": "2026-11-17"
+    }
+  ],
+  "evidenceNote": "The inspection sequence and cost decisions are editorial guidance. Model examples follow exact manufacturer documentation. RC Driver supplies an independent view of the Hornet EVO, and RC Paddock supplies used-purchase context. This article uses no first-hand inspection or performance claims.",
+  "revisionNote": "First published 17 November 2026.",
+  "updated": "2026-11-17",
+  "published": "2026-11-17",
+  "updatedAt": "2026-11-17T12:41:59.033Z",
+  "publishedAt": "2026-11-17T12:41:59.033Z"
+}

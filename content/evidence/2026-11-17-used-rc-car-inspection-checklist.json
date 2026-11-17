@@ -1,0 +1,89 @@
+{
+  "article": "used-rc-car-inspection-checklist",
+  "checked": "2026-11-17",
+  "coreWords": 1852,
+  "archiveIntent": "Pre-purchase inspection and offer decisions for secondhand complete electric RC cars. The existing pre-run guide covers cars the reader already owns. The kit cost list covers buying and finishing new kits.",
+  "findings": [
+    {
+      "sku": "58742",
+      "sourceIndexes": [
+        0,
+        1,
+        5
+      ],
+      "verified": "Tamiya documents four independent suspension corners and oil dampers. The assembly instructions show chassis, mounting hardware and suspension components. RC Driver supplies separate contemporary coverage of the same kit."
+    },
+    {
+      "sku": "ARA2106T2",
+      "sourceIndexes": [
+        2
+      ],
+      "verified": "ARRMA lists the stock red/white brushed Ready-to-Run package with a Spektrum battery and USB charger. A used seller's inventory remains separate evidence."
+    },
+    {
+      "sku": "AXI03008V2T1",
+      "sourceIndexes": [
+        3
+      ],
+      "verified": "The AXI03008V2 manual documents the separate micro servo and the DIG function on the SLT3 momentary channel-three controls. Used equipment must be identified independently."
+    },
+    {
+      "topic": "Battery condition",
+      "sourceIndexes": [
+        4
+      ],
+      "verified": "Spektrum directs owners to inspect for damage and to discontinue use of damaged or swollen packs. No pack of unknown condition is required for a test."
+    },
+    {
+      "topic": "Remote and in-person inspection",
+      "sourceIndexes": [
+        6
+      ],
+      "verified": "RC Paddock gives inspection context on photo requests and condition checks. The order, pricing framework and model examples are original editorial decisions."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tamiya · Hornet EVO 58742 product documentation",
+      "url": "https://www.tamiya.com/english/products/58742/index.html",
+      "kind": "Manufacturer exact kit identity and stock chassis features",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Tamiya · Hornet EVO 58742 assembly manual",
+      "url": "https://cdn.simba-dickie-group.de/downloads/300058742/300058742_Anleitung-Instruction.pdf",
+      "kind": "Manufacturer assembly instructions and component illustrations",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Horizon Hobby · ARRMA Typhon GROM MEGA 380 ARA2106T2",
+      "url": "https://www.horizonhobby.com/product/1-14-typhon-grom-4x4-rtr-brushed-buggy-battery-and-charger-included-red-white/ARA2106T2.html",
+      "kind": "Manufacturer exact red/white RTR package and power equipment",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Axial · SCX10 III Jeep CJ-7 V2 manual",
+      "url": "https://www.axialadventure.com/on/demandware.static/-/Sites-horizon-master/default/dw8bb490fa/Manuals/AXI03008V2-MANUAL-ML.pdf",
+      "kind": "Manufacturer stock equipment, radio and DIG operation",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Spektrum · Lithium Polymer Battery Safety Guidelines",
+      "url": "https://www.spektrumrc.com/on/demandware.static/-/Sites-horizon-master/default/dw83017e44/Manuals/60555.1%20SPMX%20SMART%20Batteries%20Safety%20Sheet%20Update.pdf",
+      "kind": "Manufacturer battery inspection and damaged-pack precautions",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "Greg Vogel, RC Driver · Tamiya Hornet Evo",
+      "url": "https://www.rcdriver.com/tamiya-hornet-evo/",
+      "kind": "Independent coverage of the 58742 kit and its revised suspension and transmission, 3 December 2024",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "RC Paddock · Buying a used RC car",
+      "url": "https://rc-paddock.com/guides/buying-used-rc-cars-checklist",
+      "kind": "Independent marketplace editorial on remote photos and hands-on checks",
+      "checked": "2026-11-17"
+    }
+  ]
+}
