@@ -9,7 +9,11 @@ export function renderReview(r,{href,esc,date,money,tags,header,footer,breadcrum
  const link=(url,label,affiliate=false)=>`<a href="${esc(url)}" target="_blank" rel="${affiliate?'nofollow sponsored ':''}noopener noreferrer">${esc(label)} ↗</a>`;
  const list=items=>`<ul>${items.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`;
  const table=t=>`<div class="review-table-wrap" tabindex="0" role="region" aria-label="${esc(t.caption)}"><table class="review-table"><caption>${esc(t.caption)}</caption><thead><tr>${t.columns.map(c=>`<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${t.rows.map(row=>`<tr>${row.map((c,i)=>i===0?`<th scope="row">${esc(c)}</th>`:`<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
- const figure=g=>`<figure class="review-figure"><a href="${esc(g.source)}" target="_blank" rel="noopener noreferrer"><img src="${esc(mediaUrl(g.image))}" alt="${esc(g.alt)}" ${imageAttributes(g.image)} loading="lazy" decoding="async"></a><figcaption>${esc(g.caption)} ${link(g.source,'Source: '+(g.creditName??r.brand))}</figcaption></figure>`;
+ const figure=g=>{
+  const source=g.source??g.credit?.url;
+  const credit=g.creditName??g.credit?.name??r.brand;
+  return `<figure class="review-figure"><a href="${esc(source)}" target="_blank" rel="noopener noreferrer"><img src="${esc(mediaUrl(g.image))}" alt="${esc(g.alt)}" ${imageAttributes(g.image)} loading="lazy" decoding="async"></a><figcaption>${esc(g.caption)} ${link(source,'Source: '+credit)}</figcaption></figure>`;
+ };
  const title=`${r.brand} ${r.model} review`;
  const facts=r.quickSpecs??r.specs.slice(0,6);
  const sourceLinks=indexes=>indexes?.length?`<p class="source-note">Sources: ${indexes.map(i=>link(r.sources[i].url,r.sources[i].kind??r.sources[i].name,r.sources[i].affiliate)).join(' · ')}</p>`:'';

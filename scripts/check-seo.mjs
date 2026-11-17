@@ -113,10 +113,21 @@ export async function checkSeo({config,output,records,articleRecords=[]}){
    assert.deepEqual(article.citation,[...new Set(r.sources.map(s=>s.url))]);
    assert.deepEqual(faq.mainEntity.map(q=>({question:q.name,answer:q.acceptedAnswer.text})),r.faqs);
    for(const img of product.image){assert.ok(img.width>0&&img.height>0,'Use actual image dimensions');assert.equal(new URL(img.url).protocol,'https:');}
-   for(const m of html.matchAll(/<a\b([^>]+)>/g)){
-    const attrs=Object.fromEntries([...m[1].matchAll(/([\w:-]+)="([^"]*)"/g)].map(a=>[a[1],decode(a[2])]));
-    if(!attrs.href?.startsWith('https://www.amazon.com/'))continue;
-    const url=new URL(attrs.href);assert.equal(url.searchParams.get('tag'),r.amazon.partnerTag,`${file}: affiliate tag`);
+   const reviewLinks=[...html.matchAll(/<a\b([^>]+)>/g)].map(m=>Object.fromEntries([...m[1].matchAll(/([\w:-]+)="([^"]*)"/g)].map(a=>[a[1],decode(a[2])])));
+   const galleryFigures=[...html.matchAll(/<figure class="review-figure">(.*?)<\/figure>/gs)];
+   assert.equal(galleryFigures.length,2,file+": expected gallery figures");
+   for(const [index,image] of r.gallery.slice(0,2).entries()){
+    const source=image.source??image.credit?.url;
+    assert.equal(new URL(source).protocol,"https:",file+": gallery source must use HTTPS");
+    const figureLinks=[...galleryFigures[index][1].matchAll(/<a\b[^>]*\bhref="([^"]+)"/g)].map(m=>decode(m[1]));
+    assert.deepEqual(figureLinks,[source,source],file+": gallery image and caption link to the recorded source");
+   }
+   assert.ok(reviewLinks.some(a=>a.href===r.amazon.detailPageUrl),file+": exact buying link is visible");
+   for(const attrs of reviewLinks){
+    if(!attrs.href?.startsWith("https://www.amazon.com/"))continue;
+    const url=new URL(attrs.href);
+    assert.equal(url.pathname,"/dp/"+r.amazon.asin,file+": affiliate ASIN");
+    assert.equal(url.searchParams.get("tag"),r.amazon.partnerTag,file+": affiliate tag");
     assert.match(attrs.rel,/\bsponsored\b/);assert.match(attrs.rel,/\bnofollow\b/);
    }
    assert.ok(html.includes('As an Amazon Associate I earn from qualifying purchases.'));
